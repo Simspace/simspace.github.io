@@ -1,0 +1,40 @@
+[
+  {
+    "package_id": "9d73e77c-890e-4565-b018-3f5e0afe7be2",
+    "package_name": "Threat Hunting with MITRE ATT&CK",
+    "difficulty": "Beginner"
+  },
+  {
+    "package_id": "5905730e-40fc-4a7d-b007-070c772a6139",
+    "package_name": "Invoke-PSImage: Steganography",
+    "difficulty": "Intermediate"
+  },
+  {
+    "package_id": "9b5423f3-a572-4299-af9f-25c3de1dd8b4",
+    "package_name": "Network Engineering 1",
+    "difficulty": "Intermediate"
+  }
+  ,
+  {
+    "package_id": "256c2a0a-30f6-4c3d-9718-ea82f9abca1c",
+    "package_name": "Kibana: Introduction",
+    "difficulty": "Beginner"
+  }
+  ,
+  {
+    "package_id": "8ef7411c-8e6b-44e8-b0fa-94209b345db1",
+    "package_name": "MITRE ATT&CK Framework",
+    "difficulty": "Beginner"
+  }
+  ,
+  {
+    "package_id": "e490df3b-c4e9-4716-a428-c10b92dadef8",
+    "package_name": "SimSpace Advanced Defensive Cyber Operations",
+    "difficulty": "Advanced"
+  },
+  {
+    "package_id": "d965f901-afd0-46d8-ac37-f254cc28365e",
+    "package_name": "IoT Static Analysis",
+    "difficulty": "Advanced"
+  }
+]
