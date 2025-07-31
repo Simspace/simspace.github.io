@@ -1,40 +1,62 @@
 [
   {
-    "package_id": "9d73e77c-890e-4565-b018-3f5e0afe7be2",
-    "package_name": "Threat Hunting with MITRE ATT&CK",
-    "difficulty": "Beginner"
+    "package_name": "System Monitor (Sysmon)",
+    "package_id": "e9d7cf10-4d06-4a27-af1d-07b885bab6b9",
+    "difficulty": "Foundational"
   },
   {
-    "package_id": "5905730e-40fc-4a7d-b007-070c772a6139",
-    "package_name": "Invoke-PSImage: Steganography",
+    "package_name": "Windows Server Analysis : Compromised Windows Server",
+    "package_id": "443ae512-eb5d-4bb9-9064-d4cad11f2d65",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "SIEM Challenge: LoneShark",
+    "package_id": "59f88e79-ae75-4db0-946a-7cb689c05824",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "SIEM Fundamentals Challenge : Little LoneShark",
+    "package_id": "d3e26dce-1c37-4f1f-b866-55f8df8ff0bc",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Suricata: Introduction",
+    "package_id": "39d14849-82ee-4c29-b711-205f14b69e99",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "PowerShell: Introduction",
+    "package_id": "42d9d468-75bf-4f2b-9abc-45d43e2dba8c",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Identifying Indicators of Compromise",
+    "package_id": "223dc9f6-a19f-4293-86fa-fbff79c7057d",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Introduction to Application Security Challenge: Flabbergasted Florist",
+    "package_id": "2d3c283a-e3e6-474d-8446-b4868a9f7ad1",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Kibana Data Visualization",
+    "package_id": "7ebdd18b-e79f-44e0-839d-14ea97298fb5",
     "difficulty": "Intermediate"
   },
   {
-    "package_id": "9b5423f3-a572-4299-af9f-25c3de1dd8b4",
-    "package_name": "Network Engineering 1",
+    "package_name": "Host Analyst Assessment: Digital Scorpion",
+    "package_id": "4f6abfec-6efe-43f3-826a-14382384d082",
     "difficulty": "Intermediate"
-  }
-  ,
+  },
   {
-    "package_id": "256c2a0a-30f6-4c3d-9718-ea82f9abca1c",
-    "package_name": "Kibana: Introduction",
-    "difficulty": "Beginner"
-  }
-  ,
-  {
-    "package_id": "8ef7411c-8e6b-44e8-b0fa-94209b345db1",
-    "package_name": "MITRE ATT&CK Framework",
-    "difficulty": "Beginner"
-  }
-  ,
-  {
-    "package_id": "e490df3b-c4e9-4716-a428-c10b92dadef8",
-    "package_name": "SimSpace Advanced Defensive Cyber Operations",
+    "package_name": "SIEM Walkthrough: Incident Response",
+    "package_id": "5e9dfc69-91cf-4784-a34a-6f2291dd3a81",
     "difficulty": "Advanced"
   },
   {
-    "package_id": "d965f901-afd0-46d8-ac37-f254cc28365e",
-    "package_name": "IoT Static Analysis",
+    "package_name": "Cyber Defense Challenge: Blind Burglar",
+    "package_id": "abdc887b-65d7-4454-a08c-c70b341f93d2",
     "difficulty": "Advanced"
   }
 ]
