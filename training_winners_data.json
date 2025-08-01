@@ -2,7 +2,7 @@
   "top_users": [
     {
       "name": "Luis M.",
-      "points": 100
+      "points": 200
     },
     {
       "name": "Kristjan K.",
@@ -16,7 +16,7 @@
   "top_schools": [
     {
       "name": "Mediterranean University- UMSH",
-      "points": 100
+      "points": 200
     },
     {
       "name": "Universiteti Marlin Barleti",
@@ -61,7 +61,7 @@
       },
       {
         "package_name": "Identifying Indicators of Compromise",
-        "winner": "No Winner Yet.",
+        "winner": "Luis M.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/223dc9f6-a19f-4293-86fa-fbff79c7057d"
       },
       {
