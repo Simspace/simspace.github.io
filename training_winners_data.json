@@ -1,7 +1,11 @@
 {
   "top_users": [
     {
-      "name": "Orlin B.",
+      "name": "Alvi S.",
+      "points": 100
+    },
+    {
+      "name": "Kristjan K.",
       "points": 100
     },
     {
@@ -11,7 +15,11 @@
   ],
   "top_schools": [
     {
-      "name": "Tirana Business University",
+      "name": "UET Maratona",
+      "points": 100
+    },
+    {
+      "name": "Universiteti Marlin Barleti",
       "points": 100
     },
     {
@@ -23,7 +31,7 @@
     "Foundational": [
       {
         "package_name": "System Monitor (Sysmon)",
-        "winner": "Orlin B.",
+        "winner": "Alvi S.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e9d7cf10-4d06-4a27-af1d-07b885bab6b9"
       },
       {
@@ -48,7 +56,7 @@
       },
       {
         "package_name": "PowerShell: Introduction",
-        "winner": "No Winner Yet.",
+        "winner": "Kristjan K.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/42d9d468-75bf-4f2b-9abc-45d43e2dba8c"
       },
       {
