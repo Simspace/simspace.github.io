@@ -2,29 +2,29 @@
   "top_users": [
     {
       "name": "Luis M.",
-      "points": 200
+      "points": 100
     },
     {
       "name": "Artea M.",
-      "points": 200
+      "points": 100
     },
     {
       "name": "Alvi S.",
-      "points": 100
+      "points": 50
     }
   ],
   "top_schools": [
     {
       "name": "Mediterranean University- UMSH",
-      "points": 200
+      "points": 100
     },
     {
       "name": "Universiteti New York Tirana",
-      "points": 200
+      "points": 100
     },
     {
       "name": "UET Maratona",
-      "points": 100
+      "points": 50
     }
   ],
   "columns": {
