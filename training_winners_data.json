@@ -19,11 +19,11 @@
       "points": 300
     },
     {
-      "name": "Universiteti New York Tirana",
-      "points": 150
+      "name": "Mediterranean University- UMSH",
+      "points": 100
     },
     {
-      "name": "Mediterranean University- UMSH",
+      "name": "Universiteti New York Tirana",
       "points": 100
     }
   ],
@@ -71,7 +71,7 @@
       },
       {
         "package_name": "Linux Firewall",
-        "winner": "Earta J.",
+        "winner": "Detjon M.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/227625e4-97ed-40f8-ac9b-06d3f36ce96e"
       },
       {

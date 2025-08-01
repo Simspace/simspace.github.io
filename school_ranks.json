@@ -4,11 +4,11 @@
     "points": 300
   },
   {
-    "school": "Universiteti New York Tirana",
-    "points": 150
+    "school": "Mediterranean University- UMSH",
+    "points": 100
   },
   {
-    "school": "Mediterranean University- UMSH",
+    "school": "Universiteti New York Tirana",
     "points": 100
   },
   {
@@ -21,6 +21,10 @@
   },
   {
     "school": "Universiteti Marlin Barleti",
+    "points": 50
+  },
+  {
+    "school": "Epoka University",
     "points": 50
   }
 ]
