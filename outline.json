@@ -136,7 +136,7 @@
   },
   {
     "package_name": "Host Analyst: APT28 Exercise",
-    "package_id": "fec56fcc-83c0-4734-b007-05af41512c29",
+    "package_id": "7c3ec514-bbae-4216-81f1-9ddec3d738b8",
     "difficulty": "Advanced"
   },
   {
@@ -160,7 +160,7 @@
     "difficulty": "Foundational"
   },
   {
-    "package_name": "Cyber Offense Walkthrough: Red Lightfoil",
+    "package_name": "Web Application Vulnerabilities",
     "package_id": "fe36cd26-ef94-4bf9-96b0-fc046e11315e",
     "difficulty": "Foundational"
   },
