@@ -12,11 +12,15 @@
     "points": 350
   },
   {
+    "school": "Universiteti Ismail Qemali Vlore",
+    "points": 250
+  },
+  {
     "school": "Mediterranean University- UMSH",
     "points": 150
   },
   {
-    "school": "Universiteti Ismail Qemali Vlore",
+    "school": "Fakulteti i Teknologjise se Informacionit",
     "points": 150
   },
   {
@@ -37,10 +41,6 @@
   },
   {
     "school": "Epoka University",
-    "points": 50
-  },
-  {
-    "school": "Fakulteti i Teknologjise se Informacionit",
     "points": 50
   }
 ]

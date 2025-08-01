@@ -15,6 +15,11 @@
     "school": "Harry Fultz"
   },
   {
+    "user": "Marsia H.",
+    "points": 200,
+    "school": "Universiteti Ismail Qemali Vlore"
+  },
+  {
     "user": "Luis M.",
     "points": 100,
     "school": "Mediterranean University- UMSH"
@@ -25,9 +30,9 @@
     "school": "Harry Fultz"
   },
   {
-    "user": "Marsia H.",
+    "user": "Daniel K.",
     "points": 100,
-    "school": "Universiteti Ismail Qemali Vlore"
+    "school": "Fakulteti i Teknologjise se Informacionit"
   },
   {
     "user": "Megea V.",
