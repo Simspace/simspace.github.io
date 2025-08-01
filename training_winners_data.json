@@ -1,6 +1,16 @@
 {
-  "top_users": [],
-  "top_schools": [],
+  "top_users": [
+    {
+      "name": "Gerald L.",
+      "points": 100
+    }
+  ],
+  "top_schools": [
+    {
+      "name": "UAMD 2",
+      "points": 100
+    }
+  ],
   "columns": {
     "Foundational": [
       {
@@ -35,7 +45,7 @@
       },
       {
         "package_name": "Identifying Indicators of Compromise",
-        "winner": "No Winner Yet.",
+        "winner": "Gerald L.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/223dc9f6-a19f-4293-86fa-fbff79c7057d"
       },
       {
