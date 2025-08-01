@@ -1,29 +1,29 @@
 {
   "top_users": [
     {
-      "name": "Firdeus D.",
-      "points": 350
-    },
-    {
       "name": "Artea M.",
-      "points": 350
+      "points": 400
     },
     {
       "name": "Emanuel D.",
+      "points": 300
+    },
+    {
+      "name": "Firdeus D.",
       "points": 300
     }
   ],
   "top_schools": [
     {
       "name": "Harry Fultz",
-      "points": 500
+      "points": 550
     },
     {
       "name": "Universiteti New York Tirana",
-      "points": 450
+      "points": 500
     },
     {
-      "name": "Canadian Institute of Technology",
+      "name": "Universiteti Ismail Qemali Vlore",
       "points": 350
     }
   ],
@@ -31,12 +31,12 @@
     "foundational": [
       {
         "package_name": "System Monitor (Sysmon)",
-        "winner": "Luis M.",
+        "winner": "Orlin B.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e9d7cf10-4d06-4a27-af1d-07b885bab6b9"
       },
       {
         "package_name": "Windows Server Analysis : Compromised Windows Server",
-        "winner": "Firdeus D.",
+        "winner": "Alvi S.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/443ae512-eb5d-4bb9-9064-d4cad11f2d65"
       },
       {
@@ -51,7 +51,7 @@
       },
       {
         "package_name": "Suricata: Introduction",
-        "winner": "Megea V.",
+        "winner": "Artea M.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/39d14849-82ee-4c29-b711-205f14b69e99"
       },
       {
@@ -71,7 +71,7 @@
       },
       {
         "package_name": "Linux Firewall",
-        "winner": "Tergita S.",
+        "winner": "Earta J.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/227625e4-97ed-40f8-ac9b-06d3f36ce96e"
       },
       {
@@ -86,7 +86,7 @@
       },
       {
         "package_name": "Flow Control in PowerShell",
-        "winner": "Ira H.",
+        "winner": "Blis T.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/b5a94f64-46c1-4b2b-a794-cebf0fb6caf4"
       },
       {
@@ -96,7 +96,7 @@
       },
       {
         "package_name": "Dynamic Malware Analysis: Windows",
-        "winner": "Gesa C.",
+        "winner": "Detjon M.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e3e4dce0-8a23-409e-811d-86bf927d6bbd"
       },
       {
@@ -116,12 +116,12 @@
       },
       {
         "package_name": "Web Application Vulnerabilities",
-        "winner": "Detjon M.",
+        "winner": "Ersi.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fe36cd26-ef94-4bf9-96b0-fc046e11315e"
       },
       {
         "package_name": "ICS Foundations: Attacks",
-        "winner": "Savina S.",
+        "winner": "Daniel K.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4b236417-77e9-490a-a63a-05e6f3a3a181"
       },
       {

@@ -1,18 +1,18 @@
 [
   {
-    "user": "Firdeus D.",
-    "points": 350,
-    "school": "Canadian Institute of Technology"
-  },
-  {
     "user": "Artea M.",
-    "points": 350,
+    "points": 400,
     "school": "Universiteti New York Tirana"
   },
   {
     "user": "Emanuel D.",
     "points": 300,
     "school": "Harry Fultz"
+  },
+  {
+    "user": "Firdeus D.",
+    "points": 300,
+    "school": "Canadian Institute of Technology"
   },
   {
     "user": "Marsia H.",
@@ -25,19 +25,19 @@
     "school": "Harry Fultz"
   },
   {
-    "user": "Luis M.",
-    "points": 100,
-    "school": "Mediterranean University- UMSH"
-  },
-  {
     "user": "Daniel K.",
-    "points": 100,
+    "points": 150,
     "school": "Fakulteti i Teknologjise se Informacionit"
   },
   {
-    "user": "Megea V.",
+    "user": "Orlin B.",
     "points": 50,
-    "school": "Fakulteti i Ekonomise"
+    "school": "Tirana Business University"
+  },
+  {
+    "user": "Alvi S.",
+    "points": 50,
+    "school": "UET Maratona"
   },
   {
     "user": "Kristjan K.",
@@ -45,9 +45,14 @@
     "school": "Universiteti Marlin Barleti"
   },
   {
-    "user": "Tergita S.",
+    "user": "Luis M.",
     "points": 50,
-    "school": "Universiteti Bujqesor i Tiranes"
+    "school": "Mediterranean University- UMSH"
+  },
+  {
+    "user": "Earta J.",
+    "points": 50,
+    "school": "Universiteti New York Tirana"
   },
   {
     "user": "Jurgen M.",
@@ -60,19 +65,9 @@
     "school": "Universiteti New York Tirana"
   },
   {
-    "user": "Ira H.",
+    "user": "Blis T.",
     "points": 50,
-    "school": "UET Maratona"
-  },
-  {
-    "user": "Gesa C.",
-    "points": 50,
-    "school": "Universiteti New York Tirana"
-  },
-  {
-    "user": "Redi C.",
-    "points": 50,
-    "school": "Universiteti Ismail Qemali Vlore"
+    "school": "Harry Fultz"
   },
   {
     "user": "Detjon M.",
@@ -80,8 +75,13 @@
     "school": "Epoka University"
   },
   {
-    "user": "Savina S.",
+    "user": "Redi C.",
     "points": 50,
-    "school": "Fakulteti i Teknologjise se Informacionit"
+    "school": "Universiteti Ismail Qemali Vlore"
+  },
+  {
+    "user": "Ersi.",
+    "points": 50,
+    "school": "Herman Gmeiner"
   }
 ]

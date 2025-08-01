@@ -1,38 +1,30 @@
 [
   {
     "school": "Harry Fultz",
-    "points": 500
+    "points": 550
   },
   {
     "school": "Universiteti New York Tirana",
-    "points": 450
-  },
-  {
-    "school": "Canadian Institute of Technology",
-    "points": 350
+    "points": 500
   },
   {
     "school": "Universiteti Ismail Qemali Vlore",
     "points": 350
   },
   {
-    "school": "Mediterranean University- UMSH",
-    "points": 150
+    "school": "Canadian Institute of Technology",
+    "points": 300
   },
   {
     "school": "Fakulteti i Teknologjise se Informacionit",
     "points": 150
   },
   {
-    "school": "Fakulteti i Ekonomise",
-    "points": 50
+    "school": "Mediterranean University- UMSH",
+    "points": 100
   },
   {
-    "school": "Universiteti Marlin Barleti",
-    "points": 50
-  },
-  {
-    "school": "Universiteti Bujqesor i Tiranes",
+    "school": "Tirana Business University",
     "points": 50
   },
   {
@@ -40,7 +32,15 @@
     "points": 50
   },
   {
+    "school": "Universiteti Marlin Barleti",
+    "points": 50
+  },
+  {
     "school": "Epoka University",
+    "points": 50
+  },
+  {
+    "school": "Herman Gmeiner",
     "points": 50
   }
 ]
