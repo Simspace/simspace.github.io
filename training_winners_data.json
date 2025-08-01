@@ -10,7 +10,7 @@
     },
     {
       "name": "Emanuel D.",
-      "points": 200
+      "points": 300
     }
   ],
   "top_schools": [
@@ -19,12 +19,12 @@
       "points": 450
     },
     {
-      "name": "Canadian Institute of Technology",
-      "points": 350
+      "name": "Harry Fultz",
+      "points": 400
     },
     {
-      "name": "Harry Fultz",
-      "points": 300
+      "name": "Canadian Institute of Technology",
+      "points": 350
     }
   ],
   "columns": {
@@ -71,7 +71,7 @@
       },
       {
         "package_name": "Linux Firewall",
-        "winner": "Detjon M.",
+        "winner": "Tergita S.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/227625e4-97ed-40f8-ac9b-06d3f36ce96e"
       },
       {
@@ -173,7 +173,7 @@
       },
       {
         "package_name": "Create or Modify System Process: MITRE ATT&CK Purple",
-        "winner": "No Winner Yet.",
+        "winner": "Emanuel D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/685363ad-6609-44ef-ad1b-ae1a31534163"
       },
       {
