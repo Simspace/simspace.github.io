@@ -1,22 +1,22 @@
 {
   "top_users": [
     {
+      "name": "Emanuel D.",
+      "points": 200
+    },
+    {
       "name": "Luis M.",
       "points": 100
     },
     {
       "name": "Arsi H.",
       "points": 100
-    },
-    {
-      "name": "Emanuel D.",
-      "points": 100
     }
   ],
   "top_schools": [
     {
       "name": "Harry Fultz",
-      "points": 200
+      "points": 300
     },
     {
       "name": "Mediterranean University- UMSH",
@@ -158,7 +158,7 @@
       },
       {
         "package_name": "Denial-of-Service (DoS) Attacks",
-        "winner": "No Winner Yet.",
+        "winner": "Emanuel D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4e8b47f9-035d-4144-9dac-682982b40aaf"
       },
       {
