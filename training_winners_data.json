@@ -9,8 +9,8 @@
       "points": 100
     },
     {
-      "name": "Alvi S.",
-      "points": 50
+      "name": "Arsi H.",
+      "points": 100
     }
   ],
   "top_schools": [
@@ -23,12 +23,12 @@
       "points": 100
     },
     {
-      "name": "UET Maratona",
-      "points": 50
+      "name": "Harry Fultz",
+      "points": 100
     }
   ],
   "columns": {
-    "Foundational": [
+    "foundational": [
       {
         "package_name": "System Monitor (Sysmon)",
         "winner": "Luis M.",
@@ -36,7 +36,7 @@
       },
       {
         "package_name": "Windows Server Analysis : Compromised Windows Server",
-        "winner": "Alvi S.",
+        "winner": "Firdeus D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/443ae512-eb5d-4bb9-9064-d4cad11f2d65"
       },
       {
@@ -70,7 +70,7 @@
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2d3c283a-e3e6-474d-8446-b4868a9f7ad1"
       }
     ],
-    "Intermediate": [
+    "intermediate": [
       {
         "package_name": "Kibana Data Visualization",
         "winner": "Arsi H.",
@@ -82,7 +82,7 @@
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4f6abfec-6efe-43f3-826a-14382384d082"
       }
     ],
-    "Advanced": [
+    "advanced": [
       {
         "package_name": "SIEM Walkthrough: Incident Response",
         "winner": "No Winner Yet.",
