@@ -15,15 +15,15 @@
   ],
   "top_schools": [
     {
+      "name": "Harry Fultz",
+      "points": 200
+    },
+    {
       "name": "Mediterranean University- UMSH",
       "points": 100
     },
     {
       "name": "Universiteti New York Tirana",
-      "points": 100
-    },
-    {
-      "name": "Harry Fultz",
       "points": 100
     }
   ],
@@ -78,7 +78,7 @@
       },
       {
         "package_name": "Host Analyst Assessment: Digital Scorpion",
-        "winner": "No Winner Yet.",
+        "winner": "Emanuel D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4f6abfec-6efe-43f3-826a-14382384d082"
       }
     ],
