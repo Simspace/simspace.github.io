@@ -15,16 +15,16 @@
   ],
   "top_schools": [
     {
-      "name": "Canadian Institute of Technology",
-      "points": 450
+      "name": "Harry Fultz",
+      "points": 500
     },
     {
       "name": "Universiteti New York Tirana",
       "points": 450
     },
     {
-      "name": "Harry Fultz",
-      "points": 400
+      "name": "Canadian Institute of Technology",
+      "points": 350
     }
   ],
   "columns": {
@@ -163,12 +163,12 @@
       },
       {
         "package_name": "Log4Shell Offense: Legacy Threat",
-        "winner": "Marvin R.",
+        "winner": "Arsi H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/51609153-9241-4d18-8a27-fdb9f3d11747"
       },
       {
         "package_name": "Dirty Pipe: Legacy Threat",
-        "winner": "No Winner Yet.",
+        "winner": "Marsia H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/7b779dc3-038f-4382-ba60-c0fdd58cb662"
       },
       {
