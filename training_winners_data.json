@@ -5,11 +5,11 @@
       "points": 100
     },
     {
-      "name": "Artea M.",
+      "name": "Arsi H.",
       "points": 100
     },
     {
-      "name": "Arsi H.",
+      "name": "Emanuel D.",
       "points": 100
     }
   ],
@@ -23,8 +23,8 @@
       "points": 100
     },
     {
-      "name": "Universiteti New York Tirana",
-      "points": 100
+      "name": "Canadian Institute of Technology",
+      "points": 50
     }
   ],
   "columns": {
@@ -51,7 +51,7 @@
       },
       {
         "package_name": "Suricata: Introduction",
-        "winner": "Artea M.",
+        "winner": "Megea V.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/39d14849-82ee-4c29-b711-205f14b69e99"
       },
       {
