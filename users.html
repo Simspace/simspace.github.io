@@ -25,6 +25,12 @@
       margin-bottom: 2rem;
     }
 
+    h1 a {
+      text-align: center;
+      color: #58a6ff;
+      cursor: pointer;
+    }
+
     .search-bar {
       display: flex;
       justify-content: center;
@@ -123,7 +129,7 @@
   <div style="width: 100%; display: flex; justify-content: center;">
   <div style="display: flex; align-items: center;">
     <img src="logo.png" alt="Logo" style="height: 60px; margin-right: 15px; margin-bottom: 16px;">
-    <h1>Cybersecurity Marathon Leaderboard</h1>
+    <h1><a href="https://special-events.simspace.com/">Cybersecurity Marathon Leaderboard</a></h1>
     <img src="logo.png" alt="Logo" style="height: 60px; margin-left: 15px; margin-bottom: 16px;">
   </div>
 </div>
@@ -132,27 +138,27 @@
     <input type="text" id="searchInput" placeholder="Search by name..." />
   </div>
 
-  <div class="scoreboard" id="user-scoreboard"></div>
-  <div class="no-results" id="no-results" style="display: none;">No users found.</div>
+  <div class="scoreboard" id="school-scoreboard"></div>
+  <div class="no-results" id="no-results" style="display: none;">No schools found.</div>
 
   <script>
-    let usersData = [];
+    let schoolsData = [];
 
-    async function loadUserRanks() {
-      const response = await fetch("user_ranks.json");
+    async function loadSchoolRanks() {
+      const response = await fetch("school_ranks.json");
       const data = await response.json();
 
-      // Attach original rank to each user
-      usersData = data.map((entry, index) => ({
+      // Attach original rank to each school
+      schoolsData = data.map((entry, index) => ({
         ...entry,
         rank: index + 1
       }));
 
-      renderUserRows(usersData);
+      renderSchoolRows(schoolsData);
     }
 
-    function renderUserRows(data) {
-      const container = document.getElementById("user-scoreboard");
+    function renderSchoolRows(data) {
+      const container = document.getElementById("school-scoreboard");
       const noResults = document.getElementById("no-results");
       container.innerHTML = "";
 
@@ -171,8 +177,7 @@
     container.innerHTML += `
       <div class="rank-row ${medalClass}">
         <div class="rank-cell rank">${entry.rank}</div>
-        <div class="rank-cell name">${entry.user}</div>
-        <div class="rank-cell school">${entry.school}</div>
+        <div class="rank-cell name">${entry.school}</div>
         <div class="rank-cell points"><span class="badge">${entry.points} pts</span></div>
       </div>
     `;
@@ -181,11 +186,11 @@
 
     document.getElementById("searchInput").addEventListener("input", (e) => {
       const searchTerm = e.target.value.toLowerCase();
-      const filtered = usersData.filter(u => u.user.toLowerCase().includes(searchTerm));
-      renderUserRows(filtered);
+      const filtered = schoolsData.filter(u => u.school.toLowerCase().includes(searchTerm));
+      renderSchoolRows(filtered);
     });
 
-    loadUserRanks();
+    loadSchoolRanks();
   </script>
 </body>
 </html>
