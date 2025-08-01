@@ -3,11 +3,19 @@
     {
       "name": "Orlin B.",
       "points": 100
+    },
+    {
+      "name": "Artea M.",
+      "points": 100
     }
   ],
   "top_schools": [
     {
       "name": "Tirana Business University",
+      "points": 100
+    },
+    {
+      "name": "Universiteti New York Tirana",
       "points": 100
     }
   ],
@@ -50,7 +58,7 @@
       },
       {
         "package_name": "Introduction to Application Security Challenge: Flabbergasted Florist",
-        "winner": "No Winner Yet.",
+        "winner": "Artea M.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2d3c283a-e3e6-474d-8446-b4868a9f7ad1"
       }
     ],
