@@ -138,27 +138,27 @@
     <input type="text" id="searchInput" placeholder="Search by name..." />
   </div>
 
-  <div class="scoreboard" id="school-scoreboard"></div>
-  <div class="no-results" id="no-results" style="display: none;">No schools found.</div>
+  <div class="scoreboard" id="user-scoreboard"></div>
+  <div class="no-results" id="no-results" style="display: none;">No users found.</div>
 
   <script>
-    let schoolsData = [];
+    let usersData = [];
 
-    async function loadSchoolRanks() {
-      const response = await fetch("school_ranks.json");
+    async function loadUserRanks() {
+      const response = await fetch("user_ranks.json");
       const data = await response.json();
 
-      // Attach original rank to each school
-      schoolsData = data.map((entry, index) => ({
+      // Attach original rank to each user
+      usersData = data.map((entry, index) => ({
         ...entry,
         rank: index + 1
       }));
 
-      renderSchoolRows(schoolsData);
+      renderUserRows(usersData);
     }
 
-    function renderSchoolRows(data) {
-      const container = document.getElementById("school-scoreboard");
+    function renderUserRows(data) {
+      const container = document.getElementById("user-scoreboard");
       const noResults = document.getElementById("no-results");
       container.innerHTML = "";
 
@@ -177,7 +177,8 @@
     container.innerHTML += `
       <div class="rank-row ${medalClass}">
         <div class="rank-cell rank">${entry.rank}</div>
-        <div class="rank-cell name">${entry.school}</div>
+        <div class="rank-cell name">${entry.user}</div>
+        <div class="rank-cell school">${entry.school}</div>
         <div class="rank-cell points"><span class="badge">${entry.points} pts</span></div>
       </div>
     `;
@@ -186,11 +187,11 @@
 
     document.getElementById("searchInput").addEventListener("input", (e) => {
       const searchTerm = e.target.value.toLowerCase();
-      const filtered = schoolsData.filter(u => u.school.toLowerCase().includes(searchTerm));
-      renderSchoolRows(filtered);
+      const filtered = usersData.filter(u => u.user.toLowerCase().includes(searchTerm));
+      renderUserRows(filtered);
     });
 
-    loadSchoolRanks();
+    loadUserRanks();
   </script>
 </body>
 </html>
