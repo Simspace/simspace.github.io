@@ -203,12 +203,12 @@
         const col = document.createElement("div");
         col.classList.add("column");
         let pointsPerLevel = {
-          "foundational": 50,
-          "intermediate": 100,
-          "advanced": 300
+          "foundational": {"points":50, "label":"Foundational"},
+          "intermediate": {"points":100, "label":"Intermediate"},
+          "advanced": {"points":300, "label":"Advanced"}
         };
 
-        col.innerHTML = `<h3>${level} <span style="font-weight: normal; font-size: 0.85em; color: #8b949e;">(${pointsPerLevel[level]} pts)</span></h3>`;
+        col.innerHTML = `<h3>${pointsPerLevel[level]['label']} <span style="font-weight: normal; font-size: 0.85em; color: #8b949e;">(${pointsPerLevel[level]['points']} pts)</span></h3>`;
 
         const entries = data.columns[level] || [];
         entries.forEach(pack => {
