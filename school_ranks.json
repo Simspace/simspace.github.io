@@ -16,6 +16,10 @@
     "points": 100
   },
   {
+    "school": "Epoka University",
+    "points": 100
+  },
+  {
     "school": "Fakulteti i Ekonomise",
     "points": 50
   },
@@ -24,7 +28,7 @@
     "points": 50
   },
   {
-    "school": "Epoka University",
+    "school": "Universiteti Ismail Qemali Vlore",
     "points": 50
   }
 ]
