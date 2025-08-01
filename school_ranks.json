@@ -1,19 +1,19 @@
 [
   {
+    "school": "Universiteti New York Tirana",
+    "points": 400
+  },
+  {
+    "school": "Canadian Institute of Technology",
+    "points": 350
+  },
+  {
     "school": "Harry Fultz",
     "points": 350
   },
   {
     "school": "Mediterranean University- UMSH",
     "points": 100
-  },
-  {
-    "school": "Universiteti New York Tirana",
-    "points": 100
-  },
-  {
-    "school": "Canadian Institute of Technology",
-    "points": 50
   },
   {
     "school": "Fakulteti i Ekonomise",

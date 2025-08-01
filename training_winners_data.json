@@ -1,30 +1,30 @@
 {
   "top_users": [
     {
+      "name": "Firdeus D.",
+      "points": 350
+    },
+    {
+      "name": "Artea M.",
+      "points": 350
+    },
+    {
       "name": "Emanuel D.",
       "points": 200
-    },
-    {
-      "name": "Luis M.",
-      "points": 100
-    },
-    {
-      "name": "Arsi H.",
-      "points": 100
     }
   ],
   "top_schools": [
     {
-      "name": "Harry Fultz",
+      "name": "Universiteti New York Tirana",
+      "points": 400
+    },
+    {
+      "name": "Canadian Institute of Technology",
       "points": 350
     },
     {
-      "name": "Mediterranean University- UMSH",
-      "points": 100
-    },
-    {
-      "name": "Universiteti New York Tirana",
-      "points": 100
+      "name": "Harry Fultz",
+      "points": 350
     }
   ],
   "columns": {
@@ -185,7 +185,7 @@
     "advanced": [
       {
         "package_name": "SIEM Walkthrough: Incident Response",
-        "winner": "No Winner Yet.",
+        "winner": "Firdeus D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/5e9dfc69-91cf-4784-a34a-6f2291dd3a81"
       },
       {
@@ -220,7 +220,7 @@
       },
       {
         "package_name": "Heap Overflows: Memory Corruption Vulnerabilities",
-        "winner": "No Winner Yet.",
+        "winner": "Artea M.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/0cf8c4c8-824e-45ee-b8dd-f31888fc6057"
       },
       {

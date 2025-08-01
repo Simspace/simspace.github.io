@@ -1,5 +1,15 @@
 [
   {
+    "user": "Firdeus D.",
+    "points": 350,
+    "school": "Canadian Institute of Technology"
+  },
+  {
+    "user": "Artea M.",
+    "points": 350,
+    "school": "Universiteti New York Tirana"
+  },
+  {
     "user": "Emanuel D.",
     "points": 200,
     "school": "Harry Fultz"
@@ -15,11 +25,6 @@
     "school": "Harry Fultz"
   },
   {
-    "user": "Firdeus D.",
-    "points": 50,
-    "school": "Canadian Institute of Technology"
-  },
-  {
     "user": "Megea V.",
     "points": 50,
     "school": "Fakulteti i Ekonomise"
@@ -28,11 +33,6 @@
     "user": "Kristjan K.",
     "points": 50,
     "school": "Universiteti Marlin Barleti"
-  },
-  {
-    "user": "Artea M.",
-    "points": 50,
-    "school": "Universiteti New York Tirana"
   },
   {
     "user": "Detjon M.",
