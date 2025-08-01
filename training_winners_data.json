@@ -1,11 +1,21 @@
 {
-  "top_users": [],
-  "top_schools": [],
+  "top_users": [
+    {
+      "name": "Orlin B.",
+      "points": 100
+    }
+  ],
+  "top_schools": [
+    {
+      "name": "Tirana Business University",
+      "points": 100
+    }
+  ],
   "columns": {
     "Foundational": [
       {
         "package_name": "System Monitor (Sysmon)",
-        "winner": "No Winner Yet.",
+        "winner": "Orlin B.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e9d7cf10-4d06-4a27-af1d-07b885bab6b9"
       },
       {
