@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "user": "Luis M.",
+    "points": 100,
+    "school": "Mediterranean University- UMSH"
+  },
+  {
+    "user": "Artea M.",
+    "points": 100,
+    "school": "Universiteti New York Tirana"
+  },
+  {
+    "user": "Alvi S.",
+    "points": 50,
+    "school": "UET Maratona"
+  },
+  {
+    "user": "Kristjan K.",
+    "points": 50,
+    "school": "Universiteti Marlin Barleti"
+  },
+  {
+    "user": "Arsi H.",
+    "points": 50,
+    "school": "Harry Fultz"
+  }
+]
