@@ -16,7 +16,7 @@
   "top_schools": [
     {
       "name": "Universiteti New York Tirana",
-      "points": 400
+      "points": 450
     },
     {
       "name": "Canadian Institute of Technology",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Harry Fultz",
-      "points": 350
+      "points": 300
     }
   ],
   "columns": {
@@ -86,7 +86,7 @@
       },
       {
         "package_name": "Flow Control in PowerShell",
-        "winner": "Blis T.",
+        "winner": "Ira H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/b5a94f64-46c1-4b2b-a794-cebf0fb6caf4"
       },
       {
@@ -96,7 +96,7 @@
       },
       {
         "package_name": "Dynamic Malware Analysis: Windows",
-        "winner": "Detjon M.",
+        "winner": "Gesa C.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e3e4dce0-8a23-409e-811d-86bf927d6bbd"
       },
       {

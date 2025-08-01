@@ -25,11 +25,6 @@
     "school": "Harry Fultz"
   },
   {
-    "user": "Detjon M.",
-    "points": 100,
-    "school": "Epoka University"
-  },
-  {
     "user": "Megea V.",
     "points": 50,
     "school": "Fakulteti i Ekonomise"
@@ -40,14 +35,24 @@
     "school": "Universiteti Marlin Barleti"
   },
   {
+    "user": "Detjon M.",
+    "points": 50,
+    "school": "Epoka University"
+  },
+  {
     "user": "Asim L.",
     "points": 50,
     "school": "Universiteti New York Tirana"
   },
   {
-    "user": "Blis T.",
+    "user": "Ira H.",
     "points": 50,
-    "school": "Harry Fultz"
+    "school": "UET Maratona"
+  },
+  {
+    "user": "Gesa C.",
+    "points": 50,
+    "school": "Universiteti New York Tirana"
   },
   {
     "user": "Redi C.",
