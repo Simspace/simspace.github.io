@@ -25,6 +25,11 @@
     "school": "Harry Fultz"
   },
   {
+    "user": "Marsia H.",
+    "points": 100,
+    "school": "Universiteti Ismail Qemali Vlore"
+  },
+  {
     "user": "Megea V.",
     "points": 50,
     "school": "Fakulteti i Ekonomise"
@@ -61,11 +66,6 @@
   },
   {
     "user": "Redi C.",
-    "points": 50,
-    "school": "Universiteti Ismail Qemali Vlore"
-  },
-  {
-    "user": "Marsia H.",
     "points": 50,
     "school": "Universiteti Ismail Qemali Vlore"
   },
