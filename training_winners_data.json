@@ -70,14 +70,12 @@
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2d3c283a-e3e6-474d-8446-b4868a9f7ad1"
       }
     ],
-    "Intermediate": [
+    "intermediate": [
       {
         "package_name": "Kibana Data Visualization",
         "winner": "Arsi H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/7ebdd18b-e79f-44e0-839d-14ea97298fb5"
-      }
-    ],
-    "intermediate": [
+      },
       {
         "package_name": "Host Analyst Assessment: Digital Scorpion",
         "winner": "No Winner Yet.",
