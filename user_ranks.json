@@ -30,6 +30,11 @@
     "school": "Fakulteti i Teknologjise se Informacionit"
   },
   {
+    "user": "Earta J.",
+    "points": 100,
+    "school": "Universiteti New York Tirana"
+  },
+  {
     "user": "Luka A.",
     "points": 100,
     "school": "Canadian Institute of Technology"
@@ -53,11 +58,6 @@
     "user": "Luis M.",
     "points": 50,
     "school": "Mediterranean University- UMSH"
-  },
-  {
-    "user": "Earta J.",
-    "points": 50,
-    "school": "Universiteti New York Tirana"
   },
   {
     "user": "Jurgen M.",
