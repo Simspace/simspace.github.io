@@ -1,12 +1,12 @@
 {
   "top_users": [
     {
-      "name": "Arsi H.",
-      "points": 800
+      "name": "Emanuel D.",
+      "points": 900
     },
     {
-      "name": "Emanuel D.",
-      "points": 600
+      "name": "Arsi H.",
+      "points": 800
     },
     {
       "name": "Firdeus D.",
@@ -16,7 +16,7 @@
   "top_schools": [
     {
       "name": "Harry Fultz",
-      "points": 1450
+      "points": 1750
     },
     {
       "name": "Canadian Institute of Technology",
@@ -200,7 +200,7 @@
       },
       {
         "package_name": "Host Analyst: APT28 Exercise",
-        "winner": "No Winner Yet.",
+        "winner": "Emanuel D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/7c3ec514-bbae-4216-81f1-9ddec3d738b8"
       },
       {
