@@ -1,30 +1,30 @@
 {
   "top_users": [
     {
+      "name": "Arsi H.",
+      "points": 800
+    },
+    {
       "name": "Emanuel D.",
       "points": 600
     },
     {
-      "name": "Arsi H.",
-      "points": 500
-    },
-    {
-      "name": "Artea M.",
-      "points": 400
+      "name": "Firdeus D.",
+      "points": 600
     }
   ],
   "top_schools": [
     {
       "name": "Harry Fultz",
-      "points": 1150
+      "points": 1450
+    },
+    {
+      "name": "Canadian Institute of Technology",
+      "points": 700
     },
     {
       "name": "Universiteti New York Tirana",
       "points": 550
-    },
-    {
-      "name": "Canadian Institute of Technology",
-      "points": 400
     }
   ],
   "columns": {
@@ -210,7 +210,7 @@
       },
       {
         "package_name": "Cyber Defense Challenge: Business Aquarium",
-        "winner": "No Winner Yet.",
+        "winner": "Arsi H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/266bc97b-a735-49b9-a537-fc06c205a295"
       },
       {
@@ -230,7 +230,7 @@
       },
       {
         "package_name": "Host Analyst: APT34 Exercise",
-        "winner": "No Winner Yet.",
+        "winner": "Firdeus D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/a84822f6-c277-4cde-991b-a0dd57ee7a6c"
       }
     ]
