@@ -1,5 +1,10 @@
 [
   {
+    "user": "Emanuel D.",
+    "points": 600,
+    "school": "Harry Fultz"
+  },
+  {
     "user": "Arsi H.",
     "points": 500,
     "school": "Harry Fultz"
@@ -8,11 +13,6 @@
     "user": "Artea M.",
     "points": 400,
     "school": "Universiteti New York Tirana"
-  },
-  {
-    "user": "Emanuel D.",
-    "points": 300,
-    "school": "Harry Fultz"
   },
   {
     "user": "Firdeus D.",
