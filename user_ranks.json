@@ -1,5 +1,10 @@
 [
   {
+    "user": "Arsi H.",
+    "points": 500,
+    "school": "Harry Fultz"
+  },
+  {
     "user": "Artea M.",
     "points": 400,
     "school": "Universiteti New York Tirana"
@@ -18,11 +23,6 @@
     "user": "Marsia H.",
     "points": 300,
     "school": "Universiteti Ismail Qemali Vlore"
-  },
-  {
-    "user": "Arsi H.",
-    "points": 200,
-    "school": "Harry Fultz"
   },
   {
     "user": "Daniel K.",

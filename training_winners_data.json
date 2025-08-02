@@ -1,22 +1,22 @@
 {
   "top_users": [
     {
+      "name": "Arsi H.",
+      "points": 500
+    },
+    {
       "name": "Artea M.",
       "points": 400
     },
     {
       "name": "Emanuel D.",
       "points": 300
-    },
-    {
-      "name": "Firdeus D.",
-      "points": 300
     }
   ],
   "top_schools": [
     {
       "name": "Harry Fultz",
-      "points": 550
+      "points": 850
     },
     {
       "name": "Universiteti New York Tirana",
@@ -215,7 +215,7 @@
       },
       {
         "package_name": "Fuzzing: Memory Corruption Vulnerabilities",
-        "winner": "No Winner Yet.",
+        "winner": "Arsi H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/577b4079-66e1-49a4-bbad-1103500a6f3f"
       },
       {
