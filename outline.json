@@ -201,7 +201,7 @@
   },
   {
     "package_name": "Continuous Integration Challenge: Blame Thrower",
-    "package_id": "2Fe2167a35-38f0-47ca-967f-349bfc552364",
+    "package_id": "e2167a35-38f0-47ca-967f-349bfc552364",
     "difficulty": "Foundational"
   },
   {
@@ -250,3 +250,4 @@
     "difficulty": "Intermediate"
   }
 ]
+
