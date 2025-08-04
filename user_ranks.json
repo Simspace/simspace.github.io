@@ -5,14 +5,14 @@
     "school": "Harry Fultz"
   },
   {
+    "user": "Firdeus D.",
+    "points": 850,
+    "school": "Canadian Institute of Technology"
+  },
+  {
     "user": "Arsi H.",
     "points": 800,
     "school": "Harry Fultz"
-  },
-  {
-    "user": "Firdeus D.",
-    "points": 750,
-    "school": "Canadian Institute of Technology"
   },
   {
     "user": "Artea M.",
@@ -23,6 +23,11 @@
     "user": "Marsia H.",
     "points": 300,
     "school": "Universiteti Ismail Qemali Vlore"
+  },
+  {
+    "user": "Erona H.",
+    "points": 150,
+    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Luka A.",
@@ -53,11 +58,6 @@
     "user": "Alvi S.",
     "points": 50,
     "school": "UET Maratona"
-  },
-  {
-    "user": "Erona H.",
-    "points": 50,
-    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Kristjan K.",
