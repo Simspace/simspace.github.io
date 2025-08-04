@@ -128,6 +128,31 @@
         "package_name": "Host Analyst: APT34 Workshop 1",
         "winner": "Marsia H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/48341bd9-e0be-4c44-b8ba-3dcdde485fbf"
+      },
+      {
+        "package_name": "Continuous Integration Challenge: Blame Thrower",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2Fe2167a35-38f0-47ca-967f-349bfc552364"
+      },
+      {
+        "package_name": "Reconnaissance Challenge: Stakeout",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/a592eaf6-e919-476e-884a-5c6dbf8179af"
+      },
+      {
+        "package_name": "Telemetry Challenge: Faulty Firewall",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2002d53f-271a-421e-be40-015cd44fdc99"
+      },
+      {
+        "package_name": "Linux Foundations: Shells and Commands",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/20be6a42-113f-4222-b92a-af6f3604b5a7"
+      },
+      {
+        "package_name": "Application Security Overview",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/047a5a7b-4251-40d5-9367-19694d623ca8"
       }
     ],
     "intermediate": [
@@ -180,6 +205,31 @@
         "package_name": "Host Analyst: APT34 Workshop 2",
         "winner": "Marsia H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/553d6bc9-857d-4565-b85d-21fff6d588a7"
+      },
+      {
+        "package_name": "Windows Hidden Files Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/26d5e7e5-be7e-40d4-8a58-4bb616a23083"
+      },
+      {
+        "package_name": "Windows Identity and Access Control Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/5120d10a-7737-48d2-a940-8223974a6445"
+      },
+      {
+        "package_name": "Windows Internals Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/46da0676-f083-4c43-9ecb-a7a0e89686b3"
+      },
+      {
+        "package_name": "Linux Audit Logs Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/66fbdb83-af4d-42a2-b298-2d526fc8bddd"
+      },
+      {
+        "package_name": "Linux Authentication Logs Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/10ab106f-5066-4c08-82f3-689df6da186c"
       }
     ],
     "advanced": [
