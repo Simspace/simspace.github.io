@@ -60,6 +60,11 @@
     "school": "RIT Kosova"
   },
   {
+    "user": "Sibora G.",
+    "points": 100,
+    "school": "Universiteti Bujqesor i Tiranes"
+  },
+  {
     "user": "Gesa C.",
     "points": 50,
     "school": "Universiteti New York Tirana"
@@ -118,10 +123,5 @@
     "user": "Klaudio T.",
     "points": 50,
     "school": "UAMD 2"
-  },
-  {
-    "user": "Sibora G.",
-    "points": 50,
-    "school": "Universiteti Bujqesor i Tiranes"
   }
 ]
