@@ -25,6 +25,11 @@
     "school": "Universiteti New York Tirana"
   },
   {
+    "user": "Marvin R.",
+    "points": 350,
+    "school": "Canadian Institute of Technology"
+  },
+  {
     "user": "Fatbardh R.",
     "points": 300,
     "school": "Fakulteti i Teknologjise se Informacionit"
@@ -98,11 +103,6 @@
     "user": "Kristjan K.",
     "points": 50,
     "school": "Universiteti Marlin Barleti"
-  },
-  {
-    "user": "Marvin R.",
-    "points": 50,
-    "school": "Canadian Institute of Technology"
   },
   {
     "user": "Orlin B.",
