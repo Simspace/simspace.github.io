@@ -25,6 +25,11 @@
     "school": "Universiteti New York Tirana"
   },
   {
+    "user": "Earta J.",
+    "points": 400,
+    "school": "Universiteti New York Tirana"
+  },
+  {
     "user": "Marvin R.",
     "points": 350,
     "school": "Canadian Institute of Technology"
@@ -56,11 +61,6 @@
   },
   {
     "user": "Asim L.",
-    "points": 100,
-    "school": "Universiteti New York Tirana"
-  },
-  {
-    "user": "Earta J.",
     "points": 100,
     "school": "Universiteti New York Tirana"
   },
