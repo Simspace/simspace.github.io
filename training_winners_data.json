@@ -1,6 +1,11 @@
 {
   "users": [
     {
+      "full_name": "Jurgen Mecaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1200
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 1150
@@ -9,11 +14,6 @@
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
       "total_points": 1100
-    },
-    {
-      "full_name": "Jurgen Mecaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 800
     },
     {
       "full_name": "Earta Joca",
@@ -213,13 +213,13 @@
       "num_users": 5
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 1300,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1450,
       "num_users": 4
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1050,
+      "university": "Universiteti New York Tirana",
+      "total_points": 1300,
       "num_users": 4
     },
     {
@@ -432,6 +432,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -445,6 +449,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 100
         }
       ]
@@ -659,11 +667,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 300
         }
       ]
