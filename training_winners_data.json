@@ -3,12 +3,12 @@
     {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 1200
+      "total_points": 1300
     },
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 1150
+      "total_points": 1250
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -209,12 +209,12 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2650,
+      "total_points": 2750,
       "num_users": 5
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1450,
+      "total_points": 1550,
       "num_users": 4
     },
     {
@@ -351,11 +351,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 100
         }
       ]
@@ -1727,11 +1735,19 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
