@@ -87,7 +87,7 @@ function createModuleTile(pkg) {
   container.innerHTML = `
     <div class="tile-header" style="margin-bottom: 0.5rem;">
       <strong>
-        <a href="https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/${pkg.package_id}" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        <a href="https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/${pkg.package_id}" target="_blank" style="color: #58a6ff; text-decoration: none;">
           ${pkg.package_name}
           <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" style="margin-left: 4px;" fill="#58a6ff" viewBox="0 0 24 24">
             <path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3z"/>
