@@ -13,7 +13,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600
+      "total_points": 1650
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -116,8 +116,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 150
     },
     {
@@ -126,13 +126,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
-      "total_points": 100
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 150
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -156,13 +156,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4250,
+      "total_points": 4300,
       "num_users": 4
     },
     {
@@ -283,6 +283,11 @@
       "num_users": 3
     },
     {
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 250,
+      "num_users": 3
+    },
+    {
       "university": "WBU",
       "total_points": 250,
       "num_users": 2
@@ -291,11 +296,6 @@
       "university": "Universiteti i Korces",
       "total_points": 200,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 200,
-      "num_users": 3
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -2379,6 +2379,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Ekonomise",
+          "users": 1
         }
       ],
       "users": [
@@ -2408,6 +2412,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Megea Vogli",
           "challenge_points_earned": 50
         }
       ]
@@ -3148,8 +3156,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "097f2b8f-4c38-4ee7-a2fe-6f8199851d08",
