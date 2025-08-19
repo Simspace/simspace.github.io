@@ -41,14 +41,14 @@
       "total_points": 1200
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 850
+    },
+    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
       "total_points": 800
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 750
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -273,14 +273,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1250,
+      "num_users": 3
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1200,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1150,
-      "num_users": 3
     },
     {
       "university": "UET Maratona",
@@ -554,6 +554,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -571,6 +575,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
