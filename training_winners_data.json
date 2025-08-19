@@ -13,7 +13,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1700
+      "total_points": 2000
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -51,14 +51,14 @@
       "total_points": 700
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 500
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 450
-    },
-    {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
     },
     {
       "full_name": "Artea Myftiu",
@@ -66,8 +66,8 @@
       "total_points": 400
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4500,
+      "total_points": 4800,
       "num_users": 4
     },
     {
@@ -289,7 +289,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 2
     },
     {
@@ -2794,6 +2794,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2807,6 +2811,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
@@ -3530,8 +3538,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 300
+        }
+      ]
     }
   ],
   "difficulty_points": {
