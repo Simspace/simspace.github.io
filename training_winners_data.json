@@ -8,7 +8,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3650
+      "total_points": 3750
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 7150,
+      "total_points": 7250,
       "num_users": 5
     },
     {
@@ -4539,8 +4539,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 25, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "5ecff38e-dd58-477a-abd0-e09e600e437b",
