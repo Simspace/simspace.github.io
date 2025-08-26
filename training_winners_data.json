@@ -61,14 +61,14 @@
       "total_points": 800
     },
     {
+      "full_name": "Eneda Gjoka",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 750
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 700
-    },
-    {
-      "full_name": "Eneda Gjoka",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 650
     },
     {
       "full_name": "Bamir Sina",
@@ -308,13 +308,13 @@
       "num_users": 3
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 700,
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 750,
       "num_users": 1
     },
     {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 650,
+      "university": "Herman Gmeiner",
+      "total_points": 700,
       "num_users": 1
     },
     {
@@ -2856,6 +2856,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2865,6 +2869,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 100
         }
       ]
