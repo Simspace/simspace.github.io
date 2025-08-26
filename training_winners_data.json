@@ -6,14 +6,14 @@
       "total_points": 4150
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3550
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 3500
-    },
-    {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3450
     },
     {
       "full_name": "Orgito Leka",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3500,
+      "total_points": 3600,
       "num_users": 2
     },
     {
@@ -3474,6 +3474,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3499,6 +3503,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
