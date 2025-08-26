@@ -13,7 +13,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3350
+      "total_points": 3450
     },
     {
       "full_name": "Orgito Leka",
@@ -63,7 +63,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 650
+      "total_points": 700
     },
     {
       "full_name": "Eneda Gjoka",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3400,
+      "total_points": 3500,
       "num_users": 2
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 650,
+      "total_points": 700,
       "num_users": 1
     },
     {
@@ -1474,6 +1474,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -1503,6 +1507,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
@@ -3923,6 +3931,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3952,6 +3964,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
