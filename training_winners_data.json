@@ -48,7 +48,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1500
+      "total_points": 1600
     },
     {
       "full_name": "Tergita Sulaj",
@@ -264,7 +264,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 7350,
+      "total_points": 7450,
       "num_users": 5
     },
     {
@@ -4241,8 +4241,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "2b26fadd-314f-4f1a-a472-8ada2e588785",
