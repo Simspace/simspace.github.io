@@ -56,14 +56,14 @@
       "total_points": 1500
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 850
+    },
+    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
       "total_points": 800
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 750
     },
     {
       "full_name": "Eneda Gjoka",
@@ -71,8 +71,8 @@
       "total_points": 750
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 750
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -4755,6 +4755,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -4768,6 +4772,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
