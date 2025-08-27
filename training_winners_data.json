@@ -111,9 +111,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Asim Lecini",
+      "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
-      "total_points": 250
+      "total_points": 300
     },
     {
       "full_name": "Ergi Kokoneshi",
@@ -121,13 +121,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 250
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 250
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3050,
+      "total_points": 3100,
       "num_users": 5
     },
     {
@@ -4704,6 +4704,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -4729,6 +4733,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 50
         }
       ]
