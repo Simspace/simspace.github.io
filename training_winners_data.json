@@ -73,7 +73,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450
+      "total_points": 550
     },
     {
       "full_name": "Bamir Sina",
@@ -264,7 +264,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 7650,
+      "total_points": 7750,
       "num_users": 5
     },
     {
@@ -4683,8 +4683,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 25, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "29724e95-f534-49bd-a026-5bfa373b5da9",
