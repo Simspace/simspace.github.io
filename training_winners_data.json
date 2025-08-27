@@ -73,7 +73,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 700
+      "total_points": 750
     },
     {
       "full_name": "Bamir Sina",
@@ -308,13 +308,13 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "university": "Herman Gmeiner",
       "total_points": 750,
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 700,
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 750,
       "num_users": 1
     },
     {
@@ -4672,6 +4672,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -4689,6 +4693,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
