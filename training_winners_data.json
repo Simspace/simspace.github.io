@@ -28,7 +28,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2250
+      "total_points": 2350
     },
     {
       "full_name": "Earta Joca",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2250,
+      "total_points": 2350,
       "num_users": 1
     },
     {
@@ -2876,6 +2876,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2889,6 +2893,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
