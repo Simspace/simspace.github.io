@@ -96,9 +96,9 @@
       "total_points": 350
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 300
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 350
     },
     {
       "full_name": "Albina Doku",
@@ -106,13 +106,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 300
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3100,
+      "total_points": 3150,
       "num_users": 5
     },
     {
@@ -3641,6 +3641,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3662,6 +3666,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 50
         }
       ]
