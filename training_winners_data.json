@@ -3,7 +3,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4550
+      "total_points": 4650
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4600,
+      "total_points": 4700,
       "num_users": 2
     },
     {
@@ -1392,6 +1392,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1409,6 +1413,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
