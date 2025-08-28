@@ -41,9 +41,9 @@
       "total_points": 1700
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1650
     },
     {
       "full_name": "Savina Shimi",
@@ -51,9 +51,9 @@
       "total_points": 1600
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1550
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1600
     },
     {
       "full_name": "Enxhi Kala",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1950,
+      "total_points": 2050,
       "num_users": 3
     },
     {
@@ -4907,6 +4907,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -4928,6 +4932,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
