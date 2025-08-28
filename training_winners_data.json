@@ -58,7 +58,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 850
+      "total_points": 900
     },
     {
       "full_name": "Ira Haxhiu",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 850,
+      "total_points": 900,
       "num_users": 1
     },
     {
@@ -3010,6 +3010,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -3039,6 +3043,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
