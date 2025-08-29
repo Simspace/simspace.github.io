@@ -36,14 +36,14 @@
       "total_points": 1850
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1750
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 1700
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1650
     },
     {
       "full_name": "Savina Shimi",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2050,
+      "total_points": 2150,
       "num_users": 3
     },
     {
@@ -4822,6 +4822,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -4835,6 +4839,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
