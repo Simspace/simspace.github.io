@@ -58,7 +58,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 1000
+      "total_points": 1050
     },
     {
       "full_name": "Ira Haxhiu",
@@ -314,7 +314,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 1000,
+      "total_points": 1050,
       "num_users": 1
     },
     {
@@ -3690,6 +3690,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -3715,6 +3719,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
