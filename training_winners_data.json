@@ -23,7 +23,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 2550
+      "total_points": 2850
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2650,
+      "total_points": 2950,
       "num_users": 2
     },
     {
@@ -4243,6 +4243,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -4264,6 +4268,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 300
         }
       ]
