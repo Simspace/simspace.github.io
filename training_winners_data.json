@@ -33,7 +33,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1950
+      "total_points": 2250
     },
     {
       "full_name": "Tergita Sulaj",
@@ -293,9 +293,9 @@
       "num_users": 5
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
+      "university": "Epoka University",
       "total_points": 2350,
-      "num_users": 3
+      "num_users": 2
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -303,9 +303,9 @@
       "num_users": 1
     },
     {
-      "university": "Epoka University",
-      "total_points": 2050,
-      "num_users": 2
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2350,
+      "num_users": 3
     },
     {
       "university": "Herman Gmeiner",
@@ -1186,6 +1186,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1207,6 +1211,10 @@
         },
         {
           "full_name": "Arsi Hoxha",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 300
         }
       ]
