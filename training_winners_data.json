@@ -36,14 +36,14 @@
       "total_points": 1950
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 1850
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 1750
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 1850
     },
     {
       "full_name": "Savina Shimi",
@@ -304,7 +304,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1850,
+      "total_points": 1950,
       "num_users": 2
     },
     {
@@ -5032,6 +5032,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -5061,6 +5065,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
