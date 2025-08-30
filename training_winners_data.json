@@ -61,14 +61,14 @@
       "total_points": 1150
     },
     {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1050
+    },
+    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
       "total_points": 800
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 750
     },
     {
       "full_name": "Eneda Gjoka",
@@ -269,7 +269,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 7950,
+      "total_points": 8250,
       "num_users": 5
     },
     {
@@ -4215,6 +4215,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -4232,6 +4236,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 300
         }
       ]
