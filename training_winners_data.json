@@ -116,6 +116,11 @@
       "total_points": 300
     },
     {
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 300
+    },
+    {
       "full_name": "Megea Vogli",
       "university": "Fakulteti i Ekonomise",
       "total_points": 300
@@ -123,11 +128,6 @@
     {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
-      "total_points": 250
-    },
-    {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
       "total_points": 250
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 400,
+      "total_points": 450,
       "num_users": 2
     },
     {
@@ -925,6 +925,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -966,6 +970,10 @@
         },
         {
           "full_name": "mnezha@uet.edu.al",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Kokoneshi",
           "challenge_points_earned": 50
         }
       ]
