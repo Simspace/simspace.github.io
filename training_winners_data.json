@@ -28,7 +28,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2450
+      "total_points": 2550
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2450,
+      "total_points": 2550,
       "num_users": 1
     },
     {
@@ -402,6 +402,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -415,6 +419,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
