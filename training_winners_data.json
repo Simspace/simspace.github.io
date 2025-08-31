@@ -28,7 +28,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2550
+      "total_points": 2650
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2550,
+      "total_points": 2650,
       "num_users": 1
     },
     {
@@ -3660,6 +3660,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3685,6 +3689,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
