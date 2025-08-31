@@ -131,8 +131,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 200
     },
     {
@@ -151,18 +151,18 @@
       "total_points": 200
     },
     {
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 150
+    },
+    {
       "full_name": "Kristjan Kullolli",
       "university": "Universiteti Marlin Barleti",
-      "total_points": 150
-    },
-    {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 150
-    },
-    {
-      "full_name": "Santino Shero",
-      "university": "WBU",
       "total_points": 150
     },
     {
@@ -171,8 +171,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
@@ -349,7 +349,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 2
     },
     {
@@ -1898,6 +1898,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -1923,6 +1927,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 50
         }
       ]
