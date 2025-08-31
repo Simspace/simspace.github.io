@@ -133,7 +133,7 @@
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Firdeus Dikellari",
@@ -349,7 +349,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 250,
+      "total_points": 300,
       "num_users": 2
     },
     {
@@ -3091,6 +3091,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -3124,6 +3128,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 50
         }
       ]
