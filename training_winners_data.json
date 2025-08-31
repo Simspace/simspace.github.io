@@ -41,6 +41,11 @@
       "total_points": 1950
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 1850
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 1850
@@ -54,11 +59,6 @@
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1600
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 1550
     },
     {
       "full_name": "Elisa Zala",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 1550,
+      "total_points": 1850,
       "num_users": 1
     },
     {
@@ -4828,6 +4828,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -4845,6 +4849,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 300
         }
       ]
