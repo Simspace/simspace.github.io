@@ -71,14 +71,14 @@
       "total_points": 800
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 750
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 650
+      "full_name": "Eneda Gjoka",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 750
     },
     {
       "full_name": "Arsi Hoxha",
@@ -318,14 +318,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti i Korces",
+      "total_points": 850,
+      "num_users": 2
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 800,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti i Korces",
-      "total_points": 750,
-      "num_users": 2
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
@@ -3779,6 +3779,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -3808,6 +3812,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 100
         }
       ]
