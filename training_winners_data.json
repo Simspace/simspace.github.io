@@ -78,7 +78,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 550
+      "total_points": 650
     },
     {
       "full_name": "Arsi Hoxha",
@@ -323,14 +323,14 @@
       "num_users": 4
     },
     {
+      "university": "Universiteti i Korces",
+      "total_points": 750,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 750,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti i Korces",
-      "total_points": 650,
-      "num_users": 2
     },
     {
       "university": "WBU",
@@ -3704,6 +3704,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -3733,6 +3737,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 100
         }
       ]
@@ -5280,6 +5288,96 @@
           "challenge_points_earned": 100
         }
       ]
+    },
+    {
+      "package_id": "3d25935d-8fd4-4cff-8b6c-95566563dc03",
+      "package_name": "ICS Foundations: Modbus-CLI and PLC Interaction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3c247b7c-d50e-492a-ac45-1a0a00b66d80",
+      "package_name": "ICS Foundations: PLCs and Ladder Logic",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "7a3d8693-fdc6-4aeb-9179-f3b2d2b870a4",
+      "package_name": "Integration Testing in CI",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "9da64f56-861a-440d-8ba4-91a2e9564dae",
+      "package_name": "Kibana SIEM Application",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3bee030e-b601-4c65-a59a-d42db15fec9d",
+      "package_name": "MITRE ATT&CK Framework",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "071af31f-17a8-41de-89ba-9a345e037c62",
+      "package_name": "MITRE ATT&CK Practical Use",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "953546fc-99a4-4e16-bd35-e6379877bb8a",
+      "package_name": "MITRE ATT&CK Threat Mapping",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "5a5c1617-eb0b-4a40-8847-14a57033f293",
+      "package_name": "Secure Coding",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "0b5eb200-e27d-4ff5-83e6-a5bbf5d53039",
+      "package_name": "Security Testing",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "e8887329-6c58-4e89-b5d3-48272d65c9af",
+      "package_name": "SIP Telephony",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 2, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
