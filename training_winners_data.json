@@ -96,23 +96,23 @@
       "total_points": 400
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 350
-    },
-    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 350
     },
     {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
-      "total_points": 300
-    },
-    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 350
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 350
+    },
+    {
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 300
     },
     {
@@ -121,13 +121,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
@@ -338,14 +338,14 @@
       "num_users": 2
     },
     {
+      "university": "42 Coding",
+      "total_points": 400,
+      "num_users": 2
+    },
+    {
       "university": "Fakulteti i Ekonomise",
       "total_points": 400,
       "num_users": 3
-    },
-    {
-      "university": "42 Coding",
-      "total_points": 350,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -3230,6 +3230,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -3287,6 +3291,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 50
         }
       ]
