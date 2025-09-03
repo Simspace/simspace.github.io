@@ -63,7 +63,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Redi Yzellari",
@@ -269,7 +269,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 8800,
+      "total_points": 8850,
       "num_users": 5
     },
     {
@@ -5333,11 +5333,19 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
