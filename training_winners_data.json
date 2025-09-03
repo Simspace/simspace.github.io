@@ -73,7 +73,7 @@
     {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
-      "total_points": 800
+      "total_points": 900
     },
     {
       "full_name": "Eneda Gjoka",
@@ -313,14 +313,14 @@
       "num_users": 1
     },
     {
+      "university": "UET Maratona",
+      "total_points": 1150,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 1100,
       "num_users": 2
-    },
-    {
-      "university": "UET Maratona",
-      "total_points": 1050,
-      "num_users": 3
     },
     {
       "university": "Harry Fultz",
@@ -4691,11 +4691,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Anisa Tabaku",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
