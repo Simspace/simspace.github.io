@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
       "total_points": 4650
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 4600
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 4650
     },
     {
       "full_name": "Fatbardh Rama",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 7700,
+      "total_points": 7750,
       "num_users": 5
     },
     {
@@ -5345,6 +5345,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -5354,6 +5358,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 50
         }
       ]
