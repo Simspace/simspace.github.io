@@ -13,7 +13,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3950
+      "total_points": 4050
     },
     {
       "full_name": "Orgito Leka",
@@ -269,7 +269,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 8600,
+      "total_points": 8700,
       "num_users": 5
     },
     {
@@ -4641,8 +4641,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "3007b438-57a4-4374-8339-ada763e4c485",
