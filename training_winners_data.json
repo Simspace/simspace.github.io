@@ -51,9 +51,9 @@
       "total_points": 1850
     },
     {
-      "full_name": "Savina Shimi",
+      "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600
+      "total_points": 1700
     },
     {
       "full_name": "Anisa Tabaku",
@@ -61,9 +61,9 @@
       "total_points": 1600
     },
     {
-      "full_name": "Elisa Zala",
+      "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1400
+      "total_points": 1600
     },
     {
       "full_name": "Ira Haxhiu",
@@ -269,7 +269,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 9150,
+      "total_points": 9450,
       "num_users": 5
     },
     {
@@ -2271,8 +2271,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "39d14849-82ee-4c29-b711-205f14b69e99",
