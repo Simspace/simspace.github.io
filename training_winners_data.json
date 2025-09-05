@@ -38,7 +38,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2200
+      "total_points": 2250
     },
     {
       "full_name": "Enxhi Kala",
@@ -304,7 +304,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2600,
+      "total_points": 2650,
       "num_users": 3
     },
     {
@@ -5434,6 +5434,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -5447,6 +5451,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
