@@ -51,17 +51,17 @@
       "total_points": 1850
     },
     {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1700
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1700
     },
     {
       "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600
-    },
-    {
-      "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1600
     },
@@ -269,7 +269,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 9450,
+      "total_points": 9550,
       "num_users": 5
     },
     {
@@ -5648,11 +5648,19 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
