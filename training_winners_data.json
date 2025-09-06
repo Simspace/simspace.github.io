@@ -48,7 +48,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1900
+      "total_points": 1950
     },
     {
       "full_name": "Savina Shimi",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3200,
+      "total_points": 3250,
       "num_users": 5
     },
     {
@@ -5073,8 +5073,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "August 25, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "3f43c861-331f-4765-88c1-aa5b63e2996f",
