@@ -26,14 +26,14 @@
       "total_points": 3300
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 2850
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 2750
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 2850
     },
     {
       "full_name": "Tergita Sulaj",
@@ -53,7 +53,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1800
+      "total_points": 1850
     },
     {
       "full_name": "Savina Shimi",
@@ -274,12 +274,12 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 9650,
+      "total_points": 9700,
       "num_users": 5
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 8150,
+      "total_points": 8250,
       "num_users": 5
     },
     {
@@ -5758,8 +5758,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "September 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "d9426bba-5c1a-47c0-a37a-31c9b692a836",
@@ -5842,11 +5852,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
@@ -5883,7 +5901,7 @@
       "package_id": "9a57764d-f65a-4ec7-a10f-65420e43c0bb",
       "package_name": "Zerologon: Legacy Threat",
       "difficulty": "foundational",
-      "passing_threshold": "75",
+      "passing_threshold": "90",
       "release_date": "September 8, 2025, 12:00 AM",
       "universities": [],
       "users": []
