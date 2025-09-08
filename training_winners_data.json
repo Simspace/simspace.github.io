@@ -18,7 +18,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 3450
+      "total_points": 3500
     },
     {
       "full_name": "Orgito Leka",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 3450,
+      "total_points": 3500,
       "num_users": 1
     },
     {
@@ -5113,6 +5113,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -5130,6 +5134,10 @@
         },
         {
           "full_name": "Arsi Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
@@ -5743,6 +5751,78 @@
           "challenge_points_earned": 100
         }
       ]
+    },
+    {
+      "package_id": "f783588d-9d22-4b07-b090-ed28d3802a38",
+      "package_name": "Advanced Forensic Analysis Challenge: Dead Drop",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "d9426bba-5c1a-47c0-a37a-31c9b692a836",
+      "package_name": "Create YARA Rules for Malware-Related IOCs",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "620b2d5d-2cd8-4e6d-8862-4662b9456414",
+      "package_name": "Secure SDLC: Deployment and Maintenance",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "df747581-1b2f-47bc-91de-9501af9d74d0",
+      "package_name": "Secure SDLC: Development",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "cf01a67a-82da-466c-8f58-c5f88fc0c81f",
+      "package_name": "Secure SDLC: Requirements and Design",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ecdef62b-5369-430f-a0f9-b1a3572f7c00",
+      "package_name": "Secure SDLC: Testing",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "37ad6fb2-d777-48dd-a21f-4e5a41b8621f",
+      "package_name": "Threat Hunting with IOCs Challenge: Dragnet Diaries",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "9a57764d-f65a-4ec7-a10f-65420e43c0bb",
+      "package_name": "Zerologon: Legacy Threat",
+      "difficulty": "foundational",
+      "passing_threshold": "75",
+      "release_date": "September 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
