@@ -111,9 +111,9 @@
       "total_points": 350
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 300
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
+      "total_points": 350
     },
     {
       "full_name": "Sibora Grymshi",
@@ -126,8 +126,8 @@
       "total_points": 300
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 300
     },
     {
@@ -319,7 +319,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 1600,
+      "total_points": 1650,
       "num_users": 3
     },
     {
@@ -2101,6 +2101,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -2158,6 +2162,10 @@
         },
         {
           "full_name": "Izabela Ziu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "mnezha@uet.edu.al",
           "challenge_points_earned": 50
         }
       ]
