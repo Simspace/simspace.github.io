@@ -101,18 +101,18 @@
       "total_points": 400
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 350
-    },
-    {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
-      "total_points": 350
+      "total_points": 400
     },
     {
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
+      "total_points": 350
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 350
     },
     {
@@ -299,7 +299,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3250,
+      "total_points": 3300,
       "num_users": 5
     },
     {
@@ -5568,6 +5568,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5585,6 +5589,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 50
         }
       ]
