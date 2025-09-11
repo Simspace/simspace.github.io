@@ -78,7 +78,7 @@
     {
       "full_name": "Eneda Gjoka",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Leonard Dani",
@@ -328,14 +328,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 850,
+      "num_users": 1
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 800,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 800,
-      "num_users": 1
     },
     {
       "university": "42 Coding",
@@ -5990,6 +5990,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6003,6 +6007,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 50
         }
       ]
