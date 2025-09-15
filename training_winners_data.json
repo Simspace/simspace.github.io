@@ -48,7 +48,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2100
+      "total_points": 2200
     },
     {
       "full_name": "Earta Joca",
@@ -274,7 +274,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 10100,
+      "total_points": 10200,
       "num_users": 5
     },
     {
@@ -6134,8 +6134,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "September 15, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "9e9a276e-62f9-4668-9f5b-7f20f71f195a",
