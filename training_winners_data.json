@@ -81,8 +81,8 @@
       "total_points": 950
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 450
     },
     {
@@ -91,9 +91,9 @@
       "total_points": 450
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 400
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 450
     },
     {
       "full_name": "Bamir Sina",
@@ -101,13 +101,13 @@
       "total_points": 400
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 400
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
       "total_points": 400
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3350,
+      "total_points": 3400,
       "num_users": 5
     },
     {
@@ -5924,6 +5924,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5941,6 +5945,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 50
         }
       ]
