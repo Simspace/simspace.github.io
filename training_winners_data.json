@@ -41,6 +41,11 @@
       "total_points": 2650
     },
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 2300
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 2250
@@ -49,11 +54,6 @@
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2250
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 2200
     },
     {
       "full_name": "Savina Shimi",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3700,
+      "total_points": 3800,
       "num_users": 5
     },
     {
@@ -5265,6 +5265,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5286,6 +5290,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
