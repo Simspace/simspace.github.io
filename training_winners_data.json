@@ -28,7 +28,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 3300
+      "total_points": 3400
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -298,13 +298,13 @@
       "num_users": 5
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3450,
+      "university": "Epoka University",
+      "total_points": 3500,
       "num_users": 2
     },
     {
-      "university": "Epoka University",
-      "total_points": 3400,
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 3450,
       "num_users": 2
     },
     {
@@ -6194,6 +6194,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -6207,6 +6211,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
