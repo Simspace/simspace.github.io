@@ -28,7 +28,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 3150
+      "total_points": 3200
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -304,7 +304,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3250,
+      "total_points": 3300,
       "num_users": 2
     },
     {
@@ -6038,6 +6038,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -6059,6 +6063,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
