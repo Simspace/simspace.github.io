@@ -53,7 +53,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 2000
+      "total_points": 2100
     },
     {
       "full_name": "Savina Shimi",
@@ -288,14 +288,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 3600,
+      "num_users": 5
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3500,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 3500,
-      "num_users": 5
     },
     {
       "university": "Epoka University",
@@ -1916,6 +1916,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -1933,6 +1937,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
