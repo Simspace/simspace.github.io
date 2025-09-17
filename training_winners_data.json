@@ -116,8 +116,8 @@
       "total_points": 350
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 300
     },
     {
@@ -136,13 +136,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
-      "total_points": 250
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 300
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 250
     },
     {
@@ -353,14 +353,14 @@
       "num_users": 3
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 400,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 350,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 350,
-      "num_users": 2
     },
     {
       "university": "UAMD 2",
@@ -5268,8 +5268,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "August 25, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Tirana Business University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "85287e9d-b71a-416e-b23e-04d56dee7aa7",
