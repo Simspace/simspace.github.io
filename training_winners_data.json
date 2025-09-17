@@ -91,14 +91,14 @@
       "total_points": 450
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
       "total_points": 450
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 450
     },
     {
       "full_name": "Artea Myftiu",
@@ -106,8 +106,8 @@
       "total_points": 400
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -319,7 +319,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 1700,
+      "total_points": 1750,
       "num_users": 3
     },
     {
@@ -2383,6 +2383,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -2400,6 +2404,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "mnezha@uet.edu.al",
           "challenge_points_earned": 50
         }
       ]
