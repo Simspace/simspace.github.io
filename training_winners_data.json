@@ -43,7 +43,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 2400
+      "total_points": 2500
     },
     {
       "full_name": "Enxhi Kala",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3900,
+      "total_points": 4000,
       "num_users": 5
     },
     {
@@ -3156,6 +3156,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3181,6 +3185,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
