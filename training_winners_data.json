@@ -166,8 +166,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
@@ -176,14 +176,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 150
     },
     {
       "full_name": "Alvi Skita",
@@ -191,18 +191,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
-      "total_points": 100
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
       "full_name": "Redi Capoj",
       "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -221,8 +221,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -358,7 +358,7 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
+      "university": "Tirana Business University",
       "total_points": 250,
       "num_users": 2
     },
@@ -368,12 +368,12 @@
       "num_users": 2
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 200,
+      "university": "Universiteti i Elbasanit",
+      "total_points": 250,
       "num_users": 2
     },
     {
-      "university": "Tirana Business University",
+      "university": "Mediterranean University- UMSH",
       "total_points": 200,
       "num_users": 2
     },
@@ -6074,6 +6074,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -6099,6 +6103,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
