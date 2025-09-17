@@ -21,13 +21,13 @@
       "total_points": 3500
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3400
-    },
-    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
+      "total_points": 3500
+    },
+    {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 3400
     },
     {
@@ -293,14 +293,14 @@
       "num_users": 5
     },
     {
+      "university": "Epoka University",
+      "total_points": 3600,
+      "num_users": 2
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3500,
       "num_users": 1
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 3500,
-      "num_users": 2
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -5953,6 +5953,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -5970,6 +5974,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
