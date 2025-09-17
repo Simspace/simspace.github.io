@@ -141,8 +141,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 200
     },
     {
@@ -156,8 +156,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
@@ -166,13 +166,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
-      "total_points": 150
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 200
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
@@ -181,8 +181,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
@@ -359,7 +359,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 250,
+      "total_points": 300,
       "num_users": 2
     },
     {
@@ -6051,6 +6051,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -6064,6 +6068,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
