@@ -43,7 +43,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 2500
+      "total_points": 2600
     },
     {
       "full_name": "Enxhi Kala",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 4000,
+      "total_points": 4100,
       "num_users": 5
     },
     {
@@ -5851,6 +5851,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5880,6 +5884,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
