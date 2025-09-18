@@ -28,7 +28,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3400
+      "total_points": 3500
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -303,14 +303,14 @@
       "num_users": 2
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 3550,
+      "num_users": 2
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3500,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3450,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -5942,6 +5942,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -5975,6 +5979,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
