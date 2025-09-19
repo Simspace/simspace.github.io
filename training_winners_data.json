@@ -116,8 +116,8 @@
       "total_points": 350
     },
     {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
@@ -126,8 +126,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -141,13 +141,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
-      "total_points": 250
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 300
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 250
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 850,
+      "total_points": 900,
       "num_users": 4
     },
     {
@@ -5672,6 +5672,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -5701,6 +5705,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kujtim Alimehmeti",
           "challenge_points_earned": 50
         }
       ]
