@@ -21,13 +21,13 @@
       "total_points": 3700
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 3500
-    },
-    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 3600
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3500
     },
     {
@@ -304,7 +304,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3550,
+      "total_points": 3650,
       "num_users": 2
     },
     {
@@ -6433,6 +6433,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -6454,6 +6458,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
