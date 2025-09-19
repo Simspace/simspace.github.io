@@ -36,14 +36,14 @@
       "total_points": 3050
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2950
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 2900
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2650
     },
     {
       "full_name": "Enxhi Kala",
@@ -319,7 +319,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 3050,
+      "total_points": 3350,
       "num_users": 3
     },
     {
@@ -5139,6 +5139,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -5168,6 +5172,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 300
         }
       ]
