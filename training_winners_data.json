@@ -6461,6 +6461,15 @@
       ]
     },
     {
+      "package_id": "05ed762b-d3d0-46c9-b45f-b85bcc9e4125",
+      "package_name": "A-03-02 Linux Terminal Analysis: Compromised Linux Client",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 15, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
       "package_id": "53d814a2-e308-41fa-975f-241c5e24eeaa",
       "package_name": "Follina Defense: Legacy Threat",
       "difficulty": "intermediate",
@@ -6561,15 +6570,6 @@
           "challenge_points_earned": 50
         }
       ]
-    },
-    {
-      "package_id": "05ed762b-d3d0-46c9-b45f-b85bcc9e4125",
-      "package_name": "Linux Terminal Analysis: Compromised Linux Client",
-      "difficulty": "foundational",
-      "passing_threshold": "90",
-      "release_date": "September 15, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
     },
     {
       "package_id": "77045bdc-904c-4318-9d35-ca93cde163b0",
