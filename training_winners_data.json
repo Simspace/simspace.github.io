@@ -91,13 +91,18 @@
       "total_points": 500
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 450
     },
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 450
+    },
+    {
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
       "total_points": 450
     },
     {
@@ -113,11 +118,6 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 350
-    },
-    {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
       "total_points": 350
     },
     {
@@ -293,14 +293,14 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 4750,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 4700,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 4650,
-      "num_users": 5
     },
     {
       "university": "Epoka University",
@@ -460,6 +460,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -473,6 +477,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Asim Lecini",
           "challenge_points_earned": 100
         }
       ]
