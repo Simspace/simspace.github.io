@@ -46,13 +46,13 @@
       "total_points": 2650
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 2250
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2250
     },
     {
@@ -91,13 +91,13 @@
       "total_points": 500
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
       "total_points": 450
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 450
     },
     {
@@ -121,23 +121,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 300
-    },
-    {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
-      "total_points": 300
-    },
-    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
-      "total_points": 300
-    },
-    {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
       "total_points": 300
     },
     {
@@ -146,9 +131,29 @@
       "total_points": 300
     },
     {
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
+      "total_points": 300
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 300
+    },
+    {
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 300
+    },
+    {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
       "total_points": 250
+    },
+    {
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 200
     },
     {
       "full_name": "Aurora Islamaj",
@@ -161,23 +166,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 200
-    },
-    {
       "full_name": "Firdeus Dikellari",
       "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -186,8 +186,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -201,8 +201,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -211,8 +211,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
+      "total_points": 100
+    },
+    {
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
     },
     {
@@ -221,13 +226,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
-      "total_points": 100
-    },
-    {
       "full_name": "Blis Thano",
       "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
@@ -246,18 +251,18 @@
       "total_points": 50
     },
     {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 50
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
       "total_points": 50
     },
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
+      "total_points": 50
+    },
+    {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 50
     },
     {
@@ -324,8 +329,8 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 1800,
-      "num_users": 3
+      "total_points": 1850,
+      "num_users": 4
     },
     {
       "university": "Universiteti i Korces",
@@ -5443,6 +5448,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -5488,6 +5497,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
