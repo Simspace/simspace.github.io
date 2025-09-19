@@ -48,7 +48,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 2250
+      "total_points": 2350
     },
     {
       "full_name": "Elisa Zala",
@@ -324,7 +324,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 2250,
+      "total_points": 2350,
       "num_users": 1
     },
     {
@@ -6523,6 +6523,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -6548,6 +6552,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
