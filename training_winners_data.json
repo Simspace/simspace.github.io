@@ -33,7 +33,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 3100
+      "total_points": 3200
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -48,7 +48,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 2350
+      "total_points": 2450
     },
     {
       "full_name": "Elisa Zala",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 4950,
+      "total_points": 5050,
       "num_users": 5
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 2350,
+      "total_points": 2450,
       "num_users": 1
     },
     {
@@ -4137,8 +4137,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "1ac76647-d8f5-494a-9b8c-3ac939c5721a",
@@ -6157,6 +6167,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -6182,6 +6196,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
