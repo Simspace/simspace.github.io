@@ -81,6 +81,11 @@
       "total_points": 1000
     },
     {
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
+      "total_points": 750
+    },
+    {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
       "total_points": 700
@@ -89,11 +94,6 @@
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
       "total_points": 500
-    },
-    {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
-      "total_points": 450
     },
     {
       "full_name": "Leonard Dani",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 5300,
+      "total_points": 5600,
       "num_users": 5
     },
     {
@@ -495,11 +495,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Bamir Sina",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Asim Lecini",
           "challenge_points_earned": 300
         }
       ]
