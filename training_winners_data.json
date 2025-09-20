@@ -186,8 +186,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -206,18 +206,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 100
-    },
-    {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 100
-    },
-    {
       "full_name": "Redi Capoj",
       "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -226,13 +221,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
     },
     {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
+      "total_points": 100
+    },
+    {
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -251,8 +251,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 1850,
+      "total_points": 1900,
       "num_users": 4
     },
     {
@@ -1598,6 +1598,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -1635,6 +1639,10 @@
         },
         {
           "full_name": "Kujtim Alimehmeti",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
