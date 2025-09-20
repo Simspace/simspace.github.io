@@ -16,14 +16,14 @@
       "total_points": 4500
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 3750
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3650
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 3750
     },
     {
       "full_name": "Ersi Dedaj",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3700,
+      "total_points": 3800,
       "num_users": 2
     },
     {
@@ -6227,6 +6227,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -6256,6 +6260,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
