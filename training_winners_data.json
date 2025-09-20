@@ -18,7 +18,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 3700
+      "total_points": 3750
     },
     {
       "full_name": "Orgito Leka",
@@ -304,7 +304,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3800,
+      "total_points": 3850,
       "num_users": 2
     },
     {
@@ -6325,6 +6325,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -6342,6 +6346,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
