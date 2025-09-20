@@ -26,14 +26,14 @@
       "total_points": 3750
     },
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 3550
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3500
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 3450
     },
     {
       "full_name": "Tergita Sulaj",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 5600,
+      "total_points": 5700,
       "num_users": 5
     },
     {
@@ -4928,11 +4928,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
