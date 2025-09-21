@@ -146,14 +146,14 @@
       "total_points": 300
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
       "total_points": 300
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
-      "total_points": 250
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 300
     },
     {
       "full_name": "Aurora Islamaj",
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 2100,
+      "total_points": 2150,
       "num_users": 4
     },
     {
@@ -5128,6 +5128,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -5169,6 +5173,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
