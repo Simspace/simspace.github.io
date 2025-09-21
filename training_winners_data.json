@@ -176,23 +176,23 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150
-    },
-    {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
-      "total_points": 100
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 150
     },
     {
-      "full_name": "Alvi Skita",
+      "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
+      "total_points": 150
+    },
+    {
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -201,8 +201,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -226,8 +226,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 1950,
+      "total_points": 2000,
       "num_users": 4
     },
     {
@@ -5976,6 +5976,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -5989,6 +5993,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
