@@ -11,14 +11,14 @@
       "total_points": 4650
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 4500
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 4450
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 4500
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 6650,
+      "total_points": 6700,
       "num_users": 5
     },
     {
@@ -6473,6 +6473,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -6494,6 +6498,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
