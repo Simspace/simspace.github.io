@@ -153,7 +153,7 @@
     {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Aurora Islamaj",
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 2050,
+      "total_points": 2100,
       "num_users": 4
     },
     {
@@ -5788,6 +5788,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -5809,6 +5813,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
