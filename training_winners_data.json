@@ -93,7 +93,7 @@
     {
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Leonard Dani",
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 1900,
+      "total_points": 1950,
       "num_users": 4
     },
     {
@@ -2931,6 +2931,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -2976,6 +2980,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "mnezha@uet.edu.al",
           "challenge_points_earned": 50
         }
       ]
