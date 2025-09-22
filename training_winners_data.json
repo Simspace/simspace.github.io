@@ -121,9 +121,9 @@
       "total_points": 350
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 300
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
+      "total_points": 350
     },
     {
       "full_name": "Ergi Kokoneshi",
@@ -136,8 +136,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
@@ -146,8 +146,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 300
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 2150,
+      "total_points": 2200,
       "num_users": 4
     },
     {
@@ -3340,6 +3340,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -3381,6 +3385,10 @@
         },
         {
           "full_name": "Luiz \u00c7ota",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
