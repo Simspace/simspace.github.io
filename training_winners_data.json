@@ -191,8 +191,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -201,8 +201,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -226,14 +226,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
+      "total_points": 100
     },
     {
       "full_name": "Gerald Leba",
@@ -241,8 +241,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1450,
+      "total_points": 1500,
       "num_users": 3
     },
     {
@@ -2516,6 +2516,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -2557,6 +2561,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Luiz \u00c7ota",
           "challenge_points_earned": 50
         }
       ]
