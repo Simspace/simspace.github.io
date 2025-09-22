@@ -6,14 +6,14 @@
       "total_points": 5100
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 4650
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 4550
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 4650
     },
     {
       "full_name": "Fatbardh Rama",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 7400,
+      "total_points": 7500,
       "num_users": 5
     },
     {
@@ -5724,8 +5724,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 25, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "a5f9be35-bac6-417c-9cbc-957d23a01c94",
