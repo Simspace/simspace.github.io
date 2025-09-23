@@ -400,6 +400,41 @@
   ],
   "packages": [
     {
+      "package_id": "443ae512-eb5d-4bb9-9064-d4cad11f2d65",
+      "package_name": "A-02-02 Windows Server Analysis: Compromised Windows Server",
+      "difficulty": "foundational",
+      "passing_threshold": "75",
+      "release_date": "August 1, 2025, 12:00 AM",
+      "universities": [
+        {
+          "name": "UET Maratona",
+          "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Alvi Skita",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gerald Leba",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        }
+      ]
+    },
+    {
       "package_id": "e3e4dce0-8a23-409e-811d-86bf927d6bbd",
       "package_name": "A-06-02 Dynamic Malware Analysis: Windows",
       "difficulty": "foundational",
@@ -2679,41 +2714,6 @@
         {
           "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
-        }
-      ]
-    },
-    {
-      "package_id": "443ae512-eb5d-4bb9-9064-d4cad11f2d65",
-      "package_name": "Windows Server Analysis: Compromised Windows Server",
-      "difficulty": "foundational",
-      "passing_threshold": "75",
-      "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "UET Maratona",
-          "users": 1
-        },
-        {
-          "name": "UAMD 2",
-          "users": 1
-        },
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Alvi Skita",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Gerald Leba",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Abdurrahman Seitaj",
-          "challenge_points_earned": 50
         }
       ]
     },
