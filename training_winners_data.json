@@ -4768,6 +4768,41 @@
       ]
     },
     {
+      "package_id": "86bdca89-a65a-4b14-bf5c-e4acd623453f",
+      "package_name": "A-04-02 Linux Server Analysis: Compromised Linux Server",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        }
+      ]
+    },
+    {
       "package_id": "4e4717ad-b4c2-4d12-ab78-6643e16f1df7",
       "package_name": "Kibana: Introduction",
       "difficulty": "foundational",
@@ -4838,41 +4873,6 @@
         },
         {
           "full_name": "Eneda Gjoka",
-          "challenge_points_earned": 50
-        }
-      ]
-    },
-    {
-      "package_id": "86bdca89-a65a-4b14-bf5c-e4acd623453f",
-      "package_name": "Linux Server Analysis: Compromised Linux Server",
-      "difficulty": "foundational",
-      "passing_threshold": "90",
-      "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
-        },
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        },
-        {
-          "name": "Universiteti Bujqesor i Tiranes",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Fatbardh Rama",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Marvin Rexhepagaj ",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
