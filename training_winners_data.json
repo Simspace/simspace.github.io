@@ -71,14 +71,14 @@
       "total_points": 1450
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
       "total_points": 1300
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
-      "total_points": 1200
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
+      "total_points": 1300
     },
     {
       "full_name": "Eneda Gjoka",
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 2250,
+      "total_points": 2350,
       "num_users": 4
     },
     {
@@ -6879,6 +6879,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -6912,6 +6916,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
