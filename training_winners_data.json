@@ -31,14 +31,14 @@
       "total_points": 3750
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 3550
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3500
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 3250
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -308,14 +308,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 3950,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 3800,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 3650,
-      "num_users": 3
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -1210,6 +1210,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1243,6 +1247,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 300
         }
       ]
