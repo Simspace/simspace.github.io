@@ -8,7 +8,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 4850
+      "total_points": 4900
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 7800,
+      "total_points": 7850,
       "num_users": 5
     },
     {
@@ -6982,8 +6982,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "September 15, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     }
   ],
   "difficulty_points": {
