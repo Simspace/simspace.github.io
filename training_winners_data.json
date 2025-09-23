@@ -23,7 +23,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 3950
+      "total_points": 4000
     },
     {
       "full_name": "Tergita Sulaj",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 4050,
+      "total_points": 4100,
       "num_users": 2
     },
     {
@@ -4776,6 +4776,41 @@
       ]
     },
     {
+      "package_id": "097f2b8f-4c38-4ee7-a2fe-6f8199851d08",
+      "package_name": "A-03-01 Linux Terminal Analysis: Linux Machine",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
+    },
+    {
       "package_id": "86bdca89-a65a-4b14-bf5c-e4acd623453f",
       "package_name": "A-04-02 Linux Server Analysis: Compromised Linux Server",
       "difficulty": "foundational",
@@ -4881,41 +4916,6 @@
         },
         {
           "full_name": "Eneda Gjoka",
-          "challenge_points_earned": 50
-        }
-      ]
-    },
-    {
-      "package_id": "097f2b8f-4c38-4ee7-a2fe-6f8199851d08",
-      "package_name": "Linux Terminal Analysis: Linux Machine",
-      "difficulty": "foundational",
-      "passing_threshold": "90",
-      "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
-        },
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        },
-        {
-          "name": "Universiteti New York Tirana",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Fatbardh Rama",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Marvin Rexhepagaj ",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
@@ -6854,8 +6854,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "September 15, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "53d814a2-e308-41fa-975f-241c5e24eeaa",
