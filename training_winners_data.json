@@ -211,13 +211,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -226,19 +226,19 @@
       "total_points": 100
     },
     {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 100
+    },
+    {
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
+      "total_points": 100
+    },
+    {
       "full_name": "Izabela Ziu",
       "university": "Tirana Business University",
       "total_points": 100
-    },
-    {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
-      "total_points": 100
-    },
-    {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
-      "total_points": 50
     },
     {
       "full_name": "Blis Thano",
@@ -256,8 +256,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -373,12 +373,12 @@
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
-      "total_points": 250,
+      "university": "Universiteti i Elbasanit",
+      "total_points": 300,
       "num_users": 2
     },
     {
-      "university": "Universiteti i Elbasanit",
+      "university": "UAMD 2",
       "total_points": 250,
       "num_users": 2
     },
@@ -7134,6 +7134,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -7163,6 +7167,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 50
         }
       ]
