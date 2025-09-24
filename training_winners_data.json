@@ -96,9 +96,9 @@
       "total_points": 550
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 450
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
+      "total_points": 500
     },
     {
       "full_name": "Arsi Hoxha",
@@ -106,8 +106,8 @@
       "total_points": 450
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 450
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 2400,
+      "total_points": 2450,
       "num_users": 4
     },
     {
@@ -7098,6 +7098,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -7115,6 +7119,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
