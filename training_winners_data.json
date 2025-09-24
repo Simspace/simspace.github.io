@@ -83,7 +83,7 @@
     {
       "full_name": "Eneda Gjoka",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1000
+      "total_points": 1100
     },
     {
       "full_name": "Asim Lecini",
@@ -339,7 +339,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1000,
+      "total_points": 1100,
       "num_users": 1
     },
     {
@@ -6941,6 +6941,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6978,6 +6982,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 100
         }
       ]
