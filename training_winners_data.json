@@ -126,13 +126,13 @@
       "total_points": 350
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 300
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 350
     },
     {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 300
     },
     {
@@ -141,13 +141,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 300
     },
     {
@@ -358,14 +358,14 @@
       "num_users": 2
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 450,
+      "num_users": 2
+    },
+    {
       "university": "Fakulteti i Ekonomise",
       "total_points": 400,
       "num_users": 3
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 400,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -7102,6 +7102,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -7123,6 +7127,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
