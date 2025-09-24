@@ -83,7 +83,7 @@
     {
       "full_name": "Eneda Gjoka",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1100
+      "total_points": 1200
     },
     {
       "full_name": "Asim Lecini",
@@ -339,7 +339,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1100,
+      "total_points": 1200,
       "num_users": 1
     },
     {
@@ -6347,6 +6347,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6384,6 +6388,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 100
         }
       ]
