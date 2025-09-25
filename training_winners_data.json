@@ -96,13 +96,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 500
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
       "total_points": 500
     },
     {
@@ -131,6 +131,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
+      "total_points": 300
+    },
+    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 300
@@ -138,11 +143,6 @@
     {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
-      "total_points": 300
-    },
-    {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -156,16 +156,6 @@
       "total_points": 300
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
-      "total_points": 200
-    },
-    {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
-    },
-    {
       "full_name": "Orgito Salla",
       "university": "Universiteti i Elbasanit",
       "total_points": 200
@@ -176,9 +166,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 200
     },
     {
       "full_name": "Santino Shero",
@@ -191,9 +186,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
-      "total_points": 100
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 150
     },
     {
       "full_name": "Angjelos Rika",
@@ -201,7 +196,17 @@
       "total_points": 100
     },
     {
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
+      "total_points": 100
+    },
+    {
       "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
+      "total_points": 100
+    },
+    {
+      "full_name": "Metion Hoxhalli",
       "university": "Universiteti i Korces",
       "total_points": 100
     },
@@ -226,13 +231,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -333,14 +338,14 @@
       "num_users": 4
     },
     {
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 1600,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 1500,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1500,
-      "num_users": 1
     },
     {
       "university": "Harry Fultz",
@@ -582,6 +587,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -599,6 +608,10 @@
         },
         {
           "full_name": "Asim Lecini",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
