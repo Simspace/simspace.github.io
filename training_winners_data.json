@@ -101,6 +101,11 @@
       "total_points": 500
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 500
+    },
+    {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
       "total_points": 500
@@ -113,11 +118,6 @@
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
-      "total_points": 450
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
       "total_points": 450
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 550,
+      "total_points": 600,
       "num_users": 2
     },
     {
@@ -3544,6 +3544,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3605,6 +3609,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
