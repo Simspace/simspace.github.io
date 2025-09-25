@@ -63,7 +63,7 @@
     {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600
+      "total_points": 1650
     },
     {
       "full_name": "Gesa Comacka",
@@ -289,7 +289,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 10450,
+      "total_points": 10500,
       "num_users": 5
     },
     {
@@ -7369,6 +7369,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -7382,6 +7386,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anisa Tabaku",
           "challenge_points_earned": 50
         }
       ]
