@@ -71,9 +71,9 @@
       "total_points": 1450
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
-      "total_points": 1300
+      "full_name": "Eneda Gjoka",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 1400
     },
     {
       "full_name": "Redi Yzellari",
@@ -81,8 +81,8 @@
       "total_points": 1300
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
       "total_points": 1300
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1300,
+      "total_points": 1400,
       "num_users": 1
     },
     {
@@ -4687,6 +4687,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4728,6 +4732,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 100
         }
       ]
