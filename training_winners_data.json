@@ -121,14 +121,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 400
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 350
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
+      "total_points": 400
     },
     {
       "full_name": "Albina Doku",
@@ -374,7 +374,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 350,
+      "total_points": 400,
       "num_users": 1
     },
     {
@@ -7238,11 +7238,19 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
