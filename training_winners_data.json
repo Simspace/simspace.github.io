@@ -83,7 +83,7 @@
     {
       "full_name": "Eneda Gjoka",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Asim Lecini",
@@ -339,7 +339,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1200,
+      "total_points": 1250,
       "num_users": 1
     },
     {
@@ -4809,6 +4809,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4822,6 +4826,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 50
         }
       ]
