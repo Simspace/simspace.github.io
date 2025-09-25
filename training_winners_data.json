@@ -28,7 +28,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 3950
+      "total_points": 4000
     },
     {
       "full_name": "Orgito Leka",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 4350,
+      "total_points": 4400,
       "num_users": 3
     },
     {
@@ -7279,8 +7279,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "September 25, 2025, 9:45 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        }
+      ]
     }
   ],
   "difficulty_points": {
