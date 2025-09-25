@@ -7214,6 +7214,60 @@
           "challenge_points_earned": 50
         }
       ]
+    },
+    {
+      "package_id": "199b9a5a-f6d1-49db-bcf1-02e8ebff534d",
+      "package_name": "Open-Source Intelligence (OSINT) Techniques",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 25, 2025, 9:45 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "77ad0ce6-d629-42c0-8ba5-f10ede380840",
+      "package_name": "Splunk Boss of the SOC V3",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "September 25, 2025, 9:45 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "a66fa383-d12d-4d2e-b72a-6d039fba704e",
+      "package_name": "Splunk Forwarders and Normalization",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 25, 2025, 9:45 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "f4d6fe4b-62d6-4922-a5d5-029fecb3fb2e",
+      "package_name": "Threat Hunting in Windows Files",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 25, 2025, 9:45 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "067400d3-8296-4424-88f7-2b7bc57fd782",
+      "package_name": "Threat Hunting with IOCs Workshop",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 25, 2025, 9:45 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "f2fa7824-6dc2-43f8-9e16-5a449f0d4724",
+      "package_name": "YARA and Signature-Based Writing",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "September 25, 2025, 9:45 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
