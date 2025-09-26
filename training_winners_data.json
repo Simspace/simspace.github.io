@@ -78,7 +78,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1300
+      "total_points": 1350
     },
     {
       "full_name": "Ira Haxhiu",
@@ -344,7 +344,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1500,
+      "total_points": 1550,
       "num_users": 3
     },
     {
@@ -7223,6 +7223,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -7256,6 +7260,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
