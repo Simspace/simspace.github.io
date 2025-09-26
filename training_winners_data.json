@@ -103,7 +103,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Artea Myftiu",
@@ -354,7 +354,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 2
     },
     {
@@ -422,6 +422,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -435,6 +439,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
