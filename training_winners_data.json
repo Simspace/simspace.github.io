@@ -48,7 +48,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 2800
+      "total_points": 2900
     },
     {
       "full_name": "Enxhi Kala",
@@ -324,7 +324,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 5950,
+      "total_points": 6050,
       "num_users": 5
     },
     {
@@ -3283,6 +3283,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3300,6 +3304,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
