@@ -136,8 +136,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Arkel Lahi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 300
     },
     {
@@ -156,9 +156,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 300
     },
     {
       "full_name": "Orgito Salla",
@@ -171,8 +171,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Arkel Lahi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1800,
+      "total_points": 1900,
       "num_users": 3
     },
     {
@@ -2754,6 +2754,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2771,6 +2775,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
