@@ -96,6 +96,11 @@
       "total_points": 900
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 800
+    },
+    {
       "full_name": "Arkel Lahi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 800
@@ -113,11 +118,6 @@
     {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
-      "total_points": 500
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 500
     },
     {
@@ -338,13 +338,13 @@
       "num_users": 1
     },
     {
-      "university": "UET Maratona",
-      "total_points": 2950,
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 3200,
       "num_users": 4
     },
     {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 2900,
+      "university": "UET Maratona",
+      "total_points": 2950,
       "num_users": 4
     },
     {
@@ -5580,6 +5580,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5617,6 +5621,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 300
         }
       ]
