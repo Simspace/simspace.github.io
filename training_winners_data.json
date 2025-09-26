@@ -181,8 +181,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
     {
@@ -191,13 +191,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
-      "total_points": 150
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 200
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
@@ -206,13 +206,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 150
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4850,
+      "total_points": 4900,
       "num_users": 3
     },
     {
@@ -1096,6 +1096,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1145,6 +1149,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
