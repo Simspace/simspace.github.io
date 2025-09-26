@@ -101,6 +101,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 600
+    },
+    {
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
       "total_points": 550
@@ -121,23 +126,23 @@
       "total_points": 450
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 400
-    },
-    {
       "full_name": "Bamir Sina",
       "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
-      "full_name": "Arkel Lahi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 400
     },
     {
       "full_name": "Albina Doku",
       "university": "Universiteti New York Tirana",
+      "total_points": 300
+    },
+    {
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
@@ -156,9 +161,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 300
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
     },
     {
       "full_name": "Orgito Salla",
@@ -168,11 +173,6 @@
     {
       "full_name": "Firdeus Dikellari",
       "university": "Canadian Institute of Technology",
-      "total_points": 200
-    },
-    {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
@@ -186,18 +186,28 @@
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 150
-    },
-    {
       "full_name": "Kristjan Kullolli",
       "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 150
+    },
+    {
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
+      "total_points": 100
+    },
+    {
       "full_name": "Angjelos Rika",
       "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 100
+    },
+    {
+      "full_name": "Ergi Hysa",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -207,11 +217,6 @@
     },
     {
       "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
-      "total_points": 100
-    },
-    {
-      "full_name": "Metion Hoxhalli",
       "university": "Universiteti i Korces",
       "total_points": 100
     },
@@ -251,8 +256,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -266,8 +271,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -344,8 +349,8 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 2000,
-      "num_users": 3
+      "total_points": 2300,
+      "num_users": 4
     },
     {
       "university": "Universiteti i Korces",
@@ -1644,6 +1649,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1661,6 +1670,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -2075,6 +2088,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2100,6 +2117,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -4139,6 +4160,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4176,6 +4201,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 100
         }
       ]
