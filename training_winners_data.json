@@ -196,13 +196,18 @@
       "total_points": 150
     },
     {
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 150
+    },
+    {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
     },
     {
@@ -216,17 +221,12 @@
       "total_points": 100
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
-      "total_points": 100
-    },
-    {
       "full_name": "Alvi Skita",
       "university": "UET Maratona",
       "total_points": 100
     },
     {
-      "full_name": "Metion Hoxhalli",
+      "full_name": "Luiz \u00c7ota",
       "university": "Universiteti i Korces",
       "total_points": 100
     },
@@ -251,18 +251,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 100
-    },
-    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
+      "total_points": 100
+    },
+    {
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4800,
+      "total_points": 4850,
       "num_users": 3
     },
     {
@@ -997,6 +997,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1030,6 +1034,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
