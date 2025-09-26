@@ -91,14 +91,14 @@
       "total_points": 1300
     },
     {
-      "full_name": "Arkel Lahi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
       "total_points": 1100
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
-      "total_points": 1050
+      "full_name": "Arkel Lahi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 1100
     },
     {
       "full_name": "Asim Lecini",
@@ -354,7 +354,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 3000,
+      "total_points": 3050,
       "num_users": 4
     },
     {
@@ -6473,6 +6473,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -6498,6 +6502,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
