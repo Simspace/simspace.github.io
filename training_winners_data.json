@@ -81,14 +81,14 @@
       "total_points": 1350
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 1300
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1200
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
+      "total_points": 1300
     },
     {
       "full_name": "Arkel Lahi",
@@ -333,14 +333,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 4450,
+      "num_users": 5
+    },
+    {
       "university": "Epoka University",
       "total_points": 4400,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 4350,
-      "num_users": 5
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -3890,6 +3890,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3919,6 +3923,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
