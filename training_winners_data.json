@@ -96,13 +96,13 @@
       "total_points": 900
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 600
-    },
-    {
       "full_name": "Arkel Lahi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 700
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 600
     },
     {
@@ -349,7 +349,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 2300,
+      "total_points": 2400,
       "num_users": 4
     },
     {
@@ -1555,6 +1555,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1572,6 +1576,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
