@@ -98,7 +98,7 @@
     {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
-      "total_points": 1000
+      "total_points": 1050
     },
     {
       "full_name": "Asim Lecini",
@@ -354,7 +354,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 2950,
+      "total_points": 3000,
       "num_users": 4
     },
     {
@@ -5244,6 +5244,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -5277,6 +5281,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
