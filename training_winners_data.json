@@ -111,6 +111,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 550
+    },
+    {
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
       "total_points": 550
@@ -131,13 +136,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 400
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -146,13 +151,8 @@
       "total_points": 400
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 300
-    },
-    {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 300
     },
     {
@@ -166,14 +166,14 @@
       "total_points": 300
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 300
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 250
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 300
     },
     {
       "full_name": "Daniel Kovi",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4950,
+      "total_points": 5250,
       "num_users": 3
     },
     {
@@ -2662,11 +2662,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 300
         }
       ]
