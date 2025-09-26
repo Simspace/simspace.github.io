@@ -113,7 +113,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 550
+      "total_points": 600
     },
     {
       "full_name": "mnezha@uet.edu.al",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5250,
+      "total_points": 5300,
       "num_users": 3
     },
     {
@@ -1231,6 +1231,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1300,6 +1304,10 @@
         },
         {
           "full_name": "Aurora Islamaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
@@ -7849,6 +7857,7 @@
     "14": 1.0,
     "15": 1.0,
     "16": 1.0,
-    "17": 1.0
+    "17": 1.0,
+    "18": 1.0
   }
 }
