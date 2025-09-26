@@ -111,14 +111,14 @@
       "total_points": 600
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 550
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 500
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
+      "total_points": 550
     },
     {
       "full_name": "Leonard Dani",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 8650,
+      "total_points": 8700,
       "num_users": 5
     },
     {
@@ -436,6 +436,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -453,6 +457,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 50
         }
       ]
