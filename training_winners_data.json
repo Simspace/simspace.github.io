@@ -111,14 +111,19 @@
       "total_points": 600
     },
     {
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
+      "total_points": 550
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 550
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
-      "total_points": 550
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
+      "total_points": 450
     },
     {
       "full_name": "Leonard Dani",
@@ -126,9 +131,9 @@
       "total_points": 450
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
-      "total_points": 450
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 400
     },
     {
       "full_name": "Bamir Sina",
@@ -141,9 +146,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 400
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 300
     },
     {
       "full_name": "Ergi Kokoneshi",
@@ -161,19 +166,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 300
-    },
-    {
       "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
-    },
-    {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
-      "total_points": 200
     },
     {
       "full_name": "Daniel Kovi",
@@ -191,9 +186,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 200
     },
     {
       "full_name": "Santino Shero",
@@ -206,18 +201,28 @@
       "total_points": 150
     },
     {
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 150
+    },
+    {
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 150
+    },
+    {
       "full_name": "Alvi Skita",
       "university": "UET Maratona",
       "total_points": 100
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -328,14 +333,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 3950,
+      "num_users": 5
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 3800,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 3800,
-      "num_users": 4
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -3358,6 +3363,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3387,6 +3396,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Kristo Do\u00e7i",
           "challenge_points_earned": 100
         }
       ]
@@ -7607,6 +7620,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -7628,6 +7645,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kristo Do\u00e7i",
           "challenge_points_earned": 50
         }
       ]
