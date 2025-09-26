@@ -56,6 +56,11 @@
       "total_points": 2350
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 1900
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1700
@@ -64,11 +69,6 @@
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1650
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1600
     },
     {
       "full_name": "Eneda Gjoka",
@@ -323,14 +323,14 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 5050,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 4850,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 4750,
-      "num_users": 5
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -2478,6 +2478,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2495,6 +2499,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 300
         }
       ]
