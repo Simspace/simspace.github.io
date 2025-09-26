@@ -131,13 +131,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 300
-    },
-    {
       "full_name": "Arkel Lahi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -146,8 +146,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1900,
+      "total_points": 2000,
       "num_users": 3
     },
     {
@@ -2201,6 +2201,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2218,6 +2222,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
