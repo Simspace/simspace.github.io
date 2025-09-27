@@ -81,6 +81,11 @@
       "total_points": 1500
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 1500
+    },
+    {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
       "total_points": 1400
@@ -94,11 +99,6 @@
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
       "total_points": 1250
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1200
     },
     {
       "full_name": "Asim Lecini",
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 8550,
+      "total_points": 8850,
       "num_users": 6
     },
     {
@@ -2772,6 +2772,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2781,6 +2785,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 300
         }
       ]
