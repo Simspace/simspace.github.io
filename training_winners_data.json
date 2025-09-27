@@ -128,7 +128,7 @@
     {
       "full_name": "Ergi Hysa",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Arsi Hoxha",
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 7850,
+      "total_points": 7900,
       "num_users": 6
     },
     {
@@ -6525,6 +6525,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6550,6 +6554,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 50
         }
       ]
