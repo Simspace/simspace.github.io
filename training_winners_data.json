@@ -93,7 +93,7 @@
     {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Arkel Lahi",
@@ -359,7 +359,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 3150,
+      "total_points": 3200,
       "num_users": 4
     },
     {
@@ -7838,6 +7838,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -7867,6 +7871,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
