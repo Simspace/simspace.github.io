@@ -186,8 +186,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 200
     },
     {
@@ -196,8 +196,18 @@
       "total_points": 200
     },
     {
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 200
+    },
+    {
       "full_name": "Santino Shero",
       "university": "WBU",
+      "total_points": 150
+    },
+    {
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -206,18 +216,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
-      "total_points": 150
-    },
-    {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 6400,
+      "total_points": 6450,
       "num_users": 5
     },
     {
@@ -1046,6 +1046,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1083,6 +1087,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kristo Do\u00e7i",
           "challenge_points_earned": 50
         }
       ]
