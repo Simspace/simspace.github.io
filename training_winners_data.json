@@ -131,6 +131,11 @@
       "total_points": 450
     },
     {
+      "full_name": "Ergi Hysa",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 450
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 450
@@ -138,11 +143,6 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 400
-    },
-    {
-      "full_name": "Ergi Hysa",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 400
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 6350,
+      "total_points": 6400,
       "num_users": 5
     },
     {
@@ -7640,6 +7640,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -7681,6 +7685,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 50
         }
       ]
