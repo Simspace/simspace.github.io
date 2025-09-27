@@ -48,7 +48,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 2900
+      "total_points": 3000
     },
     {
       "full_name": "Enxhi Kala",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 6050,
+      "total_points": 6150,
       "num_users": 5
     },
     {
@@ -4237,6 +4237,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4254,6 +4258,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
