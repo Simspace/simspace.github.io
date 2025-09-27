@@ -108,7 +108,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 600
+      "total_points": 650
     },
     {
       "full_name": "Orlin Balliu",
@@ -339,7 +339,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5450,
+      "total_points": 5500,
       "num_users": 4
     },
     {
@@ -2102,6 +2102,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2135,6 +2139,10 @@
         },
         {
           "full_name": "mnezha@uet.edu.al",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
