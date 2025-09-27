@@ -126,18 +126,18 @@
       "total_points": 550
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 450
-    },
-    {
       "full_name": "Ergi Hysa",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 450
+      "total_points": 500
     },
     {
       "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
+      "total_points": 450
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 450
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 7750,
+      "total_points": 7800,
       "num_users": 6
     },
     {
@@ -3696,6 +3696,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3709,6 +3713,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 50
         }
       ]
