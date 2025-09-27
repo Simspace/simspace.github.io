@@ -11,6 +11,11 @@
       "total_points": 5700
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 4700
+    },
+    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 4650
@@ -19,11 +24,6 @@
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 4600
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 4500
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 8100,
+      "total_points": 8300,
       "num_users": 6
     },
     {
@@ -6222,6 +6222,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6247,6 +6251,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
@@ -6368,11 +6376,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
