@@ -78,7 +78,7 @@
     {
       "full_name": "Eneda Gjoka",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1600
+      "total_points": 1650
     },
     {
       "full_name": "Gesa Comacka",
@@ -108,7 +108,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650
+      "total_points": 700
     },
     {
       "full_name": "Ergi Hysa",
@@ -334,12 +334,12 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 9200,
+      "total_points": 9250,
       "num_users": 6
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5500,
+      "total_points": 5550,
       "num_users": 4
     },
     {
@@ -2209,6 +2209,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2258,6 +2262,10 @@
         },
         {
           "full_name": "mnezha@uet.edu.al",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
@@ -3914,6 +3922,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3979,6 +3991,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 50
         }
       ]
