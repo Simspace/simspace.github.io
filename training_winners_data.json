@@ -61,6 +61,11 @@
       "total_points": 2350
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 1800
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1700
@@ -78,11 +83,6 @@
     {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
-      "total_points": 1500
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 1500
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 8850,
+      "total_points": 9150,
       "num_users": 6
     },
     {
@@ -4139,6 +4139,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4148,6 +4152,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 300
         }
       ]
