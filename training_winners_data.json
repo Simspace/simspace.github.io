@@ -31,14 +31,14 @@
       "total_points": 4050
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 3900
+    },
+    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 3750
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 3700
     },
     {
       "full_name": "Ersi Dedaj",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 6950,
+      "total_points": 7150,
       "num_users": 5
     },
     {
@@ -5523,6 +5523,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5536,6 +5540,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
@@ -5585,6 +5593,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5598,6 +5610,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
