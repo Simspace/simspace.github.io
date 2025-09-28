@@ -13,7 +13,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 5050
+      "total_points": 5100
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 9400,
+      "total_points": 9450,
       "num_users": 6
     },
     {
@@ -7638,6 +7638,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -7647,6 +7651,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
