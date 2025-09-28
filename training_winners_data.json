@@ -66,12 +66,12 @@
       "total_points": 1900
     },
     {
-      "full_name": "Savina Shimi",
+      "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1700
     },
     {
-      "full_name": "Anisa Tabaku",
+      "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1700
     },
@@ -121,23 +121,23 @@
       "total_points": 600
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 550
-    },
-    {
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
       "total_points": 550
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
-      "total_points": 450
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 550
     },
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 450
+    },
+    {
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
       "total_points": 450
     },
     {
@@ -156,13 +156,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 300
     },
     {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 300
     },
     {
@@ -171,8 +171,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -181,23 +181,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 200
-    },
-    {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
-      "total_points": 200
-    },
-    {
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 200
     },
     {
@@ -206,8 +196,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
+      "total_points": 200
+    },
+    {
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 200
+    },
+    {
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
@@ -221,9 +221,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 100
     },
     {
       "full_name": "Redi Capoj",
@@ -231,8 +236,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -246,8 +251,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -256,18 +261,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
-    },
-    {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 100
-    },
-    {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -276,9 +271,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
+      "total_points": 100
     },
     {
       "full_name": "Gliona Gjergjani",
@@ -286,8 +281,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Kledios Lika",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Kimberli Gjergjani",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
@@ -296,8 +296,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Kimberli Gjergjani",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Kledios Lika",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
+      "full_name": "Barlind Bunga",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 50
     },
     {
@@ -344,8 +349,8 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 10200,
-      "num_users": 8
+      "total_points": 10250,
+      "num_users": 9
     },
     {
       "university": "Universiteti New York Tirana",
@@ -5187,6 +5192,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5240,6 +5249,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Barlind Bunga",
           "challenge_points_earned": 50
         }
       ]
