@@ -86,14 +86,14 @@
       "total_points": 1500
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
       "total_points": 1400
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
-      "total_points": 1350
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
+      "total_points": 1400
     },
     {
       "full_name": "Ira Haxhiu",
@@ -364,7 +364,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 3300,
+      "total_points": 3350,
       "num_users": 4
     },
     {
@@ -4296,6 +4296,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -4325,6 +4329,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
