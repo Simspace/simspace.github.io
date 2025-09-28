@@ -113,7 +113,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 800
+      "total_points": 900
     },
     {
       "full_name": "Orlin Balliu",
@@ -126,14 +126,14 @@
       "total_points": 550
     },
     {
-      "full_name": "Artea Myftiu",
+      "full_name": "Gliona Gjergjani",
       "university": "Universiteti New York Tirana",
       "total_points": 550
     },
     {
-      "full_name": "Gliona Gjergjani",
+      "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Leonard Dani",
@@ -354,7 +354,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 10300,
+      "total_points": 10350,
       "num_users": 6
     },
     {
@@ -364,7 +364,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5750,
+      "total_points": 5850,
       "num_users": 4
     },
     {
@@ -4430,6 +4430,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -4443,6 +4447,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 100
         }
       ]
@@ -8521,6 +8529,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -8534,6 +8546,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gliona Gjergjani",
           "challenge_points_earned": 50
         }
       ]
