@@ -13,7 +13,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 5600
+      "total_points": 5650
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -349,7 +349,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 10350,
+      "total_points": 10400,
       "num_users": 9
     },
     {
@@ -6339,6 +6339,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6356,6 +6360,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
