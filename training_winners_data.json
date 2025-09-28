@@ -133,7 +133,7 @@
     {
       "full_name": "Gliona Gjergjani",
       "university": "Universiteti New York Tirana",
-      "total_points": 450
+      "total_points": 500
     },
     {
       "full_name": "Leonard Dani",
@@ -354,7 +354,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 10250,
+      "total_points": 10300,
       "num_users": 6
     },
     {
@@ -3121,6 +3121,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3138,6 +3142,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gliona Gjergjani",
           "challenge_points_earned": 50
         }
       ]
