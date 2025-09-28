@@ -13,7 +13,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 5500
+      "total_points": 5600
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -349,7 +349,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 10250,
+      "total_points": 10350,
       "num_users": 9
     },
     {
@@ -5726,6 +5726,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5755,6 +5759,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
@@ -6032,6 +6040,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6077,6 +6089,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
