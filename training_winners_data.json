@@ -63,7 +63,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1850
+      "total_points": 1900
     },
     {
       "full_name": "Anisa Tabaku",
@@ -339,7 +339,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 10050,
+      "total_points": 10100,
       "num_users": 7
     },
     {
@@ -1955,6 +1955,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2008,6 +2012,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
