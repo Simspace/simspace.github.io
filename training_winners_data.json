@@ -13,7 +13,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 5300
+      "total_points": 5350
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -206,13 +206,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Flavio",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -221,13 +221,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 150
     },
     {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -246,8 +246,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 9700,
+      "total_points": 9800,
       "num_users": 6
     },
     {
@@ -2761,6 +2761,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2790,6 +2794,10 @@
         },
         {
           "full_name": "mnezha@uet.edu.al",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
@@ -3412,6 +3420,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3461,6 +3473,10 @@
         },
         {
           "full_name": "mnezha@uet.edu.al",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Flavio",
           "challenge_points_earned": 50
         }
       ]
