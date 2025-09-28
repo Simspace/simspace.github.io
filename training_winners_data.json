@@ -13,7 +13,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 5650
+      "total_points": 5700
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -106,14 +106,14 @@
       "total_points": 900
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Ergi Hysa",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 750
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 700
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 750
     },
     {
       "full_name": "Orlin Balliu",
@@ -349,7 +349,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 10400,
+      "total_points": 10500,
       "num_users": 9
     },
     {
@@ -6378,11 +6378,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
@@ -7094,6 +7102,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -7115,6 +7127,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 50
         }
       ]
