@@ -63,7 +63,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 1900
+      "total_points": 1950
     },
     {
       "full_name": "Anisa Tabaku",
@@ -206,8 +206,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Gliona Gjergjani",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
@@ -226,9 +226,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 150
     },
     {
       "full_name": "Redi Capoj",
@@ -236,8 +236,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -251,13 +251,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -266,8 +266,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -276,9 +276,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Gliona Gjergjani",
-      "university": "Universiteti New York Tirana",
-      "total_points": 50
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
     },
     {
       "full_name": "Blis Thano",
@@ -286,13 +286,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Kimberli Gjergjani",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
+      "full_name": "Kimberli Gjergjani",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
@@ -311,8 +311,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -344,7 +344,7 @@
   "universities": [
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 10750,
+      "total_points": 10800,
       "num_users": 9
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 9550,
+      "total_points": 9650,
       "num_users": 6
     },
     {
@@ -5592,6 +5592,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5605,6 +5609,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -7864,11 +7872,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Gliona Gjergjani",
           "challenge_points_earned": 100
         }
       ]
