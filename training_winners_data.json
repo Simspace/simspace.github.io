@@ -13,7 +13,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 5250
+      "total_points": 5300
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -334,7 +334,7 @@
     },
     {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 9650,
+      "total_points": 9700,
       "num_users": 6
     },
     {
@@ -2057,6 +2057,10 @@
         {
           "name": "Fakulteti i Ekonomise",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2102,6 +2106,10 @@
         },
         {
           "full_name": "Megea Vogli",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
