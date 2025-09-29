@@ -161,9 +161,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 300
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 350
     },
     {
       "full_name": "Megea Vogli",
@@ -176,13 +176,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Albina Doku",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -404,7 +404,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 900,
+      "total_points": 950,
       "num_users": 4
     },
     {
@@ -8656,6 +8656,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -8689,6 +8693,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kujtim Alimehmeti",
           "challenge_points_earned": 50
         }
       ]
