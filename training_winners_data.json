@@ -58,7 +58,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2400
+      "total_points": 2450
     },
     {
       "full_name": "Jurgen Rade ",
@@ -344,7 +344,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 11000,
+      "total_points": 11050,
       "num_users": 6
     },
     {
@@ -8503,6 +8503,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -8520,6 +8524,10 @@
         },
         {
           "full_name": "Flavio",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
