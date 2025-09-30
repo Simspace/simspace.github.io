@@ -63,7 +63,7 @@
     {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
-      "total_points": 2000
+      "total_points": 2100
     },
     {
       "full_name": "Arkel Lahi",
@@ -384,7 +384,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 3950,
+      "total_points": 4050,
       "num_users": 4
     },
     {
@@ -4774,6 +4774,10 @@
         {
           "name": "Universiteti Ushtarak i Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -4815,6 +4819,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 100
         }
       ]
