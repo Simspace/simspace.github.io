@@ -28,7 +28,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 4400
+      "total_points": 4500
     },
     {
       "full_name": "Tergita Sulaj",
@@ -373,14 +373,14 @@
       "num_users": 4
     },
     {
+      "university": "Epoka University",
+      "total_points": 4600,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 4550,
       "num_users": 3
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 4500,
-      "num_users": 2
     },
     {
       "university": "UET Maratona",
@@ -1953,6 +1953,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1974,6 +1978,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
