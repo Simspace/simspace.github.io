@@ -33,7 +33,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 4050
+      "total_points": 4150
     },
     {
       "full_name": "Orgito Leka",
@@ -374,7 +374,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 4450,
+      "total_points": 4550,
       "num_users": 3
     },
     {
@@ -3828,6 +3828,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3861,6 +3865,10 @@
         },
         {
           "full_name": "Kristo Do\u00e7i",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
