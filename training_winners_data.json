@@ -98,7 +98,7 @@
     {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
-      "total_points": 1300
+      "total_points": 1350
     },
     {
       "full_name": "Ergi Hysa",
@@ -384,7 +384,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 4150,
+      "total_points": 4200,
       "num_users": 4
     },
     {
@@ -1762,6 +1762,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -1787,6 +1791,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 50
         }
       ]
