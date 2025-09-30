@@ -63,7 +63,7 @@
     {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
-      "total_points": 2100
+      "total_points": 2200
     },
     {
       "full_name": "Arkel Lahi",
@@ -384,7 +384,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 4050,
+      "total_points": 4150,
       "num_users": 4
     },
     {
@@ -7646,6 +7646,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -7683,6 +7687,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 100
         }
       ]
