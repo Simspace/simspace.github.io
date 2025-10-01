@@ -106,19 +106,19 @@
       "total_points": 1000
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 900
-    },
-    {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
       "total_points": 900
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 900
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 700
+      "total_points": 750
     },
     {
       "full_name": "Gliona Gjergjani",
@@ -136,13 +136,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
       "total_points": 450
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 450
     },
     {
@@ -151,19 +151,24 @@
       "total_points": 400
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 400
     },
     {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
       "total_points": 350
+    },
+    {
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 300
     },
     {
       "full_name": "Albina Doku",
@@ -181,14 +186,14 @@
       "total_points": 300
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 300
-    },
-    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
+    },
+    {
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
     },
     {
       "full_name": "Kristo Do\u00e7i",
@@ -201,8 +206,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
@@ -211,23 +216,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 200
-    },
-    {
-      "full_name": "Santino Shero",
-      "university": "WBU",
-      "total_points": 150
-    },
-    {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
@@ -236,13 +231,23 @@
       "total_points": 150
     },
     {
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 150
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 100
+    },
+    {
       "full_name": "Metion Hoxhalli",
       "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -256,6 +261,11 @@
       "total_points": 100
     },
     {
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 100
+    },
+    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 100
@@ -263,11 +273,6 @@
     {
       "full_name": "Alvi Skita",
       "university": "UET Maratona",
-      "total_points": 100
-    },
-    {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -281,13 +286,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 100
-    },
-    {
       "full_name": "Blis Thano",
       "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
+      "total_points": 50
+    },
+    {
+      "full_name": "Ersi",
+      "university": "Herman Gmeiner",
       "total_points": 50
     },
     {
@@ -298,11 +308,6 @@
     {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
-    },
-    {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -399,8 +404,8 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 2550,
-      "num_users": 1
+      "total_points": 2600,
+      "num_users": 2
     },
     {
       "university": "Universiteti i Korces",
@@ -414,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 800,
+      "total_points": 850,
       "num_users": 2
     },
     {
@@ -6219,6 +6224,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -6268,6 +6277,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -8433,6 +8446,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -8478,6 +8495,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi",
           "challenge_points_earned": 50
         }
       ]
