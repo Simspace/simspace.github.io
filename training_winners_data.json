@@ -191,9 +191,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
-      "total_points": 200
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 250
     },
     {
       "full_name": "Daniel Kovi",
@@ -206,13 +206,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
       "total_points": 200
     },
     {
@@ -363,14 +363,14 @@
       "num_users": 6
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 10850,
+      "num_users": 9
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 10850,
       "num_users": 6
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 10800,
-      "num_users": 9
     },
     {
       "university": "Canadian Institute of Technology",
@@ -2549,6 +2549,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2586,6 +2590,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kristo Do\u00e7i",
           "challenge_points_earned": 50
         }
       ]
