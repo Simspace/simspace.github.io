@@ -108,7 +108,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 900
+      "total_points": 950
     },
     {
       "full_name": "Asim Lecini",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5900,
+      "total_points": 5950,
       "num_users": 4
     },
     {
@@ -3352,6 +3352,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3393,6 +3397,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
