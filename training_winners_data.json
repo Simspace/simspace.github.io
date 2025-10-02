@@ -76,14 +76,14 @@
       "total_points": 1950
     },
     {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1800
+    },
+    {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
       "total_points": 1750
-    },
-    {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1700
     },
     {
       "full_name": "Eneda Gjoka",
@@ -359,7 +359,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 11350,
+      "total_points": 11450,
       "num_users": 6
     },
     {
@@ -6973,6 +6973,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -6986,6 +6990,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
