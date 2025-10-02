@@ -86,6 +86,11 @@
       "total_points": 1750
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1700
+    },
+    {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1650
@@ -93,11 +98,6 @@
     {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
-      "total_points": 1600
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1600
     },
     {
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 6600,
+      "total_points": 6700,
       "num_users": 4
     },
     {
@@ -7894,6 +7894,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -7935,6 +7939,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 100
         }
       ]
