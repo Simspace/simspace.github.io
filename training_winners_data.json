@@ -103,7 +103,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Ergi Hysa",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 6350,
+      "total_points": 6400,
       "num_users": 4
     },
     {
@@ -6353,6 +6353,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -6406,6 +6410,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
