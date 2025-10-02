@@ -111,14 +111,14 @@
       "total_points": 1000
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 900
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 850
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
+      "total_points": 900
     },
     {
       "full_name": "Gliona Gjergjani",
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 950,
+      "total_points": 1000,
       "num_users": 2
     },
     {
@@ -2569,6 +2569,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2610,6 +2614,10 @@
         },
         {
           "full_name": "Kristo Do\u00e7i",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
