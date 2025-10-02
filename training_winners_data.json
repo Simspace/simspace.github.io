@@ -118,7 +118,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Gliona Gjergjani",
@@ -418,14 +418,14 @@
       "num_users": 3
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 950,
+      "num_users": 2
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 950,
       "num_users": 4
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 900,
-      "num_users": 2
     },
     {
       "university": "42 Coding",
@@ -2391,6 +2391,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2444,6 +2448,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
