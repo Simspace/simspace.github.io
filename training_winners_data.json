@@ -91,13 +91,13 @@
       "total_points": 1650
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1500
-    },
-    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
+      "total_points": 1550
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 1500
     },
     {
@@ -394,7 +394,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 4450,
+      "total_points": 4500,
       "num_users": 4
     },
     {
@@ -5999,6 +5999,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -6036,6 +6040,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 50
         }
       ]
