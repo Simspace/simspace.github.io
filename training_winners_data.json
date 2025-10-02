@@ -63,7 +63,7 @@
     {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
-      "total_points": 2300
+      "total_points": 2400
     },
     {
       "full_name": "Anisa Tabaku",
@@ -148,7 +148,7 @@
     {
       "full_name": "Kimberli Gjergjani",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
+      "total_points": 450
     },
     {
       "full_name": "Bamir Sina",
@@ -359,7 +359,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 11450,
+      "total_points": 11500,
       "num_users": 6
     },
     {
@@ -383,14 +383,14 @@
       "num_users": 4
     },
     {
+      "university": "UET Maratona",
+      "total_points": 4650,
+      "num_users": 4
+    },
+    {
       "university": "Epoka University",
       "total_points": 4600,
       "num_users": 2
-    },
-    {
-      "university": "UET Maratona",
-      "total_points": 4550,
-      "num_users": 4
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -3475,6 +3475,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3492,6 +3496,10 @@
         },
         {
           "full_name": "Alkridis Reci",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kimberli Gjergjani",
           "challenge_points_earned": 50
         }
       ]
@@ -5292,6 +5300,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -5317,6 +5329,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 100
         }
       ]
