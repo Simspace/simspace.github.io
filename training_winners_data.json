@@ -136,9 +136,9 @@
       "total_points": 550
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 450
+      "full_name": "Kimberli Gjergjani",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 500
     },
     {
       "full_name": "Arsi Hoxha",
@@ -146,8 +146,8 @@
       "total_points": 450
     },
     {
-      "full_name": "Kimberli Gjergjani",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 450
     },
     {
@@ -359,7 +359,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 11500,
+      "total_points": 11550,
       "num_users": 6
     },
     {
@@ -6845,6 +6845,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -6854,6 +6858,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kimberli Gjergjani",
           "challenge_points_earned": 50
         }
       ]
