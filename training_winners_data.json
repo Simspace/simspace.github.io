@@ -118,7 +118,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 750
+      "total_points": 800
     },
     {
       "full_name": "Artea Myftiu",
@@ -424,7 +424,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 850,
+      "total_points": 900,
       "num_users": 2
     },
     {
@@ -2280,6 +2280,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2321,6 +2325,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
