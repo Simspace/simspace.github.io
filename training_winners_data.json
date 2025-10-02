@@ -103,7 +103,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Ergi Hysa",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 6200,
+      "total_points": 6250,
       "num_users": 4
     },
     {
@@ -5445,6 +5445,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -5502,6 +5506,10 @@
         },
         {
           "full_name": "Barlind Bunga",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
