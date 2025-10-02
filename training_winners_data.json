@@ -38,7 +38,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3750
+      "total_points": 3800
     },
     {
       "full_name": "Ersi Dedaj",
@@ -399,7 +399,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3800,
+      "total_points": 3850,
       "num_users": 2
     },
     {
@@ -8877,6 +8877,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -8914,6 +8918,10 @@
         },
         {
           "full_name": "Kujtim Alimehmeti",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
