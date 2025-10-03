@@ -138,7 +138,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Kimberli Gjergjani",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 7000,
+      "total_points": 7050,
       "num_users": 4
     },
     {
@@ -6830,6 +6830,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -6859,6 +6863,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
