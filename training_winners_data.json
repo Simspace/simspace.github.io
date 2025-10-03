@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 6850
+      "total_points": 7150
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -364,7 +364,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 10900,
+      "total_points": 11200,
       "num_users": 6
     },
     {
@@ -4561,6 +4561,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -4574,6 +4578,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 300
         }
       ]
