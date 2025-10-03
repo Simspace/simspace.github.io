@@ -66,6 +66,11 @@
       "total_points": 2450
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 2200
+    },
+    {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2000
@@ -74,11 +79,6 @@
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1950
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1900
     },
     {
       "full_name": "Savina Shimi",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 7550,
+      "total_points": 7850,
       "num_users": 4
     },
     {
@@ -2870,6 +2870,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2891,6 +2895,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 300
         }
       ]
