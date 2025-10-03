@@ -28,7 +28,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 4500
+      "total_points": 4600
     },
     {
       "full_name": "Tergita Sulaj",
@@ -383,14 +383,14 @@
       "num_users": 4
     },
     {
+      "university": "Epoka University",
+      "total_points": 4700,
+      "num_users": 2
+    },
+    {
       "university": "UET Maratona",
       "total_points": 4700,
       "num_users": 4
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 4600,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -4055,6 +4055,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -4084,6 +4088,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
