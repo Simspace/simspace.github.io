@@ -91,14 +91,14 @@
       "total_points": 1750
     },
     {
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
+      "total_points": 1700
+    },
+    {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1650
-    },
-    {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
-      "total_points": 1600
     },
     {
       "full_name": "Gesa Comacka",
@@ -394,7 +394,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 4700,
+      "total_points": 4800,
       "num_users": 4
     },
     {
@@ -5574,6 +5574,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -5587,6 +5591,10 @@
         },
         {
           "full_name": "Gliona Gjergjani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
