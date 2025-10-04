@@ -18,7 +18,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5400
+      "total_points": 5450
     },
     {
       "full_name": "Orgito Leka",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 8300,
+      "total_points": 8350,
       "num_users": 4
     },
     {
@@ -6116,6 +6116,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -6153,6 +6157,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 50
         }
       ]
