@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 6050
+      "total_points": 6150
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -384,7 +384,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 6200,
+      "total_points": 6300,
       "num_users": 2
     },
     {
@@ -3665,6 +3665,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3690,6 +3694,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
