@@ -18,7 +18,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5600
+      "total_points": 5650
     },
     {
       "full_name": "Orgito Leka",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 8500,
+      "total_points": 8550,
       "num_users": 4
     },
     {
@@ -8459,6 +8459,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -8496,6 +8500,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 50
         }
       ]
