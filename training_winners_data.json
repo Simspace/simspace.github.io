@@ -21,14 +21,14 @@
       "total_points": 5350
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 4750
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 4700
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 4650
     },
     {
       "full_name": "Fatbardh Rama",
@@ -108,7 +108,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Ergi Hysa",
@@ -383,13 +383,13 @@
       "num_users": 4
     },
     {
-      "university": "Epoka University",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 4800,
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 4700,
+      "university": "Epoka University",
+      "total_points": 4800,
       "num_users": 2
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1300,
+      "total_points": 1350,
       "num_users": 2
     },
     {
@@ -4269,6 +4269,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4322,6 +4326,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -7668,6 +7676,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -7689,6 +7701,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
