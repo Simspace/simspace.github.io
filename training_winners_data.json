@@ -33,7 +33,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 4400
+      "total_points": 4450
     },
     {
       "full_name": "Tergita Sulaj",
@@ -108,7 +108,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1050
+      "total_points": 1100
     },
     {
       "full_name": "Ergi Hysa",
@@ -399,7 +399,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 4450,
+      "total_points": 4500,
       "num_users": 2
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1150,
+      "total_points": 1200,
       "num_users": 2
     },
     {
@@ -3507,6 +3507,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3532,6 +3536,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -8962,6 +8970,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -9003,6 +9015,10 @@
         },
         {
           "full_name": "Klerti Malaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
