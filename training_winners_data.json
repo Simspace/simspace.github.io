@@ -31,14 +31,14 @@
       "total_points": 4600
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 4400
+    },
+    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 4150
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 4100
     },
     {
       "full_name": "Ersi Dedaj",
@@ -399,7 +399,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 4150,
+      "total_points": 4450,
       "num_users": 2
     },
     {
@@ -3038,6 +3038,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3055,6 +3059,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 300
         }
       ]
