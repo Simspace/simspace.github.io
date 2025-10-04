@@ -51,6 +51,11 @@
       "total_points": 3050
     },
     {
+      "full_name": "Jurgen Rade ",
+      "university": "UET Maratona",
+      "total_points": 2750
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 2550
@@ -58,11 +63,6 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2450
-    },
-    {
-      "full_name": "Jurgen Rade ",
-      "university": "UET Maratona",
       "total_points": 2450
     },
     {
@@ -101,14 +101,14 @@
       "total_points": 1650
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 1500
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 1450
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 1500
     },
     {
       "full_name": "Ergi Hysa",
@@ -389,7 +389,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 5150,
+      "total_points": 5450,
       "num_users": 4
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1550,
+      "total_points": 1600,
       "num_users": 2
     },
     {
@@ -6145,6 +6145,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -6166,6 +6170,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -6846,6 +6854,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -6887,6 +6899,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 300
         }
       ]
