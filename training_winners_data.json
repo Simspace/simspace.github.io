@@ -23,7 +23,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 5050
+      "total_points": 5100
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -384,7 +384,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 5100,
+      "total_points": 5150,
       "num_users": 2
     },
     {
@@ -8951,6 +8951,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -9000,6 +9004,10 @@
         },
         {
           "full_name": "Ersi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
