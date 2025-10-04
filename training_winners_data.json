@@ -6,14 +6,14 @@
       "total_points": 7150
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 5900
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 5800
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 5900
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -384,7 +384,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 5950,
+      "total_points": 6050,
       "num_users": 2
     },
     {
@@ -6487,6 +6487,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -6504,6 +6508,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
