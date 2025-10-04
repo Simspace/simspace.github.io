@@ -103,7 +103,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1550
+      "total_points": 1600
     },
     {
       "full_name": "Gesa Comacka",
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1650,
+      "total_points": 1700,
       "num_users": 2
     },
     {
@@ -9617,6 +9617,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -9658,6 +9662,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
