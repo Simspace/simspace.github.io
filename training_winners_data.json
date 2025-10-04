@@ -71,13 +71,13 @@
       "total_points": 2200
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2000
-    },
-    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
+      "total_points": 2050
+    },
+    {
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2000
     },
     {
@@ -389,7 +389,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 5100,
+      "total_points": 5150,
       "num_users": 4
     },
     {
@@ -3946,6 +3946,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -3979,6 +3983,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 50
         }
       ]
