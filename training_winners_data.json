@@ -108,7 +108,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Ergi Hysa",
@@ -221,8 +221,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 150
     },
     {
@@ -231,8 +231,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
@@ -241,13 +241,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 150
     },
     {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -256,8 +256,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -276,8 +276,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -286,9 +286,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Nadia Kola",
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 50
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100
     },
     {
       "full_name": "Blis Thano",
@@ -321,13 +321,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Alkridis Reci",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Nadia Kola",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 50
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Alkridis Reci",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
@@ -384,7 +384,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 5650,
+      "total_points": 5750,
       "num_users": 2
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1450,
+      "total_points": 1500,
       "num_users": 2
     },
     {
@@ -5689,6 +5689,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -5750,6 +5754,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -7345,6 +7353,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -7362,6 +7374,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
