@@ -18,7 +18,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5250
+      "total_points": 5300
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -379,7 +379,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 8150,
+      "total_points": 8200,
       "num_users": 4
     },
     {
@@ -508,6 +508,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -537,6 +541,10 @@
         },
         {
           "full_name": "Kimberli Gjergjani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 50
         }
       ]
