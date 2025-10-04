@@ -108,7 +108,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1300
+      "total_points": 1350
     },
     {
       "full_name": "Ergi Hysa",
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 2
     },
     {
@@ -4901,6 +4901,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4922,6 +4926,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
