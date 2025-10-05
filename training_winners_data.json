@@ -113,7 +113,7 @@
     {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1050
+      "total_points": 1150
     },
     {
       "full_name": "Ergi Hysa",
@@ -246,9 +246,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
+      "total_points": 150
     },
     {
       "full_name": "Luka Allkoja ",
@@ -261,8 +261,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -384,7 +384,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 8550,
+      "total_points": 8650,
       "num_users": 2
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1950,
+      "total_points": 2000,
       "num_users": 3
     },
     {
@@ -948,6 +948,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -985,6 +989,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
@@ -1268,6 +1276,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -1325,6 +1337,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Luiz \u00c7ota",
           "challenge_points_earned": 50
         }
       ]
