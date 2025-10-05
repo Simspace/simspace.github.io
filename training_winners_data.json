@@ -53,7 +53,7 @@
     {
       "full_name": "Jurgen Rade ",
       "university": "UET Maratona",
-      "total_points": 3150
+      "total_points": 3250
     },
     {
       "full_name": "Enxhi Kala",
@@ -389,7 +389,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 5850,
+      "total_points": 5950,
       "num_users": 4
     },
     {
@@ -6048,6 +6048,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -6093,6 +6097,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 100
         }
       ]
