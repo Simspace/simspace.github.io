@@ -86,13 +86,13 @@
       "total_points": 2000
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1800
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 1900
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1800
     },
     {
@@ -413,14 +413,14 @@
       "num_users": 3
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 2000,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 1950,
       "num_users": 3
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 1900,
-      "num_users": 2
     },
     {
       "university": "Harry Fultz",
@@ -8522,6 +8522,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -8567,6 +8571,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
