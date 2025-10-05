@@ -96,14 +96,14 @@
       "total_points": 1750
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 1650
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 1600
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1650
     },
     {
       "full_name": "Gesa Comacka",
@@ -419,7 +419,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1700,
+      "total_points": 1750,
       "num_users": 2
     },
     {
@@ -9552,6 +9552,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -9577,6 +9581,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
