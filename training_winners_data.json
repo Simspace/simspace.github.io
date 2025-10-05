@@ -113,7 +113,7 @@
     {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1350
+      "total_points": 1450
     },
     {
       "full_name": "Ergi Hysa",
@@ -378,14 +378,14 @@
       "num_users": 5
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 8950,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 8950,
       "num_users": 4
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 8850,
-      "num_users": 2
     },
     {
       "university": "UET Maratona",
@@ -2071,6 +2071,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2096,6 +2100,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
