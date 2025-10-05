@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 6700
+      "total_points": 6750
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -384,7 +384,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 6850,
+      "total_points": 6900,
       "num_users": 2
     },
     {
@@ -8604,6 +8604,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -8637,6 +8641,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
