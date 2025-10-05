@@ -113,7 +113,7 @@
     {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1150
+      "total_points": 1250
     },
     {
       "full_name": "Ergi Hysa",
@@ -384,7 +384,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 8650,
+      "total_points": 8750,
       "num_users": 2
     },
     {
@@ -1031,6 +1031,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1060,6 +1064,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
