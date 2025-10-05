@@ -83,7 +83,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1950
+      "total_points": 2000
     },
     {
       "full_name": "Savina Shimi",
@@ -369,7 +369,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 10850,
+      "total_points": 10900,
       "num_users": 9
     },
     {
@@ -5475,6 +5475,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5484,6 +5488,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
