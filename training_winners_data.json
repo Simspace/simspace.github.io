@@ -31,6 +31,11 @@
       "total_points": 150
     },
     {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
@@ -38,11 +43,6 @@
     {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
       "total_points": 50
     },
     {
@@ -88,12 +88,12 @@
       "num_users": 1
     },
     {
-      "university": "Epoka University",
-      "total_points": 50,
+      "university": "Canadian Institute of Technology",
+      "total_points": 100,
       "num_users": 1
     },
     {
-      "university": "Canadian Institute of Technology",
+      "university": "Epoka University",
       "total_points": 50,
       "num_users": 1
     },
@@ -139,6 +139,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -160,6 +164,10 @@
         },
         {
           "full_name": "Sidrit Zela",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
