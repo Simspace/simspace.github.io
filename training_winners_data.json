@@ -1,14 +1,14 @@
 {
   "users": [
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 250
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 200
     },
     {
       "full_name": "Erona Hoxha",
@@ -43,13 +43,13 @@
   ],
   "universities": [
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 250,
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400,
       "num_users": 1
     },
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 200,
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -138,8 +138,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "8a9cb2ee-7857-4006-8028-d2206278c75c",
@@ -235,6 +245,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -248,6 +262,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
