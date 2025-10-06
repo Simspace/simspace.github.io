@@ -16,13 +16,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 150
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 150
     },
     {
@@ -31,9 +36,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 100
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 50
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -41,8 +46,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 50
     },
     {
@@ -68,6 +73,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 200,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 200,
       "num_users": 1
@@ -75,11 +85,6 @@
     {
       "university": "Tirana Business University",
       "total_points": 150,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 100,
       "num_users": 1
     },
     {
@@ -336,6 +341,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -353,6 +362,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
@@ -420,11 +433,19 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 50
         }
       ]
