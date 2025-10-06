@@ -11,13 +11,18 @@
       "total_points": 200
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 100
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
@@ -43,17 +48,22 @@
       "num_users": 1
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 100,
       "num_users": 1
     },
     {
-      "university": "Akademia e Forcave te Armatosura",
+      "university": "Canadian Institute of Technology",
       "total_points": 50,
       "num_users": 1
     },
     {
-      "university": "Canadian Institute of Technology",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50,
       "num_users": 1
     },
@@ -87,6 +97,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -96,6 +110,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
@@ -157,6 +175,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -182,6 +204,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 50
         }
       ]
@@ -298,6 +324,7 @@
     "3": 1.0,
     "4": 1.0,
     "5": 1.0,
-    "6": 1.0
+    "6": 1.0,
+    "7": 1.0
   }
 }
