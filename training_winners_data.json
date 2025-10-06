@@ -3,23 +3,33 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 150
+      "total_points": 200
     },
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 150
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 50
     }
   ],
   "universities": [
+    {
+      "university": "Universiteti i Shkodres",
+      "total_points": 200,
+      "num_users": 1
+    },
     {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 150,
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 150,
+      "university": "Tirana Business University",
+      "total_points": 50,
       "num_users": 1
     }
   ],
@@ -43,11 +53,19 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -158,8 +176,18 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "e501e858-ee6f-44e9-9c65-ffbfacf4c850",
