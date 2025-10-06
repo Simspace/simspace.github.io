@@ -3,7 +3,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Erona Hoxha",
@@ -14,6 +14,11 @@
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 100
+    },
+    {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
     },
     {
       "full_name": "Earta Joca",
@@ -29,7 +34,7 @@
   "universities": [
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -40,6 +45,11 @@
     {
       "university": "Tirana Business University",
       "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50,
       "num_users": 1
     },
     {
@@ -143,6 +153,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -164,6 +178,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
@@ -201,8 +219,18 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "797a5baa-5178-456d-87ce-6b9848b668cc",
@@ -269,6 +297,7 @@
     "2": 1.0,
     "3": 1.0,
     "4": 1.0,
-    "5": 1.0
+    "5": 1.0,
+    "6": 1.0
   }
 }
