@@ -6,13 +6,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 300
-    },
-    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
+      "total_points": 350
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -63,6 +63,11 @@
       "num_users": 1
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 350,
+      "num_users": 1
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350,
       "num_users": 2
@@ -71,11 +76,6 @@
       "university": "Universiteti New York Tirana",
       "total_points": 350,
       "num_users": 2
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 300,
-      "num_users": 1
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -501,6 +501,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -510,6 +514,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
