@@ -18,7 +18,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 300
+      "total_points": 350
     },
     {
       "full_name": "Orgito Leka",
@@ -63,13 +63,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti New York Tirana",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 450,
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400,
+      "university": "Universiteti New York Tirana",
+      "total_points": 450,
       "num_users": 2
     },
     {
@@ -521,6 +521,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -534,6 +538,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
