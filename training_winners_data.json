@@ -13,7 +13,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "total_points": 150
     },
     {
       "full_name": "Orlin Balliu",
@@ -49,7 +49,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100,
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -249,11 +249,19 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
