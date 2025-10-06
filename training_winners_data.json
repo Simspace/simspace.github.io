@@ -16,9 +16,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 200
     },
     {
       "full_name": "Earta Joca",
@@ -26,14 +26,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 100
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 150
     },
     {
       "full_name": "Savina Shimi",
@@ -73,9 +73,9 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti New York Tirana",
+      "university": "Canadian Institute of Technology",
       "total_points": 200,
-      "num_users": 2
+      "num_users": 1
     },
     {
       "university": "Universiteti i Shkodres",
@@ -83,13 +83,13 @@
       "num_users": 1
     },
     {
-      "university": "Tirana Business University",
-      "total_points": 150,
-      "num_users": 1
+      "university": "Universiteti New York Tirana",
+      "total_points": 200,
+      "num_users": 2
     },
     {
-      "university": "Canadian Institute of Technology",
-      "total_points": 100,
+      "university": "Tirana Business University",
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -306,6 +306,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -323,6 +327,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
