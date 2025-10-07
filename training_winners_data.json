@@ -23,7 +23,7 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 250
+      "total_points": 300
     },
     {
       "full_name": "Orgito Leka",
@@ -89,7 +89,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 250,
+      "total_points": 300,
       "num_users": 1
     },
     {
@@ -449,6 +449,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -474,6 +478,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
