@@ -11,14 +11,19 @@
       "total_points": 400
     },
     {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 350
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 250
     },
     {
       "full_name": "Orgito Leka",
@@ -28,11 +33,6 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 200
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
       "total_points": 200
     },
     {
@@ -48,6 +48,11 @@
     {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50
     },
     {
@@ -68,18 +73,23 @@
       "num_users": 1
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "university": "Universiteti New York Tirana",
       "total_points": 450,
       "num_users": 2
     },
     {
-      "university": "Universiteti New York Tirana",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 450,
       "num_users": 2
     },
     {
       "university": "Canadian Institute of Technology",
       "total_points": 350,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti i Shkodres",
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -93,13 +103,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 200,
+      "university": "Herman Gmeiner",
+      "total_points": 100,
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 100,
+      "university": "Epoka University",
+      "total_points": 50,
       "num_users": 1
     },
     {
@@ -108,7 +118,7 @@
       "num_users": 1
     },
     {
-      "university": "Epoka University",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50,
       "num_users": 1
     }
@@ -161,6 +171,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -194,6 +208,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
@@ -293,6 +311,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -330,6 +352,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Selim Cela",
           "challenge_points_earned": 50
         }
       ]
@@ -605,6 +631,7 @@
     "6": 1.0,
     "7": 1.0,
     "8": 1.0,
-    "9": 1.0
+    "9": 1.0,
+    "10": 1.0
   }
 }
