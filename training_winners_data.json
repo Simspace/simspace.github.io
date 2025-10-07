@@ -31,14 +31,14 @@
       "total_points": 250
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 200
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 100
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 200
     },
     {
       "full_name": "Savina Shimi",
@@ -104,7 +104,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 100,
+      "total_points": 200,
       "num_users": 1
     },
     {
@@ -390,6 +390,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -415,6 +419,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
