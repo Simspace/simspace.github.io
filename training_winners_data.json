@@ -53,7 +53,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 150
+      "total_points": 200
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -133,9 +133,9 @@
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450,
-      "num_users": 2
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 500,
+      "num_users": 3
     },
     {
       "university": "Epoka University",
@@ -143,14 +143,14 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 450,
-      "num_users": 3
-    },
-    {
       "university": "Tirana Business University",
       "total_points": 450,
       "num_users": 1
+    },
+    {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450,
+      "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
@@ -762,6 +762,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -803,6 +807,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
