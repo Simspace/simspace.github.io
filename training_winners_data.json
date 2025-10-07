@@ -6,14 +6,14 @@
       "total_points": 550
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 450
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 400
-    },
-    {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
     },
     {
       "full_name": "Elisa Zala",
@@ -21,8 +21,8 @@
       "total_points": 350
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 350
     },
     {
@@ -83,22 +83,22 @@
       "num_users": 1
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti New York Tirana",
       "total_points": 450,
       "num_users": 2
     },
     {
-      "university": "Canadian Institute of Technology",
-      "total_points": 350,
+      "university": "Tirana Business University",
+      "total_points": 450,
       "num_users": 1
     },
     {
-      "university": "Tirana Business University",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450,
+      "num_users": 2
+    },
+    {
+      "university": "Canadian Institute of Technology",
       "total_points": 350,
       "num_users": 1
     },
@@ -274,6 +274,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -287,6 +291,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
