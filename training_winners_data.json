@@ -11,13 +11,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 350
     },
     {
@@ -26,13 +26,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 200
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 200
     },
     {
@@ -43,6 +43,11 @@
     {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 50
     },
     {
@@ -83,12 +88,12 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
+      "university": "Tirana Business University",
       "total_points": 200,
       "num_users": 1
     },
     {
-      "university": "Tirana Business University",
+      "university": "Universiteti i Shkodres",
       "total_points": 200,
       "num_users": 1
     },
@@ -99,6 +104,11 @@
     },
     {
       "university": "Harry Fultz",
+      "total_points": 50,
+      "num_users": 1
+    },
+    {
+      "university": "Herman Gmeiner",
       "total_points": 50,
       "num_users": 1
     }
@@ -271,6 +281,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -304,6 +318,10 @@
         },
         {
           "full_name": "Kujtim Alimehmeti",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
@@ -578,6 +596,7 @@
     "5": 1.0,
     "6": 1.0,
     "7": 1.0,
-    "8": 1.0
+    "8": 1.0,
+    "9": 1.0
   }
 }
