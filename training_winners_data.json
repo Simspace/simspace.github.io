@@ -46,6 +46,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 150
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
@@ -66,6 +71,11 @@
       "total_points": 100
     },
     {
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50
@@ -76,18 +86,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 50
-    },
-    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
-      "total_points": 50
-    },
-    {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50
     }
   ],
@@ -133,6 +133,16 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 150,
+      "num_users": 1
+    },
+    {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 150,
+      "num_users": 2
+    },
+    {
       "university": "Epoka University",
       "total_points": 100,
       "num_users": 1
@@ -143,17 +153,7 @@
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 100,
-      "num_users": 2
-    },
-    {
       "university": "Harry Fultz",
-      "total_points": 50,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50,
       "num_users": 1
     }
@@ -489,6 +489,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -522,6 +526,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
@@ -564,6 +572,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -597,6 +609,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Selim Cela",
           "challenge_points_earned": 50
         }
       ]
