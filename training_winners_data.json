@@ -36,6 +36,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 100
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
@@ -43,11 +48,6 @@
     {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
       "total_points": 50
     },
     {
@@ -98,8 +98,8 @@
       "num_users": 1
     },
     {
-      "university": "Epoka University",
-      "total_points": 50,
+      "university": "Herman Gmeiner",
+      "total_points": 100,
       "num_users": 1
     },
     {
@@ -108,7 +108,7 @@
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
+      "university": "Epoka University",
       "total_points": 50,
       "num_users": 1
     }
@@ -157,6 +157,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -186,6 +190,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
