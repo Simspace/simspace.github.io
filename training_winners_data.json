@@ -6,14 +6,14 @@
       "total_points": 550
     },
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 500
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 450
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 400
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -103,19 +103,19 @@
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti New York Tirana",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 2
     },
     {
       "university": "Tirana Business University",
       "total_points": 450,
       "num_users": 1
+    },
+    {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450,
+      "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
@@ -791,6 +791,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -800,6 +804,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
