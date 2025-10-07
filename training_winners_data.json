@@ -21,13 +21,13 @@
       "total_points": 350
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 350
     },
     {
@@ -46,13 +46,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 100
+    },
+    {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -71,13 +76,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50
     },
     {
@@ -98,11 +103,6 @@
       "num_users": 2
     },
     {
-      "university": "Tirana Business University",
-      "total_points": 450,
-      "num_users": 1
-    },
-    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 450,
       "num_users": 2
@@ -113,19 +113,24 @@
       "num_users": 2
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 450,
+      "num_users": 1
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 350,
       "num_users": 1
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 350,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 300,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 300,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -144,6 +149,11 @@
     },
     {
       "university": "Harry Fultz",
+      "total_points": 50,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50,
       "num_users": 1
     }
@@ -376,6 +386,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -421,6 +435,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
@@ -698,6 +716,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -723,6 +745,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         }
       ]
@@ -770,6 +796,7 @@
     "8": 1.0,
     "9": 1.0,
     "10": 1.0,
-    "11": 1.0
+    "11": 1.0,
+    "12": 1.0
   }
 }
