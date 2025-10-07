@@ -61,14 +61,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Simeon Flamuraj",
+      "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 100
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 150
     },
     {
       "full_name": "Savina Shimi",
@@ -76,8 +76,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -86,9 +86,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -96,8 +96,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -144,7 +144,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 350,
+      "total_points": 450,
       "num_users": 3
     },
     {
@@ -896,6 +896,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -913,6 +917,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 100
         }
       ]
