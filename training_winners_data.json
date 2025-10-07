@@ -11,14 +11,19 @@
       "total_points": 500
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 450
+    },
+    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 450
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 450
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 350
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -28,11 +33,6 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 350
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
@@ -51,13 +51,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 150
     },
     {
@@ -66,18 +66,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
-    },
-    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
@@ -86,13 +81,23 @@
       "total_points": 100
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 50
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 100
     },
     {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 50
+    },
+    {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
@@ -154,8 +159,8 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 200,
-      "num_users": 1
+      "total_points": 250,
+      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -737,6 +742,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -774,6 +783,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
