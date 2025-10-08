@@ -36,13 +36,13 @@
       "total_points": 350
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 300
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
       "total_points": 300
     },
     {
@@ -51,12 +51,12 @@
       "total_points": 250
     },
     {
-      "full_name": "Lida Filipi",
+      "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
     {
-      "full_name": "Simeon Flamuraj",
+      "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
@@ -76,13 +76,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
@@ -91,8 +86,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 100
+    },
+    {
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -101,13 +101,18 @@
       "total_points": 50
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 50
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 50
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 50
     }
   ],
@@ -133,24 +138,24 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 550,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 550,
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 550,
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450,
       "num_users": 2
     },
     {
       "university": "Tirana Business University",
       "total_points": 450,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450,
-      "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
@@ -163,14 +168,14 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 150,
-      "num_users": 1
-    },
-    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150,
       "num_users": 2
+    },
+    {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 150,
+      "num_users": 1
     },
     {
       "university": "WBU",
@@ -179,6 +184,11 @@
     },
     {
       "university": "Harry Fultz",
+      "total_points": 50,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 50,
       "num_users": 1
     }
@@ -247,6 +257,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -296,6 +310,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
