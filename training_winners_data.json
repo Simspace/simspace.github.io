@@ -6,34 +6,44 @@
       "total_points": 550
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 500
-    },
-    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 400
-    },
-    {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 300
-    },
-    {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
-      "total_points": 250
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
+      "total_points": 500
     },
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 250
+      "total_points": 450
+    },
+    {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 450
+    },
+    {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 350
+    },
+    {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 350
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 350
+    },
+    {
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 300
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 300
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -46,14 +56,19 @@
       "total_points": 200
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 200
-    },
-    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
+    },
+    {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 200
+    },
+    {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 150
     },
     {
       "full_name": "Tergita Sulaj",
@@ -61,23 +76,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 150
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 100
-    },
-    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
@@ -86,8 +91,23 @@
       "total_points": 100
     },
     {
-      "full_name": "Anisa Tabaku",
+      "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 50
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50
     }
   ],
@@ -98,48 +118,48 @@
       "num_users": 1
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 550,
+      "num_users": 2
+    },
+    {
       "university": "Epoka University",
-      "total_points": 500,
+      "total_points": 550,
       "num_users": 2
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 500,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500,
-      "num_users": 3
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 400,
+      "total_points": 550,
       "num_users": 2
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 400,
-      "num_users": 1
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 550,
+      "num_users": 3
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 300,
+      "university": "Universiteti New York Tirana",
+      "total_points": 550,
       "num_users": 2
     },
     {
       "university": "Tirana Business University",
-      "total_points": 250,
+      "total_points": 450,
       "num_users": 1
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
-      "total_points": 200,
+      "total_points": 350,
       "num_users": 1
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 150,
+      "total_points": 300,
       "num_users": 1
     },
     {
@@ -149,12 +169,17 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 100,
-      "num_users": 1
+      "total_points": 150,
+      "num_users": 2
     },
     {
       "university": "WBU",
       "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Harry Fultz",
+      "total_points": 50,
       "num_users": 1
     }
   ],
@@ -163,7 +188,7 @@
       "package_id": "eb910e96-235f-4452-9117-54280535f8c0",
       "package_name": "Analytics for Hunting SMB-based Lateral Movement",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -172,11 +197,15 @@
       "package_id": "b54905ee-ff0f-4e96-afc8-6cd4296120ef",
       "package_name": "Cyber Kill Chain\u00ae",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
         {
           "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
+        },
+        {
+          "name": "Tirana Business University",
           "users": 1
         },
         {
@@ -188,11 +217,31 @@
           "users": 1
         },
         {
+          "name": "Epoka University",
+          "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        },
+        {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
         },
         {
+          "name": "Herman Gmeiner",
+          "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        },
+        {
           "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
         },
         {
@@ -206,6 +255,10 @@
           "challenge_points_earned": 50
         },
         {
+          "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
           "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         },
@@ -214,11 +267,31 @@
           "challenge_points_earned": 50
         },
         {
+          "full_name": "Sidrit Zela",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
           "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         },
         {
+          "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         },
         {
@@ -231,7 +304,7 @@
       "package_id": "efd1e31e-f1dd-456a-98b3-54b242d3b25b",
       "package_name": "Incident Identification and Prioritization Challenge: Plug and Play",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -240,7 +313,7 @@
       "package_id": "5905730e-40fc-4a7d-b007-070c772a6139",
       "package_name": "Invoke-PSImage: Steganography",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
         {
@@ -248,7 +321,15 @@
           "users": 1
         },
         {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
           "name": "Universiteti New York Tirana",
+          "users": 1
+        },
+        {
+          "name": "Tirana Business University",
           "users": 1
         },
         {
@@ -274,7 +355,15 @@
           "challenge_points_earned": 100
         },
         {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         },
         {
@@ -299,7 +388,7 @@
       "package_id": "8a9cb2ee-7857-4006-8028-d2206278c75c",
       "package_name": "MITRE ATT&CK Visualization - Tutorial",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -308,9 +397,13 @@
       "package_id": "e5a3cd4c-d31a-4377-a910-8ceed9743724",
       "package_name": "Open-Source Intelligence (OSINT): Introduction",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        },
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
@@ -336,6 +429,14 @@
           "users": 1
         },
         {
+          "name": "Harry Fultz",
+          "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
+        },
+        {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
         },
@@ -353,6 +454,10 @@
         }
       ],
       "users": [
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
         {
           "full_name": "Orgito Leka",
           "challenge_points_earned": 50
@@ -374,7 +479,15 @@
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Anisa Tabaku",
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kujtim Alimehmeti",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         },
         {
@@ -399,7 +512,7 @@
       "package_id": "23ca76a3-1dcc-4d82-9eba-120fa9c253e2",
       "package_name": "Sigma: Introduction",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
         {
@@ -498,7 +611,7 @@
       "package_id": "308d5f4d-aa0d-43c1-9f58-863cdc4c0c5d",
       "package_name": "SOC: Threat Hunting",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
         {
@@ -597,7 +710,7 @@
       "package_id": "797a5baa-5178-456d-87ce-6b9848b668cc",
       "package_name": "Splunk Boss of the SOC V1",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -606,7 +719,7 @@
       "package_id": "b454136d-ed7e-48d4-9387-420c073e0b15",
       "package_name": "Splunk Boss of the SOC V2",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -615,11 +728,23 @@
       "package_id": "9d73e77c-890e-4565-b018-3f5e0afe7be2",
       "package_name": "Threat Hunting with MITRE ATT&CK",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
         {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        },
+        {
           "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "Tirana Business University",
           "users": 1
         },
         {
@@ -635,17 +760,37 @@
           "users": 1
         },
         {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
+        },
+        {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
         },
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         },
         {
@@ -661,11 +806,19 @@
           "challenge_points_earned": 50
         },
         {
+          "full_name": "Jonalda Gjoka ",
+          "challenge_points_earned": 50
+        },
+        {
           "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
@@ -674,11 +827,15 @@
       "package_id": "e501e858-ee6f-44e9-9c65-ffbfacf4c850",
       "package_name": "Threat Hunting with Splunk",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
         {
           "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
           "users": 1
         },
         {
@@ -694,6 +851,10 @@
           "users": 1
         },
         {
+          "name": "Herman Gmeiner",
+          "users": 1
+        },
+        {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
         },
@@ -709,6 +870,10 @@
       "users": [
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 50
         },
         {
@@ -724,7 +889,11 @@
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Orgito Leka",
+          "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         },
         {
@@ -732,7 +901,7 @@
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Lida Filipi",
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 50
         }
       ]
@@ -741,11 +910,19 @@
       "package_id": "172da1cf-47b5-4176-8b7c-69ad8528b63b",
       "package_name": "Unsecured Credentials: MITRE ATT&CK\u00ae Purple",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "October 6, 2025, 12:00 AM",
       "universities": [
         {
           "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
           "users": 1
         },
         {
@@ -764,6 +941,14 @@
       "users": [
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         },
         {
@@ -796,6 +981,8 @@
     "8": 1.0,
     "9": 1.0,
     "10": 1.0,
-    "11": 1.0
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0
   }
 }
