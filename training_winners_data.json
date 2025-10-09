@@ -71,8 +71,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 150
     },
     {
@@ -81,9 +81,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 150
     },
     {
       "full_name": "Savina Shimi",
@@ -91,13 +91,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
@@ -106,13 +101,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -121,13 +121,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 50
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50
     }
   ],
@@ -183,6 +183,11 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 200,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 200,
       "num_users": 1
@@ -195,11 +200,6 @@
     {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150,
-      "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 100,
       "num_users": 2
     },
     {
@@ -607,6 +607,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -652,6 +656,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
