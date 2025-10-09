@@ -61,6 +61,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 200
+    },
+    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
@@ -69,11 +74,6 @@
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 150
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -184,7 +184,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 2
     },
     {
@@ -722,6 +722,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -775,6 +779,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
