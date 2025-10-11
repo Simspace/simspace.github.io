@@ -91,9 +91,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 150
     },
     {
       "full_name": "Savina Shimi",
@@ -101,8 +101,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
@@ -111,23 +111,23 @@
       "total_points": 100
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 100
-    },
-    {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 200,
+      "total_points": 300,
       "num_users": 2
     },
     {
@@ -645,6 +645,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -694,6 +698,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
