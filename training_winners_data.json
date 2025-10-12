@@ -71,6 +71,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 200
+    },
+    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
@@ -79,11 +84,6 @@
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 200
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 150
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -198,14 +198,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 350,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 300,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300,
-      "num_users": 2
     },
     {
       "university": "WBU",
@@ -1020,6 +1020,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1065,6 +1069,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
