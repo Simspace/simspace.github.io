@@ -13,7 +13,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
+      "total_points": 500
     },
     {
       "full_name": "Earta Joca",
@@ -133,14 +133,14 @@
   ],
   "universities": [
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 650,
+      "num_users": 3
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 550,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 550,
-      "num_users": 3
     },
     {
       "university": "Epoka University",
@@ -1065,11 +1065,19 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 100
         }
       ]
