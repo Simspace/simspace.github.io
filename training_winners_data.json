@@ -6,6 +6,11 @@
       "total_points": 700
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 650
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 600
@@ -14,11 +19,6 @@
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 600
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 550
     },
     {
       "full_name": "Fran\u00e7esko Shahinasi",
@@ -168,8 +168,8 @@
       "num_users": 2
     },
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 550,
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 650,
       "num_users": 1
     },
     {
@@ -183,7 +183,7 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 550,
       "num_users": 1
     },
@@ -1245,8 +1245,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "00ca558e-64f0-40e5-8372-8f6d6fd611a0",
