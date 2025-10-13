@@ -11,23 +11,23 @@
       "total_points": 650
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 600
-    },
-    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 600
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 550
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 600
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
+      "total_points": 600
+    },
+    {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 550
     },
     {
@@ -51,8 +51,8 @@
       "total_points": 350
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300
     },
     {
@@ -61,14 +61,14 @@
       "total_points": 300
     },
     {
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 300
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 250
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 200
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -76,13 +76,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 200
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
     {
@@ -178,14 +178,14 @@
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 550,
-      "num_users": 2
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 650,
+      "num_users": 3
     },
     {
-      "university": "Epoka University",
-      "total_points": 550,
-      "num_users": 2
+      "university": "Universiteti i Shkodres",
+      "total_points": 600,
+      "num_users": 1
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -198,14 +198,14 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "Epoka University",
       "total_points": 550,
-      "num_users": 3
+      "num_users": 2
     },
     {
-      "university": "Universiteti i Shkodres",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 550,
-      "num_users": 1
+      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -1383,6 +1383,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1400,6 +1404,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
@@ -1540,11 +1548,19 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Gerint Halili",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
