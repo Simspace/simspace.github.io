@@ -21,23 +21,23 @@
       "total_points": 400
     },
     {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 350
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 300
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 250
-    },
-    {
-      "full_name": "Sidrit Zela",
+      "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 250
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 250
     },
     {
@@ -46,14 +46,14 @@
       "total_points": 250
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 250
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 200
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 250
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -76,19 +76,14 @@
       "total_points": 200
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 200
+    },
+    {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 150
-    },
-    {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 100
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -98,6 +93,11 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 100
+    },
+    {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -111,23 +111,23 @@
       "total_points": 100
     },
     {
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 100
     },
     {
-      "full_name": "Endi Gjyli",
-      "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 50
+    },
+    {
+      "full_name": "Endi Gjyli",
+      "university": "Harry Fultz",
       "total_points": 50
     }
   ],
@@ -138,19 +138,24 @@
       "num_users": 3
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 600,
+      "num_users": 3
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 550,
+      "num_users": 1
+    },
+    {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 500,
       "num_users": 1
     },
     {
       "university": "Epoka University",
       "total_points": 500,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 500,
-      "num_users": 1
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -163,19 +168,14 @@
       "num_users": 2
     },
     {
-      "university": "Canadian Institute of Technology",
-      "total_points": 400,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti New York Tirana",
       "total_points": 400,
       "num_users": 1
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 300,
-      "num_users": 3
+      "university": "Canadian Institute of Technology",
+      "total_points": 400,
+      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -1016,8 +1016,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Harry Fultz",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "e3bccdb8-8e0d-4be2-9906-240351e9e40c",
