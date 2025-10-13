@@ -38,7 +38,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -173,17 +173,17 @@
       "num_users": 3
     },
     {
-      "university": "Epoka University",
-      "total_points": 850,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 850,
+      "total_points": 900,
       "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
+      "total_points": 850,
+      "num_users": 2
+    },
+    {
+      "university": "Epoka University",
       "total_points": 850,
       "num_users": 2
     },
@@ -1530,6 +1530,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1543,6 +1547,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
