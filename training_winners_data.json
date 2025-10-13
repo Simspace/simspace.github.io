@@ -1435,9 +1435,9 @@
       "users": []
     },
     {
-      "package_id": "40ff545df-a9af-4177-a15b-be207566c382",
-      "package_name": "",
-      "difficulty": "",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_name": "Windows Management Instrumentation (WMI)",
+      "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
       "universities": [],
@@ -1445,7 +1445,6 @@
     }
   ],
   "difficulty_points": {
-    "": 0,
     "advanced": 300,
     "foundational": 50,
     "intermediate": 100
