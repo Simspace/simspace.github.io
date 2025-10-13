@@ -16,13 +16,18 @@
       "total_points": 500
     },
     {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 450
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 400
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 350
     },
     {
@@ -33,11 +38,6 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 250
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
       "total_points": 250
     },
     {
@@ -133,13 +133,13 @@
   ],
   "universities": [
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 650,
+      "university": "Harry Fultz",
+      "total_points": 700,
       "num_users": 3
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 600,
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 650,
       "num_users": 3
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 250,
+      "total_points": 350,
       "num_users": 1
     },
     {
@@ -1053,8 +1053,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "37781abc-4798-427b-b12b-91d5c7a203a8",
@@ -1079,6 +1089,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1088,6 +1102,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
         }
       ]
@@ -1116,8 +1134,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "5b3cce15-5a74-435e-9bd7-0abb66c905ad",
