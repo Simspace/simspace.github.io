@@ -43,7 +43,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 400
+      "total_points": 450
     },
     {
       "full_name": "Enxhi Kala",
@@ -179,7 +179,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 750,
+      "total_points": 800,
       "num_users": 3
     },
     {
@@ -1365,6 +1365,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1382,6 +1386,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
