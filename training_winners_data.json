@@ -96,8 +96,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150
     },
     {
@@ -106,9 +106,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Savina Shimi",
+      "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
+      "total_points": 150
     },
     {
       "full_name": "Ergi Kokoneshi",
@@ -116,8 +116,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
@@ -126,8 +126,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
@@ -223,13 +223,13 @@
       "num_users": 1
     },
     {
-      "university": "WBU",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200,
       "num_users": 2
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 150,
+      "university": "WBU",
+      "total_points": 200,
       "num_users": 2
     },
     {
@@ -1369,6 +1369,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1390,6 +1394,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Selim Cela",
           "challenge_points_earned": 50
         }
       ]
