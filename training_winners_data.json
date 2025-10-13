@@ -11,19 +11,14 @@
       "total_points": 650
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 600
-    },
-    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 600
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 550
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 600
     },
     {
       "full_name": "Fran\u00e7esko Shahinasi",
@@ -31,13 +26,18 @@
       "total_points": 550
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 450
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 550
     },
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 450
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 450
     },
     {
@@ -86,6 +86,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 150
+    },
+    {
       "full_name": "Ira Haxhiu",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 150
@@ -96,23 +101,23 @@
       "total_points": 150
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
-    },
-    {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
-    },
-    {
       "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 100
+    },
+    {
+      "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
@@ -126,18 +131,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 100
-    },
-    {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
       "total_points": 50
     },
     {
@@ -146,8 +141,18 @@
       "total_points": 50
     },
     {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 50
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 50
+    },
+    {
+      "full_name": "Gerint Halili",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 50
     }
   ],
@@ -159,7 +164,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 900,
+      "total_points": 950,
       "num_users": 4
     },
     {
@@ -169,8 +174,8 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 650,
-      "num_users": 1
+      "total_points": 700,
+      "num_users": 2
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -1468,6 +1473,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1477,6 +1486,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
@@ -1505,8 +1518,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Gerint Halili",
+          "challenge_points_earned": 50
+        }
+      ]
     }
   ],
   "difficulty_points": {
