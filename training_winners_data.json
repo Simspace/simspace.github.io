@@ -16,6 +16,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 550
+    },
+    {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 550
@@ -26,18 +31,13 @@
       "total_points": 500
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 450
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 450
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 450
+    },
+    {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 450
     },
     {
@@ -183,14 +183,19 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 550,
-      "num_users": 3
+      "num_users": 1
     },
     {
       "university": "Canadian Institute of Technology",
       "total_points": 550,
       "num_users": 2
+    },
+    {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 550,
+      "num_users": 3
     },
     {
       "university": "Universiteti i Shkodres",
@@ -199,11 +204,6 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 450,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 450,
       "num_users": 1
     },
@@ -1356,6 +1356,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1369,6 +1373,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
