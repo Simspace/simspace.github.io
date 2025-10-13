@@ -21,14 +21,14 @@
       "total_points": 600
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 550
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 500
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 550
     },
     {
       "full_name": "Orlin Balliu",
@@ -199,7 +199,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 500,
+      "total_points": 550,
       "num_users": 1
     },
     {
@@ -1211,11 +1211,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
