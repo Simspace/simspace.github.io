@@ -26,8 +26,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 250
     },
     {
@@ -41,6 +41,11 @@
       "total_points": 250
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 250
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 250
@@ -48,11 +53,6 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 200
-    },
-    {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
       "total_points": 200
     },
     {
@@ -66,14 +66,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 200
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 150
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 200
     },
     {
       "full_name": "Mateo Nezha",
@@ -178,14 +178,19 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "university": "Universiteti i Shkodres",
       "total_points": 250,
-      "num_users": 2
+      "num_users": 1
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 250,
       "num_users": 1
+    },
+    {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 250,
+      "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
@@ -196,11 +201,6 @@
       "university": "WBU",
       "total_points": 200,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 150,
-      "num_users": 1
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -1061,8 +1061,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "34e1f34c-1b1b-4a5c-9f8a-0229471a6944",
