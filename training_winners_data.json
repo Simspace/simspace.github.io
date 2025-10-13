@@ -21,13 +21,13 @@
       "total_points": 650
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 600
-    },
-    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 650
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 600
     },
     {
@@ -168,12 +168,12 @@
       "num_users": 2
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 950,
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1000,
       "num_users": 3
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "Harry Fultz",
       "total_points": 950,
       "num_users": 3
     },
@@ -1617,6 +1617,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1630,6 +1634,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
