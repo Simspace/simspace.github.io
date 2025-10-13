@@ -16,14 +16,14 @@
       "total_points": 500
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 450
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 400
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 450
     },
     {
       "full_name": "Erona Hoxha",
@@ -169,7 +169,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 400,
+      "total_points": 450,
       "num_users": 1
     },
     {
@@ -1057,11 +1057,19 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
