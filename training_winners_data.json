@@ -41,14 +41,14 @@
       "total_points": 500
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 450
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 400
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 450
     },
     {
       "full_name": "Sidrit Zela",
@@ -173,7 +173,7 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
+      "university": "Epoka University",
       "total_points": 850,
       "num_users": 2
     },
@@ -183,8 +183,8 @@
       "num_users": 3
     },
     {
-      "university": "Epoka University",
-      "total_points": 800,
+      "university": "Universiteti New York Tirana",
+      "total_points": 850,
       "num_users": 2
     },
     {
@@ -1240,6 +1240,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1249,6 +1253,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
