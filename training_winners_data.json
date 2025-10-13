@@ -3,7 +3,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 900
+      "total_points": 950
     },
     {
       "full_name": "Earta Joca",
@@ -68,7 +68,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 250
+      "total_points": 300
     },
     {
       "full_name": "Mateo Nezha",
@@ -164,7 +164,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1000,
+      "total_points": 1050,
       "num_users": 2
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 650,
+      "total_points": 700,
       "num_users": 2
     },
     {
@@ -1204,8 +1204,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "c90fc26d-3476-4a8a-9912-d8fb1b621bf8",
@@ -1492,6 +1502,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1501,6 +1515,10 @@
         },
         {
           "full_name": "Daniel Kovi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
