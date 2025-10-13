@@ -71,13 +71,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 200
-    },
-    {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 250
+    },
+    {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
@@ -213,14 +213,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 350,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 350,
-      "num_users": 2
     },
     {
       "university": "WBU",
@@ -1335,6 +1335,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1348,6 +1352,10 @@
         },
         {
           "full_name": "Daniel Kovi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
