@@ -1108,6 +1108,15 @@
       "release_date": "October 13, 2025, 12:00 AM",
       "universities": [],
       "users": []
+    },
+    {
+      "package_id": "471de8fd-875a-47a1-8857-efc1c433d617",
+      "package_name": "Windows Management and Instrumentation Challenge",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 13, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
