@@ -46,14 +46,14 @@
       "total_points": 450
     },
     {
-      "full_name": "Sidrit Zela",
+      "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 400
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 350
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 400
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -61,13 +61,13 @@
       "total_points": 350
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 300
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 350
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
@@ -183,12 +183,12 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 700,
+      "university": "Epoka University",
+      "total_points": 800,
       "num_users": 2
     },
     {
-      "university": "Epoka University",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 700,
       "num_users": 2
     },
@@ -1290,6 +1290,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1303,6 +1307,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
