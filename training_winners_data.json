@@ -41,14 +41,14 @@
       "total_points": 600
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 550
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 500
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 550
     },
     {
       "full_name": "Orlin Balliu",
@@ -183,14 +183,14 @@
       "num_users": 2
     },
     {
+      "university": "Epoka University",
+      "total_points": 950,
+      "num_users": 2
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 950,
       "num_users": 3
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 900,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -1652,6 +1652,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1665,6 +1669,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
