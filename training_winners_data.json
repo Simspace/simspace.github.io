@@ -81,14 +81,14 @@
       "total_points": 400
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 400
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 350
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 300
     },
     {
       "full_name": "Fatbardh Rama",
@@ -193,19 +193,19 @@
       "num_users": 2
     },
     {
-      "university": "Canadian Institute of Technology",
-      "total_points": 1050,
-      "num_users": 2
-    },
-    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1050,
       "num_users": 2
     },
     {
       "university": "Harry Fultz",
-      "total_points": 950,
+      "total_points": 1050,
       "num_users": 3
+    },
+    {
+      "university": "Canadian Institute of Technology",
+      "total_points": 1050,
+      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -1446,6 +1446,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1475,6 +1479,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
