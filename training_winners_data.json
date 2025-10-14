@@ -96,8 +96,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 200
+    },
+    {
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
@@ -106,13 +111,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
@@ -163,14 +163,14 @@
   ],
   "universities": [
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1550,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1500,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1500,
-      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -1905,6 +1905,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1926,6 +1930,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 50
         }
       ]
