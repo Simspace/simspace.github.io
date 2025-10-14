@@ -131,13 +131,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 850,
+      "total_points": 900,
       "num_users": 2
     },
     {
@@ -1254,6 +1254,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -1267,6 +1271,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 50
         }
       ]
