@@ -126,6 +126,11 @@
       "total_points": 150
     },
     {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 150
+    },
+    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 100
@@ -133,11 +138,6 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
@@ -199,6 +199,11 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1100,
+      "num_users": 2
+    },
+    {
+      "university": "Canadian Institute of Technology",
       "total_points": 1050,
       "num_users": 2
     },
@@ -206,11 +211,6 @@
       "university": "Harry Fultz",
       "total_points": 1050,
       "num_users": 3
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 1050,
-      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -1346,6 +1346,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1383,6 +1387,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         }
       ]
