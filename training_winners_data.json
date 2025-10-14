@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1600
+      "total_points": 1650
     },
     {
       "full_name": "Elisa Zala",
@@ -43,7 +43,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 650
+      "total_points": 700
     },
     {
       "full_name": "Artea Myftiu",
@@ -174,7 +174,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1750,
+      "total_points": 1800,
       "num_users": 2
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 700,
+      "total_points": 750,
       "num_users": 2
     },
     {
@@ -1645,6 +1645,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1682,6 +1686,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
@@ -2076,6 +2084,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2101,6 +2113,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
