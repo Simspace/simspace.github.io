@@ -101,6 +101,11 @@
       "total_points": 150
     },
     {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 150
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
@@ -109,11 +114,6 @@
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
-    },
-    {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 100
     },
     {
       "full_name": "Savina Shimi",
@@ -131,8 +131,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 900,
+      "total_points": 950,
       "num_users": 2
     },
     {
@@ -1740,6 +1740,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -1753,6 +1757,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 50
         }
       ]
