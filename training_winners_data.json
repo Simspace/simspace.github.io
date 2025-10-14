@@ -41,6 +41,11 @@
       "total_points": 550
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 500
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 450
@@ -83,11 +88,6 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 200
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
     {
@@ -163,14 +163,14 @@
       "num_users": 4
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1300,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1050,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1000,
-      "num_users": 3
     },
     {
       "university": "Harry Fultz",
@@ -1360,6 +1360,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1373,6 +1377,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 300
         }
       ]
