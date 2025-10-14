@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1150
+      "total_points": 1250
     },
     {
       "full_name": "Elisa Zala",
@@ -66,6 +66,11 @@
       "total_points": 550
     },
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 500
+    },
+    {
       "full_name": "Sidrit Zela",
       "university": "Epoka University",
       "total_points": 400
@@ -94,11 +99,6 @@
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 250
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 200
     },
     {
       "full_name": "Selim Cela",
@@ -179,7 +179,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1300,
+      "total_points": 1400,
       "num_users": 2
     },
     {
@@ -198,6 +198,11 @@
       "num_users": 3
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 850,
+      "num_users": 2
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 850,
       "num_users": 1
@@ -211,11 +216,6 @@
       "university": "Universiteti i Shkodres",
       "total_points": 600,
       "num_users": 1
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 550,
-      "num_users": 2
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -1487,6 +1487,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -1508,6 +1512,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 300
         }
       ]
@@ -1867,8 +1875,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "cceeee17-35cd-430f-8809-184860836be3",
