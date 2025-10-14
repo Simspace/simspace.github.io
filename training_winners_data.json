@@ -126,24 +126,24 @@
       "total_points": 100
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 100
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 50
     },
     {
       "full_name": "Leonard Dani",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 2
     },
     {
@@ -1279,6 +1279,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1296,6 +1300,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
