@@ -26,6 +26,11 @@
       "total_points": 800
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 750
+    },
+    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 750
@@ -46,11 +51,6 @@
       "total_points": 650
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 650
-    },
-    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 600
@@ -63,7 +63,7 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 450
+      "total_points": 550
     },
     {
       "full_name": "Sidrit Zela",
@@ -164,7 +164,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1900,
+      "total_points": 2000,
       "num_users": 3
     },
     {
@@ -193,14 +193,14 @@
       "num_users": 3
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 900,
+      "num_users": 2
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 850,
       "num_users": 1
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 800,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -1401,6 +1401,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1422,6 +1426,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
@@ -1623,8 +1631,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "e15ed13b-c066-4c92-a041-d9562413c347",
