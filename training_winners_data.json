@@ -11,6 +11,11 @@
       "total_points": 950
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 850
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 800
@@ -19,11 +24,6 @@
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 800
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 750
     },
     {
       "full_name": "Lida Filipi",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -1614,6 +1614,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1643,6 +1647,10 @@
         },
         {
           "full_name": "Eneda Gjoka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
