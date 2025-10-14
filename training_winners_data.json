@@ -36,13 +36,13 @@
       "total_points": 750
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
-    },
-    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 750
+    },
+    {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 700
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 750,
+      "total_points": 800,
       "num_users": 2
     },
     {
@@ -1312,6 +1312,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1341,6 +1345,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
