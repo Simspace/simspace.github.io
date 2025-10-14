@@ -16,9 +16,9 @@
       "total_points": 800
     },
     {
-      "full_name": "Simeon Flamuraj",
+      "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650
+      "total_points": 700
     },
     {
       "full_name": "Tergita Sulaj",
@@ -26,13 +26,13 @@
       "total_points": 650
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 600
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 650
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 600
     },
     {
@@ -169,7 +169,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1400,
+      "total_points": 1500,
       "num_users": 3
     },
     {
@@ -1306,6 +1306,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1315,6 +1319,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 100
         }
       ]
