@@ -46,13 +46,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 450
-    },
-    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
+      "total_points": 500
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 450
     },
     {
@@ -76,13 +76,18 @@
       "total_points": 300
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 250
+    },
+    {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 250
     },
     {
@@ -91,8 +96,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
@@ -106,13 +111,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
-    },
-    {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
     },
     {
@@ -173,6 +173,11 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 1050,
+      "num_users": 2
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1050,
       "num_users": 2
@@ -183,13 +188,8 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 950,
-      "num_users": 2
-    },
-    {
       "university": "Epoka University",
-      "total_points": 850,
+      "total_points": 900,
       "num_users": 2
     },
     {
@@ -1302,11 +1302,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 100
         }
       ]
@@ -1454,6 +1462,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1479,6 +1491,10 @@
         },
         {
           "full_name": "Selim Cela",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
