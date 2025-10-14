@@ -36,14 +36,14 @@
       "total_points": 600
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 600
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 550
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 600
     },
     {
       "full_name": "Fran\u00e7esko Shahinasi",
@@ -184,7 +184,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 950,
+      "total_points": 1000,
       "num_users": 2
     },
     {
@@ -1708,6 +1708,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1725,6 +1729,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
