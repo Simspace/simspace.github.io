@@ -66,13 +66,18 @@
       "total_points": 400
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 350
     },
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
+      "total_points": 350
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 350
     },
     {
@@ -83,11 +88,6 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
-    },
-    {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
@@ -164,7 +164,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1600,
+      "total_points": 1700,
       "num_users": 3
     },
     {
@@ -1493,8 +1493,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "4e7a431c-7ab8-411c-a495-4c1a5e71df56",
