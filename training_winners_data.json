@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1750
+      "total_points": 1850
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -179,7 +179,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1900,
+      "total_points": 2000,
       "num_users": 2
     },
     {
@@ -1237,6 +1237,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1246,6 +1250,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
@@ -1952,6 +1960,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1973,6 +1985,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
