@@ -16,14 +16,14 @@
       "total_points": 1000
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 1000
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 950
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 1000
     },
     {
       "full_name": "Orgito Leka",
@@ -31,13 +31,13 @@
       "total_points": 950
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 800
-    },
-    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 900
+    },
+    {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 800
     },
     {
@@ -101,9 +101,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 250
     },
     {
       "full_name": "Eneda Gjoka",
@@ -111,8 +111,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
@@ -121,8 +121,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 150
     },
     {
@@ -173,14 +173,14 @@
   ],
   "universities": [
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 2200,
+      "num_users": 4
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 2100,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2100,
-      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -214,7 +214,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 950,
+      "total_points": 1000,
       "num_users": 1
     },
     {
@@ -233,13 +233,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400,
       "num_users": 2
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 300,
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400,
       "num_users": 2
     },
     {
@@ -1905,6 +1905,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1946,6 +1950,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
@@ -2090,6 +2098,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2099,6 +2111,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
@@ -2282,6 +2298,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2311,6 +2331,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
