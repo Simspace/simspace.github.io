@@ -61,13 +61,13 @@
       "total_points": 700
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 600
-    },
-    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
+      "total_points": 650
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 600
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 1
     },
     {
@@ -2077,6 +2077,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -2106,6 +2110,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
