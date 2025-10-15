@@ -66,13 +66,13 @@
       "total_points": 600
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 550
-    },
-    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
+      "total_points": 600
+    },
+    {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 550
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 550,
+      "total_points": 600,
       "num_users": 1
     },
     {
@@ -2179,6 +2179,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -2208,6 +2212,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
