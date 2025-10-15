@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1650
+      "total_points": 1700
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -179,7 +179,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1800,
+      "total_points": 1850,
       "num_users": 2
     },
     {
@@ -2128,6 +2128,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2145,6 +2149,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
