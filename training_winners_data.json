@@ -46,9 +46,9 @@
       "total_points": 750
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 750
     },
     {
       "full_name": "Erona Hoxha",
@@ -56,9 +56,9 @@
       "total_points": 700
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 650
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 700
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -184,7 +184,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1650,
+      "total_points": 1750,
       "num_users": 2
     },
     {
@@ -2046,11 +2046,19 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 100
         }
       ]
