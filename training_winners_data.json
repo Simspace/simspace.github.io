@@ -106,13 +106,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 200
+    },
+    {
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 450,
+      "total_points": 500,
       "num_users": 3
     },
     {
@@ -2220,6 +2220,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2253,6 +2257,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Selim Cela",
           "challenge_points_earned": 50
         }
       ]
