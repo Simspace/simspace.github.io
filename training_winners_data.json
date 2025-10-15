@@ -51,9 +51,9 @@
       "total_points": 750
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 700
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 750
     },
     {
       "full_name": "Lida Filipi",
@@ -61,9 +61,9 @@
       "total_points": 700
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 650
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 700
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -228,13 +228,13 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 700,
+      "university": "Herman Gmeiner",
+      "total_points": 750,
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 650,
+      "university": "Universiteti i Shkodres",
+      "total_points": 700,
       "num_users": 1
     },
     {
@@ -1935,6 +1935,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -1980,6 +1984,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
