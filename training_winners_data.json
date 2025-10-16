@@ -6,6 +6,11 @@
       "total_points": 1950
     },
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 1100
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 1100
@@ -13,11 +18,6 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1000
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
       "total_points": 1000
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1750,
+      "total_points": 1850,
       "num_users": 2
     },
     {
@@ -1668,6 +1668,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -1681,6 +1685,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
