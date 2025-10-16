@@ -36,14 +36,14 @@
       "total_points": 900
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 850
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 800
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 850
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -228,14 +228,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 900,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 850,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 850,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -2232,6 +2232,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2269,6 +2273,10 @@
         },
         {
           "full_name": "Selim Cela",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
