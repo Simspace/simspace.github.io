@@ -51,14 +51,14 @@
       "total_points": 800
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 750
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 700
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 750
     },
     {
       "full_name": "Lida Filipi",
@@ -81,14 +81,14 @@
       "total_points": 550
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 500
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 400
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 500
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -218,14 +218,14 @@
       "num_users": 2
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 1300,
+      "num_users": 3
+    },
+    {
       "university": "Epoka University",
       "total_points": 1300,
       "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 1150,
-      "num_users": 3
     },
     {
       "university": "Tirana Business University",
@@ -1543,6 +1543,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1576,6 +1580,10 @@
         },
         {
           "full_name": "Flavio",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
@@ -2150,6 +2158,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2179,6 +2191,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 50
         }
       ]
