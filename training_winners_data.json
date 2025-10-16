@@ -16,13 +16,13 @@
       "total_points": 1100
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
       "total_points": 1000
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1000
     },
     {
@@ -61,13 +61,13 @@
       "total_points": 750
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 700
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 700
     },
     {
@@ -91,14 +91,19 @@
       "total_points": 500
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 350
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 350
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 350
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
+      "total_points": 300
     },
     {
       "full_name": "Ersi Dedaj",
@@ -208,6 +213,11 @@
       "num_users": 2
     },
     {
+      "university": "Epoka University",
+      "total_points": 1600,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1600,
       "num_users": 4
@@ -221,11 +231,6 @@
       "university": "Harry Fultz",
       "total_points": 1300,
       "num_users": 3
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 1300,
-      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -1776,6 +1781,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1809,6 +1818,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Detjon Mataj",
           "challenge_points_earned": 300
         }
       ]
