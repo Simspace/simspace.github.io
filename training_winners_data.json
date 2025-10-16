@@ -6,23 +6,23 @@
       "total_points": 1950
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1100
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 1100
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 1000
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 1100
     },
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1100
+    },
+    {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
       "total_points": 1000
     },
     {
@@ -213,14 +213,14 @@
       "num_users": 2
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1700,
+      "num_users": 4
+    },
+    {
       "university": "Epoka University",
       "total_points": 1600,
       "num_users": 3
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600,
-      "num_users": 4
     },
     {
       "university": "Canadian Institute of Technology",
@@ -1718,6 +1718,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1739,6 +1743,10 @@
         },
         {
           "full_name": "Sidrit Zela",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 100
         }
       ]
