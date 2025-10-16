@@ -81,13 +81,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 400
-    },
-    {
       "full_name": "Sidrit Zela",
       "university": "Epoka University",
+      "total_points": 500
+    },
+    {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 400
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1200,
+      "total_points": 1300,
       "num_users": 2
     },
     {
@@ -1693,6 +1693,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1710,6 +1714,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Zela",
           "challenge_points_earned": 100
         }
       ]
