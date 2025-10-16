@@ -61,14 +61,14 @@
       "total_points": 700
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 700
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 600
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 700
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -218,9 +218,9 @@
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1100,
-      "num_users": 2
+      "university": "Harry Fultz",
+      "total_points": 1150,
+      "num_users": 3
     },
     {
       "university": "Tirana Business University",
@@ -228,9 +228,9 @@
       "num_users": 1
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 1050,
-      "num_users": 3
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1100,
+      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -1648,6 +1648,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1657,6 +1661,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
         }
       ]
