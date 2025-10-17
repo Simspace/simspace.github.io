@@ -11,13 +11,13 @@
       "total_points": 1300
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1100
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1100
     },
     {
@@ -121,13 +121,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 150
     },
     {
@@ -136,8 +136,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -151,13 +151,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
@@ -166,18 +166,23 @@
       "total_points": 100
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 50
     },
     {
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
       "full_name": "Gerint Halili",
       "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 50
+    },
+    {
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
       "total_points": 50
     },
     {
@@ -259,8 +264,8 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 650,
-      "num_users": 1
+      "total_points": 700,
+      "num_users": 2
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -1146,6 +1151,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -1195,6 +1204,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Luiz \u00c7ota",
           "challenge_points_earned": 50
         }
       ]
