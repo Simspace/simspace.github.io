@@ -91,13 +91,13 @@
       "total_points": 500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 350
-    },
-    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 400
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 3
     },
     {
@@ -2626,6 +2626,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2663,6 +2667,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
