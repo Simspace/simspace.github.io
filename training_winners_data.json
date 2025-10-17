@@ -11,13 +11,18 @@
       "total_points": 1300
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1100
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1200
     },
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
+      "total_points": 1100
+    },
+    {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1100
     },
     {
@@ -29,11 +34,6 @@
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 950
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 900
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -243,13 +243,13 @@
       "num_users": 1
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1100,
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1250,
       "num_users": 2
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 950,
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1100,
       "num_users": 2
     },
     {
@@ -1830,6 +1830,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1867,6 +1871,10 @@
         },
         {
           "full_name": "Detjon Mataj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 300
         }
       ]
