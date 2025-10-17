@@ -8,7 +8,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1100
+      "total_points": 1200
     },
     {
       "full_name": "Earta Joca",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1100,
+      "total_points": 1200,
       "num_users": 1
     },
     {
@@ -1568,6 +1568,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1605,6 +1609,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
