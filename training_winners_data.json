@@ -131,18 +131,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 150
-    },
-    {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 150
+    },
+    {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -151,13 +151,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 150
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 100
     },
     {
@@ -166,13 +166,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -293,12 +293,12 @@
       "num_users": 1
     },
     {
-      "university": "42 Coding",
-      "total_points": 100,
+      "university": "Luarasi",
+      "total_points": 150,
       "num_users": 1
     },
     {
-      "university": "Luarasi",
+      "university": "42 Coding",
       "total_points": 100,
       "num_users": 1
     },
@@ -1181,6 +1181,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -1234,6 +1238,10 @@
         },
         {
           "full_name": "Luiz \u00c7ota",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
