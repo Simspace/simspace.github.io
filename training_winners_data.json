@@ -111,6 +111,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 300
+    },
+    {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 250
@@ -118,11 +123,6 @@
     {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200
-    },
-    {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 200
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 2
     },
     {
@@ -2183,6 +2183,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2236,6 +2240,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
