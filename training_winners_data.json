@@ -26,14 +26,14 @@
       "total_points": 1100
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1050
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 950
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 1050
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1100,
+      "total_points": 1200,
       "num_users": 2
     },
     {
@@ -1429,6 +1429,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1454,6 +1458,10 @@
         },
         {
           "full_name": "Sidrit Zela",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
