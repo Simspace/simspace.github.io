@@ -6,14 +6,14 @@
       "total_points": 1950
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1350
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 1300
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1250
     },
     {
       "full_name": "Elisa Zala",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1450,
+      "total_points": 1550,
       "num_users": 2
     },
     {
@@ -2186,6 +2186,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2203,6 +2207,10 @@
         },
         {
           "full_name": "Sidrit Zela",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
