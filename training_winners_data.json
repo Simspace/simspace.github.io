@@ -126,6 +126,11 @@
       "total_points": 250
     },
     {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 200
+    },
+    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
@@ -133,11 +138,6 @@
     {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
       "total_points": 150
     },
     {
@@ -151,8 +151,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 150
     },
     {
@@ -238,14 +238,14 @@
       "num_users": 2
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1350,
+      "num_users": 2
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 1300,
       "num_users": 3
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1300,
-      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -2794,6 +2794,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2843,6 +2847,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         }
       ]
