@@ -116,8 +116,8 @@
       "total_points": 350
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 250
     },
     {
@@ -126,9 +126,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 200
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 250
     },
     {
       "full_name": "Jonalda Gjoka ",
@@ -288,14 +288,14 @@
       "num_users": 3
     },
     {
+      "university": "Luarasi",
+      "total_points": 250,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 200,
       "num_users": 2
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 200,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Elbasanit",
@@ -2389,6 +2389,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2422,6 +2426,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
