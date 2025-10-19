@@ -56,6 +56,11 @@
       "total_points": 800
     },
     {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 750
+    },
+    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 750
@@ -66,18 +71,13 @@
       "total_points": 750
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 750
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 700
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 700
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 700
     },
     {
@@ -86,13 +86,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 500
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 500
     },
     {
@@ -106,19 +106,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
-    },
-    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 350
     },
     {
       "full_name": "Mateo Nezha",
@@ -126,14 +121,24 @@
       "total_points": 250
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 200
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 250
     },
     {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
+    },
+    {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 200
+    },
+    {
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 150
     },
     {
       "full_name": "Eneda Gjoka",
@@ -143,11 +148,6 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 150
-    },
-    {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
@@ -161,13 +161,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -181,13 +181,18 @@
       "total_points": 50
     },
     {
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
+      "total_points": 50
+    },
+    {
       "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -244,8 +249,8 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1300,
-      "num_users": 3
+      "total_points": 1350,
+      "num_users": 4
     },
     {
       "university": "Tirana Business University",
@@ -2822,6 +2827,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2875,6 +2884,10 @@
         },
         {
           "full_name": "Jonalda Gjoka ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Bergit Haveraj ",
           "challenge_points_earned": 50
         }
       ]
