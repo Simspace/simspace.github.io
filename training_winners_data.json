@@ -98,7 +98,7 @@
     {
       "full_name": "Ira Haxhiu",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
+      "total_points": 450
     },
     {
       "full_name": "Ersi Dedaj",
@@ -273,14 +273,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 700,
+      "num_users": 2
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 650,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 650,
-      "num_users": 2
     },
     {
       "university": "WBU",
@@ -2656,6 +2656,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2693,6 +2697,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 50
         }
       ]
