@@ -126,13 +126,18 @@
       "total_points": 250
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 200
     },
     {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 200
+    },
+    {
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
     },
     {
@@ -148,11 +153,6 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 150
-    },
-    {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
       "total_points": 150
     },
     {
@@ -293,12 +293,12 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Elbasanit",
-      "total_points": 150,
+      "university": "Luarasi",
+      "total_points": 200,
       "num_users": 1
     },
     {
-      "university": "Luarasi",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150,
       "num_users": 1
     },
@@ -2112,6 +2112,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2165,6 +2169,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
