@@ -36,6 +36,11 @@
       "total_points": 1300
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1300
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1250
@@ -56,11 +61,6 @@
       "total_points": 1050
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1000
-    },
-    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 900
@@ -71,9 +71,9 @@
       "total_points": 850
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 750
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 850
     },
     {
       "full_name": "Redi Yzellari",
@@ -81,9 +81,9 @@
       "total_points": 750
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 550
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 750
     },
     {
       "full_name": "Tony Tatazi",
@@ -243,6 +243,11 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3100,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2700,
       "num_users": 4
@@ -251,11 +256,6 @@
       "university": "Universiteti New York Tirana",
       "total_points": 2600,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2500,
-      "num_users": 4
     },
     {
       "university": "Harry Fultz",
@@ -2982,6 +2982,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2999,6 +3003,10 @@
         },
         {
           "full_name": "Etien Lila",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 300
         }
       ]
@@ -3239,8 +3247,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Lida Filipi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "c4ceec7b-052b-4b71-8e4c-24b8902ce1ab",
