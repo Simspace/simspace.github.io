@@ -6,14 +6,14 @@
       "total_points": 1950
     },
     {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1500
+    },
+    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1350
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1300
     },
     {
       "full_name": "Orlin Balliu",
@@ -21,9 +21,9 @@
       "total_points": 1300
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1200
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1300
     },
     {
       "full_name": "Earta Joca",
@@ -38,7 +38,7 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 1000
+      "total_points": 1050
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -166,8 +166,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 100
     },
     {
@@ -176,9 +176,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
     },
     {
       "full_name": "Gerint Halili",
@@ -196,8 +196,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -218,6 +218,11 @@
   ],
   "universities": [
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 2250,
+      "num_users": 4
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 2200,
       "num_users": 3
@@ -233,13 +238,8 @@
       "num_users": 3
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1950,
-      "num_users": 4
-    },
-    {
       "university": "Universiteti New York Tirana",
-      "total_points": 1900,
+      "total_points": 1950,
       "num_users": 3
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 1000,
+      "total_points": 1050,
       "num_users": 1
     },
     {
@@ -2989,8 +2989,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "3300e765-72f6-4690-8c53-d38e7ef0ae9a",
@@ -3065,11 +3075,19 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 300
         }
       ]
@@ -3135,8 +3153,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        }
+      ]
     }
   ],
   "difficulty_points": {
