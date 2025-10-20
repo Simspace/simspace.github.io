@@ -13,7 +13,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1350
+      "total_points": 1650
     },
     {
       "full_name": "Tergita Sulaj",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1550,
+      "total_points": 1850,
       "num_users": 2
     },
     {
@@ -2935,8 +2935,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "b1bd7fe6-c751-4032-8ad4-e73eda306546",
