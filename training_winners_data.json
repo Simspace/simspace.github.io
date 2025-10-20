@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2550
+      "total_points": 3150
     },
     {
       "full_name": "Elisa Zala",
@@ -18,7 +18,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1550
+      "total_points": 1600
     },
     {
       "full_name": "Tergita Sulaj",
@@ -106,13 +106,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
-    },
-    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
+      "total_points": 400
+    },
+    {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 350
     },
     {
@@ -224,7 +224,7 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2800,
+      "total_points": 3400,
       "num_users": 3
     },
     {
@@ -234,12 +234,12 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2450,
+      "total_points": 2500,
       "num_users": 3
     },
     {
       "university": "Epoka University",
-      "total_points": 2400,
+      "total_points": 2450,
       "num_users": 4
     },
     {
@@ -2967,8 +2967,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "2a3f68f0-229c-4bb1-9d9c-f8fa432e83c3",
@@ -2976,8 +2986,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "20d4351d-f90e-4ffd-9dde-b6c4e9b38179",
@@ -3175,6 +3195,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3188,6 +3212,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
@@ -3291,6 +3319,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3300,6 +3332,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
