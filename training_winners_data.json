@@ -23,7 +23,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1400
+      "total_points": 1500
     },
     {
       "full_name": "Orlin Balliu",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2250,
+      "total_points": 2350,
       "num_users": 3
     },
     {
@@ -3011,6 +3011,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3028,6 +3032,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
