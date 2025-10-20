@@ -16,14 +16,14 @@
       "total_points": 1650
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1550
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1500
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1550
     },
     {
       "full_name": "Orlin Balliu",
@@ -151,13 +151,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
@@ -166,23 +166,23 @@
       "total_points": 150
     },
     {
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 150
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 100
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
       "total_points": 100
     },
     {
@@ -228,14 +228,14 @@
       "num_users": 4
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 2450,
+      "num_users": 3
+    },
+    {
       "university": "Epoka University",
       "total_points": 2400,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 2350,
-      "num_users": 3
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -3091,8 +3091,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "9fdc984a-7cc9-4cef-99d6-447e85aeacc6",
@@ -3153,6 +3163,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3162,6 +3176,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 50
         }
       ]
