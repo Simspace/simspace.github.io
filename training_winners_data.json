@@ -8,7 +8,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1550
+      "total_points": 1600
     },
     {
       "full_name": "Orgito Leka",
@@ -51,9 +51,9 @@
       "total_points": 850
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
-      "total_points": 800
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 850
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -61,9 +61,9 @@
       "total_points": 800
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 750
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 800
     },
     {
       "full_name": "Artea Myftiu",
@@ -71,8 +71,8 @@
       "total_points": 750
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 750
     },
     {
@@ -219,7 +219,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2300,
+      "total_points": 2350,
       "num_users": 4
     },
     {
@@ -248,9 +248,9 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1400,
-      "num_users": 2
+      "university": "Harry Fultz",
+      "total_points": 1450,
+      "num_users": 4
     },
     {
       "university": "Canadian Institute of Technology",
@@ -258,9 +258,9 @@
       "num_users": 2
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 1350,
-      "num_users": 4
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1400,
+      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -2980,8 +2980,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Harry Fultz",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "73ff024c-48c8-4fab-8d22-2bbf217bb91e",
@@ -3116,8 +3126,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "c855ca14-e3b3-4d20-a365-90577c6938d1",
