@@ -53,7 +53,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 950
+      "total_points": 1000
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2600,
+      "total_points": 2650,
       "num_users": 4
     },
     {
@@ -3331,6 +3331,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3344,6 +3348,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
