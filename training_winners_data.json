@@ -11,13 +11,13 @@
       "total_points": 1350
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1300
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 1300
     },
     {
@@ -36,6 +36,11 @@
       "total_points": 1050
     },
     {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 1000
+    },
+    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 900
@@ -46,14 +51,19 @@
       "total_points": 850
     },
     {
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 800
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 800
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
-      "total_points": 800
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
+      "total_points": 750
     },
     {
       "full_name": "Artea Myftiu",
@@ -66,18 +76,8 @@
       "total_points": 750
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 750
-    },
-    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
       "total_points": 700
     },
     {
@@ -86,13 +86,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 500
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 500
     },
     {
@@ -106,14 +106,19 @@
       "total_points": 400
     },
     {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 350
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 250
     },
     {
       "full_name": "Endi Rizvani",
@@ -126,9 +131,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 250
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 200
     },
     {
       "full_name": "Jonalda Gjoka ",
@@ -141,9 +146,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 200
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 150
     },
     {
       "full_name": "Saimir",
@@ -156,13 +161,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
-    },
-    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 100
+    },
+    {
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -171,9 +176,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
+      "total_points": 50
     },
     {
       "full_name": "Gerint Halili",
@@ -191,8 +196,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 50
     },
     {
@@ -234,8 +239,8 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1850,
-      "num_users": 2
+      "total_points": 1900,
+      "num_users": 3
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -263,6 +268,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti i Shkodres",
+      "total_points": 1000,
+      "num_users": 1
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 850,
       "num_users": 1
@@ -276,11 +286,6 @@
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 750,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 700,
-      "num_users": 1
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -3056,8 +3061,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "ccd96f52-8528-43f0-ab45-b491860b690e",
@@ -3092,8 +3107,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "cc865e33-05d0-47fa-822c-3a2c4d053994",
