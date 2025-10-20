@@ -51,14 +51,14 @@
       "total_points": 1050
     },
     {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 950
+    },
+    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 900
-    },
-    {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 850
     },
     {
       "full_name": "Sidrit Zela",
@@ -228,6 +228,11 @@
       "num_users": 3
     },
     {
+      "university": "Epoka University",
+      "total_points": 2600,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2600,
       "num_users": 4
@@ -236,11 +241,6 @@
       "university": "Universiteti New York Tirana",
       "total_points": 2500,
       "num_users": 3
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 2500,
-      "num_users": 4
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -3057,6 +3057,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3082,6 +3086,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
