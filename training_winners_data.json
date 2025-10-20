@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1950
+      "total_points": 2550
     },
     {
       "full_name": "Elisa Zala",
@@ -223,6 +223,11 @@
   ],
   "universities": [
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 2800,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2600,
       "num_users": 4
@@ -236,11 +241,6 @@
       "university": "Epoka University",
       "total_points": 2400,
       "num_users": 4
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2200,
-      "num_users": 3
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -2944,11 +2944,19 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 300
         }
       ]
@@ -3214,6 +3222,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3239,6 +3251,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 300
         }
       ]
