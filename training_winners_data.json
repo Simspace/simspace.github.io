@@ -68,7 +68,7 @@
     {
       "full_name": "Sidrit Zela",
       "university": "Epoka University",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Artea Myftiu",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3050,
+      "total_points": 3100,
       "num_users": 5
     },
     {
@@ -3252,11 +3252,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Sidrit Zela",
           "challenge_points_earned": 50
         }
       ]
