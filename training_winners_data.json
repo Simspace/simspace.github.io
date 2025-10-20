@@ -31,6 +31,11 @@
       "total_points": 1300
     },
     {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 1300
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1250
@@ -49,11 +54,6 @@
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
       "total_points": 1050
-    },
-    {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 1000
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -101,8 +101,8 @@
       "total_points": 450
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -111,13 +111,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 400
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 350
     },
     {
@@ -229,12 +229,12 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2650,
+      "total_points": 2950,
       "num_users": 4
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2600,
+      "total_points": 2650,
       "num_users": 4
     },
     {
@@ -2948,6 +2948,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -2957,6 +2961,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 300
         }
       ]
@@ -3207,6 +3215,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3224,6 +3236,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
