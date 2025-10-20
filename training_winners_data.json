@@ -141,8 +141,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 200
+    },
+    {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -151,8 +156,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
@@ -161,18 +166,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -288,14 +288,14 @@
       "num_users": 3
     },
     {
+      "university": "WBU",
+      "total_points": 300,
+      "num_users": 2
+    },
+    {
       "university": "Luarasi",
       "total_points": 250,
       "num_users": 1
-    },
-    {
-      "university": "WBU",
-      "total_points": 200,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Elbasanit",
@@ -2290,6 +2290,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -2347,6 +2351,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ergi Kokoneshi",
           "challenge_points_earned": 100
         }
       ]
