@@ -2923,6 +2923,195 @@
           "challenge_points_earned": 50
         }
       ]
+    },
+    {
+      "package_id": "4f1b343e-7162-4db8-be17-147b8c12d408",
+      "package_name": "Boot2Root Workshop 4",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "b1bd7fe6-c751-4032-8ad4-e73eda306546",
+      "package_name": "Host Analyst: APT38 Exercise",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "2a3f68f0-229c-4bb1-9d9c-f8fa432e83c3",
+      "package_name": "Host Analyst: APT40 Exercise",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "20d4351d-f90e-4ffd-9dde-b6c4e9b38179",
+      "package_name": "Host Analyst: APT40 Workshop 2",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "35292d0c-a340-46cc-b5a9-02db0190576c",
+      "package_name": "Kerberos Attacks",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "a740af49-5f50-415e-a149-8de649693d34",
+      "package_name": "Lateral Movement Using Python",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "73ff024c-48c8-4fab-8d22-2bbf217bb91e",
+      "package_name": "Linux Configuration and Logging: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3300e765-72f6-4690-8c53-d38e7ef0ae9a",
+      "package_name": "Linux Internals",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "9fdc984a-7cc9-4cef-99d6-447e85aeacc6",
+      "package_name": "Network Analyst: APT28 Exercise",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "fec56fcc-83c0-4734-b007-05af41512c29",
+      "package_name": "Network Analyst: APT28 Workshop 2",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ce9a7797-fdbf-4b21-be02-bd26c95b2113",
+      "package_name": "Network Analyst: APT34 Exercise",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "16289eea-eacc-490c-8af8-4f571282c85b",
+      "package_name": "Network Analyst: APT38 Exercise",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c4ceec7b-052b-4b71-8e4c-24b8902ce1ab",
+      "package_name": "Network Analyst: APT40 Workshop 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "65b8cfd3-14e6-4de8-ae46-18a5e25fcec0",
+      "package_name": "OSI Model",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "fece7d2e-c53a-4ede-b819-8149b5b0f47c",
+      "package_name": "Python: Introduction",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ccd96f52-8528-43f0-ab45-b491860b690e",
+      "package_name": "SimSpace Threat Hunting 101",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "71fef751-ce45-4b18-9309-cb418e1f20ee",
+      "package_name": "SimSpace Threat Hunting Methodology",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "bc03cd76-8829-4739-8a5b-783a0dc9513a",
+      "package_name": "Windows Command Line and Administration",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c855ca14-e3b3-4d20-a365-90577c6938d1",
+      "package_name": "Windows Internals: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "cc865e33-05d0-47fa-822c-3a2c4d053994",
+      "package_name": "Windows Logging and Monitoring",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c816853b-d893-496a-b368-407a1fe14ce5",
+      "package_name": "Windows Registry: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 20, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
