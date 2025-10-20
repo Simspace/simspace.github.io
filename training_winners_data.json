@@ -86,13 +86,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 500
-    },
-    {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
+      "total_points": 550
+    },
+    {
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 500
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2050,
+      "total_points": 2100,
       "num_users": 5
     },
     {
@@ -3253,6 +3253,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3274,6 +3278,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
