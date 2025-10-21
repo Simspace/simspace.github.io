@@ -31,13 +31,13 @@
       "total_points": 1700
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1600
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1600
     },
     {
@@ -51,13 +51,13 @@
       "total_points": 1250
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1200
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 1200
     },
     {
@@ -96,13 +96,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 500
     },
     {
@@ -151,6 +151,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 200
@@ -161,18 +166,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
-    },
-    {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -181,13 +176,23 @@
       "total_points": 150
     },
     {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 150
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 100
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -201,12 +206,12 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 50
     },
     {
-      "full_name": "Kujtim Alimehmeti",
+      "full_name": "Endi Gjyli",
       "university": "Harry Fultz",
       "total_points": 50
     },
@@ -279,8 +284,8 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2100,
-      "num_users": 5
+      "total_points": 2150,
+      "num_users": 6
     },
     {
       "university": "Tirana Business University",
@@ -3867,6 +3872,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3880,6 +3889,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Gjyli",
           "challenge_points_earned": 50
         }
       ]
