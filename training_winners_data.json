@@ -36,6 +36,11 @@
       "total_points": 1400
     },
     {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1300
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 1300
@@ -44,11 +49,6 @@
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1250
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1200
     },
     {
       "full_name": "Erona Hoxha",
@@ -234,7 +234,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4300,
+      "total_points": 4400,
       "num_users": 4
     },
     {
@@ -3127,6 +3127,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3156,6 +3160,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
