@@ -61,14 +61,14 @@
       "total_points": 1200
     },
     {
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
+      "total_points": 1200
+    },
+    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 1150
-    },
-    {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 1050
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -293,6 +293,11 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti i Korces",
+      "total_points": 1250,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 1250,
       "num_users": 1
@@ -301,11 +306,6 @@
       "university": "Universiteti i Shkodres",
       "total_points": 1200,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti i Korces",
-      "total_points": 1100,
-      "num_users": 2
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -3211,6 +3211,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -3249,6 +3253,10 @@
         {
           "full_name": "Kledios Lika",
           "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -3282,6 +3290,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -3307,6 +3319,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
