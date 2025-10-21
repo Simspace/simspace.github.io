@@ -118,7 +118,7 @@
     {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
-      "total_points": 350
+      "total_points": 400
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -314,7 +314,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 350,
+      "total_points": 400,
       "num_users": 1
     },
     {
@@ -2794,6 +2794,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2835,6 +2839,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
