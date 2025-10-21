@@ -8,7 +8,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2000
+      "total_points": 2100
     },
     {
       "full_name": "Orgito Leka",
@@ -254,7 +254,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4950,
+      "total_points": 5050,
       "num_users": 4
     },
     {
@@ -3186,11 +3186,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 100
         }
       ]
