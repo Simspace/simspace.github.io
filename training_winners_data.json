@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4050
+      "total_points": 4150
     },
     {
       "full_name": "Orgito Leka",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4400,
+      "total_points": 4500,
       "num_users": 4
     },
     {
@@ -3121,8 +3121,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "35292d0c-a340-46cc-b5a9-02db0190576c",
