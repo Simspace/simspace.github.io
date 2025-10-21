@@ -116,14 +116,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 350
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 300
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 350
     },
     {
       "full_name": "Etien Lila",
@@ -313,14 +313,14 @@
       "num_users": 3
     },
     {
+      "university": "Luarasi",
+      "total_points": 350,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 300,
       "num_users": 2
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 300,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Elbasanit",
@@ -2687,6 +2687,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2736,6 +2740,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
