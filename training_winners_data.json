@@ -11,6 +11,11 @@
       "total_points": 2150
     },
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 1950
+    },
+    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1950
@@ -19,11 +24,6 @@
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1900
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 1850
     },
     {
       "full_name": "Orlin Balliu",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 2
     },
     {
@@ -1604,6 +1604,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -1653,6 +1657,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 50
         }
       ]
@@ -2197,6 +2205,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -2258,6 +2270,10 @@
         },
         {
           "full_name": "Bergit Haveraj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 50
         }
       ]
