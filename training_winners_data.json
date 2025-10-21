@@ -6,13 +6,13 @@
       "total_points": 3150
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1900
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1900
     },
     {
@@ -76,13 +76,13 @@
       "total_points": 850
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 750
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 750
     },
     {
@@ -106,13 +106,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400
     },
     {
@@ -141,11 +141,6 @@
       "total_points": 250
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
-      "total_points": 200
-    },
-    {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 200
@@ -156,18 +151,23 @@
       "total_points": 200
     },
     {
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 200
+    },
+    {
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
@@ -181,18 +181,23 @@
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 50
+    },
+    {
+      "full_name": "Almir",
+      "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
@@ -206,8 +211,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
       "total_points": 50
     },
     {
@@ -329,8 +334,8 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 50,
-      "num_users": 1
+      "total_points": 100,
+      "num_users": 2
     }
   ],
   "packages": [
@@ -670,6 +675,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -743,6 +752,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir",
           "challenge_points_earned": 50
         }
       ]
@@ -3661,6 +3674,7 @@
     "15": 1.0,
     "16": 1.0,
     "17": 1.0,
-    "18": 1.0
+    "18": 1.0,
+    "19": 1.0
   }
 }
