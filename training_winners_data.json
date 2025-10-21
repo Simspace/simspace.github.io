@@ -6,14 +6,14 @@
       "total_points": 4250
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 2000
+    },
+    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1950
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1900
     },
     {
       "full_name": "Elisa Zala",
@@ -244,7 +244,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4750,
+      "total_points": 4850,
       "num_users": 4
     },
     {
@@ -3669,8 +3669,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 20, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "71fef751-ce45-4b18-9309-cb418e1f20ee",
