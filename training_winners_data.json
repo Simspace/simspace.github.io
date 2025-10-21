@@ -31,14 +31,14 @@
       "total_points": 1700
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1550
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1450
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1550
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -243,12 +243,12 @@
   ],
   "universities": [
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4600,
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 4700,
       "num_users": 4
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 4600,
       "num_users": 4
     },
@@ -3391,11 +3391,19 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
