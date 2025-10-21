@@ -58,7 +58,7 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1150
+      "total_points": 1200
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -239,7 +239,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4550,
+      "total_points": 4600,
       "num_users": 4
     },
     {
@@ -3355,6 +3355,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3364,6 +3368,10 @@
         },
         {
           "full_name": "Sidrit Zela",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 50
         }
       ]
