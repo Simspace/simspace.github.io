@@ -11,13 +11,13 @@
       "total_points": 1950
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1900
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1900
     },
     {
@@ -106,13 +106,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -126,19 +126,24 @@
       "total_points": 350
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
+    },
+    {
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 200
     },
     {
       "full_name": "Jonalda Gjoka ",
@@ -156,18 +161,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 150
     },
     {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
@@ -181,13 +181,18 @@
       "total_points": 100
     },
     {
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -244,8 +249,8 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4300,
-      "num_users": 3
+      "total_points": 4400,
+      "num_users": 4
     },
     {
       "university": "Epoka University",
@@ -3176,6 +3181,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3209,6 +3218,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Kledios Lika",
           "challenge_points_earned": 100
         }
       ]
