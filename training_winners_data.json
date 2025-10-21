@@ -21,13 +21,13 @@
       "total_points": 1900
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1700
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 1750
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1700
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1700,
+      "total_points": 1750,
       "num_users": 1
     },
     {
@@ -3262,6 +3262,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3283,6 +3287,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
