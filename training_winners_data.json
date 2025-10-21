@@ -201,14 +201,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Kledios Lika",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
     },
     {
       "full_name": "Endi Gjyli",
@@ -221,18 +221,18 @@
       "total_points": 50
     },
     {
-      "full_name": "Bergit Haveraj ",
+      "full_name": "Almir",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 50
+    },
+    {
+      "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
       "total_points": 50
     },
     {
       "full_name": "Luiz \u00c7ota",
       "university": "Universiteti i Korces",
-      "total_points": 50
-    },
-    {
-      "full_name": "Almir",
-      "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
@@ -278,14 +278,14 @@
       "num_users": 3
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 2200,
+      "num_users": 6
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 2150,
       "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 2150,
-      "num_users": 6
     },
     {
       "university": "Canadian Institute of Technology",
@@ -2188,6 +2188,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2245,6 +2249,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Bergit Haveraj ",
           "challenge_points_earned": 50
         }
       ]
