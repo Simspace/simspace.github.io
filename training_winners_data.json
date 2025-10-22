@@ -48,7 +48,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 2
     },
     {
@@ -4173,6 +4173,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -4194,6 +4198,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
