@@ -211,14 +211,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
+      "full_name": "Almir",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
-      "full_name": "Endi Gjyli",
+      "full_name": "Bergit Haveraj ",
       "university": "Harry Fultz",
-      "total_points": 50
+      "total_points": 100
     },
     {
       "full_name": "Gerint Halili",
@@ -231,13 +231,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Kujtim Alimehmeti",
+      "full_name": "Endi Gjyli",
       "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Almir",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -343,6 +343,11 @@
       "num_users": 2
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 150,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Elbasanit",
       "total_points": 150,
       "num_users": 1
@@ -351,11 +356,6 @@
       "university": "42 Coding",
       "total_points": 100,
       "num_users": 1
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 100,
-      "num_users": 2
     }
   ],
   "packages": [
@@ -3500,6 +3500,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -3525,6 +3529,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir",
           "challenge_points_earned": 50
         }
       ]
