@@ -21,14 +21,14 @@
       "total_points": 1950
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 1900
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 1850
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1900
     },
     {
       "full_name": "Earta Joca",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1850,
+      "total_points": 1900,
       "num_users": 1
     },
     {
@@ -3635,6 +3635,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3652,6 +3656,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
