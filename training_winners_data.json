@@ -116,13 +116,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
-    },
-    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 450
+    },
+    {
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 650,
+      "total_points": 700,
       "num_users": 3
     },
     {
@@ -3778,6 +3778,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3815,6 +3819,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
