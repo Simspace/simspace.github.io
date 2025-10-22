@@ -96,14 +96,14 @@
       "total_points": 550
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 550
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 500
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 550
     },
     {
       "full_name": "Ira Haxhiu",
@@ -334,7 +334,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 500,
+      "total_points": 550,
       "num_users": 1
     },
     {
@@ -3540,6 +3540,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3573,6 +3577,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
