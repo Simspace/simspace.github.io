@@ -111,13 +111,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 400
-    },
-    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
+      "total_points": 450
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 400,
+      "total_points": 450,
       "num_users": 1
     },
     {
@@ -3012,6 +3012,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3069,6 +3073,10 @@
         },
         {
           "full_name": "Bergit Haveraj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
