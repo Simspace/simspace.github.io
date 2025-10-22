@@ -86,6 +86,11 @@
       "total_points": 750
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 600
+    },
+    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 550
@@ -94,11 +99,6 @@
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
       "total_points": 550
-    },
-    {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 500
     },
     {
       "full_name": "Ira Haxhiu",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2950,
+      "total_points": 3050,
       "num_users": 5
     },
     {
@@ -3212,6 +3212,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3225,6 +3229,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 100
         }
       ]
