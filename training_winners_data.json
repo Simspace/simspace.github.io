@@ -101,6 +101,11 @@
       "total_points": 550
     },
     {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 500
+    },
+    {
       "full_name": "Ira Haxhiu",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 500
@@ -108,11 +113,6 @@
     {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
-      "total_points": 450
-    },
-    {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
       "total_points": 450
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 450,
+      "total_points": 500,
       "num_users": 1
     },
     {
@@ -3445,6 +3445,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3482,6 +3486,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
