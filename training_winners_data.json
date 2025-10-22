@@ -26,14 +26,14 @@
       "total_points": 2000
     },
     {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 2000
+    },
+    {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1950
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1900
     },
     {
       "full_name": "Earta Joca",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3350,
+      "total_points": 3450,
       "num_users": 5
     },
     {
@@ -2676,6 +2676,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -2689,6 +2693,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 100
         }
       ]
