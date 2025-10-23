@@ -126,13 +126,18 @@
       "total_points": 400
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 400
     },
     {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
+      "total_points": 350
+    },
+    {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 350
     },
     {
@@ -141,13 +146,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
@@ -161,13 +166,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 200
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
     },
     {
@@ -201,11 +206,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Kasilda Biba",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 100
-    },
-    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 100
@@ -216,13 +216,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Kasilda Biba",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
@@ -338,14 +338,14 @@
       "num_users": 3
     },
     {
+      "university": "WBU",
+      "total_points": 600,
+      "num_users": 2
+    },
+    {
       "university": "Luarasi",
       "total_points": 550,
       "num_users": 1
-    },
-    {
-      "university": "WBU",
-      "total_points": 300,
-      "num_users": 2
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -3962,6 +3962,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -4015,6 +4019,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fabricio Ballabani",
           "challenge_points_earned": 300
         }
       ]
