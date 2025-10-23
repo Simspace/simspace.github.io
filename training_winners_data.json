@@ -86,12 +86,12 @@
       "total_points": 700
     },
     {
-      "full_name": "Adriel Tula",
+      "full_name": "Egis Sula",
       "university": "WBU",
-      "total_points": 600
+      "total_points": 700
     },
     {
-      "full_name": "Egis Sula",
+      "full_name": "Adriel Tula",
       "university": "WBU",
       "total_points": 600
     },
@@ -106,14 +106,14 @@
       "total_points": 550
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 550
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 500
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 550
     },
     {
       "full_name": "Ira Haxhiu",
@@ -319,7 +319,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 1800,
+      "total_points": 1900,
       "num_users": 4
     },
     {
@@ -349,7 +349,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 500,
+      "total_points": 550,
       "num_users": 1
     },
     {
@@ -3302,6 +3302,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -3351,6 +3355,10 @@
         },
         {
           "full_name": "Kasilda Biba",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 100
         }
       ]
@@ -3786,6 +3794,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3839,6 +3851,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
