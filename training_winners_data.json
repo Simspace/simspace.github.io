@@ -81,14 +81,14 @@
       "total_points": 900
     },
     {
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 900
+    },
+    {
       "full_name": "Sidrit Zela",
       "university": "Epoka University",
       "total_points": 850
-    },
-    {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 800
     },
     {
       "full_name": "Artea Myftiu",
@@ -314,7 +314,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 2300,
+      "total_points": 2400,
       "num_users": 4
     },
     {
@@ -2724,6 +2724,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -2741,6 +2745,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 100
         }
       ]
