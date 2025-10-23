@@ -3,7 +3,7 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4750
+      "total_points": 4700
     },
     {
       "full_name": "Orgito Leka",
@@ -16,9 +16,14 @@
       "total_points": 2300
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 2250
+    },
+    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2200
+      "total_points": 2250
     },
     {
       "full_name": "Lida Filipi",
@@ -28,12 +33,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2000
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 2000
+      "total_points": 1950
     },
     {
       "full_name": "Earta Joca",
@@ -53,17 +53,17 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1350
+      "total_points": 1300
     },
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1300
+      "total_points": 1250
     },
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 1250
+      "total_points": 1200
     },
     {
       "full_name": "Erona Hoxha",
@@ -83,7 +83,7 @@
     {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
-      "total_points": 750
+      "total_points": 700
     },
     {
       "full_name": "Fatbardh Rama",
@@ -121,6 +121,11 @@
       "total_points": 450
     },
     {
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 400
+    },
+    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 400
@@ -131,24 +136,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 400
-    },
-    {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 350
-    },
-    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 350
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 350
     },
     {
       "full_name": "Asim Lecini",
@@ -158,6 +153,11 @@
     {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
+      "total_points": 300
+    },
+    {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
     {
@@ -171,11 +171,6 @@
       "total_points": 200
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200
-    },
-    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 200
@@ -186,13 +181,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 200
+    },
+    {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
@@ -201,22 +201,12 @@
       "total_points": 150
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 150
     },
     {
       "full_name": "Kledios Lika",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
-    },
-    {
-      "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
@@ -226,9 +216,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Gerint Halili",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 50
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 100
     },
     {
       "full_name": "Luiz \u00c7ota",
@@ -264,22 +259,22 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5150,
-      "num_users": 4
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
       "total_points": 5100,
       "num_users": 4
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 5050,
+      "num_users": 4
+    },
+    {
       "university": "Epoka University",
-      "total_points": 3500,
+      "total_points": 3450,
       "num_users": 5
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3450,
+      "total_points": 3400,
       "num_users": 5
     },
     {
@@ -289,7 +284,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2900,
+      "total_points": 2850,
       "num_users": 4
     },
     {
@@ -303,13 +298,13 @@
       "num_users": 6
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
+      "university": "Tirana Business University",
       "total_points": 2250,
-      "num_users": 2
+      "num_users": 1
     },
     {
-      "university": "Tirana Business University",
-      "total_points": 2000,
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2250,
       "num_users": 1
     },
     {
@@ -318,12 +313,12 @@
       "num_users": 2
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 1250,
+      "university": "Universiteti i Shkodres",
+      "total_points": 1200,
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
+      "university": "Herman Gmeiner",
       "total_points": 1200,
       "num_users": 1
     },
@@ -1892,39 +1887,11 @@
       "release_date": "October 13, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Universiteti Bujqesor i Tiranes",
-          "users": 1
-        },
-        {
           "name": "Universiteti i Shkodres",
           "users": 1
         },
         {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
-        },
-        {
-          "name": "Universiteti New York Tirana",
-          "users": 1
-        },
-        {
-          "name": "Epoka University",
-          "users": 1
-        },
-        {
-          "name": "Universiteti Metropolitan i Tiranes",
-          "users": 1
-        },
-        {
-          "name": "Akademia e Forcave te Armatosura",
-          "users": 1
-        },
-        {
-          "name": "Tirana Business University",
-          "users": 1
-        },
-        {
-          "name": "Herman Gmeiner",
+          "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
         },
         {
@@ -1954,39 +1921,11 @@
       ],
       "users": [
         {
-          "full_name": "Gerint Halili",
-          "challenge_points_earned": 50
-        },
-        {
           "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Elisa Zala",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Artea Myftiu",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Anjeza Kanxha",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Adelina Paskalaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Fran\u00e7esko Shahinasi",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Orlin Balliu",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Enxhi Kala",
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         },
         {
@@ -3132,6 +3071,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3165,6 +3108,10 @@
         },
         {
           "full_name": "Anisa Tabaku",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 300
         }
       ]
