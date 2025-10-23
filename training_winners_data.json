@@ -13,7 +13,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 2300
+      "total_points": 2250
     },
     {
       "full_name": "Orlin Balliu",
@@ -23,7 +23,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2250
+      "total_points": 2200
     },
     {
       "full_name": "Lida Filipi",
@@ -48,7 +48,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1400
+      "total_points": 1350
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -68,7 +68,7 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 1200
+      "total_points": 1150
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -96,14 +96,14 @@
       "total_points": 550
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 550
-    },
-    {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
       "total_points": 550
+    },
+    {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 500
     },
     {
       "full_name": "Ira Haxhiu",
@@ -116,18 +116,18 @@
       "total_points": 450
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 400
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 450
+      "total_points": 400
     },
     {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
-      "total_points": 400
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
       "total_points": 400
     },
     {
@@ -166,8 +166,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
     },
     {
@@ -181,13 +181,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200
-    },
-    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
+      "total_points": 150
+    },
+    {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 150
     },
     {
@@ -201,13 +201,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
-      "total_points": 150
-    },
-    {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3000,
+      "total_points": 2950,
       "num_users": 3
     },
     {
@@ -289,13 +289,8 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2650,
+      "total_points": 2600,
       "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 2250,
-      "num_users": 6
     },
     {
       "university": "Tirana Business University",
@@ -303,23 +298,28 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 2200,
+      "num_users": 6
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2250,
+      "total_points": 2200,
       "num_users": 1
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1450,
+      "total_points": 1400,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 1200,
-      "num_users": 1
     },
     {
       "university": "Herman Gmeiner",
       "total_points": 1200,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti i Shkodres",
+      "total_points": 1150,
       "num_users": 1
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 700,
+      "total_points": 650,
       "num_users": 3
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 550,
+      "total_points": 500,
       "num_users": 1
     },
     {
@@ -1880,81 +1880,6 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
-      "package_name": "[delete] Windows Management Instrumentation (WMI)",
-      "difficulty": "foundational",
-      "passing_threshold": "90",
-      "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        },
-        {
-          "name": "Universiteti Bujqesor i Tiranes",
-          "users": 1
-        },
-        {
-          "name": "Shkolla Teknike Gjergi Canco",
-          "users": 1
-        },
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        },
-        {
-          "name": "Universiteti i Korces",
-          "users": 1
-        },
-        {
-          "name": "Fakulteti i Shkencave te Natyres",
-          "users": 1
-        },
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        },
-        {
-          "name": "Luarasi",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Tergita Sulaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Ersi Dedaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Abdurrahman Seitaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Redi Yzellari",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Jonalda Gjoka ",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Bergit Haveraj ",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Endi Rizvani",
-          "challenge_points_earned": 50
-        }
-      ]
-    },
-    {
       "package_id": "00ca558e-64f0-40e5-8372-8f6d6fd611a0",
       "package_name": "IoT Dynamic Malware Analysis",
       "difficulty": "intermediate",
@@ -3032,6 +2957,15 @@
           "challenge_points_earned": 50
         }
       ]
+    },
+    {
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_name": "",
+      "difficulty": "",
+      "passing_threshold": "90",
+      "release_date": "October 13, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "4f1b343e-7162-4db8-be17-147b8c12d408",
@@ -4288,6 +4222,7 @@
     }
   ],
   "difficulty_points": {
+    "": 0,
     "advanced": 300,
     "foundational": 50,
     "intermediate": 100
