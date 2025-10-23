@@ -101,13 +101,13 @@
       "total_points": 600
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 550
-    },
-    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
+      "total_points": 600
+    },
+    {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 550
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 550,
+      "total_points": 600,
       "num_users": 1
     },
     {
@@ -4090,6 +4090,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -4123,6 +4127,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
