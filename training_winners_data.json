@@ -86,6 +86,11 @@
       "total_points": 700
     },
     {
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 600
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 600
@@ -101,13 +106,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 500
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 500
     },
     {
@@ -116,18 +121,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 400
-    },
-    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 400
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400
     },
     {
@@ -136,9 +136,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 350
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -146,9 +146,9 @@
       "total_points": 350
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
-      "total_points": 300
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 350
     },
     {
       "full_name": "Asim Lecini",
@@ -156,8 +156,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
@@ -318,6 +318,11 @@
       "num_users": 2
     },
     {
+      "university": "WBU",
+      "total_points": 1200,
+      "num_users": 3
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 1200,
       "num_users": 1
@@ -326,11 +331,6 @@
       "university": "Universiteti i Shkodres",
       "total_points": 1150,
       "num_users": 1
-    },
-    {
-      "university": "WBU",
-      "total_points": 900,
-      "num_users": 3
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -3093,6 +3093,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -3118,6 +3122,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 300
         }
       ]
