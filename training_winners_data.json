@@ -156,9 +156,9 @@
       "total_points": 350
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 350
     },
     {
       "full_name": "Asim Lecini",
@@ -168,6 +168,11 @@
     {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
+      "total_points": 300
+    },
+    {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
     {
@@ -181,18 +186,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
-    },
-    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -201,19 +206,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 150
-    },
-    {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 150
     },
     {
       "full_name": "Kledios Lika",
@@ -226,19 +226,19 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
       "full_name": "Kasilda Biba",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 50
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 100
     },
     {
       "full_name": "Luiz \u00c7ota",
@@ -363,6 +363,11 @@
       "num_users": 2
     },
     {
+      "university": "UAMD 2",
+      "total_points": 350,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti i Elbasanit",
       "total_points": 150,
       "num_users": 1
@@ -370,11 +375,6 @@
     {
       "university": "42 Coding",
       "total_points": 100,
-      "num_users": 1
-    },
-    {
-      "university": "UAMD 2",
-      "total_points": 50,
       "num_users": 1
     }
   ],
@@ -3951,6 +3951,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -4012,6 +4016,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 300
         }
       ]
