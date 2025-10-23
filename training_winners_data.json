@@ -121,6 +121,11 @@
       "total_points": 450
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 400
+    },
+    {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
@@ -161,11 +166,6 @@
       "total_points": 250
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
-    },
-    {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 200
@@ -181,9 +181,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
-      "total_points": 150
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
     },
     {
       "full_name": "Gesa Comacka",
@@ -191,8 +191,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 150
     },
     {
@@ -201,18 +201,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 100
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 150
     },
     {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 100
     },
     {
@@ -349,7 +349,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 150,
+      "total_points": 450,
       "num_users": 2
     },
     {
@@ -3966,6 +3966,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -4023,6 +4027,10 @@
         },
         {
           "full_name": "Fabricio Ballabani",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 300
         }
       ]
