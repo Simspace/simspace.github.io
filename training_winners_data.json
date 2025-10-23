@@ -76,12 +76,12 @@
       "total_points": 1150
     },
     {
-      "full_name": "Adriel Tula",
+      "full_name": "Egis Sula",
       "university": "WBU",
-      "total_points": 900
+      "total_points": 950
     },
     {
-      "full_name": "Egis Sula",
+      "full_name": "Adriel Tula",
       "university": "WBU",
       "total_points": 900
     },
@@ -314,7 +314,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 2400,
+      "total_points": 2450,
       "num_users": 4
     },
     {
@@ -2550,6 +2550,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -2591,6 +2595,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 50
         }
       ]
