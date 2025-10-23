@@ -176,8 +176,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 150
     },
     {
@@ -191,13 +191,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 100
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 150
     },
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 100
+    },
+    {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
@@ -206,13 +211,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
-      "total_points": 100
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2200,
+      "total_points": 2250,
       "num_users": 6
     },
     {
@@ -4099,6 +4099,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -4132,6 +4136,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Bergit Haveraj ",
           "challenge_points_earned": 50
         }
       ]
