@@ -1885,6 +1885,137 @@
       ]
     },
     {
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_name": "[delete] Windows Management Instrumentation (WMI)",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "October 13, 2025, 12:00 AM",
+      "universities": [
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Gerint Halili",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Bergit Haveraj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
+          "challenge_points_earned": 50
+        }
+      ]
+    },
+    {
       "package_id": "00ca558e-64f0-40e5-8372-8f6d6fd611a0",
       "package_name": "IoT Dynamic Malware Analysis",
       "difficulty": "intermediate",
@@ -2959,137 +3090,6 @@
         },
         {
           "full_name": "Detjon Mataj",
-          "challenge_points_earned": 50
-        }
-      ]
-    },
-    {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
-      "package_name": "Windows Management Instrumentation (WMI)",
-      "difficulty": "foundational",
-      "passing_threshold": "90",
-      "release_date": "October 13, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti Bujqesor i Tiranes",
-          "users": 1
-        },
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        },
-        {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
-        },
-        {
-          "name": "Universiteti New York Tirana",
-          "users": 1
-        },
-        {
-          "name": "Epoka University",
-          "users": 1
-        },
-        {
-          "name": "Universiteti Metropolitan i Tiranes",
-          "users": 1
-        },
-        {
-          "name": "Akademia e Forcave te Armatosura",
-          "users": 1
-        },
-        {
-          "name": "Tirana Business University",
-          "users": 1
-        },
-        {
-          "name": "Herman Gmeiner",
-          "users": 1
-        },
-        {
-          "name": "Shkolla Teknike Gjergi Canco",
-          "users": 1
-        },
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        },
-        {
-          "name": "Universiteti i Korces",
-          "users": 1
-        },
-        {
-          "name": "Fakulteti i Shkencave te Natyres",
-          "users": 1
-        },
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        },
-        {
-          "name": "Luarasi",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Gerint Halili",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Elisa Zala",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Artea Myftiu",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Anjeza Kanxha",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Adelina Paskalaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Fran\u00e7esko Shahinasi",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Orlin Balliu",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Enxhi Kala",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Ersi Dedaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Abdurrahman Seitaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Redi Yzellari",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Jonalda Gjoka ",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Bergit Haveraj ",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
