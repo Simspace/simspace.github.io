@@ -48,7 +48,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -66,14 +66,19 @@
       "total_points": 1200
     },
     {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 1150
+    },
+    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 1150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 1150
+      "full_name": "Adriel Tula",
+      "university": "WBU",
+      "total_points": 900
     },
     {
       "full_name": "Sidrit Zela",
@@ -81,19 +86,14 @@
       "total_points": 850
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 700
-    },
-    {
       "full_name": "Egis Sula",
       "university": "WBU",
       "total_points": 700
     },
     {
-      "full_name": "Adriel Tula",
-      "university": "WBU",
-      "total_points": 600
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 700
     },
     {
       "full_name": "Fatbardh Rama",
@@ -131,8 +131,8 @@
       "total_points": 400
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 400
     },
     {
@@ -141,9 +141,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400
+    },
+    {
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 350
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -151,9 +156,9 @@
       "total_points": 350
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 350
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 300
     },
     {
       "full_name": "Asim Lecini",
@@ -163,11 +168,6 @@
     {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
-      "total_points": 300
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
     {
@@ -191,8 +191,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
@@ -201,8 +201,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -211,12 +211,22 @@
       "total_points": 150
     },
     {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
       "full_name": "Bergit Haveraj ",
       "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Kledios Lika",
+      "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
@@ -226,14 +236,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 50
     },
     {
       "full_name": "Luiz \u00c7ota",
@@ -241,12 +246,12 @@
       "total_points": 50
     },
     {
-      "full_name": "Endi Gjyli",
+      "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Kujtim Alimehmeti",
+      "full_name": "Endi Gjyli",
       "university": "Harry Fultz",
       "total_points": 50
     },
@@ -308,6 +313,11 @@
       "num_users": 1
     },
     {
+      "university": "WBU",
+      "total_points": 2200,
+      "num_users": 4
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 2200,
       "num_users": 6
@@ -318,13 +328,8 @@
       "num_users": 1
     },
     {
-      "university": "WBU",
-      "total_points": 1900,
-      "num_users": 4
-    },
-    {
       "university": "Universiteti i Korces",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 2
     },
     {
@@ -365,6 +370,11 @@
     {
       "university": "42 Coding",
       "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "UAMD 2",
+      "total_points": 50,
       "num_users": 1
     }
   ],
@@ -709,6 +719,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -786,6 +800,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 50
         }
       ]
@@ -3652,6 +3670,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -3665,6 +3687,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Adriel Tula",
           "challenge_points_earned": 300
         }
       ]
@@ -4060,6 +4086,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -4089,6 +4119,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
@@ -4312,6 +4346,7 @@
     "16": 1.0,
     "17": 1.0,
     "18": 1.0,
-    "19": 1.0
+    "19": 1.0,
+    "20": 1.0
   }
 }
