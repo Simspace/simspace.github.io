@@ -191,6 +191,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Jurgen Rade ",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 200
+    },
+    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
@@ -206,23 +211,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 150
-    },
-    {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 150
     },
     {
@@ -359,7 +359,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1250,
+      "total_points": 1300,
       "num_users": 4
     },
     {
@@ -3927,6 +3927,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3984,6 +3988,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
