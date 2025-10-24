@@ -11,6 +11,11 @@
       "total_points": 2900
     },
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 2450
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 2450
@@ -18,11 +23,6 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2150
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
       "total_points": 2150
     },
     {
@@ -318,14 +318,14 @@
       "num_users": 4
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 2800,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 2750,
       "num_users": 4
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 2500,
-      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -2983,7 +2983,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -2992,7 +2992,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3727,6 +3727,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -3744,6 +3748,10 @@
         },
         {
           "full_name": "Adriel Tula",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 300
         }
       ]
