@@ -61,6 +61,11 @@
       "total_points": 1200
     },
     {
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 1200
+    },
+    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 1150
@@ -74,11 +79,6 @@
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 1150
-    },
-    {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 1100
     },
     {
       "full_name": "Adriel Tula",
@@ -309,7 +309,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 2600,
+      "total_points": 2700,
       "num_users": 4
     },
     {
@@ -3157,6 +3157,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -3174,6 +3178,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 100
         }
       ]
