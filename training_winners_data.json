@@ -16,13 +16,13 @@
       "total_points": 2450
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 2150
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
       "total_points": 2150
     },
     {
@@ -83,7 +83,7 @@
     {
       "full_name": "Adriel Tula",
       "university": "WBU",
-      "total_points": 1000
+      "total_points": 1100
     },
     {
       "full_name": "Sidrit Zela",
@@ -126,6 +126,11 @@
       "total_points": 450
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 400
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400
@@ -136,9 +141,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 400
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 350
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -151,13 +156,13 @@
       "total_points": 350
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 350
-    },
-    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
+      "total_points": 300
+    },
+    {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
     {
@@ -171,23 +176,18 @@
       "total_points": 300
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300
-    },
-    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
     },
     {
@@ -196,13 +196,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 150
-    },
-    {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
@@ -211,13 +206,23 @@
       "total_points": 150
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 150
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kasilda Biba",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
     },
     {
@@ -231,18 +236,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Kasilda Biba",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
+      "full_name": "Endi Gjyli",
+      "university": "Harry Fultz",
+      "total_points": 50
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Tiziano Resulaj",
+      "university": "Luarasi",
       "total_points": 50
     },
     {
@@ -256,8 +261,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Endi Gjyli",
-      "university": "Harry Fultz",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
@@ -299,7 +304,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 3000,
+      "total_points": 3100,
       "num_users": 4
     },
     {
@@ -353,14 +358,14 @@
       "num_users": 2
     },
     {
+      "university": "Luarasi",
+      "total_points": 700,
+      "num_users": 2
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 650,
       "num_users": 3
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 650,
-      "num_users": 1
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -463,6 +468,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -528,6 +537,10 @@
         },
         {
           "full_name": "Vilson Rexhmataj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tiziano Resulaj",
           "challenge_points_earned": 50
         }
       ]
@@ -3615,6 +3628,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -3624,6 +3641,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Adriel Tula",
           "challenge_points_earned": 100
         }
       ]
