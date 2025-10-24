@@ -51,6 +51,11 @@
       "total_points": 1350
     },
     {
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 1300
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1300
@@ -58,11 +63,6 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 1200
-    },
-    {
-      "full_name": "Egis Sula",
-      "university": "WBU",
       "total_points": 1200
     },
     {
@@ -303,13 +303,13 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 2750,
+      "university": "WBU",
+      "total_points": 2800,
       "num_users": 4
     },
     {
-      "university": "WBU",
-      "total_points": 2700,
+      "university": "Universiteti New York Tirana",
+      "total_points": 2750,
       "num_users": 4
     },
     {
@@ -1867,6 +1867,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -1900,6 +1904,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 100
         }
       ]
@@ -2933,7 +2941,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -2942,7 +2950,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
