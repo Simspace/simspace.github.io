@@ -3,12 +3,12 @@
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4950
+      "total_points": 5050
     },
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 2900
+      "total_points": 2950
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -289,7 +289,7 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 5300,
+      "total_points": 5400,
       "num_users": 4
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3150,
+      "total_points": 3200,
       "num_users": 3
     },
     {
@@ -2910,6 +2910,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2959,6 +2963,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
@@ -4436,8 +4444,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "9faa3aae-b177-4964-89ae-e52d93534596",
