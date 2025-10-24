@@ -221,9 +221,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
+      "full_name": "Jurgen Rade ",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 150
     },
     {
       "full_name": "Kasilda Biba",
@@ -231,8 +231,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 100
     },
     {
@@ -358,14 +358,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1250,
+      "num_users": 4
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 1200,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1200,
-      "num_users": 4
     },
     {
       "university": "Universiteti i Shkodres",
@@ -4213,6 +4213,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -4250,6 +4254,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
