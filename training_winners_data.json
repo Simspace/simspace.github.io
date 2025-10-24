@@ -66,8 +66,8 @@
       "total_points": 1200
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 1150
     },
     {
@@ -76,8 +76,8 @@
       "total_points": 1150
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 1150
     },
     {
@@ -116,13 +116,13 @@
       "total_points": 500
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 450
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 450
     },
     {
@@ -131,13 +131,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 400
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 400
     },
     {
@@ -146,19 +146,14 @@
       "total_points": 350
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
-    },
-    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 350
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
-      "total_points": 300
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 350
     },
     {
       "full_name": "Mateo Nezha",
@@ -166,13 +161,18 @@
       "total_points": 300
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 300
+    },
+    {
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -196,18 +196,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 150
-    },
-    {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
+      "total_points": 150
+    },
+    {
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
     },
     {
@@ -216,13 +211,23 @@
       "total_points": 150
     },
     {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 150
+    },
+    {
+      "full_name": "Kasilda Biba",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 100
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 100
     },
     {
-      "full_name": "Kasilda Biba",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -236,9 +241,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 50
     },
     {
       "full_name": "Endi Gjyli",
@@ -256,13 +261,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Sibora",
+      "university": "Luarasi",
       "total_points": 50
     },
     {
@@ -359,8 +364,8 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 700,
-      "num_users": 2
+      "total_points": 750,
+      "num_users": 3
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -1180,6 +1185,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -1241,6 +1250,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Sibora",
           "challenge_points_earned": 50
         }
       ]
@@ -2970,7 +2983,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -2979,7 +2992,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
