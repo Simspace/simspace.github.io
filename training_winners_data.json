@@ -13,7 +13,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 2450
+      "total_points": 2550
     },
     {
       "full_name": "Orlin Balliu",
@@ -93,7 +93,7 @@
     {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
-      "total_points": 650
+      "total_points": 750
     },
     {
       "full_name": "Artea Myftiu",
@@ -319,7 +319,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2800,
+      "total_points": 2900,
       "num_users": 2
     },
     {
@@ -358,14 +358,14 @@
       "num_users": 1
     },
     {
+      "university": "Luarasi",
+      "total_points": 850,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 800,
       "num_users": 2
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 750,
-      "num_users": 3
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -889,6 +889,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -942,6 +946,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 100
         }
       ]
@@ -3262,6 +3270,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -3283,6 +3295,10 @@
         },
         {
           "full_name": "Egis Sula",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
