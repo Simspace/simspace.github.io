@@ -78,7 +78,7 @@
     {
       "full_name": "Egis Sula",
       "university": "WBU",
-      "total_points": 1000
+      "total_points": 1100
     },
     {
       "full_name": "Adriel Tula",
@@ -308,14 +308,14 @@
       "num_users": 4
     },
     {
+      "university": "WBU",
+      "total_points": 2600,
+      "num_users": 4
+    },
+    {
       "university": "Canadian Institute of Technology",
       "total_points": 2500,
       "num_users": 2
-    },
-    {
-      "university": "WBU",
-      "total_points": 2500,
-      "num_users": 4
     },
     {
       "university": "Tirana Business University",
@@ -3200,6 +3200,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -3217,6 +3221,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 100
         }
       ]
