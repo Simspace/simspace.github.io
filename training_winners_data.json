@@ -2991,7 +2991,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3000,7 +3000,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -4420,6 +4420,51 @@
           "challenge_points_earned": 50
         }
       ]
+    },
+    {
+      "package_id": "cdc2a08c-6f44-4975-948a-e24540d2f525",
+      "package_name": "Host Analyst: APT28 Workshop 2",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "4f0ab914-0966-41e2-a248-9d5597c4b4ba",
+      "package_name": "Host Analyst: APT38 Workshop 2",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "9faa3aae-b177-4964-89ae-e52d93534596",
+      "package_name": "Network Analyst: APT40 Workshop 2",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "1ce8b7d3-179f-4bff-8a9c-70b8fb047dd2",
+      "package_name": "Suricata Rule Writing",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "1196b53e-c4c3-46f9-90ca-58cac58d9017",
+      "package_name": "Wired LAN Packet Analysis",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
