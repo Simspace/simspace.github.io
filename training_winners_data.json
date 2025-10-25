@@ -18,7 +18,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 3450
+      "total_points": 3550
     },
     {
       "full_name": "Lida Filipi",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 3850,
+      "total_points": 3950,
       "num_users": 2
     },
     {
@@ -3099,7 +3099,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3108,7 +3108,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -4868,6 +4868,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -4881,6 +4885,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
