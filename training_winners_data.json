@@ -91,14 +91,14 @@
       "total_points": 850
     },
     {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 850
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 800
-    },
-    {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 750
     },
     {
       "full_name": "Fatbardh Rama",
@@ -141,14 +141,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 400
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 350
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 400
     },
     {
       "full_name": "Livia Demiri",
@@ -161,12 +161,12 @@
       "total_points": 350
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 350
     },
     {
-      "full_name": "Jurgen Rade ",
+      "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
@@ -181,8 +181,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Jurgen Rade ",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 3950,
+      "total_points": 4050,
       "num_users": 2
     },
     {
@@ -389,7 +389,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 900,
+      "total_points": 1000,
       "num_users": 4
     },
     {
@@ -1459,6 +1459,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -1504,6 +1508,10 @@
         },
         {
           "full_name": "Adriel Tula",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 100
         }
       ]
@@ -2111,6 +2119,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2136,6 +2148,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
@@ -3075,7 +3091,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3084,7 +3100,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
