@@ -106,13 +106,18 @@
       "total_points": 700
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 600
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 650
     },
     {
       "full_name": "Ira Haxhiu",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 600
+    },
+    {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 600
     },
     {
@@ -128,11 +133,6 @@
     {
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
-      "total_points": 550
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
       "total_points": 550
     },
     {
@@ -359,7 +359,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2300,
+      "total_points": 2400,
       "num_users": 7
     },
     {
@@ -2219,6 +2219,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2240,6 +2244,10 @@
         },
         {
           "full_name": "Egis Sula",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
