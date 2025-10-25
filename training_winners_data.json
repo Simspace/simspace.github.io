@@ -13,7 +13,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 3900
+      "total_points": 4000
     },
     {
       "full_name": "Orlin Balliu",
@@ -324,7 +324,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 4300,
+      "total_points": 4400,
       "num_users": 2
     },
     {
@@ -2812,6 +2812,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -2837,6 +2841,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
