@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3450
+      "total_points": 3500
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3700,
+      "total_points": 3750,
       "num_users": 3
     },
     {
@@ -3049,7 +3049,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3058,7 +3058,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3649,6 +3649,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3694,6 +3698,10 @@
         },
         {
           "full_name": "Jurgen Rade ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
