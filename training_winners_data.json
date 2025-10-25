@@ -116,6 +116,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 550
+    },
+    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 550
@@ -123,11 +128,6 @@
     {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
-      "total_points": 450
-    },
-    {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
       "total_points": 450
     },
     {
@@ -318,14 +318,14 @@
       "num_users": 4
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 4900,
+      "num_users": 2
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 4850,
       "num_users": 3
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 4800,
-      "num_users": 2
     },
     {
       "university": "Canadian Institute of Technology",
@@ -1644,6 +1644,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1673,6 +1677,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
@@ -3139,7 +3147,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3148,7 +3156,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
