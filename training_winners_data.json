@@ -36,13 +36,13 @@
       "total_points": 2150
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1700
-    },
-    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
+      "total_points": 1800
+    },
+    {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1700
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2750,
+      "total_points": 2850,
       "num_users": 4
     },
     {
@@ -4940,6 +4940,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -4957,6 +4961,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
