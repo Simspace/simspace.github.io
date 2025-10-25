@@ -126,13 +126,13 @@
       "total_points": 550
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
-      "total_points": 450
-    },
-    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
+      "total_points": 500
+    },
+    {
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 450
     },
     {
@@ -399,7 +399,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 500,
+      "total_points": 550,
       "num_users": 2
     },
     {
@@ -2314,6 +2314,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -2379,6 +2383,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
