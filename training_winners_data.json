@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 2950
+      "total_points": 3150
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -181,6 +181,11 @@
       "total_points": 300
     },
     {
+      "full_name": "Jurgen Rade ",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 250
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
@@ -188,11 +193,6 @@
     {
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
-    },
-    {
-      "full_name": "Jurgen Rade ",
-      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 200
     },
     {
@@ -313,14 +313,14 @@
       "num_users": 5
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 3400,
+      "num_users": 3
+    },
+    {
       "university": "Epoka University",
       "total_points": 3350,
       "num_users": 5
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3200,
-      "num_users": 3
     },
     {
       "university": "WBU",
@@ -359,7 +359,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1300,
+      "total_points": 1350,
       "num_users": 4
     },
     {
@@ -2081,6 +2081,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2102,6 +2106,10 @@
         },
         {
           "full_name": "Sidrit Zela",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
@@ -2421,6 +2429,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2482,6 +2494,10 @@
         },
         {
           "full_name": "Ergi Kokoneshi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
@@ -3009,7 +3025,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3018,7 +3034,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3589,6 +3605,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3630,6 +3650,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
