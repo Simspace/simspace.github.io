@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3150
+      "total_points": 3250
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -314,7 +314,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3400,
+      "total_points": 3500,
       "num_users": 3
     },
     {
@@ -3261,6 +3261,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3282,6 +3286,10 @@
         },
         {
           "full_name": "Egis Sula",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
