@@ -151,14 +151,14 @@
       "total_points": 350
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 350
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 300
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 350
     },
     {
       "full_name": "Mateo Nezha",
@@ -166,13 +166,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Livia Demiri",
+      "full_name": "Jurgen Rade ",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300
-    },
-    {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
       "total_points": 300
     },
     {
@@ -181,9 +176,14 @@
       "total_points": 300
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 250
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 300
+    },
+    {
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
+      "total_points": 300
     },
     {
       "full_name": "Savina Shimi",
@@ -353,14 +353,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1450,
+      "num_users": 4
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 1400,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1350,
-      "num_users": 4
     },
     {
       "university": "Herman Gmeiner",
@@ -1705,6 +1705,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1762,6 +1766,10 @@
         },
         {
           "full_name": "Egis Sula",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Livia Demiri",
           "challenge_points_earned": 50
         }
       ]
@@ -3049,7 +3057,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3058,7 +3066,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3546,6 +3554,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3595,6 +3607,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 50
         }
       ]
