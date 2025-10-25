@@ -13,7 +13,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 4050
+      "total_points": 4150
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -324,7 +324,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 4450,
+      "total_points": 4550,
       "num_users": 2
     },
     {
@@ -3131,7 +3131,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3140,7 +3140,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3565,6 +3565,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3626,6 +3630,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
