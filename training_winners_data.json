@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3300
+      "total_points": 3350
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -308,14 +308,14 @@
       "num_users": 4
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 3600,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 3600,
       "num_users": 5
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3550,
-      "num_users": 3
     },
     {
       "university": "Epoka University",
@@ -2663,6 +2663,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2712,6 +2716,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
@@ -3033,7 +3041,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3042,7 +3050,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
