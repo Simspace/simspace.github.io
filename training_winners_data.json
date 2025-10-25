@@ -126,14 +126,14 @@
       "total_points": 450
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 450
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 450
     },
     {
       "full_name": "Anisa Tabaku",
@@ -146,13 +146,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 400
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 4750,
+      "total_points": 4800,
       "num_users": 2
     },
     {
@@ -1538,6 +1538,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1555,6 +1559,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 50
         }
       ]
@@ -3131,7 +3139,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3140,7 +3148,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
