@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3400
+      "total_points": 3450
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3650,
+      "total_points": 3700,
       "num_users": 3
     },
     {
@@ -3542,6 +3542,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3587,6 +3591,10 @@
         },
         {
           "full_name": "Stiven Ga\u00e7e",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
