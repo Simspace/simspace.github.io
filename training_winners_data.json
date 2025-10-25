@@ -18,7 +18,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 3250
+      "total_points": 3350
     },
     {
       "full_name": "Lida Filipi",
@@ -106,6 +106,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 600
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 600
@@ -114,11 +119,6 @@
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 550
-    },
-    {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 500
     },
     {
       "full_name": "Detjon Mataj",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 3650,
+      "total_points": 3750,
       "num_users": 2
     },
     {
@@ -364,7 +364,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1450,
+      "total_points": 1550,
       "num_users": 4
     },
     {
@@ -3497,6 +3497,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3554,6 +3558,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
@@ -3849,6 +3857,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -3862,6 +3874,10 @@
         },
         {
           "full_name": "Adriel Tula",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
