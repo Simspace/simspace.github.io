@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3700
+      "total_points": 3800
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 3950,
+      "total_points": 4050,
       "num_users": 3
     },
     {
@@ -3057,7 +3057,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3066,7 +3066,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -4721,6 +4721,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -4730,6 +4734,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
