@@ -116,13 +116,18 @@
       "total_points": 600
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 550
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 550
+    },
+    {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 550
     },
     {
@@ -133,11 +138,6 @@
     {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
-      "total_points": 450
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
       "total_points": 450
     },
     {
@@ -359,7 +359,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 7
     },
     {
@@ -5156,6 +5156,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -5177,6 +5181,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
