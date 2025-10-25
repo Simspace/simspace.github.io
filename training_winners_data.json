@@ -86,14 +86,14 @@
       "total_points": 1100
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
       "total_points": 950
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
-      "total_points": 850
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 950
     },
     {
       "full_name": "Endi Rizvani",
@@ -344,7 +344,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3350,
+      "total_points": 3450,
       "num_users": 5
     },
     {
@@ -3168,7 +3168,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3177,7 +3177,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -5164,6 +5164,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -5193,6 +5197,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Zela",
           "challenge_points_earned": 100
         }
       ]
