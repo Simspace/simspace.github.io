@@ -13,7 +13,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3050
+      "total_points": 3350
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -328,14 +328,14 @@
       "num_users": 5
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 3350,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 3100,
       "num_users": 4
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 3050,
-      "num_users": 1
     },
     {
       "university": "Canadian Institute of Technology",
@@ -3843,6 +3843,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3860,6 +3864,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 300
         }
       ]
