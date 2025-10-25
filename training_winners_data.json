@@ -196,13 +196,18 @@
       "total_points": 250
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 200
     },
     {
@@ -213,11 +218,6 @@
     {
       "full_name": "Bergit Haveraj ",
       "university": "Harry Fultz",
-      "total_points": 150
-    },
-    {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -409,7 +409,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 150,
+      "total_points": 200,
       "num_users": 1
     },
     {
@@ -2326,6 +2326,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -2395,6 +2399,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 50
         }
       ]
@@ -3176,7 +3184,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3185,7 +3193,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
