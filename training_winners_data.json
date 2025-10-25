@@ -126,11 +126,6 @@
       "total_points": 550
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 450
-    },
-    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 450
@@ -138,7 +133,12 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 400
+      "total_points": 450
+    },
+    {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 450
     },
     {
       "full_name": "Anisa Tabaku",
@@ -399,7 +399,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 450,
+      "total_points": 500,
       "num_users": 2
     },
     {
@@ -3160,7 +3160,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3169,7 +3169,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3729,6 +3729,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -3786,6 +3790,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
