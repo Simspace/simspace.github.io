@@ -221,8 +221,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
       "total_points": 150
     },
     {
@@ -231,9 +231,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 150
     },
     {
       "full_name": "Kasilda Biba",
@@ -241,8 +241,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Kledios Lika",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 100
     },
     {
@@ -251,8 +251,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2150,
+      "total_points": 2200,
       "num_users": 7
     },
     {
@@ -2899,6 +2899,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2960,6 +2964,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Bergit Haveraj ",
           "challenge_points_earned": 50
         }
       ]
@@ -3107,7 +3115,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3116,7 +3124,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
