@@ -91,14 +91,14 @@
       "total_points": 850
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 850
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 800
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 850
     },
     {
       "full_name": "Fatbardh Rama",
@@ -384,7 +384,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1050,
+      "total_points": 1100,
       "num_users": 3
     },
     {
@@ -3107,7 +3107,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3116,7 +3116,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3759,6 +3759,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3808,6 +3812,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
