@@ -88,7 +88,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 900
+      "total_points": 950
     },
     {
       "full_name": "Sidrit Zela",
@@ -373,6 +373,11 @@
       "num_users": 2
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1200,
+      "num_users": 3
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 1200,
       "num_users": 1
@@ -381,11 +386,6 @@
       "university": "Universiteti i Shkodres",
       "total_points": 1150,
       "num_users": 1
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1150,
-      "num_users": 3
     },
     {
       "university": "Luarasi",
@@ -4626,6 +4626,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -4679,6 +4683,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
