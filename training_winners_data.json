@@ -186,6 +186,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Aldo",
+      "university": "Luarasi",
+      "total_points": 350
+    },
+    {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
       "total_points": 350
@@ -196,8 +201,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
@@ -206,13 +211,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
     },
     {
@@ -226,18 +231,23 @@
       "total_points": 150
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 150
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 100
+    },
+    {
+      "full_name": "Albi Biqmeti",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -251,11 +261,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Albi Biqmeti",
-      "university": "Luarasi",
-      "total_points": 100
-    },
-    {
       "full_name": "Kasilda Biba",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100
@@ -266,18 +271,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
       "full_name": "Endi Gjyli",
       "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Aldo",
-      "university": "Luarasi",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -383,6 +383,11 @@
       "num_users": 1
     },
     {
+      "university": "Luarasi",
+      "total_points": 1500,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 1400,
       "num_users": 2
@@ -396,11 +401,6 @@
       "university": "Herman Gmeiner",
       "total_points": 1200,
       "num_users": 1
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1200,
-      "num_users": 5
     },
     {
       "university": "Universiteti i Shkodres",
@@ -4587,6 +4587,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -4660,6 +4664,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Aldo",
           "challenge_points_earned": 300
         }
       ]
