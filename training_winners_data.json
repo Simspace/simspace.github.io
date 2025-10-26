@@ -116,9 +116,9 @@
       "total_points": 650
     },
     {
-      "full_name": "Ira Haxhiu",
+      "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 600
+      "total_points": 650
     },
     {
       "full_name": "Klevisa Aliaj",
@@ -128,6 +128,11 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
+      "total_points": 600
+    },
+    {
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 600
     },
     {
@@ -146,23 +151,23 @@
       "total_points": 500
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 450
-    },
-    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 450
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 450
     },
     {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
+    },
+    {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -171,18 +176,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 350
-    },
-    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 350
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1750,
+      "total_points": 2050,
       "num_users": 4
     },
     {
@@ -3208,7 +3208,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3217,7 +3217,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3350,6 +3350,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3379,6 +3383,10 @@
         },
         {
           "full_name": "Egis Sula",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Livia Demiri",
           "challenge_points_earned": 300
         }
       ]
