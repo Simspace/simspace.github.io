@@ -68,7 +68,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 1250
+      "total_points": 1350
     },
     {
       "full_name": "Enxhi Kala",
@@ -121,13 +121,13 @@
       "total_points": 800
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 700
-    },
-    {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 750
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 700
     },
     {
@@ -211,8 +211,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Kasilda Biba",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 200
     },
     {
@@ -221,9 +221,19 @@
       "total_points": 200
     },
     {
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 150
     },
     {
       "full_name": "Eneda Gjoka",
@@ -236,18 +246,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 150
-    },
-    {
       "full_name": "Sara Mjeshtri",
       "university": "Epoka University",
-      "total_points": 100
-    },
-    {
-      "full_name": "Kledios Lika",
-      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -261,8 +261,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Kasilda Biba",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -333,9 +333,9 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 5550,
-      "num_users": 4
+      "num_users": 3
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -343,13 +343,13 @@
       "num_users": 5
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 5400,
-      "num_users": 3
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 5550,
+      "num_users": 4
     },
     {
       "university": "Epoka University",
-      "total_points": 5050,
+      "total_points": 5150,
       "num_users": 6
     },
     {
@@ -2274,6 +2274,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2303,6 +2307,10 @@
         },
         {
           "full_name": "Sara Mjeshtri",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Kasilda Biba",
           "challenge_points_earned": 100
         }
       ]
@@ -3279,7 +3287,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3288,7 +3296,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -5045,6 +5053,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -5062,6 +5074,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         }
       ]
@@ -5396,6 +5412,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -5421,6 +5441,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
