@@ -136,14 +136,14 @@
       "total_points": 550
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 500
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
-      "total_points": 450
+      "full_name": "Jurgen Rade ",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 500
     },
     {
       "full_name": "Ina Ndoni",
@@ -151,9 +151,9 @@
       "total_points": 450
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
+      "total_points": 450
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -161,8 +161,8 @@
       "total_points": 400
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -349,7 +349,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3250,
+      "total_points": 3350,
       "num_users": 4
     },
     {
@@ -3472,6 +3472,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3505,6 +3509,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Asim Lecini",
           "challenge_points_earned": 100
         }
       ]
