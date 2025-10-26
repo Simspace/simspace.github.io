@@ -156,23 +156,23 @@
       "total_points": 450
     },
     {
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 450
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 450
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
-    },
-    {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 400
-    },
-    {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
+    },
+    {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -359,7 +359,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 3100,
+      "total_points": 3150,
       "num_users": 4
     },
     {
@@ -2359,6 +2359,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -2432,6 +2436,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fabricio Ballabani",
           "challenge_points_earned": 50
         }
       ]
