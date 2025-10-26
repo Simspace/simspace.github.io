@@ -161,6 +161,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
+      "total_points": 400
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 400
@@ -174,11 +179,6 @@
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 350
-    },
-    {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
-      "total_points": 300
     },
     {
       "full_name": "Etien Lila",
@@ -349,7 +349,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3150,
+      "total_points": 3250,
       "num_users": 4
     },
     {
@@ -3200,7 +3200,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3209,7 +3209,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3543,6 +3543,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3572,6 +3576,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Asim Lecini",
           "challenge_points_earned": 100
         }
       ]
