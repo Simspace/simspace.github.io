@@ -91,13 +91,13 @@
       "total_points": 950
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 950
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 950
     },
     {
@@ -131,23 +131,23 @@
       "total_points": 600
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 600
-    },
-    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 600
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
-      "total_points": 500
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 600
     },
     {
       "full_name": "Jurgen Rade ",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 500
+    },
+    {
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 500
     },
     {
@@ -159,11 +159,6 @@
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 450
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -178,6 +173,11 @@
     {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
+    },
+    {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -201,13 +201,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 200
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
@@ -221,19 +221,24 @@
       "total_points": 150
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 150
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
       "full_name": "Eneda Gjoka",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 150
+    },
+    {
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
     },
     {
       "full_name": "Leonard Dani",
@@ -246,14 +251,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Kledios Lika",
+      "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "full_name": "Luiz \u00c7ota",
+      "university": "Universiteti i Korces",
+      "total_points": 50
     },
     {
       "full_name": "Aldo",
@@ -281,8 +286,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Luiz \u00c7ota",
-      "university": "Universiteti i Korces",
+      "full_name": "Iris Malaj",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -313,9 +318,9 @@
   ],
   "universities": [
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 5550,
-      "num_users": 5
+      "university": "Tirana Business University",
+      "total_points": 5600,
+      "num_users": 3
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -323,9 +328,9 @@
       "num_users": 4
     },
     {
-      "university": "Tirana Business University",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 5550,
-      "num_users": 2
+      "num_users": 5
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -3194,6 +3199,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3203,6 +3212,10 @@
         },
         {
           "full_name": "Detjon Mataj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Iris Malaj",
           "challenge_points_earned": 50
         }
       ]
