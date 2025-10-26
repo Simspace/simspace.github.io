@@ -156,6 +156,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Jurgen Rade ",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 400
@@ -171,11 +176,6 @@
       "total_points": 350
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300
-    },
-    {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
       "total_points": 300
@@ -186,7 +186,7 @@
       "total_points": 300
     },
     {
-      "full_name": "Jurgen Rade ",
+      "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 300
     },
@@ -369,7 +369,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1550,
+      "total_points": 1650,
       "num_users": 4
     },
     {
@@ -640,6 +640,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -681,6 +685,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 100
         }
       ]
