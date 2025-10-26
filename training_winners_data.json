@@ -136,6 +136,11 @@
       "total_points": 550
     },
     {
+      "full_name": "Jurgen Rade ",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 500
+    },
+    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 450
@@ -146,18 +151,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
-    },
-    {
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
-      "full_name": "Jurgen Rade ",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1650,
+      "total_points": 1750,
       "num_users": 4
     },
     {
@@ -1476,6 +1476,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1525,6 +1529,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Rade ",
           "challenge_points_earned": 100
         }
       ]
