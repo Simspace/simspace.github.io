@@ -91,14 +91,14 @@
       "total_points": 950
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 950
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 850
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 950
     },
     {
       "full_name": "Nea Metohu",
@@ -394,7 +394,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 1000,
+      "total_points": 1100,
       "num_users": 4
     },
     {
@@ -2002,6 +2002,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2039,6 +2043,10 @@
         },
         {
           "full_name": "Egis Sula",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 100
         }
       ]
