@@ -38,7 +38,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 2000
+      "total_points": 2100
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -348,13 +348,13 @@
       "num_users": 5
     },
     {
-      "university": "WBU",
-      "total_points": 3100,
+      "university": "Universiteti New York Tirana",
+      "total_points": 3150,
       "num_users": 4
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 3050,
+      "university": "WBU",
+      "total_points": 3100,
       "num_users": 4
     },
     {
@@ -5224,6 +5224,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5257,6 +5261,10 @@
         },
         {
           "full_name": "Sidrit Zela",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
