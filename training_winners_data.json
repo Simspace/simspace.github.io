@@ -91,12 +91,17 @@
       "total_points": 1100
     },
     {
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
+      "total_points": 1050
+    },
+    {
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 950
     },
     {
-      "full_name": "Sidrit Zela",
+      "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 950
     },
@@ -109,11 +114,6 @@
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 950
-    },
-    {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 850
     },
     {
       "full_name": "Jurgen Rade ",
@@ -349,7 +349,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 5200,
+      "total_points": 5400,
       "num_users": 6
     },
     {
@@ -3295,7 +3295,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3304,7 +3304,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3666,6 +3666,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3699,6 +3703,10 @@
         },
         {
           "full_name": "Asim Lecini",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Zela",
           "challenge_points_earned": 100
         }
       ]
@@ -5361,6 +5369,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -5386,6 +5398,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 100
         }
       ]
