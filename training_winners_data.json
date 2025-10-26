@@ -156,6 +156,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 550
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 450
@@ -163,11 +168,6 @@
     {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
-      "total_points": 450
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 450
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 5150,
+      "total_points": 5250,
       "num_users": 3
     },
     {
@@ -3250,7 +3250,7 @@
       ]
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3259,7 +3259,7 @@
       "users": []
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -4136,6 +4136,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -4165,6 +4169,10 @@
         },
         {
           "full_name": "Asim Lecini",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
