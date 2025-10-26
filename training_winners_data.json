@@ -86,8 +86,8 @@
       "total_points": 1100
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 950
     },
     {
@@ -98,6 +98,11 @@
     {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
+      "total_points": 950
+    },
+    {
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
       "total_points": 950
     },
     {
@@ -114,11 +119,6 @@
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 700
-    },
-    {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 650
     },
     {
       "full_name": "Tony Tatazi",
@@ -364,7 +364,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2450,
+      "total_points": 2750,
       "num_users": 4
     },
     {
@@ -2106,6 +2106,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2151,6 +2155,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Livia Demiri",
           "challenge_points_earned": 300
         }
       ]
