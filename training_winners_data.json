@@ -101,6 +101,11 @@
       "total_points": 850
     },
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 850
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 700
@@ -111,24 +116,19 @@
       "total_points": 650
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 600
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 600
     },
     {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 600
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 550
     },
     {
       "full_name": "Klevisa Aliaj",
@@ -344,7 +344,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3450,
+      "total_points": 3750,
       "num_users": 5
     },
     {
@@ -3184,7 +3184,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3193,7 +3193,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3385,6 +3385,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3406,6 +3410,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 300
         }
       ]
