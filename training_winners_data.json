@@ -26,13 +26,13 @@
       "total_points": 2350
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2250
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 2250
     },
     {
@@ -46,13 +46,13 @@
       "total_points": 1700
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1450
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 1450
     },
     {
@@ -96,8 +96,8 @@
       "total_points": 950
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Sidrit Zela",
+      "university": "Epoka University",
       "total_points": 950
     },
     {
@@ -106,8 +106,8 @@
       "total_points": 950
     },
     {
-      "full_name": "Sidrit Zela",
-      "university": "Epoka University",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 950
     },
     {
@@ -131,13 +131,13 @@
       "total_points": 650
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 600
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 600
     },
     {
@@ -146,13 +146,13 @@
       "total_points": 600
     },
     {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Ira Haxhiu",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 600
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 600
     },
     {
@@ -161,23 +161,23 @@
       "total_points": 550
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 450
-    },
-    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 450
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 450
     },
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
+      "total_points": 400
+    },
+    {
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -186,13 +186,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 350
     },
     {
@@ -211,19 +211,24 @@
       "total_points": 200
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 200
     },
     {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200
+    },
+    {
+      "full_name": "Eneda Gjoka",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 150
     },
     {
       "full_name": "Bergit Haveraj ",
@@ -236,23 +241,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 150
-    },
-    {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 100
-    },
-    {
-      "full_name": "Albi Biqmeti",
-      "university": "Luarasi",
+      "full_name": "Sara Mjeshtri",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
+      "full_name": "Albi Biqmeti",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -263,6 +263,11 @@
     {
       "full_name": "Kasilda Biba",
       "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 100
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 100
     },
     {
@@ -344,8 +349,8 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 4850,
-      "num_users": 5
+      "total_points": 4950,
+      "num_users": 6
     },
     {
       "university": "Canadian Institute of Technology",
@@ -2265,6 +2270,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -2290,6 +2299,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sara Mjeshtri",
           "challenge_points_earned": 100
         }
       ]
