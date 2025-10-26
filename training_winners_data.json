@@ -66,6 +66,11 @@
       "total_points": 1350
     },
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 1250
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1200
@@ -84,11 +89,6 @@
       "full_name": "Adriel Tula",
       "university": "WBU",
       "total_points": 1100
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 950
     },
     {
       "full_name": "Livia Demiri",
@@ -344,7 +344,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 4550,
+      "total_points": 4850,
       "num_users": 5
     },
     {
@@ -3250,7 +3250,7 @@
       ]
     },
     {
-      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
+      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -3259,7 +3259,7 @@
       "users": []
     },
     {
-      "package_id": "e5456d40-1280-4f36-a769-027608348f5e",
+      "package_id": "0ff545df-a9af-4177-a15b-be207566c382",
       "package_name": "",
       "difficulty": "",
       "passing_threshold": "90",
@@ -4073,6 +4073,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -4098,6 +4102,10 @@
         },
         {
           "full_name": "Jonalda Gjoka ",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 300
         }
       ]
