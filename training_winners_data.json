@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 450
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 150
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 450
     },
     {
       "full_name": "Earta Joca",
@@ -18,13 +18,13 @@
   ],
   "universities": [
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "Epoka University",
       "total_points": 450,
       "num_users": 1
     },
     {
-      "university": "Epoka University",
-      "total_points": 150,
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 450,
       "num_users": 1
     },
     {
@@ -173,11 +173,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 300
         }
       ]
