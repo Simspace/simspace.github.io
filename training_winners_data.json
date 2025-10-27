@@ -21,14 +21,19 @@
       "total_points": 450
     },
     {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 250
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 250
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
+      "total_points": 200
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -36,23 +41,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 100
-    },
-    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
-    },
-    {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
-      "total_points": 100
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
@@ -61,12 +51,32 @@
       "total_points": 100
     },
     {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    },
+    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
+      "total_points": 50
+    },
+    {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 50
     }
   ],
   "universities": [
+    {
+      "university": "Epoka University",
+      "total_points": 850,
+      "num_users": 3
+    },
     {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 850,
@@ -76,11 +86,6 @@
       "university": "Universiteti New York Tirana",
       "total_points": 800,
       "num_users": 1
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 700,
-      "num_users": 2
     },
     {
       "university": "Harry Fultz",
@@ -187,6 +192,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -204,6 +213,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Detjon Mataj",
           "challenge_points_earned": 100
         }
       ]
@@ -598,11 +611,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
