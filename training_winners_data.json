@@ -31,6 +31,11 @@
       "total_points": 300
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 300
+    },
+    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 250
@@ -111,6 +116,11 @@
       "university": "Harry Fultz",
       "total_points": 700,
       "num_users": 2
+    },
+    {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 300,
+      "num_users": 1
     },
     {
       "university": "Luarasi",
@@ -500,6 +510,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -517,6 +531,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 300
         }
       ]
