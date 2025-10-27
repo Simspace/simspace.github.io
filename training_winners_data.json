@@ -3,17 +3,17 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 850
+      "total_points": 900
+    },
+    {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 800
     },
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 650
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 600
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -98,13 +98,18 @@
       "num_users": 4
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 900,
+      "num_users": 1
+    },
+    {
       "university": "Epoka University",
       "total_points": 850,
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 850,
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 800,
       "num_users": 1
     },
     {
@@ -116,11 +121,6 @@
       "university": "Harry Fultz",
       "total_points": 700,
       "num_users": 2
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 600,
-      "num_users": 1
     },
     {
       "university": "Luarasi",
@@ -467,11 +467,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -579,6 +587,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -588,6 +600,10 @@
         },
         {
           "full_name": "Samantha Bilbili",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
@@ -606,6 +622,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -615,6 +635,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
