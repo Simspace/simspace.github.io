@@ -6,13 +6,13 @@
       "total_points": 700
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 600
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 600
     },
     {
@@ -28,12 +28,17 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
+    },
+    {
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
+      "total_points": 100
     },
     {
       "full_name": "Fabricio Ballabani",
@@ -58,23 +63,23 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 700,
-      "num_users": 1
-    },
-    {
       "university": "Harry Fultz",
       "total_points": 700,
       "num_users": 2
     },
     {
       "university": "Epoka University",
-      "total_points": 600,
+      "total_points": 700,
+      "num_users": 2
+    },
+    {
+      "university": "Universiteti New York Tirana",
+      "total_points": 700,
       "num_users": 1
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -103,6 +108,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -113,12 +122,25 @@
         {
           "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Detjon Mataj",
+          "challenge_points_earned": 100
         }
       ]
     },
     {
       "package_id": "009049f8-bb7a-475a-a6e0-3526bba8d6ca",
       "package_name": "CurveBall: Legacy Threat",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "October 27, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "f8db90a4-d9fb-4abe-b053-df042180dacf",
+      "package_name": "Cyber Attack Challenge: Cedar Bunny",
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
@@ -159,24 +181,6 @@
           "challenge_points_earned": 100
         }
       ]
-    },
-    {
-      "package_id": "a49f5cac-9f25-4668-8f6e-a9fbfb582542",
-      "package_name": "IMB: Basic Malware Analysis Challenge: Alien Autopsy",
-      "difficulty": "intermediate",
-      "passing_threshold": "90",
-      "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
-    },
-    {
-      "package_id": "4d2b4e55-4ca1-4e28-897a-a3991e09d0bc",
-      "package_name": "ISO: Cyber Attack Challenge: Cedar Bunny",
-      "difficulty": "intermediate",
-      "passing_threshold": "90",
-      "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
     },
     {
       "package_id": "875ffd76-9666-4acb-aa95-9a178e1b2cf0",
@@ -556,8 +560,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        }
+      ]
     }
   ],
   "difficulty_points": {
