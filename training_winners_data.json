@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 650
+      "total_points": 700
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -58,14 +58,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 700,
+      "num_users": 1
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 700,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 650,
-      "num_users": 1
     },
     {
       "university": "Epoka University",
@@ -529,6 +529,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -538,6 +542,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
