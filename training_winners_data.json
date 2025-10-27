@@ -26,18 +26,23 @@
       "total_points": 400
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 350
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 300
     },
     {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 300
-    },
-    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
+      "total_points": 250
+    },
+    {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
@@ -47,11 +52,6 @@
     },
     {
       "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 150
-    },
-    {
-      "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
     },
@@ -94,7 +94,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1050,
+      "total_points": 1150,
       "num_users": 4
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 300,
+      "total_points": 350,
       "num_users": 1
     },
     {
@@ -485,8 +485,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "09e37707-fea2-4db2-a5f3-500745590a07",
@@ -744,6 +754,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -761,6 +775,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
