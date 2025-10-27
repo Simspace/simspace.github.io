@@ -21,13 +21,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
@@ -48,6 +48,11 @@
     {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 100
     },
     {
@@ -101,6 +106,11 @@
       "university": "Luarasi",
       "total_points": 150,
       "num_users": 2
+    },
+    {
+      "university": "Herman Gmeiner",
+      "total_points": 100,
+      "num_users": 1
     },
     {
       "university": "WBU",
@@ -545,6 +555,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -570,6 +584,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
@@ -648,6 +666,7 @@
     "3": 1.0,
     "4": 1.0,
     "5": 1.0,
-    "6": 1.0
+    "6": 1.0,
+    "7": 1.0
   }
 }
