@@ -23,7 +23,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
+      "total_points": 350
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -99,7 +99,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 2
     },
     {
@@ -141,6 +141,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -158,6 +162,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 100
         }
       ]
