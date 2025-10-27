@@ -21,9 +21,9 @@
       "total_points": 450
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 150
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 200
     },
     {
       "full_name": "Elisa Zala",
@@ -31,9 +31,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 100
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 150
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -41,8 +41,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -63,14 +63,14 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 650,
+      "num_users": 2
+    },
+    {
       "university": "Epoka University",
       "total_points": 600,
       "num_users": 1
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 550,
-      "num_users": 2
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -99,11 +99,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
         }
       ]
