@@ -6,13 +6,13 @@
       "total_points": 850
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 600
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 600
     },
     {
@@ -23,7 +23,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 350
+      "total_points": 400
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -46,6 +46,16 @@
       "total_points": 150
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    },
+    {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 100
@@ -53,11 +63,6 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 100
-    },
-    {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -78,12 +83,12 @@
   ],
   "universities": [
     {
-      "university": "Epoka University",
-      "total_points": 850,
-      "num_users": 3
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 950,
+      "num_users": 4
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "Epoka University",
       "total_points": 850,
       "num_users": 3
     },
@@ -99,7 +104,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 550,
+      "total_points": 600,
       "num_users": 2
     },
     {
@@ -494,8 +499,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "492686e4-b801-4387-a7f6-93518457df06",
@@ -503,8 +518,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "f44ba65f-177a-438a-a9d4-40f5ffca91de",
