@@ -11,14 +11,19 @@
       "total_points": 500
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
+      "total_points": 150
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 100
     }
   ],
   "universities": [
@@ -33,13 +38,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 100,
-      "num_users": 1
+      "university": "Harry Fultz",
+      "total_points": 250,
+      "num_users": 2
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 50,
+      "university": "Universiteti New York Tirana",
+      "total_points": 100,
       "num_users": 1
     }
   ],
@@ -72,11 +77,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
         }
       ]
@@ -285,6 +298,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -294,6 +311,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Etien Lila",
           "challenge_points_earned": 100
         }
       ]
@@ -334,6 +355,7 @@
   },
   "rank_multipliers": {
     "1": 1.0,
-    "2": 1.0
+    "2": 1.0,
+    "3": 1.0
   }
 }
