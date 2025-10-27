@@ -26,6 +26,11 @@
       "total_points": 450
     },
     {
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
@@ -34,6 +39,11 @@
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 300
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 250
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -46,19 +56,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 250
-    },
-    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 100
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -71,8 +71,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 100
     },
     {
@@ -128,14 +128,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400,
+      "num_users": 1
+    },
+    {
       "university": "Luarasi",
       "total_points": 200,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 100,
-      "num_users": 1
     },
     {
       "university": "Herman Gmeiner",
@@ -576,6 +576,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -597,6 +601,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Livia Demiri",
           "challenge_points_earned": 300
         }
       ]
