@@ -21,13 +21,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
@@ -36,8 +36,23 @@
       "total_points": 150
     },
     {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 100
+    },
+    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
+      "total_points": 100
+    },
+    {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
@@ -46,14 +61,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
+      "full_name": "Samantha Bilbili",
       "university": "Luarasi",
-      "total_points": 100
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "total_points": 50
     }
   ],
   "universities": [
@@ -79,13 +89,13 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250,
-      "num_users": 1
+      "total_points": 350,
+      "num_users": 2
     },
     {
       "university": "Luarasi",
-      "total_points": 100,
-      "num_users": 1
+      "total_points": 150,
+      "num_users": 2
     },
     {
       "university": "WBU",
@@ -165,6 +175,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -178,6 +192,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 100
         }
       ]
@@ -208,6 +226,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -229,6 +251,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Samantha Bilbili",
           "challenge_points_earned": 50
         }
       ]
