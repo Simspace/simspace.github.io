@@ -73,7 +73,7 @@
     {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
-      "total_points": 50
+      "total_points": 100
     },
     {
       "full_name": "Nea Metohu",
@@ -114,7 +114,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 150,
+      "total_points": 200,
       "num_users": 2
     },
     {
@@ -531,11 +531,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Samantha Bilbili",
           "challenge_points_earned": 50
         }
       ]
