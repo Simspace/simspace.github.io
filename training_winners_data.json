@@ -3,12 +3,12 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "total_points": 400
     },
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 50
+      "total_points": 150
     },
     {
       "full_name": "Earta Joca",
@@ -19,12 +19,12 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100,
+      "total_points": 400,
       "num_users": 1
     },
     {
       "university": "Epoka University",
-      "total_points": 50,
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -149,8 +149,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "72f3297d-9e9e-4684-ac91-db2bd9e94ccb",
@@ -207,11 +217,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
@@ -251,6 +269,7 @@
     "intermediate": 100
   },
   "rank_multipliers": {
-    "1": 1.0
+    "1": 1.0,
+    "2": 1.0
   }
 }
