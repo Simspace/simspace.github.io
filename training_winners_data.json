@@ -1,6 +1,18 @@
 {
-  "users": [],
-  "universities": [],
+  "users": [
+    {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    }
+  ],
+  "universities": [
+    {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100,
+      "num_users": 1
+    }
+  ],
   "packages": [
     {
       "package_id": "f2c627b3-f551-4af8-b73b-c4bb2c32d670",
@@ -161,8 +173,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "e30e17ab-a377-4b27-a03e-68c747220065",
@@ -188,5 +210,7 @@
     "foundational": 50,
     "intermediate": 100
   },
-  "rank_multipliers": {}
+  "rank_multipliers": {
+    "1": 1.0
+  }
 }
