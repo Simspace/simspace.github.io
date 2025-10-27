@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 550
-    },
-    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 600
+    },
+    {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 550
     },
     {
@@ -26,6 +26,11 @@
       "total_points": 100
     },
     {
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
@@ -39,7 +44,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 750,
+      "total_points": 800,
       "num_users": 3
     },
     {
@@ -55,6 +60,11 @@
     {
       "university": "Universiteti New York Tirana",
       "total_points": 500,
+      "num_users": 1
+    },
+    {
+      "university": "WBU",
+      "total_points": 100,
       "num_users": 1
     }
   ],
@@ -173,6 +183,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -182,6 +196,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 50
         }
       ]
@@ -360,6 +378,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -377,6 +399,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fabricio Ballabani",
           "challenge_points_earned": 100
         }
       ]
@@ -419,6 +445,7 @@
     "1": 1.0,
     "2": 1.0,
     "3": 1.0,
-    "4": 1.0
+    "4": 1.0,
+    "5": 1.0
   }
 }
