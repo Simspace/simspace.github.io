@@ -56,18 +56,18 @@
       "total_points": 300
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 250
-    },
-    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 250
+      "total_points": 300
     },
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
+      "total_points": 250
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
@@ -129,7 +129,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1350,
+      "total_points": 1400,
       "num_users": 4
     },
     {
@@ -869,8 +869,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "October 27, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "a93be311-28ab-4962-8970-c9908e966306",
