@@ -26,13 +26,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -46,19 +46,24 @@
       "total_points": 250
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
+    },
+    {
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -71,13 +76,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 100
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -113,14 +118,14 @@
       "num_users": 1
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 900,
+      "num_users": 2
+    },
+    {
       "university": "Epoka University",
       "total_points": 850,
       "num_users": 3
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 800,
-      "num_users": 1
     },
     {
       "university": "Harry Fultz",
@@ -241,11 +246,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 100
         }
       ]
