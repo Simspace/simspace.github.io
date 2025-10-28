@@ -36,6 +36,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 300
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 300
@@ -46,23 +51,18 @@
       "total_points": 250
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 250
-    },
-    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 250
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
-      "total_points": 200
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 250
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 200
     },
     {
@@ -113,14 +113,14 @@
       "num_users": 4
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1100,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 1050,
       "num_users": 1
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1000,
-      "num_users": 2
     },
     {
       "university": "Epoka University",
@@ -791,6 +791,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -824,6 +828,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 100
         }
       ]
@@ -936,6 +944,7 @@
     "5": 1.0,
     "6": 1.0,
     "7": 1.0,
-    "8": 1.0
+    "8": 1.0,
+    "9": 1.0
   }
 }
