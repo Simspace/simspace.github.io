@@ -56,11 +56,6 @@
       "total_points": 300
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 250
-    },
-    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
@@ -68,7 +63,12 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 200
+      "total_points": 250
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -163,14 +163,14 @@
       "num_users": 1
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 250,
+      "num_users": 1
+    },
+    {
       "university": "Luarasi",
       "total_points": 200,
       "num_users": 2
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 200,
-      "num_users": 1
     },
     {
       "university": "Tirana Business University",
@@ -543,6 +543,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -572,6 +576,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
