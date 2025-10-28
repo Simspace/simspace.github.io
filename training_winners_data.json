@@ -31,18 +31,23 @@
       "total_points": 400
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
-    },
-    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 300
+    },
+    {
+      "full_name": "Egis Sula",
+      "university": "WBU",
       "total_points": 300
     },
     {
@@ -148,17 +153,17 @@
       "num_users": 1
     },
     {
+      "university": "WBU",
+      "total_points": 400,
+      "num_users": 2
+    },
+    {
       "university": "Luarasi",
       "total_points": 200,
       "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 100,
-      "num_users": 1
-    },
-    {
-      "university": "WBU",
       "total_points": 100,
       "num_users": 1
     },
@@ -661,6 +666,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -686,6 +695,10 @@
         },
         {
           "full_name": "Livia Demiri",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 300
         }
       ]
