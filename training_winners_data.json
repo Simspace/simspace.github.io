@@ -8,7 +8,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -26,8 +26,8 @@
       "total_points": 450
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
     },
     {
@@ -36,9 +36,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 300
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
     },
     {
       "full_name": "Fatbardh Rama",
@@ -108,14 +108,14 @@
   ],
   "universities": [
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1250,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1250,
       "num_users": 4
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1100,
-      "num_users": 2
     },
     {
       "university": "Universiteti New York Tirana",
@@ -420,6 +420,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -445,6 +449,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 50
         }
       ]
@@ -479,6 +487,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -504,6 +516,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -666,6 +682,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -679,6 +699,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 50
         }
       ]
