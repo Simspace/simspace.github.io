@@ -21,19 +21,14 @@
       "total_points": 600
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
-      "total_points": 450
-    },
-    {
       "full_name": "Egis Sula",
       "university": "WBU",
       "total_points": 450
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
+      "total_points": 450
     },
     {
       "full_name": "Livia Demiri",
@@ -46,14 +41,14 @@
       "total_points": 400
     },
     {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
+    },
+    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 350
-    },
-    {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 300
     },
     {
       "full_name": "Fatbardh Rama",
@@ -61,9 +56,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 250
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 300
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -71,9 +66,19 @@
       "total_points": 250
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 250
+    },
+    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
+    },
+    {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 100
     },
     {
       "full_name": "Samantha Bilbili",
@@ -96,13 +101,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -194,6 +199,11 @@
     },
     {
       "university": "Herman Gmeiner",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti i Elbasanit",
       "total_points": 100,
       "num_users": 1
     },
@@ -973,6 +983,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -1010,6 +1024,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
