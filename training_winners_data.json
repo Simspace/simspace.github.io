@@ -21,6 +21,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 450
+    },
+    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 450
@@ -31,19 +36,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
-    },
-    {
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 350
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
     },
     {
       "full_name": "Fatbardh Rama",
@@ -51,9 +51,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 250
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 300
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -61,8 +61,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1250,
+      "total_points": 1300,
       "num_users": 4
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 2
     },
     {
@@ -569,6 +569,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -578,6 +582,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Egis Sula",
           "challenge_points_earned": 100
         }
       ]
@@ -733,6 +741,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -750,6 +762,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
