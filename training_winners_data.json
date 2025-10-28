@@ -46,13 +46,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 300
-    },
-    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 350
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 300
     },
     {
@@ -123,14 +123,14 @@
   ],
   "universities": [
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1350,
+      "num_users": 4
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1300,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1300,
-      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -966,6 +966,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -983,6 +987,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
