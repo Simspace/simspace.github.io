@@ -21,14 +21,19 @@
       "total_points": 600
     },
     {
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 450
+    },
+    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 450
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
     },
     {
       "full_name": "Ergi Hysa",
@@ -38,11 +43,6 @@
     {
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -61,13 +61,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 250
     },
     {
@@ -78,6 +78,11 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    },
+    {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -96,8 +101,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -106,9 +111,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 100
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
     },
     {
       "full_name": "Orlin Balliu",
@@ -134,8 +139,8 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1300,
-      "num_users": 2
+      "total_points": 1350,
+      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -654,6 +659,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -671,6 +680,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Barlind Bunga",
           "challenge_points_earned": 50
         }
       ]
