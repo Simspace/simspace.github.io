@@ -63,7 +63,7 @@
     {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "total_points": 200
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -119,7 +119,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 900,
+      "total_points": 1000,
       "num_users": 2
     },
     {
@@ -572,11 +572,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ergi Hysa",
           "challenge_points_earned": 100
         }
       ]
