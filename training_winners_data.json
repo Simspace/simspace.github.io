@@ -36,13 +36,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -56,14 +56,19 @@
       "total_points": 300
     },
     {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 250
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 250
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 200
     },
     {
       "full_name": "Detjon Mataj",
@@ -71,13 +76,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 100
     },
     {
@@ -86,8 +91,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -163,18 +168,18 @@
       "num_users": 2
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 100,
-      "num_users": 1
-    },
-    {
       "university": "Mediterranean University- UMSH",
-      "total_points": 100,
+      "total_points": 200,
       "num_users": 1
     },
     {
       "university": "Tirana Business University",
-      "total_points": 50,
+      "total_points": 150,
+      "num_users": 2
+    },
+    {
+      "university": "Herman Gmeiner",
+      "total_points": 100,
       "num_users": 1
     },
     {
@@ -317,6 +322,14 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -342,6 +355,14 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
