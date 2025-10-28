@@ -41,13 +41,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
@@ -59,6 +59,11 @@
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
+    },
+    {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 100
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -118,12 +123,12 @@
       "num_users": 1
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "university": "Harry Fultz",
       "total_points": 700,
       "num_users": 2
     },
     {
-      "university": "Harry Fultz",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 700,
       "num_users": 2
     },
@@ -136,6 +141,11 @@
       "university": "Luarasi",
       "total_points": 200,
       "num_users": 2
+    },
+    {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 100,
+      "num_users": 1
     },
     {
       "university": "Herman Gmeiner",
@@ -756,6 +766,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -785,6 +799,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
@@ -896,6 +914,7 @@
     "4": 1.0,
     "5": 1.0,
     "6": 1.0,
-    "7": 1.0
+    "7": 1.0,
+    "8": 1.0
   }
 }
