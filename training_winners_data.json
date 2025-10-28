@@ -8,7 +8,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 850
+      "total_points": 900
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -109,7 +109,7 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1250,
+      "total_points": 1300,
       "num_users": 2
     },
     {
@@ -361,6 +361,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -386,6 +390,10 @@
         },
         {
           "full_name": "Samantha Bilbili",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
