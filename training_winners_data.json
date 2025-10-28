@@ -46,13 +46,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
@@ -64,6 +64,11 @@
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
+    },
+    {
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 100
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -86,14 +91,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
       "total_points": 100
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 50
     },
     {
       "full_name": "Nea Metohu",
@@ -128,12 +133,12 @@
       "num_users": 3
     },
     {
-      "university": "Harry Fultz",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 700,
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "university": "Harry Fultz",
       "total_points": 700,
       "num_users": 2
     },
@@ -148,11 +153,6 @@
       "num_users": 2
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 100,
-      "num_users": 1
-    },
-    {
       "university": "Herman Gmeiner",
       "total_points": 100,
       "num_users": 1
@@ -160,6 +160,16 @@
     {
       "university": "WBU",
       "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Tirana Business University",
+      "total_points": 50,
       "num_users": 1
     },
     {
@@ -365,6 +375,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -394,6 +408,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
