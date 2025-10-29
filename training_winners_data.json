@@ -76,13 +76,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
@@ -121,9 +121,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Barlind Bunga",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 100
     },
     {
       "full_name": "Griselda Ramadani",
@@ -131,18 +131,18 @@
       "total_points": 50
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 50
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 50
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 50
     },
     {
@@ -218,13 +218,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100,
       "num_users": 1
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 50,
+      "university": "Universiteti i Elbasanit",
+      "total_points": 100,
       "num_users": 1
     },
     {
@@ -455,6 +455,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -488,6 +492,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
