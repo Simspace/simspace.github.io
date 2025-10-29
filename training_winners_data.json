@@ -11,6 +11,11 @@
       "total_points": 950
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 700
+    },
+    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 650
@@ -18,11 +23,6 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 600
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 600
     },
     {
@@ -178,6 +178,11 @@
       "num_users": 3
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 700,
+      "num_users": 1
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 700,
       "num_users": 2
@@ -186,11 +191,6 @@
       "university": "Harry Fultz",
       "total_points": 700,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 600,
-      "num_users": 1
     },
     {
       "university": "WBU",
@@ -390,6 +390,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -423,6 +427,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
