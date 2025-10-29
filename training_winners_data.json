@@ -21,14 +21,19 @@
       "total_points": 600
     },
     {
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 450
+    },
+    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 450
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
     },
     {
       "full_name": "Ergi Hysa",
@@ -38,11 +43,6 @@
     {
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -76,13 +76,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -91,13 +91,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
-    },
-    {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -106,8 +101,18 @@
       "total_points": 100
     },
     {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 100
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 100
     },
     {
@@ -201,6 +206,11 @@
       "university": "Tirana Business University",
       "total_points": 150,
       "num_users": 2
+    },
+    {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100,
+      "num_users": 1
     },
     {
       "university": "Herman Gmeiner",
@@ -1013,6 +1023,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1054,6 +1068,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
