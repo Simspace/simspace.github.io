@@ -23,7 +23,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 500
+      "total_points": 600
     },
     {
       "full_name": "Etien Lila",
@@ -188,14 +188,14 @@
       "num_users": 2
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 600,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 550,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 500,
-      "num_users": 1
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -792,6 +792,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -801,6 +805,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
