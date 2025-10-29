@@ -41,6 +41,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 400
+    },
+    {
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
@@ -53,11 +58,6 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 300
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 300
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 300,
+      "total_points": 400,
       "num_users": 1
     },
     {
@@ -1069,6 +1069,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1114,6 +1118,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
