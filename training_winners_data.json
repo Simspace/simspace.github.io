@@ -8,7 +8,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 900
+      "total_points": 950
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -143,14 +143,14 @@
   ],
   "universities": [
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1400,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1400,
       "num_users": 4
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1350,
-      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -914,11 +914,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
