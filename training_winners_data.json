@@ -21,23 +21,23 @@
       "total_points": 600
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
-    },
-    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 450
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 450
     },
     {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -76,23 +76,13 @@
       "total_points": 200
     },
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 100
+    },
+    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
-      "total_points": 100
-    },
-    {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
-      "total_points": 100
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
-    },
-    {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -101,8 +91,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
@@ -111,14 +101,19 @@
       "total_points": 100
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 50
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
+      "total_points": 100
     },
     {
       "full_name": "Barlind Bunga",
@@ -126,13 +121,23 @@
       "total_points": 50
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 50
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
+      "total_points": 50
+    },
+    {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 50
+    },
+    {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -205,6 +210,11 @@
     {
       "university": "Universiteti i Elbasanit",
       "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 50,
       "num_users": 1
     },
     {
@@ -585,6 +595,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -626,6 +640,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
@@ -1158,6 +1176,7 @@
     "7": 1.0,
     "8": 1.0,
     "9": 1.0,
-    "10": 1.0
+    "10": 1.0,
+    "11": 1.0
   }
 }
