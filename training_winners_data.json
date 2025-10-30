@@ -46,13 +46,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -96,6 +96,11 @@
       "total_points": 100
     },
     {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 100
+    },
+    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 100
@@ -111,8 +116,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
@@ -183,14 +188,14 @@
       "num_users": 3
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 850,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 800,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 750,
-      "num_users": 2
     },
     {
       "university": "Harry Fultz",
@@ -335,6 +340,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -344,6 +353,10 @@
         },
         {
           "full_name": "Ergi Hysa",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
