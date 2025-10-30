@@ -91,13 +91,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -111,8 +111,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -121,13 +121,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 100
     },
     {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -141,18 +146,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Barlind Bunga",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 50
     },
     {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 450,
+      "total_points": 500,
       "num_users": 2
     },
     {
@@ -561,6 +561,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -594,6 +598,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Griselda Ramadani",
           "challenge_points_earned": 50
         }
       ]
