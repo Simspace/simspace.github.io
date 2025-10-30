@@ -33,7 +33,7 @@
     {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
-      "total_points": 450
+      "total_points": 500
     },
     {
       "full_name": "Egis Sula",
@@ -199,7 +199,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 700,
+      "total_points": 750,
       "num_users": 2
     },
     {
@@ -811,6 +811,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -832,6 +836,10 @@
         },
         {
           "full_name": "Barlind Bunga",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Etien Lila",
           "challenge_points_earned": 50
         }
       ]
