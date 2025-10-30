@@ -28,7 +28,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 500
+      "total_points": 600
     },
     {
       "full_name": "Etien Lila",
@@ -198,6 +198,11 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 600,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 550,
       "num_users": 2
@@ -206,11 +211,6 @@
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 500,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 500,
-      "num_users": 1
     },
     {
       "university": "Luarasi",
@@ -1138,6 +1138,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1191,6 +1195,10 @@
         },
         {
           "full_name": "Aldo",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
@@ -1324,6 +1332,7 @@
     "10": 1.0,
     "11": 1.0,
     "12": 1.0,
-    "13": 1.0
+    "13": 1.0,
+    "14": 1.0
   }
 }
