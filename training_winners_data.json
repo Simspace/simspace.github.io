@@ -26,9 +26,9 @@
       "total_points": 600
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 500
     },
     {
       "full_name": "Etien Lila",
@@ -36,13 +36,18 @@
       "total_points": 450
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 450
     },
     {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -56,19 +61,14 @@
       "total_points": 350
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 300
-    },
-    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 250
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 300
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -76,9 +76,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 200
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -208,6 +208,11 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 500,
+      "num_users": 1
+    },
+    {
       "university": "Luarasi",
       "total_points": 300,
       "num_users": 3
@@ -215,11 +220,6 @@
     {
       "university": "Mediterranean University- UMSH",
       "total_points": 250,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 200,
       "num_users": 1
     },
     {
@@ -888,6 +888,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -921,6 +925,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 300
         }
       ]
