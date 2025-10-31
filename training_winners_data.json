@@ -11,14 +11,14 @@
       "total_points": 950
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 800
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 700
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 800
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -198,14 +198,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 800,
+      "num_users": 1
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 750,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 700,
-      "num_users": 1
     },
     {
       "university": "WBU",
@@ -293,6 +293,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -322,6 +326,10 @@
         },
         {
           "full_name": "Livia Demiri",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
