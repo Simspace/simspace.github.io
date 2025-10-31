@@ -76,14 +76,14 @@
       "total_points": 250
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -223,13 +223,13 @@
       "num_users": 3
     },
     {
-      "university": "Mediterranean University- UMSH",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250,
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -594,6 +594,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -631,6 +635,10 @@
         },
         {
           "full_name": "Griselda Ramadani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
