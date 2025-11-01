@@ -8,7 +8,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1000
+      "total_points": 1050
     },
     {
       "full_name": "Arkel Lahi",
@@ -193,14 +193,14 @@
       "num_users": 3
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1050,
+      "num_users": 1
+    },
+    {
       "university": "Epoka University",
       "total_points": 1000,
       "num_users": 4
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1000,
-      "num_users": 1
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -627,6 +627,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -668,6 +672,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
