@@ -36,6 +36,11 @@
       "total_points": 500
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450
+    },
+    {
       "full_name": "Egis Sula",
       "university": "WBU",
       "total_points": 450
@@ -46,19 +51,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
-    },
-    {
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
-      "full_name": "Fatbardh Rama",
+      "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 350
+      "total_points": 400
     },
     {
       "full_name": "Ersi Dedaj",
@@ -183,13 +183,13 @@
       "num_users": 1
     },
     {
-      "university": "Epoka University",
-      "total_points": 900,
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 950,
       "num_users": 3
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 850,
+      "university": "Epoka University",
+      "total_points": 900,
       "num_users": 3
     },
     {
@@ -784,6 +784,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -805,6 +809,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 100
         }
       ]
