@@ -21,6 +21,11 @@
       "total_points": 800
     },
     {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 700
+    },
+    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 650
@@ -36,19 +41,14 @@
       "total_points": 500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450
-    },
-    {
       "full_name": "Egis Sula",
       "university": "WBU",
       "total_points": 450
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 400
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450
     },
     {
       "full_name": "Livia Demiri",
@@ -56,8 +56,8 @@
       "total_points": 400
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 950,
+      "total_points": 1250,
       "num_users": 3
     },
     {
@@ -961,6 +961,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -998,6 +1002,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 300
         }
       ]
