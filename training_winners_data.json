@@ -61,6 +61,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 350
+    },
+    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 350
@@ -68,11 +73,6 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 300
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 300
     },
     {
@@ -218,14 +218,14 @@
       "num_users": 2
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 350,
+      "num_users": 1
+    },
+    {
       "university": "Luarasi",
       "total_points": 300,
       "num_users": 3
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 300,
-      "num_users": 1
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -1306,6 +1306,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1327,6 +1331,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
