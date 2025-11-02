@@ -93,7 +93,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
+      "total_points": 150
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -183,14 +183,14 @@
       "num_users": 4
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1300,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 1250,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1250,
-      "num_users": 3
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -884,6 +884,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -909,6 +913,10 @@
         },
         {
           "full_name": "Etien Lila",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 50
         }
       ]
