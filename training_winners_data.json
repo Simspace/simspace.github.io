@@ -31,14 +31,14 @@
       "total_points": 650
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 600
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 550
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 600
     },
     {
       "full_name": "Etien Lila",
@@ -101,9 +101,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 150
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 200
     },
     {
       "full_name": "Savina Shimi",
@@ -111,13 +111,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
       "total_points": 150
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 150
     },
     {
@@ -218,6 +218,11 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti i Shkodres",
+      "total_points": 600,
+      "num_users": 1
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 600,
       "num_users": 2
@@ -226,11 +231,6 @@
       "university": "WBU",
       "total_points": 550,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 550,
-      "num_users": 1
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 150,
+      "total_points": 200,
       "num_users": 1
     },
     {
@@ -1562,11 +1562,27 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
