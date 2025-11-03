@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1450
+      "total_points": 1750
     },
     {
       "full_name": "Orgito Leka",
@@ -179,7 +179,7 @@
   "universities": [
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1450,
+      "total_points": 1750,
       "num_users": 1
     },
     {
@@ -1706,11 +1706,19 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 300
         }
       ]
