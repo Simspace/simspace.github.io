@@ -41,6 +41,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 500
+    },
+    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 500
@@ -51,13 +56,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 450
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Egis Sula",
+      "university": "WBU",
       "total_points": 450
     },
     {
@@ -68,6 +73,11 @@
     {
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400
+    },
+    {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 400
     },
     {
@@ -101,9 +111,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 200
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 150
     },
     {
       "full_name": "Savina Shimi",
@@ -116,18 +126,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 150
-    },
-    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
-      "total_points": 100
-    },
-    {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 100
     },
     {
@@ -146,8 +146,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 100
     },
     {
@@ -156,13 +156,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -183,14 +183,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1700,
+      "num_users": 4
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1400,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1400,
-      "num_users": 4
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -238,14 +238,14 @@
       "num_users": 2
     },
     {
+      "university": "Herman Gmeiner",
+      "total_points": 500,
+      "num_users": 1
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 450,
       "num_users": 2
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 300,
-      "num_users": 1
     },
     {
       "university": "Luarasi",
@@ -253,8 +253,8 @@
       "num_users": 3
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 200,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 300,
       "num_users": 1
     },
     {
@@ -1710,6 +1710,14 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -1719,6 +1727,14 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 300
         }
       ]
