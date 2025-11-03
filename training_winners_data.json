@@ -1551,6 +1551,186 @@
           "challenge_points_earned": 50
         }
       ]
+    },
+    {
+      "package_id": "a0a8df93-aa4e-43b2-b2e9-8d8dfb486288",
+      "package_name": "(C) Linux Foundations: Filesystem",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "1e552ad4-e5b1-43ab-9971-12c8e762097d",
+      "package_name": "Dirty COW",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "389f5621-f582-4bd2-afa7-3360d73446cc",
+      "package_name": "Files on Windows: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "b93c7936-903b-46dd-94f6-161593acdeff",
+      "package_name": "Indicator Removal on Host: MITRE ATT&CK\u00ae Purple",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "909f6100-91ec-4e8c-b46e-0da8ff89fa8e",
+      "package_name": "Insecure Deserialization and SSTI",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "26a7b3b7-fa94-4dfe-bddf-77c03e7ce1eb",
+      "package_name": "Local Permissions on Windows",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "32651ce5-488c-4320-885b-6faee5972a83",
+      "package_name": "Malware File Analysis: Linux Program",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ea8f3dae-0912-474c-b362-4b3338ec75da",
+      "package_name": "Malware File Analysis: Windows Program",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ee2a5b28-a83b-4af0-a86e-8d4c7f5b27cf",
+      "package_name": "Memory Corruption Vulnerabilities: Introduction",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "95c71af3-4de0-4316-8f6a-6a8372fa2a1f",
+      "package_name": "Network Analyst: APT28 Workshop 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "4253268f-8ad2-4a00-866b-5bc2a33abfa6",
+      "package_name": "Nmap: Host Discovery",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "94c4c5c5-3b64-48a1-ba24-2f04b3ce65f5",
+      "package_name": "Nmap: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "6615cf61-974f-42f1-9c2f-fa71c5e9e4f6",
+      "package_name": "Nmap: Service Enumeration",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "4e113775-73eb-48a2-98d9-505801d18728",
+      "package_name": "Packet Capture and Analysis",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3c21cbad-fd6b-4ad2-b2ac-9884a7eff8a2",
+      "package_name": "Reverse Shells",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "25dd31ac-f18c-4bc9-80a5-310b08c531f5",
+      "package_name": "Stack Overflows: Memory Corruption Vulnerabilities",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "699dd121-e104-4320-926d-4b7c8c9c0902",
+      "package_name": "Steal or Forge Kerberos Tickets: MITRE ATT&CK\u00ae Purple",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "87db10bb-8fc2-44ba-a3ec-b8b62c6bbe90",
+      "package_name": "Web Application Exploitation",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "e80f6ce9-0071-47d6-814e-23e9949a7e65",
+      "package_name": "Web Vulnerabilities Challenge: Fools Errant",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "6ee18ff6-ef47-41e5-9643-1ed60ca0525c",
+      "package_name": "XXE Attacks and SSRF Vulnerabilities",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 3, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
