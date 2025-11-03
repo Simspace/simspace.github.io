@@ -46,6 +46,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 550
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 500
@@ -54,11 +59,6 @@
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 500
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 450
     },
     {
       "full_name": "Fatbardh Rama",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2350,
+      "total_points": 2450,
       "num_users": 4
     },
     {
@@ -1634,11 +1634,19 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
