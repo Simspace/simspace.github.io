@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1800
-    },
-    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1850
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1800
     },
     {
@@ -106,18 +106,18 @@
       "total_points": 250
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
-      "total_points": 200
-    },
-    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
+      "total_points": 200
+    },
+    {
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 200
     },
     {
@@ -184,7 +184,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2400,
+      "total_points": 2450,
       "num_users": 3
     },
     {
@@ -233,12 +233,12 @@
       "num_users": 2
     },
     {
-      "university": "WBU",
-      "total_points": 550,
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 600,
       "num_users": 2
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "WBU",
       "total_points": 550,
       "num_users": 2
     },
@@ -1587,6 +1587,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1604,6 +1608,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 50
         }
       ]
@@ -1912,11 +1920,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
