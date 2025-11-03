@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1300
+      "total_points": 1350
     },
     {
       "full_name": "Orgito Leka",
@@ -101,8 +101,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
       "total_points": 150
     },
     {
@@ -111,8 +111,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 150
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 150
     },
     {
@@ -126,18 +131,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 100
-    },
-    {
       "full_name": "Aldo",
       "university": "Luarasi",
       "total_points": 100
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1300,
+      "total_points": 1350,
       "num_users": 1
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 100,
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -1586,8 +1586,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 3, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "b93c7936-903b-46dd-94f6-161593acdeff",
@@ -1667,8 +1677,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 3, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "6615cf61-974f-42f1-9c2f-fa71c5e9e4f6",
