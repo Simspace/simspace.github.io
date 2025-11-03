@@ -91,8 +91,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 150
     },
     {
@@ -101,8 +101,23 @@
       "total_points": 150
     },
     {
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 150
+    },
+    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
+    },
+    {
+      "full_name": "Aldo",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 100
     },
     {
@@ -116,21 +131,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 100
-    },
-    {
-      "full_name": "Aldo",
-      "university": "Luarasi",
-      "total_points": 100
-    },
-    {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 100
@@ -141,24 +141,24 @@
       "total_points": 100
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 100
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 50
     },
     {
       "full_name": "Orlin Balliu",
@@ -248,6 +248,11 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti i Shkodres",
+      "total_points": 150,
+      "num_users": 1
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 100,
       "num_users": 1
@@ -259,11 +264,6 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 50,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti i Shkodres",
       "total_points": 50,
       "num_users": 1
     }
@@ -1309,6 +1309,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -1366,6 +1370,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
@@ -1516,6 +1524,7 @@
     "11": 1.0,
     "12": 1.0,
     "13": 1.0,
-    "14": 1.0
+    "14": 1.0,
+    "15": 1.0
   }
 }
