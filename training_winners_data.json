@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1750
-    },
-    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1800
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1750
     },
     {
@@ -183,14 +183,14 @@
   ],
   "universities": [
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 2400,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 2350,
       "num_users": 4
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2350,
-      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -1715,6 +1715,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1728,6 +1732,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
