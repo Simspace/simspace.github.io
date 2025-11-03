@@ -101,8 +101,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
@@ -111,9 +111,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 200
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -121,9 +121,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
+      "total_points": 200
     },
     {
       "full_name": "Klevisa Aliaj",
@@ -184,7 +184,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2500,
+      "total_points": 2600,
       "num_users": 3
     },
     {
@@ -985,6 +985,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1002,6 +1006,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
