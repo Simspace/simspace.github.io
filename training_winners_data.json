@@ -101,8 +101,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 150
     },
     {
@@ -111,18 +111,18 @@
       "total_points": 150
     },
     {
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 150
+    },
+    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
       "total_points": 100
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 100
-    },
-    {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 100
     },
     {
@@ -136,8 +136,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 100
     },
     {
@@ -151,8 +151,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -233,9 +233,9 @@
       "num_users": 2
     },
     {
-      "university": "Mediterranean University- UMSH",
+      "university": "Tirana Business University",
       "total_points": 300,
-      "num_users": 1
+      "num_users": 2
     },
     {
       "university": "Luarasi",
@@ -243,9 +243,9 @@
       "num_users": 3
     },
     {
-      "university": "Tirana Business University",
-      "total_points": 250,
-      "num_users": 2
+      "university": "Mediterranean University- UMSH",
+      "total_points": 300,
+      "num_users": 1
     },
     {
       "university": "Universiteti i Shkodres",
@@ -917,6 +917,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -946,6 +950,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 50
         }
       ]
