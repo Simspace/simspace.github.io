@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1800
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1750
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1800
     },
     {
       "full_name": "Orgito Leka",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1800,
+      "total_points": 1850,
       "num_users": 2
     },
     {
@@ -1908,8 +1908,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 3, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "3c21cbad-fd6b-4ad2-b2ac-9884a7eff8a2",
