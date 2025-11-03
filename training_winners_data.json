@@ -21,23 +21,23 @@
       "total_points": 950
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 950
+    },
+    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 850
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650
-    },
-    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
+      "total_points": 700
+    },
+    {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 650
     },
     {
@@ -179,7 +179,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2000,
+      "total_points": 2300,
       "num_users": 4
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 650,
+      "total_points": 700,
       "num_users": 1
     },
     {
@@ -1694,11 +1694,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
@@ -1849,8 +1857,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "November 3, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Lida Filipi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "699dd121-e104-4320-926d-4b7c8c9c0902",
