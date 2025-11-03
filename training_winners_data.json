@@ -76,13 +76,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 250
-    },
-    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
+      "total_points": 300
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 250
     },
     {
@@ -233,14 +233,14 @@
       "num_users": 2
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 300,
+      "num_users": 1
+    },
+    {
       "university": "Luarasi",
       "total_points": 300,
       "num_users": 3
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 250,
-      "num_users": 1
     },
     {
       "university": "Tirana Business University",
@@ -1102,6 +1102,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1131,6 +1135,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
