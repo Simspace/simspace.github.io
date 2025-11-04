@@ -16,13 +16,13 @@
       "total_points": 1650
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 1150
     },
     {
@@ -81,23 +81,23 @@
       "total_points": 500
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
-    },
-    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 450
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 450
     },
     {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -121,11 +121,6 @@
       "total_points": 250
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 200
-    },
-    {
       "full_name": "Aldo",
       "university": "Luarasi",
       "total_points": 200
@@ -136,14 +131,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 200
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 150
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 200
     },
     {
       "full_name": "Ina Ndoni",
@@ -151,13 +146,23 @@
       "total_points": 150
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 150
+    },
+    {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 100
     },
     {
       "full_name": "Griselda Ramadani",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 100
+    },
+    {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -171,18 +176,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 100
-    },
-    {
-      "full_name": "Barlind Bunga",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
     },
     {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
+      "total_points": 50
+    },
+    {
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     }
   ],
@@ -248,13 +253,13 @@
       "num_users": 2
     },
     {
-      "university": "WBU",
-      "total_points": 550,
-      "num_users": 2
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 600,
+      "num_users": 3
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 500,
+      "university": "WBU",
+      "total_points": 550,
       "num_users": 2
     },
     {
@@ -1399,6 +1404,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1464,6 +1473,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
@@ -2382,6 +2395,7 @@
     "13": 1.0,
     "14": 1.0,
     "15": 1.0,
-    "16": 1.0
+    "16": 1.0,
+    "17": 1.0
   }
 }
