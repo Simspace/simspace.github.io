@@ -41,6 +41,11 @@
       "total_points": 950
     },
     {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 850
+    },
+    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 750
@@ -58,11 +63,6 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 550
-    },
-    {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
       "total_points": 550
     },
     {
@@ -208,6 +208,11 @@
       "num_users": 3
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 1350,
+      "num_users": 2
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150,
       "num_users": 1
@@ -216,11 +221,6 @@
       "university": "Herman Gmeiner",
       "total_points": 1100,
       "num_users": 1
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 1050,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -1933,6 +1933,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1958,6 +1962,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 300
         }
       ]
