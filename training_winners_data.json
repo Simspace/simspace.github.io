@@ -13,7 +13,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1300
+      "total_points": 1600
     },
     {
       "full_name": "Orgito Leka",
@@ -199,7 +199,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1750,
+      "total_points": 2050,
       "num_users": 4
     },
     {
@@ -2157,6 +2157,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -2170,6 +2174,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 300
         }
       ]
