@@ -71,6 +71,11 @@
       "total_points": 550
     },
     {
+      "full_name": "Aldo",
+      "university": "Luarasi",
+      "total_points": 550
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 500
@@ -81,19 +86,14 @@
       "total_points": 500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450
-    },
-    {
       "full_name": "Egis Sula",
       "university": "WBU",
       "total_points": 450
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 400
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450
     },
     {
       "full_name": "Livia Demiri",
@@ -101,13 +101,18 @@
       "total_points": 400
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 350
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
     },
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
+      "total_points": 350
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 350
     },
     {
@@ -118,11 +123,6 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
-    },
-    {
-      "full_name": "Aldo",
-      "university": "Luarasi",
       "total_points": 250
     },
     {
@@ -141,6 +141,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 150
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 150
@@ -149,11 +154,6 @@
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
       "total_points": 150
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 100
     },
     {
       "full_name": "Griselda Ramadani",
@@ -238,6 +238,11 @@
       "num_users": 1
     },
     {
+      "university": "Luarasi",
+      "total_points": 750,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 750,
       "num_users": 1
@@ -248,24 +253,19 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 650,
+      "num_users": 3
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 650,
       "num_users": 2
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 600,
-      "num_users": 3
-    },
-    {
       "university": "WBU",
       "total_points": 550,
       "num_users": 2
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 450,
-      "num_users": 3
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -1511,6 +1511,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1536,6 +1540,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
@@ -1975,6 +1983,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2008,6 +2020,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Aldo",
           "challenge_points_earned": 300
         }
       ]
