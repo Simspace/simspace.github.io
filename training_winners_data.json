@@ -56,8 +56,8 @@
       "total_points": 500
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 500
     },
     {
@@ -66,13 +66,13 @@
       "total_points": 500
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
+      "total_points": 500
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Egis Sula",
+      "university": "WBU",
       "total_points": 450
     },
     {
@@ -229,7 +229,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 2
     },
     {
@@ -1151,6 +1151,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1184,6 +1188,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
