@@ -16,13 +16,13 @@
       "total_points": 1650
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 1150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150
     },
     {
@@ -66,23 +66,23 @@
       "total_points": 550
     },
     {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
-      "total_points": 500
-    },
-    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 450
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
+      "total_points": 500
     },
     {
       "full_name": "Egis Sula",
       "university": "WBU",
+      "total_points": 450
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 450
     },
     {
@@ -106,9 +106,9 @@
       "total_points": 350
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 250
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 300
     },
     {
       "full_name": "Savina Shimi",
@@ -116,13 +116,18 @@
       "total_points": 250
     },
     {
-      "full_name": "Aldo",
-      "university": "Luarasi",
-      "total_points": 200
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 250
     },
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
+      "total_points": 200
+    },
+    {
+      "full_name": "Aldo",
+      "university": "Luarasi",
       "total_points": 200
     },
     {
@@ -203,14 +208,14 @@
       "num_users": 4
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1700,
+      "num_users": 4
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 1650,
       "num_users": 2
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1400,
-      "num_users": 3
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -1937,6 +1942,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1966,6 +1975,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 300
         }
       ]
