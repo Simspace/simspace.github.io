@@ -123,7 +123,7 @@
     {
       "full_name": "Aldo",
       "university": "Luarasi",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 400,
+      "total_points": 450,
       "num_users": 3
     },
     {
@@ -1836,6 +1836,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -1857,6 +1861,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Aldo",
           "challenge_points_earned": 50
         }
       ]
