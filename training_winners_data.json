@@ -128,7 +128,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 150
+      "total_points": 200
     },
     {
       "full_name": "Ina Ndoni",
@@ -199,7 +199,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2150,
+      "total_points": 2200,
       "num_users": 4
     },
     {
@@ -1774,6 +1774,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1791,6 +1795,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
