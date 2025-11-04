@@ -111,13 +111,13 @@
       "total_points": 350
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
-    },
-    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 300
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 2
     },
     {
@@ -1742,6 +1742,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1767,6 +1771,10 @@
         },
         {
           "full_name": "Aldo",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 50
         }
       ]
