@@ -126,8 +126,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 150
     },
     {
@@ -136,18 +136,18 @@
       "total_points": 150
     },
     {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 150
+    },
+    {
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 100
+    },
+    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
-      "total_points": 100
-    },
-    {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 100
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -161,8 +161,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2100,
+      "total_points": 2150,
       "num_users": 4
     },
     {
@@ -1705,6 +1705,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1722,6 +1726,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
