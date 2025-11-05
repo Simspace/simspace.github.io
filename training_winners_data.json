@@ -21,13 +21,18 @@
       "total_points": 1300
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1150
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1300
     },
     {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
+      "total_points": 1150
+    },
+    {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150
     },
     {
@@ -46,11 +51,6 @@
       "total_points": 1000
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1000
-    },
-    {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 950
@@ -58,12 +58,17 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 800
+      "total_points": 900
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 750
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 700
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -101,18 +106,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
-    },
-    {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
     },
     {
@@ -199,7 +199,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3000,
+      "total_points": 3100,
       "num_users": 4
     },
     {
@@ -233,6 +233,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1300,
+      "num_users": 1
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150,
       "num_users": 1
@@ -243,9 +248,9 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1000,
-      "num_users": 1
+      "num_users": 2
     },
     {
       "university": "Luarasi",
@@ -259,11 +264,6 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 700,
-      "num_users": 2
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 700,
       "num_users": 2
     },
@@ -1819,8 +1819,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 3, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "909f6100-91ec-4e8c-b46e-0da8ff89fa8e",
@@ -2014,6 +2024,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2055,6 +2069,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 300
         }
       ]
@@ -2303,6 +2321,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2336,6 +2358,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 300
         }
       ]
