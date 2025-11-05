@@ -66,6 +66,11 @@
       "total_points": 650
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 650
+    },
+    {
       "full_name": "Aldo",
       "university": "Luarasi",
       "total_points": 550
@@ -76,23 +81,23 @@
       "total_points": 550
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500
-    },
-    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 500
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 500
     },
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 450
+    },
+    {
+      "full_name": "Egis Sula",
+      "university": "WBU",
       "total_points": 450
     },
     {
@@ -108,11 +113,6 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 350
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
       "total_points": 350
     },
     {
@@ -258,24 +258,24 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 650,
-      "num_users": 3
-    },
-    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 650,
       "num_users": 2
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 650,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 650,
+      "num_users": 3
+    },
+    {
       "university": "WBU",
       "total_points": 550,
       "num_users": 2
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 350,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Korces",
@@ -1992,6 +1992,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -2029,6 +2033,10 @@
         },
         {
           "full_name": "Aldo",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 300
         }
       ]
