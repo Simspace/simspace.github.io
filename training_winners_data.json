@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 2750
+      "total_points": 2850
     },
     {
       "full_name": "Elisa Zala",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2800,
+      "total_points": 2900,
       "num_users": 2
     },
     {
@@ -1879,11 +1879,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
