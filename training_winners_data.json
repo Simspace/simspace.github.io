@@ -91,6 +91,11 @@
       "total_points": 500
     },
     {
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
+      "total_points": 500
+    },
+    {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
       "total_points": 500
@@ -99,11 +104,6 @@
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 500
-    },
-    {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
-      "total_points": 450
     },
     {
       "full_name": "Egis Sula",
@@ -186,9 +186,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 50
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 100
     },
     {
       "full_name": "Barlind Bunga",
@@ -196,8 +196,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 50
     }
   ],
@@ -234,12 +234,12 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 1800,
+      "total_points": 1850,
       "num_users": 4
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1700,
+      "total_points": 1750,
       "num_users": 3
     },
     {
@@ -2202,6 +2202,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2248,6 +2252,10 @@
         {
           "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 50
         }
       ]
     },
@@ -2278,6 +2286,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2291,6 +2303,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
