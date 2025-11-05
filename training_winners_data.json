@@ -18,7 +18,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 1250
+      "total_points": 1300
     },
     {
       "full_name": "Orgito Leka",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1250,
+      "total_points": 1300,
       "num_users": 1
     },
     {
@@ -1772,6 +1772,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1801,6 +1805,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
