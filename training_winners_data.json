@@ -46,6 +46,11 @@
       "total_points": 1000
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 950
+    },
+    {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 950
@@ -63,11 +68,6 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
       "total_points": 650
     },
     {
@@ -243,6 +243,11 @@
       "num_users": 1
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 950,
+      "num_users": 1
+    },
+    {
       "university": "Luarasi",
       "total_points": 750,
       "num_users": 3
@@ -261,11 +266,6 @@
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 650,
       "num_users": 2
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 650,
-      "num_users": 1
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -2273,6 +2273,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -2302,6 +2306,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 300
         }
       ]
