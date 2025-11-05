@@ -56,14 +56,14 @@
       "total_points": 950
     },
     {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 800
+    },
+    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 750
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -199,7 +199,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2900,
+      "total_points": 3000,
       "num_users": 4
     },
     {
@@ -1828,8 +1828,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 3, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "26a7b3b7-fa94-4dfe-bddf-77c03e7ce1eb",
