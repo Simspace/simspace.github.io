@@ -91,6 +91,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
+      "total_points": 600
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 500
@@ -98,11 +103,6 @@
     {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
-      "total_points": 500
-    },
-    {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
       "total_points": 500
     },
     {
@@ -233,14 +233,14 @@
       "num_users": 5
     },
     {
+      "university": "Luarasi",
+      "total_points": 2000,
+      "num_users": 4
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1950,
       "num_users": 1
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1900,
-      "num_users": 4
     },
     {
       "university": "Tirana Business University",
@@ -2761,6 +2761,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2774,6 +2778,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 100
         }
       ]
