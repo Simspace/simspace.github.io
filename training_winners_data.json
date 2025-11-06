@@ -23,7 +23,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1500,
+      "total_points": 1550,
       "num_users": 2
     },
     {
@@ -2294,6 +2294,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2343,6 +2347,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
