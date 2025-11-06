@@ -61,6 +61,11 @@
       "total_points": 1000
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1000
+    },
+    {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 950
@@ -74,11 +79,6 @@
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 750
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 700
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -248,6 +248,11 @@
       "num_users": 3
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1350,
+      "num_users": 2
+    },
+    {
       "university": "Mediterranean University- UMSH",
       "total_points": 1300,
       "num_users": 1
@@ -261,11 +266,6 @@
       "university": "Herman Gmeiner",
       "total_points": 1100,
       "num_users": 1
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1050,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -2167,6 +2167,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2216,6 +2220,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 300
         }
       ]
