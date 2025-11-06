@@ -61,14 +61,14 @@
       "total_points": 950
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 900
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 850
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 900
     },
     {
       "full_name": "Erona Hoxha",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1000,
+      "total_points": 1050,
       "num_users": 2
     },
     {
@@ -1707,6 +1707,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1744,6 +1748,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
