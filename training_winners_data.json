@@ -66,6 +66,11 @@
       "total_points": 900
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 750
+    },
+    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 750
@@ -78,11 +83,6 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
       "total_points": 650
     },
     {
@@ -264,7 +264,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 800,
+      "total_points": 900,
       "num_users": 2
     },
     {
@@ -340,6 +340,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -381,6 +385,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
