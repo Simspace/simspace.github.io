@@ -23,7 +23,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1550
+      "total_points": 1600
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -238,14 +238,14 @@
       "num_users": 4
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 1750,
+      "num_users": 2
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 1750,
       "num_users": 3
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 1700,
-      "num_users": 2
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -2453,6 +2453,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2470,6 +2474,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
