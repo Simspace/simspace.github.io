@@ -41,6 +41,11 @@
       "total_points": 1150
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 1150
+    },
+    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 1150
@@ -48,11 +53,6 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1100
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
       "total_points": 1100
     },
     {
@@ -258,13 +258,13 @@
       "num_users": 1
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
+      "university": "Herman Gmeiner",
       "total_points": 1150,
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 1100,
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1150,
       "num_users": 1
     },
     {
@@ -2049,6 +2049,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -2082,6 +2086,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
