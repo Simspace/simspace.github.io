@@ -83,7 +83,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 550
+      "total_points": 600
     },
     {
       "full_name": "Fatbardh Rama",
@@ -263,14 +263,14 @@
       "num_users": 2
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 750,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 750,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 700,
-      "num_users": 2
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -1533,6 +1533,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1562,6 +1566,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
