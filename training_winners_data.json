@@ -6,14 +6,14 @@
       "total_points": 2850
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2050
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2000
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1950
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -233,14 +233,14 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2050,
+      "num_users": 1
+    },
+    {
       "university": "Luarasi",
       "total_points": 2000,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1950,
-      "num_users": 1
     },
     {
       "university": "Tirana Business University",
@@ -1279,6 +1279,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1308,6 +1312,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
