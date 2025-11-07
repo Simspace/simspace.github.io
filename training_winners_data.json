@@ -111,9 +111,9 @@
       "total_points": 450
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 450
     },
     {
       "full_name": "Ergi Hysa",
@@ -121,9 +121,9 @@
       "total_points": 400
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 350
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400
     },
     {
       "full_name": "Savina Shimi",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1350,
+      "total_points": 1450,
       "num_users": 2
     },
     {
@@ -1937,6 +1937,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1950,6 +1954,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 100
         }
       ]
