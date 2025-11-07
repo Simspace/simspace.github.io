@@ -56,6 +56,11 @@
       "total_points": 1100
     },
     {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 1050
+    },
+    {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1000
@@ -74,11 +79,6 @@
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 900
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 750
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 750,
+      "total_points": 1050,
       "num_users": 1
     },
     {
@@ -2704,6 +2704,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -2745,6 +2749,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 300
         }
       ]
