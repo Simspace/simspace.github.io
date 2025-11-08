@@ -26,6 +26,11 @@
       "total_points": 1600
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 1300
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1300
@@ -34,11 +39,6 @@
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 1300
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 1250
     },
     {
       "full_name": "Aldo Ndoni",
@@ -258,13 +258,13 @@
       "num_users": 3
     },
     {
-      "university": "Mediterranean University- UMSH",
+      "university": "Herman Gmeiner",
       "total_points": 1300,
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 1250,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1300,
       "num_users": 1
     },
     {
@@ -825,6 +825,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -882,6 +886,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
