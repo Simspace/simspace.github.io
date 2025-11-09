@@ -146,8 +146,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -156,8 +156,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
       "total_points": 150
     },
     {
@@ -166,9 +166,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 150
     },
     {
       "full_name": "Tony Tatazi",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 100,
+      "total_points": 150,
       "num_users": 1
     }
   ],
@@ -2610,6 +2610,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -2643,6 +2647,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 50
         }
       ]
