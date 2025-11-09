@@ -26,9 +26,9 @@
       "total_points": 1600
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 1300
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1400
     },
     {
       "full_name": "Ersi Dedaj",
@@ -36,8 +36,8 @@
       "total_points": 1300
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 1300
     },
     {
@@ -258,12 +258,12 @@
       "num_users": 3
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 1300,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1400,
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
+      "university": "Herman Gmeiner",
       "total_points": 1300,
       "num_users": 1
     },
@@ -1965,6 +1965,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1982,6 +1986,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
