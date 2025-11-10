@@ -2969,6 +2969,168 @@
           "challenge_points_earned": 100
         }
       ]
+    },
+    {
+      "package_id": "b002f163-a5c9-4f9f-accf-987b6ec5cd50",
+      "package_name": "Active Directory: Introduction",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "80abecf0-49c8-4c9c-a37d-81ae68ae9d82",
+      "package_name": "Credential Management and Harvesting",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c517fadb-4180-4995-84de-56ba69532ce3",
+      "package_name": "Defeating CSRF Protections with XSS",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "d56b73a3-04ce-437c-903c-3f0003965bb8",
+      "package_name": "[delete] Risk Mitigation Plans",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "6db6dd33-90a4-4983-a9c7-48968c820b3f",
+      "package_name": "Empire Installation, Configuration and Basic Use",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "817125e5-2934-4128-8bd4-2f1bb44cf64c",
+      "package_name": "Host Analyst: APT28 Workshop 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "40c8160b-a1a3-4e04-a5b0-fddec7209bb7",
+      "package_name": "Host Analyst: APT38 Workshop 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "0591dacd-346b-4d10-9fb8-d3c768874499",
+      "package_name": "Host Analyst: APT40 Workshop 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "059189e4-c570-45f1-a6e5-ab7000948f8a",
+      "package_name": "Logic and Implementation Vulnerabilities",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "68c2d71c-bcea-4aea-8443-a644cd8a26e0",
+      "package_name": "Network Analyst: APT34 Workshop 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "29129ed6-7672-49d0-ac9f-7a5f40fc222a",
+      "package_name": "Network Configuration in Windows",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "53fd4d26-9f0b-40ac-bd54-dc53b5ff0ae6",
+      "package_name": "Nmap: Timing, Scans, and Firewalls",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "bb7dcb06-e6b0-4767-9706-67a7f64d40e9",
+      "package_name": "PowerShell Objects, Properties, and Methods",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c9b56a16-b322-4530-b998-8147ab96b09b",
+      "package_name": "PowerShell Script Creation Mechanics",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "5f6ef827-3ab3-44aa-a732-bc7a905aebaa",
+      "package_name": "Protocol Basics",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "1996731e-5de4-4a26-83b9-c7fce12cc9b9",
+      "package_name": "TA4.1 Dragonfly Scenario",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "de559dfe-8e37-4f3a-9fa4-ae6f10d33a88",
+      "package_name": "Vulnerable AI Agent Exploitation",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "94a7b9aa-5242-475d-bd92-cf1269ffdd43",
+      "package_name": "Windows Server Vulnerabilities",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 10, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
