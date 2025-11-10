@@ -18,7 +18,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1700
+      "total_points": 2000
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -238,14 +238,14 @@
       "num_users": 4
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 2150,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 2100,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 1850,
-      "num_users": 2
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -2721,6 +2721,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2766,6 +2770,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 300
         }
       ]
