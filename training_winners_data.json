@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 3150
+      "total_points": 3200
     },
     {
       "full_name": "Elisa Zala",
@@ -33,7 +33,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 1350
+      "total_points": 1450
     },
     {
       "full_name": "Ersi Dedaj",
@@ -208,14 +208,14 @@
   ],
   "universities": [
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 3250,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 3250,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 3200,
-      "num_users": 2
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 1350,
+      "total_points": 1450,
       "num_users": 1
     },
     {
@@ -2984,6 +2984,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -2993,6 +2997,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
@@ -3094,8 +3102,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 10, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "53fd4d26-9f0b-40ac-bd54-dc53b5ff0ae6",
