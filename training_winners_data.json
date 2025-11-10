@@ -11,14 +11,14 @@
       "total_points": 2200
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 2100
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 2000
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2100
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 2150,
+      "total_points": 2250,
       "num_users": 2
     },
     {
@@ -1487,6 +1487,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1556,6 +1560,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
@@ -2977,6 +2985,7 @@
     "14": 1.0,
     "15": 1.0,
     "16": 1.0,
-    "17": 1.0
+    "17": 1.0,
+    "18": 1.0
   }
 }
