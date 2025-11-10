@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 3100
+      "total_points": 3150
     },
     {
       "full_name": "Elisa Zala",
@@ -214,7 +214,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3150,
+      "total_points": 3200,
       "num_users": 2
     },
     {
@@ -3103,8 +3103,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 10, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "bb7dcb06-e6b0-4767-9706-67a7f64d40e9",
