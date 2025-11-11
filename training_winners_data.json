@@ -131,14 +131,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 250
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 200
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2250,
+      "total_points": 2300,
       "num_users": 5
     },
     {
@@ -3306,8 +3306,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 10, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "94a7b9aa-5242-475d-bd92-cf1269ffdd43",
