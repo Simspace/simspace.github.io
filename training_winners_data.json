@@ -43,7 +43,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1300
+      "total_points": 1350
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1850,
+      "total_points": 1900,
       "num_users": 2
     },
     {
@@ -3322,6 +3322,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3351,6 +3355,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
