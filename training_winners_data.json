@@ -83,7 +83,7 @@
     {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
-      "total_points": 850
+      "total_points": 900
     },
     {
       "full_name": "Fatbardh Rama",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 2500,
+      "total_points": 2550,
       "num_users": 4
     },
     {
@@ -3087,11 +3087,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 50
         }
       ]
