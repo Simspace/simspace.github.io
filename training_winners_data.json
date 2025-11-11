@@ -61,14 +61,14 @@
       "total_points": 1100
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1100
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1050
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 1100
     },
     {
       "full_name": "Fran\u00e7esko Shahinasi",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3300,
+      "total_points": 3350,
       "num_users": 4
     },
     {
@@ -3350,11 +3350,19 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
