@@ -51,14 +51,14 @@
       "total_points": 1150
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1150
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1100
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1150
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -213,14 +213,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3400,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 3350,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3350,
-      "num_users": 4
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -3223,6 +3223,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3232,6 +3236,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
