@@ -21,14 +21,14 @@
       "total_points": 2200
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1650
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1600
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 1650
     },
     {
       "full_name": "Enxhi Kala",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1600,
+      "total_points": 1650,
       "num_users": 1
     },
     {
@@ -3091,11 +3091,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
