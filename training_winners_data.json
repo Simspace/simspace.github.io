@@ -36,14 +36,14 @@
       "total_points": 1450
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
       "total_points": 1300
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
-      "total_points": 1200
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1300
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -233,14 +233,14 @@
       "num_users": 2
     },
     {
+      "university": "Luarasi",
+      "total_points": 2350,
+      "num_users": 4
+    },
+    {
       "university": "Epoka University",
       "total_points": 2300,
       "num_users": 5
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 2250,
-      "num_users": 4
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -3008,6 +3008,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3033,6 +3037,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
