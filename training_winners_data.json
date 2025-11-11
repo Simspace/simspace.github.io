@@ -88,7 +88,7 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
+      "total_points": 750
     },
     {
       "full_name": "Fatbardh Rama",
@@ -131,17 +131,17 @@
       "total_points": 400
     },
     {
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 300
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
       "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 250
-    },
-    {
-      "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 250
     },
@@ -219,7 +219,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3750,
+      "total_points": 3800,
       "num_users": 4
     },
     {
@@ -243,14 +243,14 @@
       "num_users": 4
     },
     {
+      "university": "Epoka University",
+      "total_points": 2450,
+      "num_users": 5
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 2400,
       "num_users": 4
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 2400,
-      "num_users": 5
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -3122,6 +3122,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3131,6 +3135,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 50
         }
       ]
@@ -3166,6 +3174,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3183,6 +3195,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 50
         }
       ]
