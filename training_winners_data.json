@@ -66,13 +66,13 @@
       "total_points": 1100
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1000
-    },
-    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1050
+    },
+    {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 1000
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3250,
+      "total_points": 3300,
       "num_users": 4
     },
     {
@@ -3294,6 +3294,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3319,6 +3323,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
