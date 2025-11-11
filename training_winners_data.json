@@ -48,7 +48,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Lida Filipi",
@@ -224,7 +224,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3900,
+      "total_points": 3950,
       "num_users": 4
     },
     {
@@ -3334,8 +3334,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 10, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "29129ed6-7672-49d0-ac9f-7a5f40fc222a",
