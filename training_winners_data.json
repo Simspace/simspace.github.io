@@ -93,7 +93,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 650
+      "total_points": 700
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3350,
+      "total_points": 3400,
       "num_users": 3
     },
     {
@@ -3126,6 +3126,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3139,6 +3143,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
