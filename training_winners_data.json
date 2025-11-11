@@ -96,14 +96,14 @@
       "total_points": 650
     },
     {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 600
+    },
+    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 550
-    },
-    {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500
     },
     {
       "full_name": "Etien Lila",
@@ -214,7 +214,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3550,
+      "total_points": 3650,
       "num_users": 4
     },
     {
@@ -3490,8 +3490,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 10, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        }
+      ]
     }
   ],
   "difficulty_points": {
