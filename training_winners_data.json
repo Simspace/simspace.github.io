@@ -136,14 +136,14 @@
       "total_points": 250
     },
     {
-      "full_name": "Nea Metohu",
+      "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 250
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 200
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 250
     },
     {
       "full_name": "Griselda Ramadani",
@@ -161,8 +161,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 200
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2350,
+      "total_points": 2400,
       "num_users": 5
     },
     {
@@ -3300,6 +3300,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3317,6 +3321,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 50
         }
       ]
