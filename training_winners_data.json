@@ -6,14 +6,14 @@
       "total_points": 3300
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2250
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2200
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2250
     },
     {
       "full_name": "Orlin Balliu",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3100,
+      "total_points": 3150,
       "num_users": 3
     },
     {
@@ -3169,11 +3169,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
