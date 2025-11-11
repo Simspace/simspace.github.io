@@ -86,9 +86,9 @@
       "total_points": 900
     },
     {
-      "full_name": "Sidrit Dervishi",
+      "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650
+      "total_points": 700
     },
     {
       "full_name": "Fatbardh Rama",
@@ -96,9 +96,9 @@
       "total_points": 650
     },
     {
-      "full_name": "Adelina Paskalaj",
+      "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 600
+      "total_points": 650
     },
     {
       "full_name": "unejskotoni@gmail.com",
@@ -219,7 +219,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3650,
+      "total_points": 3750,
       "num_users": 4
     },
     {
@@ -3243,11 +3243,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 100
         }
       ]
