@@ -21,23 +21,23 @@
       "total_points": 2250
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1650
-    },
-    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 1650
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1450
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1650
     },
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
+      "total_points": 1450
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1450
     },
     {
@@ -46,12 +46,12 @@
       "total_points": 1350
     },
     {
-      "full_name": "Lida Filipi",
+      "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1200
     },
     {
-      "full_name": "Simeon Flamuraj",
+      "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1200
     },
@@ -131,19 +131,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 250
-    },
-    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
-      "full_name": "Detjon Mataj",
+      "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Endi Rizvani",
@@ -153,6 +148,11 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
+      "total_points": 200
+    },
+    {
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 200
     },
     {
@@ -166,19 +166,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 150
-    },
-    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 150
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
-      "total_points": 100
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 150
     },
     {
       "full_name": "Tony Tatazi",
@@ -186,9 +181,19 @@
       "total_points": 100
     },
     {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 100
+    },
+    {
+      "full_name": "Bjorn Kapllani",
+      "university": "WBU",
+      "total_points": 50
     },
     {
       "full_name": "Gesa Comacka",
@@ -284,8 +289,8 @@
     },
     {
       "university": "WBU",
-      "total_points": 550,
-      "num_users": 2
+      "total_points": 600,
+      "num_users": 3
     },
     {
       "university": "Universiteti i Elbasanit",
@@ -2491,6 +2496,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -2548,6 +2557,10 @@
         },
         {
           "full_name": "Griselda Ramadani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Bjorn Kapllani",
           "challenge_points_earned": 50
         }
       ]
