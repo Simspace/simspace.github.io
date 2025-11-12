@@ -41,6 +41,11 @@
       "total_points": 1450
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1400
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 1350
@@ -53,11 +58,6 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1200
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
       "total_points": 1200
     },
     {
@@ -238,6 +238,11 @@
       "num_users": 3
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 2800,
+      "num_users": 4
+    },
+    {
       "university": "Luarasi",
       "total_points": 2700,
       "num_users": 4
@@ -246,11 +251,6 @@
       "university": "Tirana Business University",
       "total_points": 2650,
       "num_users": 2
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2600,
-      "num_users": 4
     },
     {
       "university": "Epoka University",
@@ -1900,6 +1900,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1921,6 +1925,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
@@ -2058,6 +2066,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2079,6 +2091,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
