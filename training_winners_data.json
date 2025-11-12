@@ -141,6 +141,11 @@
       "total_points": 250
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 250
+    },
+    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 250
@@ -148,11 +153,6 @@
     {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
-      "total_points": 200
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
       "total_points": 200
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1850,
+      "total_points": 1900,
       "num_users": 3
     },
     {
@@ -2735,6 +2735,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2780,6 +2784,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
