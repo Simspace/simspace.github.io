@@ -121,6 +121,11 @@
       "total_points": 450
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 400
+    },
+    {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
@@ -129,11 +134,6 @@
       "full_name": "Livia Demiri",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 400
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 350
     },
     {
       "full_name": "Ina Ndoni",
@@ -263,14 +263,14 @@
       "num_users": 4
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 2050,
+      "num_users": 3
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 2000,
       "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 2000,
-      "num_users": 3
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -1975,6 +1975,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2020,6 +2024,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
