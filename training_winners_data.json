@@ -71,13 +71,13 @@
       "total_points": 1100
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1000
-    },
-    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
+      "total_points": 1050
+    },
+    {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 1000
     },
     {
@@ -131,6 +131,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 350
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 300
@@ -138,11 +143,6 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
       "total_points": 250
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 2650,
+      "total_points": 2700,
       "num_users": 4
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1900,
+      "total_points": 2000,
       "num_users": 3
     },
     {
@@ -3252,6 +3252,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3281,6 +3285,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 50
         }
       ]
@@ -3472,6 +3480,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3501,6 +3513,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
@@ -3591,6 +3607,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3628,6 +3648,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
