@@ -196,23 +196,23 @@
       "total_points": 100
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 100
+    },
+    {
       "full_name": "Bjorn Kapllani",
       "university": "WBU",
       "total_points": 50
     },
     {
-      "full_name": "Barlind Bunga",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
-    },
-    {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 50
-    },
-    {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
+      "total_points": 50
+    },
+    {
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
@@ -319,7 +319,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 50,
+      "total_points": 100,
       "num_users": 1
     }
   ],
@@ -2731,6 +2731,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -2772,6 +2776,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 50
         }
       ]
