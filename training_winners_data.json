@@ -191,9 +191,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 50
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 100
     },
     {
       "full_name": "Bjorn Kapllani",
@@ -206,8 +206,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -314,7 +314,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 50,
+      "total_points": 100,
       "num_users": 1
     },
     {
@@ -1971,6 +1971,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -2012,6 +2016,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 50
         }
       ]
