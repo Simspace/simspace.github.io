@@ -18,7 +18,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2350
+      "total_points": 2450
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -248,6 +248,11 @@
       "num_users": 4
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2450,
+      "num_users": 1
+    },
+    {
       "university": "Epoka University",
       "total_points": 2450,
       "num_users": 5
@@ -256,11 +261,6 @@
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 2400,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2350,
-      "num_users": 1
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -3050,6 +3050,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3071,6 +3075,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
