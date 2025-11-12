@@ -13,7 +13,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2450
+      "total_points": 2500
     },
     {
       "full_name": "Tergita Sulaj",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3450,
+      "total_points": 3500,
       "num_users": 3
     },
     {
@@ -3228,6 +3228,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3249,6 +3253,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
