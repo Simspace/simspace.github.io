@@ -36,14 +36,14 @@
       "total_points": 1550
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1500
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1450
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1400
     },
     {
       "full_name": "Aldo Ndoni",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2800,
+      "total_points": 2900,
       "num_users": 4
     },
     {
@@ -2125,6 +2125,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2146,6 +2150,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
