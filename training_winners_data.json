@@ -56,6 +56,11 @@
       "total_points": 1200
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1200
+    },
+    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 1150
@@ -64,11 +69,6 @@
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1100
     },
     {
       "full_name": "Erona Hoxha",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2500,
+      "total_points": 2600,
       "num_users": 4
     },
     {
@@ -3746,6 +3746,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3755,6 +3759,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
