@@ -78,7 +78,7 @@
     {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
-      "total_points": 1050
+      "total_points": 1100
     },
     {
       "full_name": "Arkel Lahi",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 2700,
+      "total_points": 2750,
       "num_users": 4
     },
     {
@@ -3356,6 +3356,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3365,6 +3369,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 50
         }
       ]
