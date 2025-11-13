@@ -181,8 +181,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -201,9 +201,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Barlind Bunga",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 100
     },
     {
       "full_name": "Bjorn Kapllani",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2950,
+      "total_points": 3000,
       "num_users": 5
     },
     {
@@ -3265,6 +3265,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3282,6 +3286,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Barlind Bunga",
           "challenge_points_earned": 50
         }
       ]
