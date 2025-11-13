@@ -116,14 +116,14 @@
       "total_points": 450
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 450
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 400
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 450
     },
     {
       "full_name": "Ergi Hysa",
@@ -151,13 +151,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 200
-    },
-    {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
+      "total_points": 250
+    },
+    {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 200
     },
     {
@@ -263,14 +263,14 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 2100,
+      "num_users": 3
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 2050,
       "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 2050,
-      "num_users": 3
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -309,7 +309,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -1821,6 +1821,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -1870,6 +1874,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
@@ -3769,6 +3777,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3794,6 +3806,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
