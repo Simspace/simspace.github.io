@@ -8,7 +8,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2550
+      "total_points": 2650
     },
     {
       "full_name": "Orlin Balliu",
@@ -233,14 +233,14 @@
       "num_users": 4
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 3650,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 3650,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3550,
-      "num_users": 3
     },
     {
       "university": "Luarasi",
@@ -3901,6 +3901,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3914,6 +3918,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 100
         }
       ]
