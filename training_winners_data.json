@@ -96,6 +96,11 @@
       "total_points": 750
     },
     {
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
+      "total_points": 650
+    },
+    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 650
@@ -103,11 +108,6 @@
     {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 550
-    },
-    {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
       "total_points": 550
     },
     {
@@ -298,14 +298,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti i Korces",
+      "total_points": 650,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 600,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti i Korces",
-      "total_points": 550,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Elbasanit",
@@ -3189,6 +3189,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -3226,6 +3230,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 100
         }
       ]
