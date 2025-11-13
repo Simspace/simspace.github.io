@@ -156,14 +156,14 @@
       "total_points": 250
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 250
     },
     {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 200
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 800,
+      "total_points": 850,
       "num_users": 3
     },
     {
@@ -3627,6 +3627,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3660,6 +3664,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Griselda Ramadani",
           "challenge_points_earned": 50
         }
       ]
