@@ -23,7 +23,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1650
+      "total_points": 1750
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2450,
+      "total_points": 2550,
       "num_users": 5
     },
     {
@@ -3214,6 +3214,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3255,6 +3259,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
