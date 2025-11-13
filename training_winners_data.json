@@ -21,13 +21,13 @@
       "total_points": 2450
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 1650
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1650
     },
     {
@@ -36,13 +36,13 @@
       "total_points": 1550
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1500
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 1500
     },
     {
@@ -56,23 +56,23 @@
       "total_points": 1250
     },
     {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
-      "total_points": 1200
-    },
-    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1200
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1150
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
+      "total_points": 1200
     },
     {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
+      "total_points": 1150
+    },
+    {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150
     },
     {
@@ -161,13 +161,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
+      "full_name": "Griselda Ramadani",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 200
     },
     {
-      "full_name": "Griselda Ramadani",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 200
     },
     {
@@ -181,13 +181,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 100
     },
     {
@@ -196,9 +191,19 @@
       "total_points": 100
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 100
+    },
+    {
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
     },
     {
       "full_name": "Bjorn Kapllani",
@@ -206,13 +211,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
-      "full_name": "Barlind Bunga",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 50
     },
     {
@@ -238,13 +243,13 @@
       "num_users": 3
     },
     {
-      "university": "Luarasi",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 2950,
-      "num_users": 4
+      "num_users": 5
     },
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2900,
+      "university": "Luarasi",
+      "total_points": 2950,
       "num_users": 4
     },
     {
@@ -3813,6 +3818,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3842,6 +3851,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Flavio",
           "challenge_points_earned": 50
         }
       ]
