@@ -146,14 +146,14 @@
       "total_points": 400
     },
     {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 350
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 300
-    },
-    {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
     },
     {
       "full_name": "Griselda Ramadani",
@@ -233,14 +233,14 @@
       "num_users": 4
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 3750,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 3700,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3650,
-      "num_users": 3
     },
     {
       "university": "Luarasi",
@@ -3518,6 +3518,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3531,6 +3535,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
