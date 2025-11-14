@@ -56,13 +56,18 @@
       "total_points": 1250
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1200
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1250
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
+      "total_points": 1200
+    },
+    {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1200
     },
     {
@@ -74,11 +79,6 @@
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1100
     },
     {
       "full_name": "Erona Hoxha",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3150,
+      "total_points": 3300,
       "num_users": 5
     },
     {
@@ -2352,6 +2352,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2390,6 +2394,10 @@
         {
           "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
         }
       ]
     },
@@ -2407,6 +2415,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2416,6 +2428,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -2569,6 +2585,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2582,6 +2602,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
