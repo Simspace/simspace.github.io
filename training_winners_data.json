@@ -8,7 +8,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2900
+      "total_points": 3000
     },
     {
       "full_name": "Orlin Balliu",
@@ -229,7 +229,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4100,
+      "total_points": 4200,
       "num_users": 3
     },
     {
@@ -4096,8 +4096,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 14, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "782a2dda-78e6-48f9-bc69-7372d4385c31",
