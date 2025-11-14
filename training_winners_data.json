@@ -8,7 +8,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3300
+      "total_points": 3400
     },
     {
       "full_name": "Elisa Zala",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 3450,
+      "total_points": 3550,
       "num_users": 2
     },
     {
@@ -3610,6 +3610,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3627,6 +3631,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
