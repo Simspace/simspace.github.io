@@ -46,14 +46,14 @@
       "total_points": 1500
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1450
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 1400
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1350
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3400,
+      "total_points": 3500,
       "num_users": 5
     },
     {
@@ -2916,6 +2916,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2969,6 +2973,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -3493,6 +3501,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3526,6 +3538,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
