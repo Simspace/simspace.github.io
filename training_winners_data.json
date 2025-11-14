@@ -8,7 +8,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3050
+      "total_points": 3100
     },
     {
       "full_name": "Elisa Zala",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 3200,
+      "total_points": 3250,
       "num_users": 2
     },
     {
@@ -3886,6 +3886,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3931,6 +3935,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
