@@ -8,12 +8,12 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2650
+      "total_points": 2700
     },
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 2600
+      "total_points": 2700
     },
     {
       "full_name": "Tergita Sulaj",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3750,
+      "total_points": 3800,
       "num_users": 3
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 2750,
+      "total_points": 2850,
       "num_users": 2
     },
     {
@@ -2107,6 +2107,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2140,6 +2144,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
@@ -3507,6 +3515,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3520,6 +3532,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 50
         }
       ]
