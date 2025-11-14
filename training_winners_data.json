@@ -181,18 +181,23 @@
       "total_points": 150
     },
     {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 150
+    },
+    {
       "full_name": "Barlind Bunga",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 100
     },
     {
@@ -206,18 +211,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Bjorn Kapllani",
-      "university": "WBU",
-      "total_points": 50
-    },
-    {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Bjorn Kapllani",
+      "university": "WBU",
       "total_points": 50
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3700,
+      "total_points": 3800,
       "num_users": 2
     },
     {
@@ -4149,6 +4149,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -4158,6 +4162,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 100
         }
       ]
