@@ -28,7 +28,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 1650
+      "total_points": 1700
     },
     {
       "full_name": "Enxhi Kala",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1650,
+      "total_points": 1700,
       "num_users": 1
     },
     {
@@ -2721,6 +2721,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -2750,6 +2754,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
