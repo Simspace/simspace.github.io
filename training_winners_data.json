@@ -6,14 +6,14 @@
       "total_points": 3650
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 2900
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2750
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 2700
     },
     {
       "full_name": "Tergita Sulaj",
@@ -248,14 +248,14 @@
       "num_users": 4
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 3050,
+      "num_users": 2
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 3000,
       "num_users": 5
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 2850,
-      "num_users": 2
     },
     {
       "university": "Epoka University",
@@ -2182,6 +2182,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2207,6 +2211,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
@@ -3250,6 +3258,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3295,6 +3307,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
