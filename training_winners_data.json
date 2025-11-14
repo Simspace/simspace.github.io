@@ -31,6 +31,11 @@
       "total_points": 1750
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1550
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1550
@@ -44,11 +49,6 @@
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1500
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1450
     },
     {
       "full_name": "Aldo Ndoni",
@@ -243,14 +243,14 @@
       "num_users": 2
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3600,
+      "num_users": 5
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 3550,
       "num_users": 2
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3500,
-      "num_users": 5
     },
     {
       "university": "Luarasi",
@@ -3577,6 +3577,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3595,6 +3599,10 @@
         {
           "full_name": "Elisa Zala",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
         }
       ]
     },
@@ -3612,6 +3620,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3621,6 +3633,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
