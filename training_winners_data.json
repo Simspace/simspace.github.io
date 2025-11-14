@@ -151,6 +151,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 350
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 300
@@ -158,11 +163,6 @@
     {
       "full_name": "Griselda Ramadani",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 250
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
       "total_points": 250
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2550,
+      "total_points": 2650,
       "num_users": 5
     },
     {
@@ -2103,6 +2103,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -2132,6 +2136,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
