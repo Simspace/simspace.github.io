@@ -76,14 +76,14 @@
       "total_points": 1150
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 1100
     },
     {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 950
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 1100
     },
     {
       "full_name": "Fatbardh Rama",
@@ -248,14 +248,14 @@
       "num_users": 2
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3150,
+      "num_users": 5
+    },
+    {
       "university": "Luarasi",
       "total_points": 3100,
       "num_users": 4
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3000,
-      "num_users": 5
     },
     {
       "university": "Epoka University",
@@ -1838,6 +1838,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1891,6 +1895,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -2016,6 +2024,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2065,6 +2077,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -2253,6 +2269,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2282,6 +2302,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
