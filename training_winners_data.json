@@ -23,7 +23,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2050
+      "total_points": 2350
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -228,14 +228,14 @@
   ],
   "universities": [
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 4400,
+      "num_users": 5
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 4200,
       "num_users": 3
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4100,
-      "num_users": 5
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -4291,11 +4291,19 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -4310,11 +4318,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -4337,6 +4353,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4350,6 +4370,10 @@
         },
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
