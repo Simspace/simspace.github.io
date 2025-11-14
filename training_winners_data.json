@@ -21,13 +21,13 @@
       "total_points": 2450
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 1750
-    },
-    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
+      "total_points": 1800
+    },
+    {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 1750
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1750,
+      "total_points": 1800,
       "num_users": 1
     },
     {
@@ -3802,6 +3802,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -3843,6 +3847,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
