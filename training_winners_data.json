@@ -48,7 +48,7 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 3050,
+      "total_points": 3100,
       "num_users": 4
     },
     {
@@ -3628,6 +3628,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3641,6 +3645,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 50
         }
       ]
