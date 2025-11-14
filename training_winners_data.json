@@ -8,7 +8,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3100
+      "total_points": 3200
     },
     {
       "full_name": "Elisa Zala",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 3250,
+      "total_points": 3350,
       "num_users": 2
     },
     {
@@ -4103,8 +4103,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 14, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Tirana Business University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "c3c78139-1b9b-4ef3-b7b9-823e99157945",
