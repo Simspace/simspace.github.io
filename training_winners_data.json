@@ -28,7 +28,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 1700
+      "total_points": 1750
     },
     {
       "full_name": "Enxhi Kala",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1700,
+      "total_points": 1750,
       "num_users": 1
     },
     {
@@ -3655,6 +3655,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -3692,6 +3696,10 @@
         },
         {
           "full_name": "Griselda Ramadani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
