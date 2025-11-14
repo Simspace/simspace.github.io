@@ -4053,6 +4053,60 @@
           "challenge_points_earned": 100
         }
       ]
+    },
+    {
+      "package_id": "0a933c0d-d0e0-4679-b9d5-2f64f050f10d",
+      "package_name": "Actions on Objective Using Python",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 14, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ddc20d25-014b-4321-9378-63ddfd0171d3",
+      "package_name": "Android Application Analysis Challenge",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 14, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c3c78139-1b9b-4ef3-b7b9-823e99157945",
+      "package_name": "Discover Stolen Credentials Using Wireshark",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 14, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "782a2dda-78e6-48f9-bc69-7372d4385c31",
+      "package_name": "Identify Password Hash Types",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 14, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "d2c227df-c1d4-46a7-89d5-ee6797b52e9a",
+      "package_name": "Interacting with the MITRE ATT&CK Matrix",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 14, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "6785829d-2814-4ba7-8856-b68691caf8bf",
+      "package_name": "Local Privilege Escalation",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 14, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
