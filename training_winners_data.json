@@ -21,6 +21,11 @@
       "total_points": 2450
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1850
+    },
+    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 1850
@@ -29,11 +34,6 @@
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 1750
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1700
     },
     {
       "full_name": "Enxhi Kala",
@@ -238,14 +238,14 @@
       "num_users": 4
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3900,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 3800,
       "num_users": 2
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3750,
-      "num_users": 5
     },
     {
       "university": "Tirana Business University",
@@ -3757,6 +3757,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3766,6 +3770,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -3942,6 +3950,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3959,6 +3971,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -4030,6 +4046,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4083,6 +4103,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
