@@ -93,7 +93,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 850
+      "total_points": 900
     },
     {
       "full_name": "Mateo Nezha",
@@ -238,14 +238,14 @@
       "num_users": 4
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 4250,
+      "num_users": 3
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 4250,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4200,
-      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -3817,6 +3817,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -3830,6 +3834,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
