@@ -88,7 +88,7 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1000
+      "total_points": 1050
     },
     {
       "full_name": "Fatbardh Rama",
@@ -229,7 +229,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4450,
+      "total_points": 4500,
       "num_users": 4
     },
     {
@@ -4500,11 +4500,19 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 50
         }
       ]
