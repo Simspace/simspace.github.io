@@ -106,14 +106,14 @@
       "total_points": 700
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 650
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 600
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 650
     },
     {
       "full_name": "unejskotoni@gmail.com",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 3300,
+      "total_points": 3350,
       "num_users": 4
     },
     {
@@ -4024,6 +4024,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -4073,6 +4077,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
