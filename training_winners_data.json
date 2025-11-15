@@ -3,7 +3,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 4050
+      "total_points": 4100
     },
     {
       "full_name": "Earta Joca",
@@ -238,14 +238,14 @@
       "num_users": 5
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 4250,
+      "num_users": 2
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 4200,
       "num_users": 3
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 4200,
-      "num_users": 2
     },
     {
       "university": "Universiteti New York Tirana",
@@ -3597,6 +3597,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3618,6 +3622,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
