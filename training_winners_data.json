@@ -8,7 +8,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3600
+      "total_points": 3700
     },
     {
       "full_name": "Elisa Zala",
@@ -51,14 +51,14 @@
       "total_points": 1500
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1400
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1300
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
+      "total_points": 1400
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4050,
+      "total_points": 4150,
       "num_users": 4
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 3750,
+      "total_points": 3850,
       "num_users": 2
     },
     {
@@ -4354,6 +4354,14 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4363,6 +4371,14 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
