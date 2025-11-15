@@ -8,7 +8,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 3850
+      "total_points": 3900
     },
     {
       "full_name": "Elisa Zala",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 4000,
+      "total_points": 4050,
       "num_users": 2
     },
     {
@@ -4681,6 +4681,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -4702,6 +4706,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
