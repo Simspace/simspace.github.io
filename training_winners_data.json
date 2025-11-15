@@ -16,14 +16,14 @@
       "total_points": 3000
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 2450
     },
     {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2350
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2450
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -228,14 +228,14 @@
   ],
   "universities": [
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 4500,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 4500,
       "num_users": 4
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4400,
-      "num_users": 5
     },
     {
       "university": "Tirana Business University",
@@ -4536,6 +4536,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4545,6 +4549,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -4563,6 +4571,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4572,6 +4584,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
