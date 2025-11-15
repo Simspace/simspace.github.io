@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 3850
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 3900
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 3850
     },
     {
@@ -86,13 +86,13 @@
       "total_points": 1100
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 850
-    },
-    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 950
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 850
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4250,
+      "total_points": 4350,
       "num_users": 4
     },
     {
@@ -243,12 +243,12 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 4000,
+      "university": "Tirana Business University",
+      "total_points": 4050,
       "num_users": 2
     },
     {
-      "university": "Tirana Business University",
+      "university": "Universiteti New York Tirana",
       "total_points": 4000,
       "num_users": 2
     },
@@ -3986,6 +3986,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4007,6 +4011,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -4351,6 +4359,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -4360,6 +4372,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 100
         }
       ]
