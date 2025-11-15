@@ -3,7 +3,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3900
+      "total_points": 3950
     },
     {
       "full_name": "Earta Joca",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 4050,
+      "total_points": 4100,
       "num_users": 2
     },
     {
@@ -4488,8 +4488,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 14, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Tirana Business University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "6785829d-2814-4ba7-8856-b68691caf8bf",
