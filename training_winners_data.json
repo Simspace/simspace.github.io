@@ -151,14 +151,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 400
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 350
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400
     },
     {
       "full_name": "Ina Ndoni",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2750,
+      "total_points": 2800,
       "num_users": 5
     },
     {
@@ -4669,6 +4669,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -4686,6 +4690,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
