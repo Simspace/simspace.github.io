@@ -126,6 +126,11 @@
       "total_points": 500
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 450
+    },
+    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 450
@@ -153,11 +158,6 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 350
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 350
     },
     {
@@ -299,7 +299,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1000,
+      "total_points": 1100,
       "num_users": 3
     },
     {
@@ -3350,6 +3350,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3399,6 +3403,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
