@@ -88,7 +88,7 @@
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 950
+      "total_points": 1000
     },
     {
       "full_name": "Fatbardh Rama",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4350,
+      "total_points": 4400,
       "num_users": 4
     },
     {
@@ -4507,8 +4507,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 14, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 50
+        }
+      ]
     }
   ],
   "difficulty_points": {
