@@ -33,7 +33,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1750
+      "total_points": 1850
     },
     {
       "full_name": "Lida Filipi",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2650,
+      "total_points": 2750,
       "num_users": 5
     },
     {
@@ -4417,6 +4417,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -4442,6 +4446,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
