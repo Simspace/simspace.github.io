@@ -96,6 +96,11 @@
       "total_points": 850
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 750
+    },
+    {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
       "total_points": 650
@@ -106,19 +111,14 @@
       "total_points": 650
     },
     {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 600
+    },
+    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 550
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 500
-    },
-    {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 500
     },
     {
       "full_name": "Etien Lila",
@@ -126,9 +126,9 @@
       "total_points": 500
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 450
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 500
     },
     {
       "full_name": "Saimir",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 3200,
+      "total_points": 3300,
       "num_users": 4
     },
     {
@@ -288,6 +288,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1400,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150,
       "num_users": 1
@@ -296,11 +301,6 @@
       "university": "Universiteti i Shkodres",
       "total_points": 1100,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1100,
-      "num_users": 3
     },
     {
       "university": "Universiteti i Korces",
@@ -2510,6 +2510,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2571,6 +2575,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 300
         }
       ]
@@ -4454,6 +4462,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -4475,6 +4487,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 100
         }
       ]
