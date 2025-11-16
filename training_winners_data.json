@@ -116,14 +116,14 @@
       "total_points": 650
     },
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 600
+    },
+    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 550
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 500
     },
     {
       "full_name": "Tony Tatazi",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3000,
+      "total_points": 3100,
       "num_users": 5
     },
     {
@@ -3374,6 +3374,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3403,6 +3407,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
