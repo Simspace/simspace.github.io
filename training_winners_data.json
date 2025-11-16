@@ -176,6 +176,11 @@
       "total_points": 250
     },
     {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 200
+    },
+    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
@@ -191,11 +196,6 @@
       "total_points": 150
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
-      "total_points": 100
-    },
-    {
       "full_name": "Barlind Bunga",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
@@ -206,13 +206,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 100
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 100,
+      "total_points": 200,
       "num_users": 1
     },
     {
@@ -1600,6 +1600,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -1673,6 +1677,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 100
         }
       ]
@@ -4911,6 +4919,7 @@
     "15": 1.0,
     "16": 1.0,
     "17": 1.0,
-    "18": 1.0
+    "18": 1.0,
+    "19": 1.0
   }
 }
