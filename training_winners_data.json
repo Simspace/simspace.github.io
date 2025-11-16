@@ -121,6 +121,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 550
+    },
+    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 550
@@ -136,28 +141,23 @@
       "total_points": 500
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 450
-    },
-    {
       "full_name": "Egis Sula",
       "university": "WBU",
       "total_points": 450
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
-    },
-    {
-      "full_name": "Livia Demiri",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 400
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 450
     },
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 400
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -166,9 +166,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 350
+      "full_name": "Livia Demiri",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 400
     },
     {
       "full_name": "Ina Ndoni",
@@ -323,6 +323,11 @@
       "num_users": 3
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 550,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti i Elbasanit",
       "total_points": 450,
       "num_users": 1
@@ -330,11 +335,6 @@
     {
       "university": "42 Coding",
       "total_points": 400,
-      "num_users": 1
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 350,
       "num_users": 1
     },
     {
@@ -1604,6 +1604,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -1681,6 +1685,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
@@ -3481,6 +3489,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -3534,6 +3546,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
@@ -4936,6 +4952,7 @@
     "16": 1.0,
     "17": 1.0,
     "18": 1.0,
-    "19": 1.0
+    "19": 1.0,
+    "20": 1.0
   }
 }
