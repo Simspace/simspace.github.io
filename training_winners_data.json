@@ -186,8 +186,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -198,6 +198,11 @@
     {
       "full_name": "Barlind Bunga",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -216,18 +221,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Bjorn Kapllani",
-      "university": "WBU",
-      "total_points": 50
-    },
-    {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 50
-    },
-    {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
+      "full_name": "Bjorn Kapllani",
+      "university": "WBU",
       "total_points": 50
     },
     {
@@ -333,13 +333,13 @@
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
+      "university": "Canadian Institute of Technology",
       "total_points": 100,
       "num_users": 1
     },
     {
-      "university": "Canadian Institute of Technology",
-      "total_points": 50,
+      "university": "UAMD 2",
+      "total_points": 100,
       "num_users": 1
     }
   ],
@@ -1715,6 +1715,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -1748,6 +1752,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
