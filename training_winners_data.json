@@ -26,13 +26,13 @@
       "total_points": 2450
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1850
-    },
-    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
+      "total_points": 1950
+    },
+    {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1850
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2900,
+      "total_points": 3000,
       "num_users": 5
     },
     {
@@ -4732,6 +4732,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -4757,6 +4761,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
