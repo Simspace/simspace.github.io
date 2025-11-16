@@ -131,6 +131,11 @@
       "total_points": 550
     },
     {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 550
+    },
+    {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
       "total_points": 500
@@ -138,11 +143,6 @@
     {
       "full_name": "Etien Lila",
       "university": "Harry Fultz",
-      "total_points": 500
-    },
-    {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
       "total_points": 500
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 500,
+      "total_points": 550,
       "num_users": 1
     },
     {
@@ -2824,6 +2824,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -2897,6 +2901,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 50
         }
       ]
