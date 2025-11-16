@@ -171,14 +171,14 @@
       "total_points": 300
     },
     {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 300
+    },
+    {
       "full_name": "Griselda Ramadani",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 250
-    },
-    {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 200
     },
     {
       "full_name": "Detjon Mataj",
@@ -334,7 +334,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 200,
+      "total_points": 300,
       "num_users": 1
     },
     {
@@ -4760,6 +4760,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -4789,6 +4793,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 100
         }
       ]
