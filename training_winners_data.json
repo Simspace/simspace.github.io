@@ -126,14 +126,14 @@
       "total_points": 500
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 500
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 450
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 500
     },
     {
       "full_name": "Egis Sula",
@@ -141,9 +141,9 @@
       "total_points": 450
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 400
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 450
     },
     {
       "full_name": "Ergi Hysa",
@@ -151,8 +151,8 @@
       "total_points": 400
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 400
     },
     {
@@ -264,7 +264,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2800,
+      "total_points": 2900,
       "num_users": 5
     },
     {
@@ -3831,6 +3831,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3856,6 +3860,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
