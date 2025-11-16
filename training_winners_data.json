@@ -18,7 +18,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2650
+      "total_points": 2750
     },
     {
       "full_name": "Arkel Lahi",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2650,
+      "total_points": 2750,
       "num_users": 1
     },
     {
@@ -4641,6 +4641,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -4666,6 +4670,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
