@@ -56,13 +56,13 @@
       "total_points": 1500
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
-      "total_points": 1400
-    },
-    {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1450
+    },
+    {
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
       "total_points": 1400
     },
     {
@@ -278,14 +278,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 2100,
+      "num_users": 3
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 2050,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2050,
-      "num_users": 3
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -3578,6 +3578,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3619,6 +3623,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
