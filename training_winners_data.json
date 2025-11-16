@@ -126,13 +126,13 @@
       "total_points": 600
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 550
-    },
-    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 600
+    },
+    {
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 550
     },
     {
@@ -323,14 +323,14 @@
       "num_users": 1
     },
     {
+      "university": "42 Coding",
+      "total_points": 600,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 600,
       "num_users": 3
-    },
-    {
-      "university": "42 Coding",
-      "total_points": 550,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Elbasanit",
@@ -4186,6 +4186,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -4243,6 +4247,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 50
         }
       ]
