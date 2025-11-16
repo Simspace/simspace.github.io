@@ -18,7 +18,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2450
+      "total_points": 2550
     },
     {
       "full_name": "Arkel Lahi",
@@ -36,23 +36,23 @@
       "total_points": 1850
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1550
-    },
-    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1550
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1500
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1550
     },
     {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1500
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1500
     },
     {
@@ -76,13 +76,13 @@
       "total_points": 1250
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 1150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1150
     },
     {
@@ -106,24 +106,19 @@
       "total_points": 700
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 650
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 650
     },
     {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 550
-    },
-    {
-      "full_name": "Etien Lila",
-      "university": "Harry Fultz",
-      "total_points": 500
     },
     {
       "full_name": "Nea Metohu",
@@ -136,9 +131,9 @@
       "total_points": 500
     },
     {
-      "full_name": "Egis Sula",
-      "university": "WBU",
-      "total_points": 450
+      "full_name": "Etien Lila",
+      "university": "Harry Fultz",
+      "total_points": 500
     },
     {
       "full_name": "Saimir",
@@ -146,13 +141,18 @@
       "total_points": 450
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 400
+      "full_name": "Egis Sula",
+      "university": "WBU",
+      "total_points": 450
     },
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
+    },
+    {
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
     },
     {
@@ -186,6 +186,11 @@
       "total_points": 150
     },
     {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
       "full_name": "Fabricio Ballabani",
       "university": "WBU",
       "total_points": 100
@@ -193,11 +198,6 @@
     {
       "full_name": "Barlind Bunga",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -216,13 +216,18 @@
       "total_points": 50
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Bjorn Kapllani",
+      "university": "WBU",
       "total_points": 50
     },
     {
-      "full_name": "Bjorn Kapllani",
-      "university": "WBU",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 50
+    },
+    {
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
@@ -238,14 +243,14 @@
       "num_users": 5
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4500,
-      "num_users": 4
-    },
-    {
       "university": "Tirana Business University",
       "total_points": 4500,
       "num_users": 2
+    },
+    {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 4500,
+      "num_users": 4
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -269,7 +274,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2450,
+      "total_points": 2550,
       "num_users": 1
     },
     {
@@ -330,6 +335,11 @@
     {
       "university": "UAMD 2",
       "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Canadian Institute of Technology",
+      "total_points": 50,
       "num_users": 1
     }
   ],
@@ -876,6 +886,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -941,6 +955,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
@@ -4493,6 +4511,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -4522,6 +4544,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
