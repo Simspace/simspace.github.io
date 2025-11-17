@@ -1,13 +1,23 @@
 {
   "users": [
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 150
     },
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
+      "total_points": 100
+    },
+    {
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
+      "total_points": 50
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
@@ -18,12 +28,22 @@
   ],
   "universities": [
     {
+      "university": "42 Coding",
+      "total_points": 150,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti New York Tirana",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50,
       "num_users": 1
     },
     {
-      "university": "Universiteti New York Tirana",
+      "university": "Luarasi",
       "total_points": 50,
       "num_users": 1
     },
@@ -76,8 +96,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "42 Coding",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "7a2dca2b-f266-41a1-9bbf-bb05f417f1d5",
@@ -175,8 +205,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "c4228c28-c88a-4da7-ba20-06cad6d04b6b",
@@ -223,6 +263,14 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -237,6 +285,14 @@
         {
           "full_name": "Savina Shimi",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 50
         }
       ]
     }
@@ -248,6 +304,8 @@
   "rank_multipliers": {
     "1": 1.0,
     "2": 1.0,
-    "3": 1.0
+    "3": 1.0,
+    "4": 1.0,
+    "5": 1.0
   }
 }
