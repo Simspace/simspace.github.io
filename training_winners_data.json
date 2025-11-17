@@ -4,11 +4,21 @@
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 50
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 50
     }
   ],
   "universities": [
     {
       "university": "Universiteti New York Tirana",
+      "total_points": 50,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti i Shkodres",
       "total_points": 50,
       "num_users": 1
     }
@@ -195,11 +205,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
@@ -210,6 +228,7 @@
     "intermediate": 100
   },
   "rank_multipliers": {
-    "1": 1.0
+    "1": 1.0,
+    "2": 1.0
   }
 }
