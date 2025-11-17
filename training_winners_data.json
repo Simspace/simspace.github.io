@@ -13,7 +13,7 @@
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
-      "total_points": 150
+      "total_points": 250
     },
     {
       "full_name": "Erona Hoxha",
@@ -54,7 +54,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 150,
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -126,11 +126,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 100
         }
       ]
