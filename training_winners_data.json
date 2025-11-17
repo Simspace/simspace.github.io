@@ -6,24 +6,24 @@
       "total_points": 1000
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 600
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 750
     },
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
-      "total_points": 550
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 550
+      "total_points": 650
     },
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500
+      "total_points": 600
+    },
+    {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 600
     },
     {
       "full_name": "Savina Shimi",
@@ -53,18 +53,18 @@
       "num_users": 2
     },
     {
-      "university": "42 Coding",
-      "total_points": 550,
+      "university": "Universiteti i Shkodres",
+      "total_points": 750,
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 550,
+      "university": "42 Coding",
+      "total_points": 650,
       "num_users": 1
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500,
+      "total_points": 600,
       "num_users": 1
     },
     {
@@ -101,6 +101,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -118,6 +122,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
@@ -162,6 +170,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -179,6 +191,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
@@ -404,6 +420,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -413,6 +433,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
@@ -561,8 +585,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "42 Coding",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "885d6e39-458a-462b-b815-772776003488",
