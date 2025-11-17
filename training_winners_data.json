@@ -6,14 +6,14 @@
       "total_points": 1300
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1000
-    },
-    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
-      "total_points": 950
+      "total_points": 1050
+    },
+    {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1050
     },
     {
       "full_name": "Erona Hoxha",
@@ -59,7 +59,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1200,
+      "total_points": 1250,
       "num_users": 3
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "university": "42 Coding",
-      "total_points": 950,
+      "total_points": 1050,
       "num_users": 1
     },
     {
@@ -684,6 +684,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -697,6 +701,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 100
         }
       ]
@@ -766,6 +774,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -792,6 +804,10 @@
         {
           "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
         }
       ]
     }
@@ -806,6 +822,7 @@
     "3": 1.0,
     "4": 1.0,
     "5": 1.0,
-    "6": 1.0
+    "6": 1.0,
+    "7": 1.0
   }
 }
