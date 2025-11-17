@@ -18,7 +18,7 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 750
+      "total_points": 950
     },
     {
       "full_name": "Savina Shimi",
@@ -41,9 +41,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 200
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -51,8 +51,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 750,
+      "total_points": 950,
       "num_users": 1
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 100,
+      "total_points": 200,
       "num_users": 1
     },
     {
@@ -241,6 +241,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -270,6 +274,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
@@ -672,6 +680,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -689,6 +701,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
@@ -742,6 +758,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -759,6 +779,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
