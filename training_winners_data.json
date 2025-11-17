@@ -13,6 +13,11 @@
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
+      "total_points": 550
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 450
     },
     {
@@ -21,19 +26,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 350
-    },
-    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
+      "total_points": 350
     },
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 150
+      "total_points": 250
     },
     {
       "full_name": "Ersi Dedaj",
@@ -49,11 +49,16 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 850,
+      "total_points": 950,
       "num_users": 2
     },
     {
       "university": "42 Coding",
+      "total_points": 550,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti i Shkodres",
       "total_points": 450,
       "num_users": 1
     },
@@ -63,13 +68,8 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 350,
-      "num_users": 1
-    },
-    {
       "university": "Luarasi",
-      "total_points": 150,
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -209,6 +209,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -230,6 +234,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
@@ -302,6 +310,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -311,6 +323,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
@@ -333,6 +349,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -346,6 +366,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
@@ -437,6 +461,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -446,6 +474,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 100
         }
       ]
