@@ -16,13 +16,13 @@
       "total_points": 1050
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 750
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 750
     },
     {
@@ -41,12 +41,22 @@
       "total_points": 300
     },
     {
-      "full_name": "Lida Filipi",
+      "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
       "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    },
+    {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 100
+    },
+    {
+      "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
@@ -63,14 +73,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1350,
+      "num_users": 4
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 1300,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1250,
-      "num_users": 3
     },
     {
       "university": "42 Coding",
@@ -90,6 +100,11 @@
     {
       "university": "Universiteti i Korces",
       "total_points": 300,
+      "num_users": 1
+    },
+    {
+      "university": "Epoka University",
+      "total_points": 100,
       "num_users": 1
     },
     {
@@ -133,6 +148,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -162,6 +181,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
@@ -332,6 +355,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -341,6 +368,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
@@ -897,6 +928,7 @@
     "4": 1.0,
     "5": 1.0,
     "6": 1.0,
-    "7": 1.0
+    "7": 1.0,
+    "8": 1.0
   }
 }
