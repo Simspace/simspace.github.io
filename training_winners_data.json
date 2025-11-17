@@ -41,6 +41,11 @@
       "total_points": 1750
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1600
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1550
@@ -49,11 +54,6 @@
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1550
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1500
     },
     {
       "full_name": "Fran\u00e7esko Shahinasi",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 3
     },
     {
@@ -4929,6 +4929,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -4970,6 +4974,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
