@@ -1,19 +1,14 @@
 {
   "users": [
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 200
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 150
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 100
-    },
-    {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
-      "total_points": 50
     },
     {
       "full_name": "Savina Shimi",
@@ -24,17 +19,27 @@
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 50
+    },
+    {
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
+      "total_points": 50
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 50
     }
   ],
   "universities": [
     {
-      "university": "42 Coding",
-      "total_points": 150,
+      "university": "Universiteti New York Tirana",
+      "total_points": 200,
       "num_users": 1
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 100,
+      "university": "42 Coding",
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -44,6 +49,11 @@
     },
     {
       "university": "Luarasi",
+      "total_points": 50,
+      "num_users": 1
+    },
+    {
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50,
       "num_users": 1
     },
@@ -124,8 +134,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "8465d3a7-cb12-4826-befd-75005642fcf1",
@@ -271,6 +291,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -293,6 +317,10 @@
         {
           "full_name": "Aldo Ndoni",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
         }
       ]
     }
@@ -306,6 +334,7 @@
     "2": 1.0,
     "3": 1.0,
     "4": 1.0,
-    "5": 1.0
+    "5": 1.0,
+    "6": 1.0
   }
 }
