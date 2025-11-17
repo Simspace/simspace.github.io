@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 600
+      "total_points": 700
     },
     {
       "full_name": "Elisa Zala",
@@ -26,13 +26,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
-    },
-    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
+      "total_points": 150
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
@@ -44,7 +44,7 @@
   "universities": [
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 600,
+      "total_points": 700,
       "num_users": 1
     },
     {
@@ -63,13 +63,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
+      "university": "Luarasi",
       "total_points": 150,
       "num_users": 1
     },
     {
-      "university": "Luarasi",
-      "total_points": 50,
+      "university": "Universiteti i Shkodres",
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -146,6 +146,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -155,6 +159,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
@@ -181,6 +189,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -198,6 +210,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
