@@ -166,6 +166,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 400
+    },
+    {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
@@ -186,11 +191,6 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 150
-    },
-    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150
@@ -201,9 +201,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Barlind Bunga",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 150
     },
     {
       "full_name": "Samantha Bilbili",
@@ -211,13 +211,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
+      "full_name": "Fabricio Ballabani",
+      "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Fabricio Ballabani",
-      "university": "WBU",
+      "full_name": "Barlind Bunga",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 100,
+      "total_points": 400,
       "num_users": 1
     }
   ],
@@ -3334,6 +3334,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -3395,6 +3399,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 300
         }
       ]
