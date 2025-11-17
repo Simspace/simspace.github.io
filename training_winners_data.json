@@ -16,14 +16,14 @@
       "total_points": 250
     },
     {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 200
+    },
+    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 150
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
     },
     {
       "full_name": "Savina Shimi",
@@ -58,13 +58,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 150,
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 200,
       "num_users": 1
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100,
+      "university": "Universiteti i Shkodres",
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -157,6 +157,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -166,6 +170,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
