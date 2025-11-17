@@ -3,12 +3,17 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 200
+      "total_points": 300
     },
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 150
+    },
+    {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 100
     },
     {
       "full_name": "Savina Shimi",
@@ -34,7 +39,7 @@
   "universities": [
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 200,
+      "total_points": 300,
       "num_users": 1
     },
     {
@@ -44,8 +49,8 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50,
-      "num_users": 1
+      "total_points": 150,
+      "num_users": 2
     },
     {
       "university": "Luarasi",
@@ -153,8 +158,26 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "0a31c8bf-80d2-4b9f-a631-5160a6933fc3",
