@@ -1,6 +1,18 @@
 {
-  "users": [],
-  "universities": [],
+  "users": [
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 50
+    }
+  ],
+  "universities": [
+    {
+      "university": "Universiteti New York Tirana",
+      "total_points": 50,
+      "num_users": 1
+    }
+  ],
   "packages": [
     {
       "package_id": "3bdc1862-c4ce-4c57-9be0-fa2349fcbec4",
@@ -179,13 +191,25 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     }
   ],
   "difficulty_points": {
     "foundational": 50,
     "intermediate": 100
   },
-  "rank_multipliers": {}
+  "rank_multipliers": {
+    "1": 1.0
+  }
 }
