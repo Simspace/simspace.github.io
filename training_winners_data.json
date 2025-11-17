@@ -113,7 +113,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 800
+      "total_points": 950
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 800,
+      "total_points": 950,
       "num_users": 1
     },
     {
@@ -4418,6 +4418,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -4479,6 +4483,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
@@ -4696,6 +4704,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -4737,6 +4749,10 @@
         },
         {
           "full_name": "Selim Cela",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 100
         }
       ]
