@@ -93,7 +93,7 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 1100
+      "total_points": 1150
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -319,7 +319,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 1100,
+      "total_points": 1150,
       "num_users": 1
     },
     {
@@ -4219,6 +4219,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -4280,6 +4284,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
