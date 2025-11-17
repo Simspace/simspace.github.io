@@ -23,7 +23,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 800
+      "total_points": 900
     },
     {
       "full_name": "Redi Yzellari",
@@ -94,7 +94,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 800,
+      "total_points": 900,
       "num_users": 1
     },
     {
@@ -909,6 +909,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -930,6 +934,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
