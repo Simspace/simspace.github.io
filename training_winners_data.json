@@ -3,7 +3,17 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 300
+      "total_points": 400
+    },
+    {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 150
     },
     {
       "full_name": "Leonard Dani",
@@ -11,18 +21,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 100
-    },
-    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
       "total_points": 50
     },
     {
@@ -39,8 +39,13 @@
   "universities": [
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 300,
+      "total_points": 400,
       "num_users": 1
+    },
+    {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 250,
+      "num_users": 2
     },
     {
       "university": "42 Coding",
@@ -48,13 +53,8 @@
       "num_users": 1
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "university": "Universiteti i Shkodres",
       "total_points": 150,
-      "num_users": 2
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 50,
       "num_users": 1
     },
     {
@@ -63,7 +63,7 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
+      "university": "Luarasi",
       "total_points": 50,
       "num_users": 1
     }
@@ -115,11 +115,19 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
@@ -185,8 +193,26 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "ff689ec0-89cd-4a6d-9a78-03b8f659b824",
