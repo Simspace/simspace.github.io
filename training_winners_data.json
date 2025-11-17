@@ -26,6 +26,11 @@
       "total_points": 750
     },
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 700
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
@@ -34,11 +39,6 @@
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 550
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 500
     },
     {
       "full_name": "Redi Yzellari",
@@ -93,13 +93,13 @@
       "num_users": 1
     },
     {
-      "university": "Luarasi",
-      "total_points": 550,
+      "university": "Epoka University",
+      "total_points": 700,
       "num_users": 1
     },
     {
-      "university": "Epoka University",
-      "total_points": 500,
+      "university": "Luarasi",
+      "total_points": 550,
       "num_users": 1
     },
     {
@@ -509,6 +509,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -530,6 +534,10 @@
         },
         {
           "full_name": "Adelina Paskalaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
@@ -564,6 +572,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -589,6 +601,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
