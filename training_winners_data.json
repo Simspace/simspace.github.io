@@ -33,7 +33,7 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 450
+      "total_points": 550
     },
     {
       "full_name": "Redi Yzellari",
@@ -84,7 +84,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 1
     },
     {
@@ -363,6 +363,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -384,6 +388,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
