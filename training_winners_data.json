@@ -3,12 +3,17 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1000
+      "total_points": 1100
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
       "total_points": 750
+    },
+    {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 700
     },
     {
       "full_name": "Leonard Dani",
@@ -21,14 +26,9 @@
       "total_points": 650
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 600
-    },
-    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 350
+      "total_points": 450
     },
     {
       "full_name": "Aldo Ndoni",
@@ -44,12 +44,12 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1000,
+      "total_points": 1100,
       "num_users": 2
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1000,
+      "total_points": 1100,
       "num_users": 1
     },
     {
@@ -58,13 +58,13 @@
       "num_users": 1
     },
     {
-      "university": "42 Coding",
-      "total_points": 650,
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 700,
       "num_users": 1
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 600,
+      "university": "42 Coding",
+      "total_points": 650,
       "num_users": 1
     },
     {
@@ -268,11 +268,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
@@ -505,6 +513,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -518,6 +530,10 @@
         },
         {
           "full_name": "Leonard Dani",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
@@ -559,11 +575,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
