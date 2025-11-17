@@ -38,12 +38,12 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 400
+      "total_points": 500
     },
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 400
+      "total_points": 500
     },
     {
       "full_name": "Lida Filipi",
@@ -99,12 +99,12 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 400,
+      "total_points": 500,
       "num_users": 1
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 400,
+      "total_points": 500,
       "num_users": 1
     },
     {
@@ -438,6 +438,14 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -463,6 +471,14 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 100
         }
       ]
