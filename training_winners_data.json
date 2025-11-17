@@ -46,9 +46,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Adelina Paskalaj",
+      "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "total_points": 150
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -56,7 +56,7 @@
       "total_points": 100
     },
     {
-      "full_name": "Lida Filipi",
+      "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
@@ -74,7 +74,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1350,
+      "total_points": 1400,
       "num_users": 4
     },
     {
@@ -739,6 +739,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -748,6 +752,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
