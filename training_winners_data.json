@@ -8,12 +8,12 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 900
+      "total_points": 1000
     },
     {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
-      "total_points": 850
+      "total_points": 950
     },
     {
       "full_name": "Erona Hoxha",
@@ -33,7 +33,7 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 250
+      "total_points": 350
     },
     {
       "full_name": "Lida Filipi",
@@ -58,18 +58,18 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1200,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1200,
       "num_users": 2
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1100,
-      "num_users": 3
-    },
-    {
       "university": "42 Coding",
-      "total_points": 850,
+      "total_points": 950,
       "num_users": 1
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 250,
+      "total_points": 350,
       "num_users": 1
     },
     {
@@ -184,6 +184,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -205,6 +209,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
@@ -474,6 +482,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -487,6 +499,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Leonard Dani",
           "challenge_points_earned": 100
         }
       ]
@@ -699,6 +715,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -708,6 +728,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
