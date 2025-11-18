@@ -11,18 +11,18 @@
       "total_points": 1250
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
-      "total_points": 1150
-    },
-    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 1150
+      "total_points": 1200
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
+      "total_points": 1150
+    },
+    {
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 1150
     },
     {
@@ -88,12 +88,12 @@
       "num_users": 1
     },
     {
-      "university": "42 Coding",
-      "total_points": 1150,
+      "university": "Epoka University",
+      "total_points": 1200,
       "num_users": 1
     },
     {
-      "university": "Epoka University",
+      "university": "42 Coding",
       "total_points": 1150,
       "num_users": 1
     },
@@ -823,6 +823,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -836,6 +840,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
