@@ -38,7 +38,7 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 850
+      "total_points": 950
     },
     {
       "full_name": "Savina Shimi",
@@ -93,14 +93,14 @@
       "num_users": 2
     },
     {
+      "university": "Luarasi",
+      "total_points": 1350,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 1300,
       "num_users": 1
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1250,
-      "num_users": 3
     },
     {
       "university": "Universiteti i Korces",
@@ -613,6 +613,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -646,6 +650,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
