@@ -58,7 +58,7 @@
     {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
-      "total_points": 200
+      "total_points": 300
     },
     {
       "full_name": "Lida Filipi",
@@ -108,14 +108,14 @@
       "num_users": 1
     },
     {
+      "university": "Luarasi",
+      "total_points": 1150,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 1150,
       "num_users": 1
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1050,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -1084,6 +1084,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -1113,6 +1117,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 100
         }
       ]
