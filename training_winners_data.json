@@ -33,7 +33,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1050
+      "total_points": 1100
     },
     {
       "full_name": "Aldo Ndoni",
@@ -88,19 +88,19 @@
   ],
   "universities": [
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1400,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 4
     },
     {
       "university": "Luarasi",
       "total_points": 1400,
       "num_users": 3
+    },
+    {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1400,
+      "num_users": 2
     },
     {
       "university": "Universiteti New York Tirana",
@@ -249,8 +249,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "d0d4e346-b71b-49ed-9280-1049514bf0f0",
