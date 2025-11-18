@@ -66,14 +66,19 @@
       "total_points": 350
     },
     {
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
+      "total_points": 150
+    },
+    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
     },
     {
-      "full_name": "Florina Gjino",
-      "university": "Luarasi",
-      "total_points": 150
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -81,16 +86,16 @@
       "total_points": 100
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
+      "total_points": 50
     }
   ],
   "universities": [
     {
       "university": "Luarasi",
-      "total_points": 1450,
-      "num_users": 3
+      "total_points": 1500,
+      "num_users": 4
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -913,11 +918,19 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Samantha Bilbili",
           "challenge_points_earned": 50
         }
       ]
