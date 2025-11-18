@@ -48,7 +48,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 150
+      "total_points": 250
     },
     {
       "full_name": "Lida Filipi",
@@ -114,7 +114,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 150,
+      "total_points": 250,
       "num_users": 1
     },
     {
@@ -263,6 +263,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -296,6 +300,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
