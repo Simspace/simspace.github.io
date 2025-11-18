@@ -31,14 +31,14 @@
       "total_points": 1050
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 950
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 850
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 750
     },
     {
       "full_name": "Savina Shimi",
@@ -124,7 +124,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 750,
+      "total_points": 950,
       "num_users": 1
     },
     {
@@ -916,6 +916,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -949,6 +953,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
@@ -1034,6 +1042,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1067,6 +1079,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
