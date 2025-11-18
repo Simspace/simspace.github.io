@@ -76,8 +76,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 100
     },
     {
@@ -86,15 +86,15 @@
       "total_points": 100
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
-      "total_points": 50
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
     }
   ],
   "universities": [
     {
       "university": "Luarasi",
-      "total_points": 1500,
+      "total_points": 1550,
       "num_users": 4
     },
     {
@@ -945,11 +945,19 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Samantha Bilbili",
           "challenge_points_earned": 50
         }
       ]
