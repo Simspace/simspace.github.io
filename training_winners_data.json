@@ -36,8 +36,8 @@
       "total_points": 750
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 650
     },
     {
@@ -46,9 +46,9 @@
       "total_points": 650
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 550
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 650
     },
     {
       "full_name": "Ersi Dedaj",
@@ -114,7 +114,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 550,
+      "total_points": 650,
       "num_users": 1
     },
     {
@@ -666,6 +666,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -703,6 +707,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
