@@ -43,7 +43,12 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 550
+      "total_points": 650
+    },
+    {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 150
     },
     {
       "full_name": "Lida Filipi",
@@ -51,23 +56,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Adelina Paskalaj",
+      "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Sidrit Dervishi",
+      "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 50
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 50
     }
   ],
@@ -109,12 +109,12 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 550,
+      "total_points": 650,
       "num_users": 1
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 50,
+      "total_points": 150,
       "num_users": 1
     },
     {
@@ -162,6 +162,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -195,6 +199,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
@@ -1026,6 +1034,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -1055,6 +1067,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
