@@ -51,14 +51,14 @@
       "total_points": 250
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150
     },
     {
-      "full_name": "Sidrit Dervishi",
+      "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "total_points": 150
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -66,9 +66,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 50
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
     }
   ],
   "universities": [
@@ -119,7 +119,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 50,
+      "total_points": 150,
       "num_users": 1
     }
   ],
@@ -614,6 +614,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -647,6 +651,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
