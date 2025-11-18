@@ -16,6 +16,11 @@
       "total_points": 1200
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1150
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
@@ -23,11 +28,6 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 1150
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1150
     },
     {
@@ -61,6 +61,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 200
+    },
+    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
@@ -83,11 +88,6 @@
   ],
   "universities": [
     {
-      "university": "Luarasi",
-      "total_points": 1400,
-      "num_users": 3
-    },
-    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1400,
       "num_users": 2
@@ -96,6 +96,11 @@
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1400,
       "num_users": 4
+    },
+    {
+      "university": "Luarasi",
+      "total_points": 1400,
+      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -130,6 +135,11 @@
     {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 650,
+      "num_users": 1
+    },
+    {
+      "university": "Herman Gmeiner",
+      "total_points": 200,
       "num_users": 1
     }
   ],
@@ -180,6 +190,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -221,6 +235,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
@@ -289,6 +307,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -330,6 +352,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
@@ -1383,6 +1409,7 @@
     "7": 1.0,
     "8": 1.0,
     "9": 1.0,
-    "10": 1.0
+    "10": 1.0,
+    "11": 1.0
   }
 }
