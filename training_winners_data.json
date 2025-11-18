@@ -3,7 +3,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Earta Joca",
@@ -43,7 +43,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Elisa Zala",
@@ -104,12 +104,12 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1450,
+      "total_points": 1500,
       "num_users": 2
     },
     {
       "university": "Epoka University",
-      "total_points": 1350,
+      "total_points": 1400,
       "num_users": 1
     },
     {
@@ -258,11 +258,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
@@ -969,6 +977,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -982,6 +994,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 50
         }
       ]
