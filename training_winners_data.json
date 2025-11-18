@@ -63,7 +63,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 200
+      "total_points": 300
     },
     {
       "full_name": "Lida Filipi",
@@ -139,7 +139,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 200,
+      "total_points": 300,
       "num_users": 1
     }
   ],
@@ -406,6 +406,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -447,6 +451,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
