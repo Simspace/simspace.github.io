@@ -8,7 +8,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1450
+      "total_points": 1500
     },
     {
       "full_name": "Nea Metohu",
@@ -124,7 +124,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1450,
+      "total_points": 1500,
       "num_users": 1
     },
     {
@@ -1114,6 +1114,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -1135,6 +1139,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
