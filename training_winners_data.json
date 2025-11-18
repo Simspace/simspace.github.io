@@ -58,7 +58,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 400
+      "total_points": 500
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -139,7 +139,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 400,
+      "total_points": 500,
       "num_users": 1
     }
   ],
@@ -1187,6 +1187,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -1224,6 +1228,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
