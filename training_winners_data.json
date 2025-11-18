@@ -8,7 +8,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Leonard Dani",
@@ -84,7 +84,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1200,
+      "total_points": 1250,
       "num_users": 1
     },
     {
@@ -1079,6 +1079,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -1113,6 +1117,10 @@
         {
           "full_name": "Nea Metohu",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
         }
       ]
     }
@@ -1129,6 +1137,7 @@
     "5": 1.0,
     "6": 1.0,
     "7": 1.0,
-    "8": 1.0
+    "8": 1.0,
+    "9": 1.0
   }
 }
