@@ -48,7 +48,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 350
+      "total_points": 450
     },
     {
       "full_name": "Ersi Dedaj",
@@ -114,7 +114,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 350,
+      "total_points": 450,
       "num_users": 1
     },
     {
@@ -488,6 +488,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -521,6 +525,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
