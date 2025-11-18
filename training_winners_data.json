@@ -3,7 +3,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 1300
+      "total_points": 1350
     },
     {
       "full_name": "Earta Joca",
@@ -103,12 +103,12 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 1300,
+      "university": "Epoka University",
+      "total_points": 1350,
       "num_users": 1
     },
     {
-      "university": "Epoka University",
+      "university": "Universiteti New York Tirana",
       "total_points": 1300,
       "num_users": 1
     },
@@ -909,8 +909,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "b56927b2-0ed5-4247-9ac9-1791065ddcef",
