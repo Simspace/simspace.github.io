@@ -1,6 +1,11 @@
 {
   "users": [
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 1300
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 1300
@@ -9,11 +14,6 @@
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
       "total_points": 1250
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 1200
     },
     {
       "full_name": "Tergita Sulaj",
@@ -108,17 +108,17 @@
       "num_users": 1
     },
     {
+      "university": "Epoka University",
+      "total_points": 1300,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 1250,
       "num_users": 1
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1200,
-      "num_users": 1
-    },
-    {
-      "university": "Epoka University",
       "total_points": 1200,
       "num_users": 1
     },
@@ -918,8 +918,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "6615cf61-974f-42f1-9c2f-fa71c5e9e4f6",
@@ -927,8 +937,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 17, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "2287365f-5c15-42f9-ab8c-cd4979178067",
