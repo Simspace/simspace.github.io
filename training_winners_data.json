@@ -43,7 +43,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 750
+      "total_points": 800
     },
     {
       "full_name": "Elisa Zala",
@@ -104,7 +104,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 2
     },
     {
@@ -926,6 +926,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -939,6 +943,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 50
         }
       ]
