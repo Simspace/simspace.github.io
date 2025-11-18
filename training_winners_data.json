@@ -16,13 +16,13 @@
       "total_points": 1200
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 1150
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 1150
     },
     {
@@ -66,6 +66,11 @@
       "total_points": 150
     },
     {
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
@@ -93,6 +98,11 @@
       "num_users": 1
     },
     {
+      "university": "Luarasi",
+      "total_points": 1250,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 1250,
       "num_users": 1
@@ -106,11 +116,6 @@
       "university": "42 Coding",
       "total_points": 1150,
       "num_users": 1
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1150,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -817,6 +822,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -826,6 +835,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Florina Gjino",
           "challenge_points_earned": 100
         }
       ]
