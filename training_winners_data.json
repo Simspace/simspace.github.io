@@ -36,13 +36,13 @@
       "total_points": 750
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 650
-    },
-    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
+      "total_points": 750
+    },
+    {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 650
     },
     {
@@ -53,7 +53,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 450
+      "total_points": 550
     },
     {
       "full_name": "Lida Filipi",
@@ -109,7 +109,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 650,
+      "total_points": 750,
       "num_users": 1
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 1
     }
   ],
@@ -972,6 +972,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -1001,6 +1005,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
@@ -1110,6 +1118,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1143,6 +1155,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
