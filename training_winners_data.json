@@ -31,13 +31,13 @@
       "total_points": 1050
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 750
-    },
-    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
+      "total_points": 850
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 750
     },
     {
@@ -53,12 +53,17 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 550
+      "total_points": 650
     },
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
+    },
+    {
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
+      "total_points": 100
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -109,8 +114,8 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 750,
-      "num_users": 1
+      "total_points": 950,
+      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -119,7 +124,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 550,
+      "total_points": 650,
       "num_users": 1
     }
   ],
@@ -366,6 +371,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -404,6 +413,10 @@
         {
           "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -433,6 +446,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -454,6 +471,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 100
         }
       ]
@@ -862,6 +883,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -891,6 +916,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
