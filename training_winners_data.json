@@ -16,11 +16,6 @@
       "total_points": 1400
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1250
-    },
-    {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
       "total_points": 1250
@@ -28,7 +23,12 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1200
+      "total_points": 1250
+    },
+    {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1250
     },
     {
       "full_name": "Leonard Dani",
@@ -149,7 +149,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1200,
+      "total_points": 1250,
       "num_users": 1
     },
     {
@@ -1171,6 +1171,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1200,6 +1204,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
