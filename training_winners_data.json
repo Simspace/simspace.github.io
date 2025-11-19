@@ -56,6 +56,11 @@
       "total_points": 750
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 700
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
@@ -64,11 +69,6 @@
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 600
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 500
     },
     {
       "full_name": "Enxhi Kala",
@@ -168,17 +168,17 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 700,
+      "num_users": 1
+    },
+    {
       "university": "Mediterranean University- UMSH",
       "total_points": 600,
       "num_users": 1
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 500,
-      "num_users": 1
-    },
-    {
-      "university": "Harry Fultz",
       "total_points": 500,
       "num_users": 1
     }
@@ -1613,6 +1613,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1666,6 +1670,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
@@ -1728,6 +1736,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1781,6 +1793,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
