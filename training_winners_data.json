@@ -53,7 +53,7 @@
     {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
-      "total_points": 800
+      "total_points": 900
     },
     {
       "full_name": "Ersi Dedaj",
@@ -164,7 +164,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 800,
+      "total_points": 900,
       "num_users": 1
     },
     {
@@ -835,6 +835,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -876,6 +880,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
