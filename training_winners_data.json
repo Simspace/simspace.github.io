@@ -41,6 +41,11 @@
       "total_points": 1150
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 1100
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 950
@@ -48,11 +53,6 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 900
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
       "total_points": 900
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 900,
+      "total_points": 1100,
       "num_users": 1
     },
     {
@@ -938,6 +938,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -984,6 +988,10 @@
         {
           "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -1029,6 +1037,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1066,6 +1078,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
