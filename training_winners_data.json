@@ -46,6 +46,11 @@
       "total_points": 1100
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 950
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 950
@@ -54,11 +59,6 @@
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 900
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 850
     },
     {
       "full_name": "Elisa Zala",
@@ -169,7 +169,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 850,
+      "total_points": 950,
       "num_users": 1
     },
     {
@@ -1546,6 +1546,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1591,6 +1595,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
