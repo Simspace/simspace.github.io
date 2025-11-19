@@ -66,14 +66,14 @@
       "total_points": 600
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 500
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 400
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 500
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -179,7 +179,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 400,
+      "total_points": 500,
       "num_users": 1
     }
   ],
@@ -1502,6 +1502,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1543,6 +1547,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
