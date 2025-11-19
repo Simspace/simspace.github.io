@@ -58,7 +58,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 750
+      "total_points": 850
     },
     {
       "full_name": "Elisa Zala",
@@ -169,7 +169,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -1041,6 +1041,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1082,6 +1086,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
