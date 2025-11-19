@@ -81,13 +81,18 @@
       "total_points": 150
     },
     {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    },
+    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
       "total_points": 100
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
@@ -113,14 +118,14 @@
       "num_users": 2
     },
     {
-      "university": "Luarasi",
-      "total_points": 1550,
-      "num_users": 4
-    },
-    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1550,
       "num_users": 2
+    },
+    {
+      "university": "Luarasi",
+      "total_points": 1550,
+      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -160,6 +165,11 @@
     {
       "university": "Herman Gmeiner",
       "total_points": 500,
+      "num_users": 1
+    },
+    {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 100,
       "num_users": 1
     }
   ],
@@ -218,6 +228,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -267,6 +281,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
@@ -1777,6 +1795,7 @@
     "9": 1.0,
     "10": 1.0,
     "11": 1.0,
-    "12": 1.0
+    "12": 1.0,
+    "13": 1.0
   }
 }
