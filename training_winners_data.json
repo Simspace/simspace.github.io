@@ -86,12 +86,17 @@
       "total_points": 150
     },
     {
-      "full_name": "Adelina Paskalaj",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 150
+    },
+    {
+      "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Sidrit Dervishi",
+      "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
@@ -103,11 +108,6 @@
     {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
       "total_points": 50
     }
   ],
@@ -179,7 +179,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 50,
+      "total_points": 150,
       "num_users": 1
     }
   ],
@@ -1178,6 +1178,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1203,6 +1207,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
@@ -1237,6 +1245,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1262,6 +1274,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
