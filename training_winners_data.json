@@ -63,7 +63,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 500
+      "total_points": 600
     },
     {
       "full_name": "Enxhi Kala",
@@ -163,12 +163,12 @@
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 500,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 600,
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
+      "university": "Herman Gmeiner",
       "total_points": 500,
       "num_users": 1
     }
@@ -1547,6 +1547,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1592,6 +1596,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
