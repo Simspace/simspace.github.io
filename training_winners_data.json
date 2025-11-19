@@ -66,14 +66,14 @@
       "total_points": 500
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 400
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 350
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 300
     },
     {
       "full_name": "Lida Filipi",
@@ -169,7 +169,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 300,
+      "total_points": 400,
       "num_users": 1
     }
   ],
@@ -1642,6 +1642,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1691,6 +1695,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
