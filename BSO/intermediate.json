@@ -1,19 +1,19 @@
 {
     "users": [
         {
-            "user_name": "LostFrequencies",
-            "total_points": "1,400",
-            "latest_answer": "November 20, 2025, 5:55 PM"
-        },
-        {
             "user_name": "LexingtonSteakHouse",
-            "total_points": "1,300",
-            "latest_answer": "November 20, 2025, 5:58 PM"
+            "total_points": "1,800",
+            "latest_answer": "November 20, 2025, 6:06 PM"
         },
         {
             "user_name": "PacketPlatoon",
-            "total_points": "1,180",
-            "latest_answer": "November 20, 2025, 5:15 PM"
+            "total_points": "1,480",
+            "latest_answer": "November 20, 2025, 6:07 PM"
+        },
+        {
+            "user_name": "LostFrequencies",
+            "total_points": "1,400",
+            "latest_answer": "November 20, 2025, 5:55 PM"
         },
         {
             "user_name": "Zippy",
