@@ -63,7 +63,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 750
+      "total_points": 850
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -174,7 +174,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -1183,6 +1183,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -1224,6 +1228,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
@@ -1274,6 +1282,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -1315,6 +1327,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
