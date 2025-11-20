@@ -1,14 +1,14 @@
 {
     "users": [
         {
+            "user_name": "IDK",
+            "total_points": "4,500",
+            "latest_answer": "November 20, 2025, 8:52 PM"
+        },
+        {
             "user_name": "BadTeamName",
             "total_points": "4,000",
             "latest_answer": "November 20, 2025, 7:27 PM"
-        },
-        {
-            "user_name": "IDK",
-            "total_points": "4,000",
-            "latest_answer": "November 20, 2025, 7:57 PM"
         },
         {
             "user_name": "ReversSolidus",
