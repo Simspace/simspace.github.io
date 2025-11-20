@@ -1,44 +1,44 @@
 {
     "users": [
         {
-            "user_name": "Daniel Justa",
+            "user_name": "Zippy",
             "total_points": "600",
             "latest_answer": "November 20, 2025, 3:14 PM"
         },
         {
-            "user_name": "Georges Ankenmann",
+            "user_name": "RustyNails",
             "total_points": "300",
             "latest_answer": "November 20, 2025, 3:16 PM"
         },
         {
-            "user_name": "Kade Burfoot-Clark",
+            "user_name": "Lashleys Lackeys",
             "total_points": "200",
             "latest_answer": "November 20, 2025, 3:16 PM"
         },
         {
-            "user_name": "Rachael",
+            "user_name": "LostFrequencies",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 3:17 PM"
+        },
+        {
+            "user_name": "LightHouse",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 3:17 PM"
+        },
+        {
+            "user_name": "Literal Rachael",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 2:59 PM"
         },
         {
-            "user_name": "Bryan Carter",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 3:00 PM"
-        },
-        {
-            "user_name": "Tim Clarke",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 3:05 PM"
-        },
-        {
-            "user_name": "Patrick ",
+            "user_name": "LexingtonSteakHouse",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:11 PM"
         },
         {
-            "user_name": "Matt Giroux",
+            "user_name": "PacketPlatoon",
             "total_points": "100",
-            "latest_answer": "November 20, 2025, 3:16 PM"
+            "latest_answer": "November 20, 2025, 3:18 PM"
         }
     ]
 }
