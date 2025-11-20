@@ -1,24 +1,24 @@
 {
     "users": [
         {
+            "user_name": "LostFrequencies",
+            "total_points": "1,400",
+            "latest_answer": "November 20, 2025, 5:55 PM"
+        },
+        {
+            "user_name": "LexingtonSteakHouse",
+            "total_points": "1,300",
+            "latest_answer": "November 20, 2025, 5:58 PM"
+        },
+        {
             "user_name": "PacketPlatoon",
             "total_points": "1,180",
             "latest_answer": "November 20, 2025, 5:15 PM"
         },
         {
-            "user_name": "LexingtonSteakHouse",
-            "total_points": "1,000",
-            "latest_answer": "November 20, 2025, 3:55 PM"
-        },
-        {
             "user_name": "Zippy",
             "total_points": "800",
             "latest_answer": "November 20, 2025, 4:12 PM"
-        },
-        {
-            "user_name": "LostFrequencies",
-            "total_points": "800",
-            "latest_answer": "November 20, 2025, 4:29 PM"
         },
         {
             "user_name": "MOB",
@@ -81,19 +81,19 @@
             "latest_answer": "November 20, 2025, 5:28 PM"
         },
         {
+            "user_name": "Team3",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 5:55 PM"
+        },
+        {
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
         },
         {
-            "user_name": "Team3",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 5:51 PM"
-        },
-        {
             "user_name": "David Tessier",
             "total_points": "100",
-            "latest_answer": "November 20, 2025, 5:53 PM"
+            "latest_answer": "November 20, 2025, 5:58 PM"
         }
     ]
 }
