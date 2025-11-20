@@ -1,6 +1,11 @@
 {
     "users": [
         {
+            "user_name": "EHPT-CobraChickens",
+            "total_points": "1,000",
+            "latest_answer": "November 20, 2025, 4:32 PM"
+        },
+        {
             "user_name": "ReversSolidus",
             "total_points": "500",
             "latest_answer": "November 20, 2025, 4:01 PM"
