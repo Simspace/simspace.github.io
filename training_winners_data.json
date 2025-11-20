@@ -91,12 +91,17 @@
       "total_points": 150
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
       "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    },
+    {
+      "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
@@ -106,17 +111,17 @@
       "total_points": 100
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
-    },
-    {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     }
   ],
   "universities": [
+    {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1650,
+      "num_users": 3
+    },
     {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1650,
@@ -126,11 +131,6 @@
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1600,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600,
-      "num_users": 3
     },
     {
       "university": "Luarasi",
@@ -326,6 +326,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -343,6 +347,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
