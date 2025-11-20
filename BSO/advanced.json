@@ -1,6 +1,11 @@
 {
     "users": [
         {
+            "user_name": "QxTeam",
+            "total_points": "4,950",
+            "latest_answer": "November 20, 2025, 9:37 PM"
+        },
+        {
             "user_name": "IDK",
             "total_points": "4,500",
             "latest_answer": "November 20, 2025, 8:52 PM"
@@ -12,13 +17,8 @@
         },
         {
             "user_name": "EHPT-CobraChickens",
-            "total_points": "4,000",
-            "latest_answer": "November 20, 2025, 9:01 PM"
-        },
-        {
-            "user_name": "QxTeam",
-            "total_points": "3,950",
-            "latest_answer": "November 20, 2025, 8:54 PM"
+            "total_points": "4,500",
+            "latest_answer": "November 20, 2025, 9:39 PM"
         },
         {
             "user_name": "ReversSolidus",
