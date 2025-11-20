@@ -23,7 +23,7 @@
         {
             "user_name": "MOB",
             "total_points": "1,320",
-            "latest_answer": "November 20, 2025, 9:03 PM"
+            "latest_answer": "November 20, 2025, 9:10 PM"
         },
         {
             "user_name": "Literal Rachael",
@@ -96,14 +96,14 @@
             "latest_answer": "November 20, 2025, 6:49 PM"
         },
         {
+            "user_name": "Luc Aube",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 9:09 PM"
+        },
+        {
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
-        },
-        {
-            "user_name": "Luc Aube",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 8:09 PM"
         }
     ]
 }
