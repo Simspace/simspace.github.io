@@ -44,6 +44,11 @@
             "user_name": "MOB",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 3:48 PM"
+        },
+        {
+            "user_name": "Jeremy Miller",
+            "total_points": "100",
+            "latest_answer": "November 20, 2025, 3:50 PM"
         }
     ]
 }
