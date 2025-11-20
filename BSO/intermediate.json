@@ -1,14 +1,14 @@
 {
     "users": [
         {
+            "user_name": "PacketPlatoon",
+            "total_points": "1,180",
+            "latest_answer": "November 20, 2025, 5:15 PM"
+        },
+        {
             "user_name": "LexingtonSteakHouse",
             "total_points": "1,000",
             "latest_answer": "November 20, 2025, 3:55 PM"
-        },
-        {
-            "user_name": "PacketPlatoon",
-            "total_points": "980",
-            "latest_answer": "November 20, 2025, 4:44 PM"
         },
         {
             "user_name": "Zippy",
@@ -51,6 +51,11 @@
             "latest_answer": "November 20, 2025, 5:04 PM"
         },
         {
+            "user_name": "Ken Topping",
+            "total_points": "600",
+            "latest_answer": "November 20, 2025, 5:14 PM"
+        },
+        {
             "user_name": "Lashleys Lackeys",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 3:39 PM"
@@ -61,29 +66,24 @@
             "latest_answer": "November 20, 2025, 3:48 PM"
         },
         {
-            "user_name": "Ken Topping",
-            "total_points": "400",
-            "latest_answer": "November 20, 2025, 4:38 PM"
-        },
-        {
             "user_name": "Jeremy Miller",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 5:01 PM"
         },
         {
             "user_name": "QxCoop",
+            "total_points": "300",
+            "latest_answer": "November 20, 2025, 5:18 PM"
+        },
+        {
+            "user_name": "OtterTeam6",
             "total_points": "200",
-            "latest_answer": "November 20, 2025, 4:57 PM"
+            "latest_answer": "November 20, 2025, 5:17 PM"
         },
         {
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
-        },
-        {
-            "user_name": "OtterTeam6",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 4:47 PM"
         }
     ]
 }
