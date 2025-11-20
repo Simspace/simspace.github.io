@@ -7,8 +7,8 @@
         },
         {
             "user_name": "PacketPlatoon",
-            "total_points": "800",
-            "latest_answer": "November 20, 2025, 3:56 PM"
+            "total_points": "980",
+            "latest_answer": "November 20, 2025, 4:44 PM"
         },
         {
             "user_name": "Zippy",
@@ -22,8 +22,8 @@
         },
         {
             "user_name": "MOB",
-            "total_points": "600",
-            "latest_answer": "November 20, 2025, 4:01 PM"
+            "total_points": "800",
+            "latest_answer": "November 20, 2025, 4:46 PM"
         },
         {
             "user_name": "RustyNails",
@@ -46,11 +46,6 @@
             "latest_answer": "November 20, 2025, 3:48 PM"
         },
         {
-            "user_name": "Marcel Forget",
-            "total_points": "400",
-            "latest_answer": "November 20, 2025, 4:26 PM"
-        },
-        {
             "user_name": "RedRams",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 4:31 PM"
@@ -66,9 +61,14 @@
             "latest_answer": "November 20, 2025, 4:39 PM"
         },
         {
+            "user_name": "Marcel Forget",
+            "total_points": "400",
+            "latest_answer": "November 20, 2025, 4:48 PM"
+        },
+        {
             "user_name": "Jeremy Miller",
-            "total_points": "200",
-            "latest_answer": "November 20, 2025, 4:27 PM"
+            "total_points": "300",
+            "latest_answer": "November 20, 2025, 4:47 PM"
         },
         {
             "user_name": "BitFlippers",
@@ -79,6 +79,11 @@
             "user_name": "QxCoop",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 4:44 PM"
+        },
+        {
+            "user_name": "OtterTeam6",
+            "total_points": "100",
+            "latest_answer": "November 20, 2025, 4:47 PM"
         }
     ]
 }
