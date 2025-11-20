@@ -36,14 +36,14 @@
             "latest_answer": "November 20, 2025, 3:25 PM"
         },
         {
+            "user_name": "MOB",
+            "total_points": "300",
+            "latest_answer": "November 20, 2025, 3:37 PM"
+        },
+        {
             "user_name": "Literal Rachael",
             "total_points": "200",
             "latest_answer": "November 20, 2025, 3:34 PM"
-        },
-        {
-            "user_name": "MOB",
-            "total_points": "200",
-            "latest_answer": "November 20, 2025, 3:35 PM"
         }
     ]
 }
