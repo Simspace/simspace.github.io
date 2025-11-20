@@ -1,3 +1,9 @@
 {
-    "users": []
+    "users": [
+        {
+            "user_name": "Daniel Justa",
+            "total_points": "100",
+            "latest_answer": "November 20, 2025, 2:40 PM"
+        }
+    ]
 }
