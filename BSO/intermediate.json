@@ -26,6 +26,11 @@
             "latest_answer": "November 20, 2025, 3:17 PM"
         },
         {
+            "user_name": "PacketPlatoon",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 3:21 PM"
+        },
+        {
             "user_name": "Literal Rachael",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 2:59 PM"
@@ -34,11 +39,6 @@
             "user_name": "LexingtonSteakHouse",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:11 PM"
-        },
-        {
-            "user_name": "PacketPlatoon",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 3:18 PM"
         }
     ]
 }
