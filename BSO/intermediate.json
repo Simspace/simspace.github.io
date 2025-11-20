@@ -1,14 +1,14 @@
 {
     "users": [
         {
+            "user_name": "PacketPlatoon",
+            "total_points": "2,350",
+            "latest_answer": "November 20, 2025, 6:54 PM"
+        },
+        {
             "user_name": "LexingtonSteakHouse",
             "total_points": "2,000",
             "latest_answer": "November 20, 2025, 6:27 PM"
-        },
-        {
-            "user_name": "PacketPlatoon",
-            "total_points": "1,750",
-            "latest_answer": "November 20, 2025, 6:22 PM"
         },
         {
             "user_name": "LostFrequencies",
@@ -61,14 +61,14 @@
             "latest_answer": "November 20, 2025, 6:25 PM"
         },
         {
+            "user_name": "Team3",
+            "total_points": "600",
+            "latest_answer": "November 20, 2025, 6:52 PM"
+        },
+        {
             "user_name": "Lashleys Lackeys",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 3:39 PM"
-        },
-        {
-            "user_name": "Literal Rachael",
-            "total_points": "400",
-            "latest_answer": "November 20, 2025, 3:48 PM"
         },
         {
             "user_name": "QxCoop",
@@ -81,19 +81,19 @@
             "latest_answer": "November 20, 2025, 5:28 PM"
         },
         {
-            "user_name": "Team3",
-            "total_points": "400",
-            "latest_answer": "November 20, 2025, 6:14 PM"
-        },
-        {
             "user_name": "David Tessier",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 6:21 PM"
         },
         {
             "user_name": "Cira",
-            "total_points": "300",
-            "latest_answer": "November 20, 2025, 6:40 PM"
+            "total_points": "400",
+            "latest_answer": "November 20, 2025, 6:49 PM"
+        },
+        {
+            "user_name": "Literal Rachael",
+            "total_points": "400",
+            "latest_answer": "November 20, 2025, 6:51 PM"
         },
         {
             "user_name": "BitFlippers",
