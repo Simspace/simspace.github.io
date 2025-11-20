@@ -96,11 +96,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
-    },
-    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
@@ -111,8 +106,18 @@
       "total_points": 100
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 100
+    },
+    {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 50
     }
   ],
@@ -128,14 +133,14 @@
       "num_users": 4
     },
     {
+      "university": "Luarasi",
+      "total_points": 1600,
+      "num_users": 5
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1600,
       "num_users": 2
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1550,
-      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -330,6 +335,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -351,6 +360,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
