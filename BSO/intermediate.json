@@ -6,6 +6,11 @@
             "latest_answer": "November 20, 2025, 2:55 PM"
         },
         {
+            "user_name": "Georges Ankenmann",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 3:13 PM"
+        },
+        {
             "user_name": "Rachael",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 2:59 PM"
@@ -29,11 +34,6 @@
             "user_name": "Patrick ",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:11 PM"
-        },
-        {
-            "user_name": "Georges Ankenmann",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 3:13 PM"
         }
     ]
 }
