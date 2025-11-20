@@ -46,6 +46,11 @@
             "latest_answer": "November 20, 2025, 3:48 PM"
         },
         {
+            "user_name": "Andrew",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 4:08 PM"
+        },
+        {
             "user_name": "Jeremy Miller",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:50 PM"
@@ -61,7 +66,7 @@
             "latest_answer": "November 20, 2025, 3:59 PM"
         },
         {
-            "user_name": "LiamB",
+            "user_name": "RedRams",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 4:01 PM"
         }
