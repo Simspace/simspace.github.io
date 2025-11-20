@@ -56,6 +56,11 @@
             "latest_answer": "November 20, 2025, 8:15 PM"
         },
         {
+            "user_name": "LightHouse",
+            "total_points": "800",
+            "latest_answer": "November 20, 2025, 9:09 PM"
+        },
+        {
             "user_name": "Marcel Forget",
             "total_points": "750",
             "latest_answer": "November 20, 2025, 8:57 PM"
@@ -64,11 +69,6 @@
             "user_name": "Error500",
             "total_points": "730",
             "latest_answer": "November 20, 2025, 7:21 PM"
-        },
-        {
-            "user_name": "LightHouse",
-            "total_points": "600",
-            "latest_answer": "November 20, 2025, 4:39 PM"
         },
         {
             "user_name": "Team3",
