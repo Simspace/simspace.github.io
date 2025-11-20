@@ -7,8 +7,13 @@
         },
         {
             "user_name": "Georges Ankenmann",
+            "total_points": "300",
+            "latest_answer": "November 20, 2025, 3:16 PM"
+        },
+        {
+            "user_name": "Kade Burfoot-Clark",
             "total_points": "200",
-            "latest_answer": "November 20, 2025, 3:13 PM"
+            "latest_answer": "November 20, 2025, 3:16 PM"
         },
         {
             "user_name": "Rachael",
@@ -21,11 +26,6 @@
             "latest_answer": "November 20, 2025, 3:00 PM"
         },
         {
-            "user_name": "Kade Burfoot-Clark",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 3:04 PM"
-        },
-        {
             "user_name": "Tim Clarke",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:05 PM"
@@ -34,6 +34,11 @@
             "user_name": "Patrick ",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:11 PM"
+        },
+        {
+            "user_name": "Matt Giroux",
+            "total_points": "100",
+            "latest_answer": "November 20, 2025, 3:16 PM"
         }
     ]
 }
