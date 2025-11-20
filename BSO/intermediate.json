@@ -26,6 +26,11 @@
             "latest_answer": "November 20, 2025, 7:50 PM"
         },
         {
+            "user_name": "Ken Topping",
+            "total_points": "1,100",
+            "latest_answer": "November 20, 2025, 8:13 PM"
+        },
+        {
             "user_name": "RustyNails",
             "total_points": "980",
             "latest_answer": "November 20, 2025, 7:48 PM"
@@ -39,11 +44,6 @@
             "user_name": "Zippy",
             "total_points": "800",
             "latest_answer": "November 20, 2025, 4:12 PM"
-        },
-        {
-            "user_name": "Ken Topping",
-            "total_points": "800",
-            "latest_answer": "November 20, 2025, 5:40 PM"
         },
         {
             "user_name": "RedRams",
@@ -103,7 +103,7 @@
         {
             "user_name": "Luc Aube",
             "total_points": "100",
-            "latest_answer": "November 20, 2025, 8:08 PM"
+            "latest_answer": "November 20, 2025, 8:09 PM"
         }
     ]
 }
