@@ -39,6 +39,15 @@
       gap: 0.75rem;
     }
 
+    .logo-row {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      gap: 1.25rem; /* space between logos */
+      margin-bottom: 0.75rem;
+    }
+
     .logo {
       height: 110px;
       border-radius: 0.5rem;
@@ -285,12 +294,15 @@
 <body>
   <div class="page">
     <header>
-      <img src="logo.jpg" alt="Event logo" class="logo" />
+      <div class="logo-row">
+        <img src="logo.jpg" alt="Event logo" class="logo" />
+        <img src="SimSpaceLogo.svg" alt="Event logo" class="logo" />
+      </div>
       <div class="title-row">
         <h1>CAPTURE THE FLAG</h1>
         <p class="subtitle"><span>/ Intermediate</span></p>
       </div>
-      <p class="tagline">Live scoreboard for BSides CTF — refresh to see the latest standings.</p>
+      <p class="tagline">Powered by SimSpace — The realistic, intelligent cyber range.</p>
     </header>
 
     <section>
@@ -424,3 +436,4 @@
   </script>
 </body>
 </html>
+
