@@ -61,8 +61,8 @@
             "latest_answer": "November 20, 2025, 4:38 PM"
         },
         {
-            "user_name": "Don Flanders",
-            "total_points": "300",
+            "user_name": "Error500",
+            "total_points": "400",
             "latest_answer": "November 20, 2025, 4:39 PM"
         },
         {
@@ -74,6 +74,11 @@
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
+        },
+        {
+            "user_name": "QxCoop",
+            "total_points": "100",
+            "latest_answer": "November 20, 2025, 4:44 PM"
         }
     ]
 }
