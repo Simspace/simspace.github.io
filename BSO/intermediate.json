@@ -2,8 +2,8 @@
     "users": [
         {
             "user_name": "LexingtonSteakHouse",
-            "total_points": "1,800",
-            "latest_answer": "November 20, 2025, 6:06 PM"
+            "total_points": "2,000",
+            "latest_answer": "November 20, 2025, 6:27 PM"
         },
         {
             "user_name": "PacketPlatoon",
@@ -56,6 +56,11 @@
             "latest_answer": "November 20, 2025, 5:04 PM"
         },
         {
+            "user_name": "Jeremy Miller",
+            "total_points": "600",
+            "latest_answer": "November 20, 2025, 6:25 PM"
+        },
+        {
             "user_name": "Lashleys Lackeys",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 3:39 PM"
@@ -64,11 +69,6 @@
             "user_name": "Literal Rachael",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 3:48 PM"
-        },
-        {
-            "user_name": "Jeremy Miller",
-            "total_points": "400",
-            "latest_answer": "November 20, 2025, 5:01 PM"
         },
         {
             "user_name": "QxCoop",
@@ -98,7 +98,7 @@
         {
             "user_name": "Cira",
             "total_points": "100",
-            "latest_answer": "November 20, 2025, 6:23 PM"
+            "latest_answer": "November 20, 2025, 6:29 PM"
         }
     ]
 }
