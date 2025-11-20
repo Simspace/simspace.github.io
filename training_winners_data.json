@@ -46,14 +46,14 @@
       "total_points": 1100
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 1100
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1050
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 1000
     },
     {
       "full_name": "Aldo Ndoni",
@@ -163,6 +163,11 @@
       "num_users": 1
     },
     {
+      "university": "Herman Gmeiner",
+      "total_points": 1100,
+      "num_users": 1
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 1100,
       "num_users": 1
@@ -170,11 +175,6 @@
     {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1050,
-      "num_users": 1
-    },
-    {
-      "university": "Herman Gmeiner",
-      "total_points": 1000,
       "num_users": 1
     },
     {
@@ -839,6 +839,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -884,6 +888,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
