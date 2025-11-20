@@ -91,14 +91,14 @@
             "latest_answer": "November 20, 2025, 6:21 PM"
         },
         {
+            "user_name": "Cira",
+            "total_points": "200",
+            "latest_answer": "November 20, 2025, 6:33 PM"
+        },
+        {
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
-        },
-        {
-            "user_name": "Cira",
-            "total_points": "100",
-            "latest_answer": "November 20, 2025, 6:29 PM"
         }
     ]
 }
