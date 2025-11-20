@@ -7,58 +7,132 @@
   <meta http-equiv="Expires" content="0" />
   <title>BSides | CTF</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Orbitron:wght@500;700&display=swap" rel="stylesheet" />
+
   <style>
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
 
     body {
       margin: 0;
-      padding: 2rem;
+      padding: 2rem 1rem;
       font-family: 'Inter', sans-serif;
-      background-color: #0d1117;
+      background: radial-gradient(circle at top, #161b22 0, #0d1117 55%, #05070b 100%);
       color: #f0f6fc;
+      min-height: 100vh;
+    }
+
+    .page {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-bottom: 2rem;
+      gap: 0.75rem;
+    }
+
+    .logo {
+      height: 110px;
+      border-radius: 0.5rem;
+      object-fit: contain;
+    }
+
+    .title-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: center;
+      gap: 0.5rem;
     }
 
     h1 {
-        font-family: 'Orbitron', sans-serif;
-        text-align: center;
-        color: #f00c00;
-        margin-bottom: 2rem;
-        text-shadow:
-            1px 1px 0 #700000,
-            2px 2px 0 #600000,
-            3px 3px 0 #500000,
-            4px 4px 0 #400000;
+      margin: 0;
+      font-family: 'Orbitron', sans-serif;
+      font-size: clamp(1.75rem, 4vw, 2.4rem);
+      letter-spacing: 0.05em;
+      color: #f00c00;
+      text-shadow:
+        1px 1px 0 #700000,
+        2px 2px 0 #600000,
+        3px 3px 0 #500000,
+        4px 4px 0 #400000;
     }
 
-    h2 {
-        font-family: 'Orbitron', sans-serif;
-        text-align: center;
-        color: #ffffff;
-        margin-bottom: 2rem;
-        text-shadow:
-            1px 1px 0 #555,
-            2px 2px 0 #444,
-            3px 3px 0 #333,
-            4px 4px 0 #222;
+    .subtitle {
+      margin: 0;
+      font-family: 'Orbitron', sans-serif;
+      font-size: clamp(1.1rem, 3vw, 1.4rem);
+      color: #ffffff;
+      text-shadow:
+        1px 1px 0 #555,
+        2px 2px 0 #444,
+        3px 3px 0 #333,
+        4px 4px 0 #222;
+      white-space: nowrap;
     }
 
+    .subtitle span {
+      font-family: "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+
+    .tagline {
+      margin-top: 0.5rem;
+      font-size: 0.95rem;
+      color: #8b949e;
+    }
 
     .search-bar {
       display: flex;
-      justify-content: center;
-      margin-bottom: 2rem;
+      flex-direction: column;
+      align-items: center;
+      margin: 1rem auto 2rem;
+      gap: 0.4rem;
+      max-width: 480px;
+      width: 100%;
+    }
+
+    .search-bar label {
+      font-size: 0.85rem;
+      color: #8b949e;
+      align-self: flex-start;
     }
 
     .search-bar input {
       width: 100%;
-      max-width: 400px;
       padding: 0.75rem 1rem;
       border: 1px solid #30363d;
       border-radius: 0.5rem;
       background-color: #161b22;
       color: #f0f6fc;
       font-size: 1rem;
+      outline: none;
+      transition: border-color 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+    }
+
+    .search-bar input::placeholder {
+      color: #6e7681;
+    }
+
+    .search-bar input:focus {
+      border-color: #58a6ff;
+      box-shadow: 0 0 0 1px #1f6feb;
+      background-color: #0f1720;
+    }
+
+    .status-message {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #8b949e;
+      margin-bottom: 0.5rem;
+      min-height: 1.2em;
     }
 
     .scoreboard {
@@ -69,145 +143,284 @@
       gap: 0.75rem;
     }
 
+    .scoreboard-header {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.35rem 1rem;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #8b949e;
+      border-bottom: 1px solid #30363d;
+      margin-bottom: 0.4rem;
+    }
+
+    .scoreboard-header div {
+      flex: 1;
+    }
+
+    .scoreboard-header .rank {
+      max-width: 3rem;
+      text-align: right;
+    }
+
+    .scoreboard-header .name {
+      padding-left: 1rem;
+      text-align: left;
+    }
+
+    .scoreboard-header .points {
+      text-align: right;
+    }
+
     .rank-row {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background-color: #21262d;
+      background: linear-gradient(90deg, #161b22 0, #161b22 50%, #151820 100%);
       border: 1px solid #30363d;
-      border-radius: 0.5rem;
+      border-radius: 0.6rem;
       padding: 0.75rem 1rem;
-      font-size: 1rem;
+      font-size: 0.95rem;
+      transition: transform 0.12s ease-out, box-shadow 0.12s ease-out, border-color 0.12s ease-out, background-color 0.12s ease-out;
+    }
+
+    .rank-row:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+      border-color: #3b82f6;
     }
 
     .rank-cell {
       flex: 1;
       text-align: left;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
     }
 
     .rank-cell.rank {
-      max-width: 2.5rem;
-      text-align: right;
+      max-width: 3rem;
+      justify-content: flex-end;
       color: #8b949e;
       font-weight: 600;
+      font-variant-numeric: tabular-nums;
     }
 
     .rank-cell.name {
       padding-left: 1rem;
       font-weight: 600;
-    }
-
-    .rank-cell.school {
-      padding-left: 1rem;
-      font-weight: 600;
-      color: #8b949e
+      word-break: break-word;
     }
 
     .rank-cell.points {
-      text-align: right;
+      justify-content: flex-end;
     }
 
     .rank-row.medal-1 {
       border-color: gold;
-      box-shadow: 0 0 10px gold;
+      box-shadow: 0 0 12px rgba(255, 215, 0, 0.45);
     }
 
     .rank-row.medal-2 {
       border-color: silver;
-      box-shadow: 0 0 10px silver;
+      box-shadow: 0 0 12px rgba(192, 192, 192, 0.45);
     }
 
     .rank-row.medal-3 {
-      border-color: #cd7f32; /* bronze */
-      box-shadow: 0 0 10px #cd7f32;
+      border-color: #cd7f32;
+      box-shadow: 0 0 12px rgba(205, 127, 50, 0.45);
     }
 
     .badge {
       background: #238636;
-      color: white;
+      color: #ffffff;
       padding: 0.25rem 0.6rem;
-      font-size: 0.75rem;
-      border-radius: 0.25rem;
+      font-size: 0.8rem;
+      border-radius: 999px;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
     }
 
     .no-results {
       text-align: center;
-      opacity: 0.7;
+      opacity: 0.8;
       font-style: italic;
-      margin-top: 1rem;
+      margin-top: 1.25rem;
+      font-size: 0.9rem;
+    }
+
+    .error {
+      color: #ffa198;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 1.5rem 0.75rem;
+      }
+
+      header {
+        margin-bottom: 1.5rem;
+      }
+
+      .rank-row {
+        font-size: 0.9rem;
+        padding: 0.7rem 0.75rem;
+      }
+
+      .rank-cell.name {
+        padding-left: 0.5rem;
+      }
+
+      .scoreboard-header {
+        padding: 0.3rem 0.75rem;
+      }
+
+      .logo {
+        height: 90px;
+      }
     }
   </style>
 </head>
 <body>
-  <div style="width: 100%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <img src="logo.jpg" alt="Logo" style="height: 120px; margin-right: 15px; margin-bottom: 4px;">
-    <div style="display: flex; align-items: center;">
-        <h1>CAPTURE THE FLAG </h1>
-        <h2><pre> / Intermediate</pre></h2>
-    </div>
+  <div class="page">
+    <header>
+      <img src="logo.jpg" alt="Event logo" class="logo" />
+      <div class="title-row">
+        <h1>CAPTURE THE FLAG</h1>
+        <p class="subtitle"><span>/ Intermediate</span></p>
+      </div>
+      <p class="tagline">Live scoreboard for BSides CTF — refresh to see the latest standings.</p>
+    </header>
 
-</div>
+    <section>
+      <div class="search-bar">
+        <label for="searchInput">Filter players by name</label>
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Start typing a name..."
+          aria-label="Search by player name"
+        />
+      </div>
 
-  <div class="search-bar">
-    <input type="text" id="searchInput" placeholder="Search by name..." />
+      <div id="status" class="status-message"></div>
+
+      <div class="scoreboard">
+        <div class="scoreboard-header">
+          <div class="rank">Rank</div>
+          <div class="name">Player</div>
+          <div class="points">Points</div>
+        </div>
+        <div id="user-scoreboard"></div>
+      </div>
+
+      <div class="no-results" id="no-results" style="display: none;">No users found.</div>
+    </section>
   </div>
 
-  <div class="scoreboard" id="user-scoreboard"></div>
-  <div class="no-results" id="no-results" style="display: none;">No users found.</div>
-
   <script>
+    const DATA_URL = "/BSO/intermediate.json";
     let usersData = [];
 
+    const statusEl = document.getElementById("status");
+    const scoreboardContainer = document.getElementById("user-scoreboard");
+    const noResultsEl = document.getElementById("no-results");
+    const searchInput = document.getElementById("searchInput");
+
+    function setStatus(message, isError) {
+      if (!message) {
+        statusEl.textContent = "";
+        return;
+      }
+      statusEl.textContent = message;
+      statusEl.classList.toggle("error", !!isError);
+    }
+
     async function loadUserRanks() {
-      const response = await fetch("intermediate.json");
-      const data = await response.json();
+      try {
+        setStatus("Loading scoreboard…", false);
 
-      const users = data.users;
+        const response = await fetch(DATA_URL, {
+          cache: "no-store"
+        });
 
-      // Attach original rank to each user
-      usersData = users.map((entry, index) => ({
-        ...entry,
-        rank: index + 1
-      }));
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
+        }
 
-      renderUserRows(usersData);
+        const data = await response.json();
+        const users = Array.isArray(data.users) ? data.users : [];
+
+        usersData = users.map((entry, index) => ({
+          ...entry,
+          rank: index + 1
+        }));
+
+        setStatus("", false);
+        renderUserRows(usersData);
+      } catch (error) {
+        console.error("Error loading user ranks:", error);
+        setStatus("Unable to load scoreboard. Please try refreshing the page.", true);
+        renderUserRows([]);
+      }
     }
 
     function renderUserRows(data) {
-      const container = document.getElementById("user-scoreboard");
-      const noResults = document.getElementById("no-results");
-      container.innerHTML = "";
+      scoreboardContainer.innerHTML = "";
 
-      if (data.length === 0) {
-        noResults.style.display = "block";
+      if (!data || data.length === 0) {
+        noResultsEl.style.display = "block";
         return;
       }
 
-      noResults.style.display = "none";
+      noResultsEl.style.display = "none";
 
-        data.forEach((entry) => {
-          const medalClass = entry.rank === 1 ? "medal-1" :
-                            entry.rank === 2 ? "medal-2" :
-                            entry.rank === 3 ? "medal-3" : "";
+      // Build the HTML once for better performance
+      let html = "";
 
-          container.innerHTML += `
-            <div class="rank-row ${medalClass}">
-              <div class="rank-cell rank">${entry.rank}</div>
-              <div class="rank-cell name">${entry.user_name}</div>
-              <div class="rank-cell points"><span class="badge">${entry.total_points} pts</span></div>
+      data.forEach((entry) => {
+        const rank = entry.rank;
+        const name = entry.user_name || "Unknown";
+        const points = typeof entry.total_points === "number"
+          ? entry.total_points
+          : (entry.total_points || 0);
+
+        const medalClass =
+          rank === 1 ? "medal-1" :
+          rank === 2 ? "medal-2" :
+          rank === 3 ? "medal-3" : "";
+
+        html += `
+          <div class="rank-row ${medalClass}">
+            <div class="rank-cell rank">${rank}</div>
+            <div class="rank-cell name">${name}</div>
+            <div class="rank-cell points">
+              <span class="badge">${points} pts</span>
             </div>
-          `;
-        });
+          </div>
+        `;
+      });
+
+      scoreboardContainer.innerHTML = html;
+    }
+
+    searchInput.addEventListener("input", (e) => {
+      const searchTerm = e.target.value.toLowerCase().trim();
+
+      if (!searchTerm) {
+        renderUserRows(usersData);
+        return;
       }
 
-    document.getElementById("searchInput").addEventListener("input", (e) => {
-      const searchTerm = e.target.value.toLowerCase();
-      const filtered = usersData.filter(u => u.user_name.toLowerCase().includes(searchTerm));
+      const filtered = usersData.filter((u) =>
+        (u.user_name || "").toLowerCase().includes(searchTerm)
+      );
+
       renderUserRows(filtered);
     });
 
     loadUserRanks();
   </script>
 </body>
-
 </html>
