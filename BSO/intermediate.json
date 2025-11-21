@@ -76,6 +76,11 @@
             "latest_answer": "November 20, 2025, 6:52 PM"
         },
         {
+            "user_name": "TeamB",
+            "total_points": "600",
+            "latest_answer": "November 21, 2025, 2:55 PM"
+        },
+        {
             "user_name": "Lashleys Lackeys",
             "total_points": "550",
             "latest_answer": "November 21, 2025, 2:42 PM"
@@ -94,11 +99,6 @@
             "user_name": "Cira",
             "total_points": "400",
             "latest_answer": "November 20, 2025, 6:49 PM"
-        },
-        {
-            "user_name": "TeamB",
-            "total_points": "400",
-            "latest_answer": "November 21, 2025, 2:41 PM"
         },
         {
             "user_name": "Luc Aube",
