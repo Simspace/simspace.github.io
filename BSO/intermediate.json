@@ -101,9 +101,14 @@
             "latest_answer": "November 21, 2025, 5:59 PM"
         },
         {
+            "user_name": "Joe",
+            "total_points": "600",
+            "latest_answer": "November 21, 2025, 6:17 PM"
+        },
+        {
             "user_name": "Lashleys Lackeys",
-            "total_points": "550",
-            "latest_answer": "November 21, 2025, 2:42 PM"
+            "total_points": "570",
+            "latest_answer": "November 21, 2025, 6:18 PM"
         },
         {
             "user_name": "OtterTeam6",
@@ -114,11 +119,6 @@
             "user_name": "David Tessier",
             "total_points": "530",
             "latest_answer": "November 21, 2025, 2:45 PM"
-        },
-        {
-            "user_name": "Joe",
-            "total_points": "400",
-            "latest_answer": "November 21, 2025, 6:04 PM"
         },
         {
             "user_name": "Luc Aube",
