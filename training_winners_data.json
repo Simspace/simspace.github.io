@@ -38,7 +38,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1150
+      "total_points": 1200
     },
     {
       "full_name": "Leonard Dani",
@@ -178,12 +178,12 @@
       "num_users": 1
     },
     {
-      "university": "42 Coding",
-      "total_points": 1150,
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1200,
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "42 Coding",
       "total_points": 1150,
       "num_users": 1
     },
@@ -1490,6 +1490,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1535,6 +1539,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
