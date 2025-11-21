@@ -48,7 +48,7 @@
         {
             "user_name": "Zippy",
             "total_points": "820",
-            "latest_answer": "November 21, 2025, 2:49 PM"
+            "latest_answer": "November 21, 2025, 4:05 PM"
         },
         {
             "user_name": "Jezza M",
@@ -61,9 +61,14 @@
             "latest_answer": "November 20, 2025, 9:09 PM"
         },
         {
+            "user_name": "Cira",
+            "total_points": "800",
+            "latest_answer": "November 21, 2025, 4:03 PM"
+        },
+        {
             "user_name": "Marcel Forget",
             "total_points": "750",
-            "latest_answer": "November 21, 2025, 3:43 PM"
+            "latest_answer": "November 21, 2025, 4:04 PM"
         },
         {
             "user_name": "Error500",
@@ -79,11 +84,6 @@
             "user_name": "TeamB",
             "total_points": "600",
             "latest_answer": "November 21, 2025, 2:55 PM"
-        },
-        {
-            "user_name": "Cira",
-            "total_points": "600",
-            "latest_answer": "November 21, 2025, 3:04 PM"
         },
         {
             "user_name": "Lashleys Lackeys",
