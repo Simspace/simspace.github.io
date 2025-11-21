@@ -1,14 +1,14 @@
 {
     "users": [
         {
+            "user_name": "IDK",
+            "total_points": "6,000",
+            "latest_answer": "November 21, 2025, 3:32 PM"
+        },
+        {
             "user_name": "QxTeam",
             "total_points": "5,450",
             "latest_answer": "November 20, 2025, 9:43 PM"
-        },
-        {
-            "user_name": "IDK",
-            "total_points": "5,000",
-            "latest_answer": "November 20, 2025, 9:54 PM"
         },
         {
             "user_name": "EHPT-CobraChickens",
