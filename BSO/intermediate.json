@@ -101,19 +101,29 @@
             "latest_answer": "November 21, 2025, 2:45 PM"
         },
         {
+            "user_name": "EHPT-CobraChickens",
+            "total_points": "400",
+            "latest_answer": "November 21, 2025, 5:00 PM"
+        },
+        {
+            "user_name": "Justin Padolina",
+            "total_points": "300",
+            "latest_answer": "November 21, 2025, 4:57 PM"
+        },
+        {
             "user_name": "Luc Aube",
             "total_points": "220",
             "latest_answer": "November 21, 2025, 3:30 PM"
         },
         {
-            "user_name": "Justin Padolina",
-            "total_points": "200",
-            "latest_answer": "November 21, 2025, 4:42 PM"
-        },
-        {
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
+        },
+        {
+            "user_name": "IDK",
+            "total_points": "100",
+            "latest_answer": "November 21, 2025, 5:01 PM"
         }
     ]
 }
