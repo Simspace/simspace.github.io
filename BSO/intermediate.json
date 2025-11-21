@@ -1,6 +1,11 @@
 {
     "users": [
         {
+            "user_name": "LexingtonSteakHouse",
+            "total_points": "2,400",
+            "latest_answer": "November 21, 2025, 2:33 PM"
+        },
+        {
             "user_name": "PacketPlatoon",
             "total_points": "2,350",
             "latest_answer": "November 20, 2025, 6:54 PM"
@@ -9,11 +14,6 @@
             "user_name": "LostFrequencies",
             "total_points": "2,320",
             "latest_answer": "November 20, 2025, 8:00 PM"
-        },
-        {
-            "user_name": "LexingtonSteakHouse",
-            "total_points": "2,200",
-            "latest_answer": "November 21, 2025, 2:24 PM"
         },
         {
             "user_name": "QxCoop",
@@ -37,8 +37,8 @@
         },
         {
             "user_name": "Looking for a team",
-            "total_points": "1,100",
-            "latest_answer": "November 20, 2025, 8:27 PM"
+            "total_points": "1,120",
+            "latest_answer": "November 21, 2025, 2:31 PM"
         },
         {
             "user_name": "Zippy",
@@ -101,14 +101,14 @@
             "latest_answer": "November 20, 2025, 9:09 PM"
         },
         {
+            "user_name": "TeamB",
+            "total_points": "200",
+            "latest_answer": "November 21, 2025, 2:35 PM"
+        },
+        {
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
-        },
-        {
-            "user_name": "TeamB",
-            "total_points": "100",
-            "latest_answer": "November 21, 2025, 2:27 PM"
         }
     ]
 }
