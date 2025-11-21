@@ -48,12 +48,12 @@
         {
             "user_name": "LightHouse",
             "total_points": "1,760",
-            "latest_answer": "November 21, 2025, 6:53 PM"
+            "latest_answer": "November 21, 2025, 8:00 PM"
         },
         {
             "user_name": "Error500",
-            "total_points": "1,560",
-            "latest_answer": "November 21, 2025, 6:58 PM"
+            "total_points": "1,740",
+            "latest_answer": "November 21, 2025, 7:58 PM"
         },
         {
             "user_name": "RedRams",
@@ -131,6 +131,11 @@
             "latest_answer": "November 21, 2025, 3:30 PM"
         },
         {
+            "user_name": "Diego Laya",
+            "total_points": "200",
+            "latest_answer": "November 21, 2025, 7:56 PM"
+        },
+        {
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
@@ -139,11 +144,6 @@
             "user_name": "Markus",
             "total_points": "100",
             "latest_answer": "November 21, 2025, 7:25 PM"
-        },
-        {
-            "user_name": "Diego Laya",
-            "total_points": "100",
-            "latest_answer": "November 21, 2025, 7:55 PM"
         }
     ]
 }
