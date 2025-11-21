@@ -96,6 +96,11 @@
             "latest_answer": "November 21, 2025, 2:55 PM"
         },
         {
+            "user_name": "Justin Padolina",
+            "total_points": "600",
+            "latest_answer": "November 21, 2025, 5:59 PM"
+        },
+        {
             "user_name": "Lashleys Lackeys",
             "total_points": "550",
             "latest_answer": "November 21, 2025, 2:42 PM"
@@ -111,9 +116,9 @@
             "latest_answer": "November 21, 2025, 2:45 PM"
         },
         {
-            "user_name": "Justin Padolina",
-            "total_points": "400",
-            "latest_answer": "November 21, 2025, 5:19 PM"
+            "user_name": "Joe",
+            "total_points": "300",
+            "latest_answer": "November 21, 2025, 6:00 PM"
         },
         {
             "user_name": "Luc Aube",
@@ -124,11 +129,6 @@
             "user_name": "BitFlippers",
             "total_points": "100",
             "latest_answer": "November 20, 2025, 3:59 PM"
-        },
-        {
-            "user_name": "Joe",
-            "total_points": "100",
-            "latest_answer": "November 21, 2025, 5:55 PM"
         }
     ]
 }
