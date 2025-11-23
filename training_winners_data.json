@@ -83,7 +83,7 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 250
+      "total_points": 300
     },
     {
       "full_name": "Lida Filipi",
@@ -204,7 +204,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 250,
+      "total_points": 300,
       "num_users": 1
     }
   ],
@@ -1296,6 +1296,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -1345,6 +1349,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 50
         }
       ]
