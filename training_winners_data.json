@@ -81,6 +81,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 250
+    },
+    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
@@ -88,11 +93,6 @@
     {
       "full_name": "Florina Gjino",
       "university": "Luarasi",
-      "total_points": 150
-    },
-    {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
       "total_points": 150
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 150,
+      "total_points": 250,
       "num_users": 1
     }
   ],
@@ -504,6 +504,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -561,6 +565,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
@@ -2232,6 +2240,7 @@
     "11": 1.0,
     "12": 1.0,
     "13": 1.0,
-    "14": 1.0
+    "14": 1.0,
+    "15": 1.0
   }
 }
