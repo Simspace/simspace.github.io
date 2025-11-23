@@ -91,13 +91,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 150
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
@@ -111,9 +111,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
+      "full_name": "Samantha Bilbili",
       "university": "Luarasi",
-      "total_points": 50
+      "total_points": 100
     },
     {
       "full_name": "Kledios Lika",
@@ -121,8 +121,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 50
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 50,
+      "total_points": 150,
       "num_users": 1
     }
   ],
@@ -267,6 +267,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -320,6 +324,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
