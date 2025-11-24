@@ -11,6 +11,11 @@
       "total_points": 1650
     },
     {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 1650
+    },
+    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 1600
@@ -18,11 +23,6 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1550
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
       "total_points": 1550
     },
     {
@@ -158,6 +158,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti i Shkodres",
+      "total_points": 1650,
+      "num_users": 1
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1650,
       "num_users": 3
@@ -165,11 +170,6 @@
     {
       "university": "Epoka University",
       "total_points": 1600,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 1550,
       "num_users": 1
     },
     {
@@ -2282,6 +2282,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -2303,6 +2307,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
