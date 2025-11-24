@@ -11,13 +11,13 @@
       "total_points": 1500
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 1400
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 1400
     },
     {
@@ -96,23 +96,23 @@
       "total_points": 150
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
-    },
-    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 100
     },
     {
-      "full_name": "Adelina Paskalaj",
+      "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
+      "total_points": 100
+    },
+    {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 100
     },
     {
@@ -2228,6 +2228,186 @@
           "challenge_points_earned": 50
         }
       ]
+    },
+    {
+      "package_id": "f7a7f29f-4f3f-4de8-98ab-03026fc07299",
+      "package_name": "Active Directory Enumeration",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "677c0381-2598-4b43-970e-92b51b61d02b",
+      "package_name": "Compromising Windows Account Credentials",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "44118112-20ab-46d4-bfd8-c1b9b38ed057",
+      "package_name": "Create Persistence on Windows and Linux Machines",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "fc4761a5-cfc0-40ca-98b5-1e560f66e748",
+      "package_name": "Initial Access",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "da8129f2-64d8-4bf7-a81c-6c06010e9d5e",
+      "package_name": "Lateral Movement",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "4edf99a8-3530-4ac5-8e60-74ff7ab456b8",
+      "package_name": "Lateral Movement: Introduction",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "dd3174ac-7141-401e-ba19-ee1523813ee0",
+      "package_name": "Linux Server Vulnerabilities",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "82c5f41b-133e-45ff-a7a3-68bc9275f74d",
+      "package_name": "Linux Workstation Vulnerabilities",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "cb890614-4a07-4a49-9569-d2e1d509fd1a",
+      "package_name": "Living Off the Land (LotL) Attacks",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "6785829d-2814-4ba7-8856-b68691caf8bf",
+      "package_name": "Local Privilege Escalation",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "37421e44-4626-4350-97cf-83af644db354",
+      "package_name": "Metasploit Auxiliary Modules",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "1edf4dc9-b3f0-406e-8e7c-ae0c0cab72cb",
+      "package_name": "Metasploit Framework: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "f34b5e21-3876-489a-8067-7cacf6c4b7c1",
+      "package_name": "MSFvenom: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "6902995b-fdc2-461f-b6e3-ddfc388e8f3e",
+      "package_name": "Persistence",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "b53b04e9-5009-4c45-9103-5bd43f5570d2",
+      "package_name": "Persistence: Introduction",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "46fa56e1-f765-42c8-92b6-74216f261cfc",
+      "package_name": "PowerShell for Offensive Actions",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3b460493-5bbe-4d03-83ef-3abb2f212b04",
+      "package_name": "PwnKit Offense: Legacy Threat",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c648fd28-8581-456c-ac7f-41f7f932e7bb",
+      "package_name": "Ransomware Challenge: Scarlet Sunrise",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "d667c83d-83d2-4e22-a490-35655c1bfede",
+      "package_name": "Removing Artifacts",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "848e7cfe-21c1-4466-af35-41dfd05de1c4",
+      "package_name": "Windows Workstation Vulnerabilities",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "November 24, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
