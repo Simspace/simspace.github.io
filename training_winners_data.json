@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1700
+      "total_points": 1800
     },
     {
       "full_name": "Arkel Lahi",
@@ -11,13 +11,13 @@
       "total_points": 1550
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 1400
-    },
-    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
+      "total_points": 1500
+    },
+    {
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 1400
     },
     {
@@ -81,6 +81,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 350
+    },
+    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 300
@@ -89,11 +94,6 @@
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300
-    },
-    {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
     },
     {
       "full_name": "Florina Gjino",
@@ -133,6 +133,11 @@
   ],
   "universities": [
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1900,
+      "num_users": 3
+    },
+    {
       "university": "Luarasi",
       "total_points": 1850,
       "num_users": 5
@@ -143,13 +148,8 @@
       "num_users": 4
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1800,
-      "num_users": 3
-    },
-    {
       "university": "Universiteti New York Tirana",
-      "total_points": 1700,
+      "total_points": 1800,
       "num_users": 1
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1400,
+      "total_points": 1500,
       "num_users": 1
     },
     {
@@ -2235,8 +2235,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "677c0381-2598-4b43-970e-92b51b61d02b",
@@ -2279,8 +2289,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "fc4761a5-cfc0-40ca-98b5-1e560f66e748",
@@ -2427,6 +2447,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -2440,6 +2464,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
