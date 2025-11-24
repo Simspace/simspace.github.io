@@ -86,13 +86,13 @@
       "total_points": 350
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 300
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
+      "total_points": 350
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 300
     },
     {
@@ -101,9 +101,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Florina Gjino",
-      "university": "Luarasi",
-      "total_points": 250
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 300
     },
     {
       "full_name": "Samantha Bilbili",
@@ -133,6 +133,11 @@
   ],
   "universities": [
     {
+      "university": "Luarasi",
+      "total_points": 1950,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1950,
       "num_users": 4
@@ -141,11 +146,6 @@
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1900,
       "num_users": 3
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1850,
-      "num_users": 5
     },
     {
       "university": "Universiteti New York Tirana",
@@ -2361,8 +2361,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Luarasi",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Florina Gjino",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "6785829d-2814-4ba7-8856-b68691caf8bf",
