@@ -41,6 +41,11 @@
       "total_points": 1200
     },
     {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1200
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
@@ -48,11 +53,6 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 1100
-    },
-    {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1100
     },
     {
@@ -139,7 +139,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 3
     },
     {
@@ -2243,6 +2243,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -2252,6 +2256,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
