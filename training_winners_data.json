@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1800
+      "total_points": 1850
     },
     {
       "full_name": "Nea Metohu",
@@ -18,7 +18,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1400
+      "total_points": 1450
     },
     {
       "full_name": "Erona Hoxha",
@@ -81,14 +81,14 @@
       "total_points": 450
     },
     {
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
+      "total_points": 450
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 400
-    },
-    {
-      "full_name": "Florina Gjino",
-      "university": "Luarasi",
-      "total_points": 350
     },
     {
       "full_name": "Saimir",
@@ -133,14 +133,14 @@
   ],
   "universities": [
     {
+      "university": "Luarasi",
+      "total_points": 2050,
+      "num_users": 5
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2000,
       "num_users": 3
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 1950,
-      "num_users": 5
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -149,7 +149,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1800,
+      "total_points": 1850,
       "num_users": 1
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 1
     },
     {
@@ -2405,6 +2405,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -2414,6 +2418,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
@@ -2460,8 +2468,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "b53b04e9-5009-4c45-9103-5bd43f5570d2",
@@ -2525,11 +2543,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Florina Gjino",
           "challenge_points_earned": 100
         }
       ]
