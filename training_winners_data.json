@@ -78,7 +78,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500
+      "total_points": 600
     },
     {
       "full_name": "Lida Filipi",
@@ -134,7 +134,7 @@
   "universities": [
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2350,
+      "total_points": 2450,
       "num_users": 4
     },
     {
@@ -2364,8 +2364,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "da8129f2-64d8-4bf7-a81c-6c06010e9d5e",
