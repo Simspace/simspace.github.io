@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1550
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1500
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1550
     },
     {
       "full_name": "Redi Yzellari",
@@ -86,14 +86,14 @@
       "total_points": 300
     },
     {
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
+      "total_points": 250
+    },
+    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
-    },
-    {
-      "full_name": "Florina Gjino",
-      "university": "Luarasi",
-      "total_points": 150
     },
     {
       "full_name": "Fatbardh Rama",
@@ -133,17 +133,17 @@
   ],
   "universities": [
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1650,
-      "num_users": 3
-    },
-    {
       "university": "Luarasi",
-      "total_points": 1650,
+      "total_points": 1750,
       "num_users": 5
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1650,
+      "num_users": 3
+    },
+    {
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 1650,
       "num_users": 3
     },
@@ -154,7 +154,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1500,
+      "total_points": 1550,
       "num_users": 1
     },
     {
@@ -2244,8 +2244,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Luarasi",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Florina Gjino",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "44118112-20ab-46d4-bfd8-c1b9b38ed057",
@@ -2325,8 +2335,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "1edf4dc9-b3f0-406e-8e7c-ae0c0cab72cb",
