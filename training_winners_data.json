@@ -96,14 +96,14 @@
       "total_points": 300
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 300
+    },
+    {
       "full_name": "Florina Gjino",
       "university": "Luarasi",
       "total_points": 250
-    },
-    {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 200
     },
     {
       "full_name": "Samantha Bilbili",
@@ -133,6 +133,11 @@
   ],
   "universities": [
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1950,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1900,
       "num_users": 3
@@ -141,11 +146,6 @@
       "university": "Luarasi",
       "total_points": 1850,
       "num_users": 5
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1850,
-      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -2487,8 +2487,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "c648fd28-8581-456c-ac7f-41f7f932e7bb",
