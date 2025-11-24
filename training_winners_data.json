@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1550
+      "total_points": 1600
     },
     {
       "full_name": "Arkel Lahi",
@@ -86,6 +86,11 @@
       "total_points": 300
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 250
+    },
+    {
       "full_name": "Florina Gjino",
       "university": "Luarasi",
       "total_points": 250
@@ -94,11 +99,6 @@
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
-    },
-    {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -139,7 +139,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1700,
+      "total_points": 1800,
       "num_users": 3
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1550,
+      "total_points": 1600,
       "num_users": 1
     },
     {
@@ -2371,8 +2371,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "6902995b-fdc2-461f-b6e3-ddfc388e8f3e",
@@ -2393,11 +2403,19 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 100
         }
       ]
