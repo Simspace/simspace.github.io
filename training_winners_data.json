@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1600
+      "total_points": 1700
     },
     {
       "full_name": "Arkel Lahi",
@@ -148,14 +148,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 1700,
+      "num_users": 1
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1650,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 1600,
-      "num_users": 1
     },
     {
       "university": "Epoka University",
@@ -2252,6 +2252,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -2261,6 +2265,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
