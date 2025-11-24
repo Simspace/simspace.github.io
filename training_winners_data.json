@@ -6,14 +6,14 @@
       "total_points": 1800
     },
     {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 1600
+    },
+    {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1550
-    },
-    {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 1500
     },
     {
       "full_name": "Redi Yzellari",
@@ -159,7 +159,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1500,
+      "total_points": 1600,
       "num_users": 1
     },
     {
@@ -2266,6 +2266,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -2279,6 +2283,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
