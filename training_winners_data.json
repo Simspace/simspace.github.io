@@ -18,12 +18,12 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1450
+      "total_points": 1550
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 1350
+      "total_points": 1400
     },
     {
       "full_name": "Tergita Sulaj",
@@ -91,18 +91,18 @@
       "total_points": 400
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 300
-    },
-    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 300
+      "total_points": 400
     },
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 300
+    },
+    {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 300
     },
     {
@@ -138,14 +138,14 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 2050,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2000,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1950,
-      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -164,12 +164,12 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1450,
+      "total_points": 1550,
       "num_users": 1
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 1350,
+      "total_points": 1400,
       "num_users": 1
     },
     {
@@ -2239,11 +2239,19 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
@@ -2409,6 +2417,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -2422,6 +2434,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
@@ -2503,6 +2519,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -2520,6 +2540,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 100
         }
       ]
