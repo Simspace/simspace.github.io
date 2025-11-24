@@ -51,6 +51,11 @@
       "total_points": 1100
     },
     {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1100
+    },
+    {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
       "total_points": 1100
@@ -59,11 +64,6 @@
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 1050
-    },
-    {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1000
     },
     {
       "full_name": "Elisa Zala",
@@ -138,14 +138,14 @@
       "num_users": 4
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 2200,
+      "num_users": 3
+    },
+    {
       "university": "Luarasi",
       "total_points": 2100,
       "num_users": 5
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2100,
-      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -2686,8 +2686,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "3b460493-5bbe-4d03-83ef-3abb2f212b04",
