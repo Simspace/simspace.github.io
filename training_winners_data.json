@@ -86,6 +86,11 @@
       "total_points": 300
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 300
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
@@ -96,14 +101,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 200
-    },
-    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 100
+      "total_points": 200
     },
     {
       "full_name": "Samantha Bilbili",
@@ -138,6 +138,11 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1850,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1800,
       "num_users": 3
@@ -146,11 +151,6 @@
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 1650,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1650,
-      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -2248,11 +2248,19 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Florina Gjino",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 100
         }
       ]
@@ -2407,6 +2415,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2416,6 +2428,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
