@@ -58,7 +58,7 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 950
+      "total_points": 1050
     },
     {
       "full_name": "Savina Shimi",
@@ -134,7 +134,7 @@
   "universities": [
     {
       "university": "Luarasi",
-      "total_points": 1750,
+      "total_points": 1850,
       "num_users": 5
     },
     {
@@ -2381,8 +2381,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Luarasi",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "46fa56e1-f765-42c8-92b6-74216f261cfc",
