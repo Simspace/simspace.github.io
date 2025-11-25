@@ -51,14 +51,14 @@
       "total_points": 1200
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1150
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 1100
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 1150
     },
     {
       "full_name": "Tony Tatazi",
@@ -66,9 +66,9 @@
       "total_points": 1100
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1050
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 1100
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -193,6 +193,11 @@
       "num_users": 1
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1150,
+      "num_users": 1
+    },
+    {
       "university": "42 Coding",
       "total_points": 1150,
       "num_users": 1
@@ -200,11 +205,6 @@
     {
       "university": "Herman Gmeiner",
       "total_points": 1100,
-      "num_users": 1
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1050,
       "num_users": 1
     },
     {
@@ -1864,6 +1864,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1917,6 +1921,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
