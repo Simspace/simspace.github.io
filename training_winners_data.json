@@ -68,7 +68,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 950
+      "total_points": 1050
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -204,7 +204,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 950,
+      "total_points": 1050,
       "num_users": 1
     },
     {
@@ -1674,6 +1674,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1727,6 +1731,10 @@
         },
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
