@@ -3,7 +3,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 2150
+      "total_points": 2250
     },
     {
       "full_name": "Earta Joca",
@@ -149,7 +149,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2150,
+      "total_points": 2250,
       "num_users": 1
     },
     {
@@ -2470,8 +2470,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "cb890614-4a07-4a49-9569-d2e1d509fd1a",
