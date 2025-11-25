@@ -101,14 +101,14 @@
       "total_points": 450
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 300
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 200
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 300
     },
     {
       "full_name": "Samantha Bilbili",
@@ -184,7 +184,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1300,
+      "total_points": 1400,
       "num_users": 2
     },
     {
@@ -743,6 +743,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -772,6 +776,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
         }
       ]
