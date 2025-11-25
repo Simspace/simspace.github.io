@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 2250
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 2150
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 2250
     },
     {
       "full_name": "Erona Hoxha",
@@ -153,13 +153,13 @@
       "num_users": 3
     },
     {
-      "university": "Epoka University",
+      "university": "Universiteti New York Tirana",
       "total_points": 2250,
       "num_users": 1
     },
     {
-      "university": "Universiteti New York Tirana",
-      "total_points": 2150,
+      "university": "Epoka University",
+      "total_points": 2250,
       "num_users": 1
     },
     {
@@ -2462,6 +2462,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -2487,6 +2491,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
