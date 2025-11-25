@@ -66,14 +66,14 @@
       "total_points": 1100
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 850
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 800
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 750
     },
     {
       "full_name": "Elisa Zala",
@@ -204,7 +204,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -1072,6 +1072,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1125,6 +1129,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
