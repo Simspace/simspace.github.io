@@ -3,7 +3,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 2100
+      "total_points": 2150
     },
     {
       "full_name": "Earta Joca",
@@ -149,7 +149,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2100,
+      "total_points": 2150,
       "num_users": 1
     },
     {
@@ -2585,6 +2585,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -2614,6 +2618,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
