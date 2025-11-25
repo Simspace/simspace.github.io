@@ -18,7 +18,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 1850
+      "total_points": 1950
     },
     {
       "full_name": "Arkel Lahi",
@@ -38,7 +38,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1300
+      "total_points": 1350
     },
     {
       "full_name": "Ersi Dedaj",
@@ -139,7 +139,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2400,
+      "total_points": 2450,
       "num_users": 3
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 1850,
+      "total_points": 1950,
       "num_users": 1
     },
     {
@@ -2487,6 +2487,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -2505,6 +2509,10 @@
         {
           "full_name": "Earta Joca",
           "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -2514,8 +2522,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "37421e44-4626-4350-97cf-83af644db354",
