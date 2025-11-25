@@ -41,14 +41,14 @@
       "total_points": 1400
     },
     {
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
+      "total_points": 1250
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1200
-    },
-    {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
-      "total_points": 1150
     },
     {
       "full_name": "Leonard Dani",
@@ -144,7 +144,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 2400,
+      "total_points": 2500,
       "num_users": 5
     },
     {
@@ -2936,11 +2936,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
