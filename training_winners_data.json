@@ -66,6 +66,11 @@
       "total_points": 1100
     },
     {
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
+      "total_points": 700
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
@@ -74,11 +79,6 @@
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 650
-    },
-    {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
-      "total_points": 600
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -138,14 +138,14 @@
       "num_users": 4
     },
     {
+      "university": "Luarasi",
+      "total_points": 2600,
+      "num_users": 5
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2600,
       "num_users": 3
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 2500,
-      "num_users": 5
     },
     {
       "university": "Epoka University",
@@ -2824,6 +2824,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2837,6 +2841,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 100
         }
       ]
