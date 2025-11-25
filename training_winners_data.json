@@ -103,7 +103,7 @@
     {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
-      "total_points": 300
+      "total_points": 400
     },
     {
       "full_name": "Saimir",
@@ -178,14 +178,14 @@
       "num_users": 3
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 1500,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1400,
       "num_users": 1
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 1400,
-      "num_users": 2
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -1646,6 +1646,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1695,6 +1699,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
         }
       ]
