@@ -68,7 +68,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 850
+      "total_points": 950
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -204,7 +204,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 850,
+      "total_points": 950,
       "num_users": 1
     },
     {
@@ -1187,6 +1187,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1232,6 +1236,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
