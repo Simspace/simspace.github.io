@@ -3,7 +3,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2450
+      "total_points": 2750
     },
     {
       "full_name": "Earta Joca",
@@ -138,6 +138,11 @@
   ],
   "universities": [
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 2850,
+      "num_users": 3
+    },
+    {
       "university": "Luarasi",
       "total_points": 2800,
       "num_users": 5
@@ -150,11 +155,6 @@
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2700,
-      "num_users": 3
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2550,
       "num_users": 3
     },
     {
@@ -3006,6 +3006,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3040,6 +3044,10 @@
         {
           "full_name": "Emanuel Dervishi",
           "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -3065,6 +3073,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3082,6 +3094,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -3120,6 +3136,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3149,6 +3169,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
