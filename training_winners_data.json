@@ -21,14 +21,14 @@
       "total_points": 1950
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 1750
+    },
+    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1600
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1550
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -174,7 +174,7 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 1650,
+      "total_points": 1850,
       "num_users": 3
     },
     {
@@ -2685,11 +2685,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -2732,6 +2740,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2765,6 +2777,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -2808,6 +2824,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2834,6 +2854,10 @@
         {
           "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
         }
       ]
     },
@@ -2859,6 +2883,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -2876,6 +2904,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
