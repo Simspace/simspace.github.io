@@ -3,7 +3,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2750
+      "total_points": 2850
     },
     {
       "full_name": "Earta Joca",
@@ -139,7 +139,7 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2850,
+      "total_points": 2950,
       "num_users": 3
     },
     {
@@ -3213,6 +3213,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3226,6 +3230,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
