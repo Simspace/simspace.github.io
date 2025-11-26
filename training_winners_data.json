@@ -28,7 +28,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1700
+      "total_points": 1800
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -179,7 +179,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1700,
+      "total_points": 1800,
       "num_users": 1
     },
     {
@@ -2502,6 +2502,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2535,6 +2539,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
