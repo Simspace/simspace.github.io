@@ -16,9 +16,9 @@
       "total_points": 2250
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 1950
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2000
     },
     {
       "full_name": "Redi Yzellari",
@@ -26,9 +26,9 @@
       "total_points": 1950
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1900
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 1950
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -168,8 +168,8 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Korces",
-      "total_points": 1950,
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2000,
       "num_users": 1
     },
     {
@@ -178,8 +178,8 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1900,
+      "university": "Universiteti i Korces",
+      "total_points": 1950,
       "num_users": 1
     },
     {
@@ -3038,6 +3038,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3079,6 +3083,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
