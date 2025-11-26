@@ -41,14 +41,14 @@
       "total_points": 1400
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1350
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1300
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
+      "total_points": 1350
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -189,7 +189,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1300,
+      "total_points": 1350,
       "num_users": 1
     },
     {
@@ -2800,6 +2800,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2837,6 +2841,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
