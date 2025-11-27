@@ -71,14 +71,14 @@
       "total_points": 1100
     },
     {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 850
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 800
-    },
-    {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 750
     },
     {
       "full_name": "Elisa Zala",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     }
   ],
@@ -1215,6 +1215,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -1264,6 +1268,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
