@@ -78,7 +78,7 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 700
+      "total_points": 750
     },
     {
       "full_name": "Elisa Zala",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 700,
+      "total_points": 750,
       "num_users": 1
     }
   ],
@@ -2277,6 +2277,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -2334,6 +2338,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 50
         }
       ]
