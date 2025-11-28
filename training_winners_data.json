@@ -81,12 +81,12 @@
       "total_points": 850
     },
     {
-      "full_name": "Elisa Zala",
+      "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 650
+      "total_points": 700
     },
     {
-      "full_name": "Fatbardh Rama",
+      "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
     },
@@ -159,7 +159,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2700,
+      "total_points": 2750,
       "num_users": 3
     },
     {
@@ -3000,11 +3000,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
