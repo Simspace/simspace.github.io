@@ -78,7 +78,7 @@
     {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Elisa Zala",
@@ -148,14 +148,14 @@
       "num_users": 3
     },
     {
+      "university": "Luarasi",
+      "total_points": 2850,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 2850,
       "num_users": 4
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 2800,
-      "num_users": 5
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -2870,6 +2870,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -2879,6 +2883,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 50
         }
       ]
