@@ -51,14 +51,14 @@
       "total_points": 1400
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1400
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 1350
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1250
     },
     {
       "full_name": "Leonard Dani",
@@ -193,13 +193,13 @@
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1400,
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1250,
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1400,
       "num_users": 1
     },
     {
@@ -1492,6 +1492,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1545,6 +1549,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 50
         }
       ]
@@ -2566,6 +2574,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -2607,6 +2619,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
