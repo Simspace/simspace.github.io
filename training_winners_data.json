@@ -33,7 +33,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1600
+      "total_points": 1700
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -143,8 +143,8 @@
   ],
   "universities": [
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2950,
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 3050,
       "num_users": 3
     },
     {
@@ -153,7 +153,7 @@
       "num_users": 5
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 2950,
       "num_users": 3
     },
@@ -2709,6 +2709,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -2722,6 +2726,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
