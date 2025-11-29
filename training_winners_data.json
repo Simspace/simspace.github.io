@@ -56,14 +56,14 @@
       "total_points": 1400
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 1400
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 1350
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 1300
     },
     {
       "full_name": "Leonard Dani",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1700,
+      "total_points": 1800,
       "num_users": 2
     },
     {
@@ -2443,6 +2443,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2472,6 +2476,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
