@@ -61,14 +61,14 @@
       "total_points": 1350
     },
     {
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 1200
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
-    },
-    {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 1100
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -193,17 +193,17 @@
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1500,
-      "num_users": 1
-    },
-    {
       "university": "Harry Fultz",
-      "total_points": 1500,
+      "total_points": 1600,
       "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
+      "total_points": 1500,
+      "num_users": 1
+    },
+    {
+      "university": "Mediterranean University- UMSH",
       "total_points": 1500,
       "num_users": 1
     },
@@ -3382,6 +3382,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3403,6 +3407,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
