@@ -63,7 +63,7 @@
     {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
-      "total_points": 1200
+      "total_points": 1300
     },
     {
       "full_name": "Leonard Dani",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1600,
+      "total_points": 1700,
       "num_users": 2
     },
     {
@@ -2889,6 +2889,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2926,6 +2930,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
