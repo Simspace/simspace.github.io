@@ -41,8 +41,8 @@
       "total_points": 1500
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 1500
     },
     {
@@ -51,13 +51,13 @@
       "total_points": 1500
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1400
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 1500
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1400
     },
     {
@@ -73,7 +73,7 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 1000
+      "total_points": 1100
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 1800,
+      "total_points": 1900,
       "num_users": 2
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 1000,
+      "total_points": 1100,
       "num_users": 1
     },
     {
@@ -1971,6 +1971,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -2028,6 +2032,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
@@ -2534,6 +2542,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2579,6 +2591,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
