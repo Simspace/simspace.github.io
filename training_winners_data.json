@@ -33,7 +33,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1750
+      "total_points": 1800
     },
     {
       "full_name": "Enxhi Kala",
@@ -144,7 +144,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3100,
+      "total_points": 3150,
       "num_users": 3
     },
     {
@@ -3471,8 +3471,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "848e7cfe-21c1-4466-af35-41dfd05de1c4",
