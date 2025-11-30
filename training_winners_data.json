@@ -38,7 +38,7 @@
     {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
-      "total_points": 1600
+      "total_points": 1700
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -189,7 +189,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2000,
+      "total_points": 2100,
       "num_users": 2
     },
     {
@@ -3641,6 +3641,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3666,6 +3670,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
