@@ -21,13 +21,13 @@
       "total_points": 2200
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 1950
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 1950
     },
     {
@@ -41,13 +41,13 @@
       "total_points": 1600
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1500
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1500
     },
     {
@@ -116,19 +116,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 150
-    },
-    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
       "total_points": 150
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 50
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 150
     },
     {
       "full_name": "Kledios Lika",
@@ -141,8 +136,18 @@
       "total_points": 50
     },
     {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 50
+    },
+    {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50
     }
   ],
@@ -209,8 +214,8 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1400,
-      "num_users": 1
+      "total_points": 1450,
+      "num_users": 2
     },
     {
       "university": "42 Coding",
@@ -3138,6 +3143,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3151,6 +3160,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 50
         }
       ]
