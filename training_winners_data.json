@@ -68,7 +68,7 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 1200
+      "total_points": 1300
     },
     {
       "full_name": "Leonard Dani",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 1200,
+      "total_points": 1300,
       "num_users": 1
     },
     {
@@ -2666,6 +2666,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -2715,6 +2719,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
