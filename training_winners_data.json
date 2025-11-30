@@ -126,13 +126,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Kledios Lika",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
@@ -146,8 +146,8 @@
       "total_points": 50
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 50
     }
   ],
@@ -214,7 +214,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1450,
+      "total_points": 1500,
       "num_users": 2
     },
     {
@@ -3214,6 +3214,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3247,6 +3251,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 50
         }
       ]
