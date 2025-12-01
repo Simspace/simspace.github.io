@@ -88,7 +88,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 700
+      "total_points": 800
     },
     {
       "full_name": "Lida Filipi",
@@ -159,7 +159,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3150,
+      "total_points": 3250,
       "num_users": 3
     },
     {
@@ -3712,11 +3712,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 100
         }
       ]
