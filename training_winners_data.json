@@ -86,17 +86,17 @@
       "total_points": 700
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 700
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
     },
     {
       "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 600
-    },
-    {
-      "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 600
     },
@@ -158,9 +158,9 @@
       "num_users": 3
     },
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2950,
-      "num_users": 3
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3000,
+      "num_users": 4
     },
     {
       "university": "Luarasi",
@@ -168,9 +168,9 @@
       "num_users": 5
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2900,
-      "num_users": 4
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 2950,
+      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -3708,8 +3708,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "73843cf1-e782-4766-835f-04b7e3b2869e",
