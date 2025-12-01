@@ -8,7 +8,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 2750
+      "total_points": 2850
     },
     {
       "full_name": "Nea Metohu",
@@ -174,7 +174,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2800,
+      "total_points": 2900,
       "num_users": 2
     },
     {
@@ -3797,6 +3797,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3806,6 +3810,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
