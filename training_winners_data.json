@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 2950
+      "total_points": 3050
     },
     {
       "full_name": "Arkel Lahi",
@@ -163,14 +163,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 3100,
+      "num_users": 2
+    },
+    {
       "university": "Luarasi",
       "total_points": 3050,
       "num_users": 5
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 3000,
-      "num_users": 2
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -3976,6 +3976,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3985,6 +3989,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
