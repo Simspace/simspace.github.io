@@ -3701,6 +3701,186 @@
           "challenge_points_earned": 100
         }
       ]
+    },
+    {
+      "package_id": "a2438481-464a-4bdf-8478-47a23b773237",
+      "package_name": "Cracking Password Hashes",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "73843cf1-e782-4766-835f-04b7e3b2869e",
+      "package_name": "Cross-Site Request Forgery (CSRF): Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "29517bc2-bffd-41df-8c2b-44bc4375f380",
+      "package_name": "Cross-Site Scripting (XSS): Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "69c39119-c3e0-4a33-9393-013e556f4368",
+      "package_name": "Exploit Public-Facing Application: MITRE ATT&CK Red",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "272b56fe-fd3e-4d2c-b73f-e6060c809c5a",
+      "package_name": "Local File Inclusion (LFI): Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "68a132ef-6911-408e-938c-4d04158edef7",
+      "package_name": "Password Cracking",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "7a4e8c59-79c4-4296-97fb-a6defde29817",
+      "package_name": "Password-Cracking Tools",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "0803e9f2-c9f8-4b18-a61e-b2cbc01a7266",
+      "package_name": "SQL and OS Injection: Introduction",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c362b80c-7f16-4163-9eab-903b89342b6e",
+      "package_name": "SQLi Attack Types",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "4360e84f-e52f-4a3f-bba7-13248067dada",
+      "package_name": "sqlmap: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "87db10bb-8fc2-44ba-a3ec-b8b62c6bbe90",
+      "package_name": "Web Application Exploitation",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "9df02957-1cce-48f7-95d4-de27f00fd668",
+      "package_name": "Web Application Fuzzing",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "71a2a386-0710-4288-91f9-1fd56d0011af",
+      "package_name": "Web Applications Command Injection",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "e801ed2f-9f98-4dd7-a000-a33fad42889a",
+      "package_name": "Web Applications Cross Site Scripting",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "e67ed059-9d72-4063-a963-ec72e5ac9f06",
+      "package_name": "Web Applications Insecure Deserialization",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "7aa828ec-f26b-43b6-b710-ec1ae2add8d2",
+      "package_name": "Web Applications Server-Side Request Forgery",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "0f5dd1bb-2b7f-45af-bf80-fa7f3c5a2efd",
+      "package_name": "Web Applications SQL Injection",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "95195d5b-a1bb-41ec-99b9-5db824aae728",
+      "package_name": "Web Vulnerabilities: Introduction",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "146af30e-d3fa-4678-8ce7-875d703e2b5e",
+      "package_name": "Wordlists and Rainbow Tables",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "88e4ebb9-ab4d-40b3-ab50-b83c4f9ec644",
+      "package_name": "XML External Entity (XXE) Attacks",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 1, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
