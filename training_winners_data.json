@@ -91,14 +91,14 @@
       "total_points": 700
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 700
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 600
     },
     {
       "full_name": "Florina Gjino",
@@ -153,14 +153,14 @@
   ],
   "universities": [
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3200,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 3150,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3100,
-      "num_users": 4
     },
     {
       "university": "Luarasi",
@@ -3881,8 +3881,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "146af30e-d3fa-4678-8ce7-875d703e2b5e",
