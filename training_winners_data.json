@@ -91,14 +91,14 @@
       "total_points": 650
     },
     {
-      "full_name": "Sidrit Dervishi",
+      "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 600
     },
     {
-      "full_name": "Lida Filipi",
+      "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 550
+      "total_points": 600
     },
     {
       "full_name": "Florina Gjino",
@@ -169,7 +169,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2850,
+      "total_points": 2900,
       "num_users": 4
     },
     {
@@ -3618,11 +3618,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
