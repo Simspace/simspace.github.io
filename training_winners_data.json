@@ -23,7 +23,7 @@
     {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
-      "total_points": 2200
+      "total_points": 2300
     },
     {
       "full_name": "Erona Hoxha",
@@ -189,7 +189,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2600,
+      "total_points": 2700,
       "num_users": 2
     },
     {
@@ -3968,6 +3968,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3985,6 +3989,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
