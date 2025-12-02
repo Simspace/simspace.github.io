@@ -23,7 +23,7 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 2050
+      "total_points": 2150
     },
     {
       "full_name": "Redi Yzellari",
@@ -188,14 +188,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti i Shkodres",
+      "total_points": 2150,
+      "num_users": 1
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 2100,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 2050,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Korces",
@@ -3817,6 +3817,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -3830,6 +3834,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
