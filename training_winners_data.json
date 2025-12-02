@@ -18,7 +18,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2200
+      "total_points": 2300
     },
     {
       "full_name": "Erona Hoxha",
@@ -106,14 +106,14 @@
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
       "total_points": 400
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 300
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 400
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -184,12 +184,12 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2750,
+      "total_points": 2850,
       "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 1
     },
     {
@@ -3757,6 +3757,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3778,6 +3782,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
@@ -4042,6 +4050,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -4055,6 +4067,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 100
         }
       ]
