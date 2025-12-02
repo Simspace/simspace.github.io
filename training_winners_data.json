@@ -121,9 +121,9 @@
       "total_points": 200
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 150
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 200
     },
     {
       "full_name": "Samantha Bilbili",
@@ -131,9 +131,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 100
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 150
     },
     {
       "full_name": "Kledios Lika",
@@ -184,7 +184,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2450,
+      "total_points": 2550,
       "num_users": 2
     },
     {
@@ -3842,6 +3842,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3859,6 +3863,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 100
         }
       ]
