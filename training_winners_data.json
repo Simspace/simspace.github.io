@@ -76,14 +76,14 @@
       "total_points": 1200
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1150
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1050
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
+      "total_points": 1150
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -158,14 +158,14 @@
   ],
   "universities": [
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 3600,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 3600,
       "num_users": 4
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3500,
-      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -3975,8 +3975,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "e801ed2f-9f98-4dd7-a000-a33fad42889a",
