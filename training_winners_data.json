@@ -33,7 +33,7 @@
     {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
-      "total_points": 1800
+      "total_points": 1900
     },
     {
       "full_name": "Savina Shimi",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 2
     },
     {
@@ -4123,6 +4123,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -4140,6 +4144,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
