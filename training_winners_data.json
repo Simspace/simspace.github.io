@@ -31,14 +31,14 @@
       "total_points": 1950
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 1800
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
-      "total_points": 1700
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1800
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -193,14 +193,14 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 2200,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
       "total_points": 2150,
       "num_users": 1
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 2100,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Korces",
@@ -4158,6 +4158,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -4167,6 +4171,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 100
         }
       ]
