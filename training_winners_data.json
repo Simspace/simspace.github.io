@@ -13,7 +13,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 2450
+      "total_points": 2550
     },
     {
       "full_name": "Tergita Sulaj",
@@ -173,14 +173,14 @@
       "num_users": 2
     },
     {
+      "university": "Epoka University",
+      "total_points": 3050,
+      "num_users": 2
+    },
+    {
       "university": "Luarasi",
       "total_points": 3050,
       "num_users": 5
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 2950,
-      "num_users": 2
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -4146,11 +4146,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
