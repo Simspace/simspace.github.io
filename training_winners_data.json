@@ -111,9 +111,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 200
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 300
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -121,8 +121,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 200
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 2650,
+      "total_points": 2750,
       "num_users": 2
     },
     {
@@ -3912,6 +3912,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3921,6 +3925,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 100
         }
       ]
