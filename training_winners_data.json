@@ -53,7 +53,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1500
+      "total_points": 1600
     },
     {
       "full_name": "Enxhi Kala",
@@ -164,7 +164,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3600,
+      "total_points": 3700,
       "num_users": 4
     },
     {
@@ -4172,11 +4172,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 100
         }
       ]
