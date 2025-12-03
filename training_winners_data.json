@@ -43,7 +43,7 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 1600
+      "total_points": 1700
     },
     {
       "full_name": "Ersi Dedaj",
@@ -169,7 +169,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 3200,
+      "total_points": 3300,
       "num_users": 5
     },
     {
@@ -3785,6 +3785,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -3818,6 +3822,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
