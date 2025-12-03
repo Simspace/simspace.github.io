@@ -28,7 +28,7 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 2150
+      "total_points": 2250
     },
     {
       "full_name": "Redi Yzellari",
@@ -199,7 +199,7 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 2150,
+      "total_points": 2250,
       "num_users": 1
     },
     {
@@ -4199,6 +4199,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
@@ -4220,6 +4224,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
