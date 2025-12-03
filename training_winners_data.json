@@ -38,7 +38,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1900
+      "total_points": 2000
     },
     {
       "full_name": "Aldo Ndoni",
@@ -159,7 +159,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3850,
+      "total_points": 3950,
       "num_users": 3
     },
     {
@@ -4007,8 +4007,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "0803e9f2-c9f8-4b18-a61e-b2cbc01a7266",
