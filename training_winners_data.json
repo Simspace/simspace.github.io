@@ -41,13 +41,13 @@
       "total_points": 1900
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1500
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1600
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1500
     },
     {
@@ -56,8 +56,8 @@
       "total_points": 1500
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 1500
     },
     {
@@ -209,7 +209,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1700,
+      "total_points": 1800,
       "num_users": 2
     },
     {
@@ -3773,6 +3773,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3802,6 +3806,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
