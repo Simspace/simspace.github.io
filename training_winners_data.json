@@ -116,14 +116,14 @@
       "total_points": 400
     },
     {
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 300
+    },
+    {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
       "total_points": 250
-    },
-    {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1800,
+      "total_points": 1900,
       "num_users": 2
     },
     {
@@ -2560,6 +2560,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2613,6 +2617,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 100
         }
       ]
