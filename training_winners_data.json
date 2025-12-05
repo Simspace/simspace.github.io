@@ -131,14 +131,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 150
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 100
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
+      "total_points": 150
     },
     {
       "full_name": "Kledios Lika",
@@ -174,7 +174,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3250,
+      "total_points": 3300,
       "num_users": 2
     },
     {
@@ -3852,8 +3852,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Artea Myftiu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "29517bc2-bffd-41df-8c2b-44bc4375f380",
