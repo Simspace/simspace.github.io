@@ -136,13 +136,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Kledios Lika",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
-    },
-    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
+      "total_points": 100
+    },
+    {
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
@@ -173,12 +173,12 @@
       "num_users": 5
     },
     {
-      "university": "Epoka University",
-      "total_points": 3200,
+      "university": "Universiteti New York Tirana",
+      "total_points": 3250,
       "num_users": 2
     },
     {
-      "university": "Universiteti New York Tirana",
+      "university": "Epoka University",
       "total_points": 3200,
       "num_users": 2
     },
@@ -3659,6 +3659,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3676,6 +3680,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 50
         }
       ]
