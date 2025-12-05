@@ -123,7 +123,7 @@
     {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 300
+      "total_points": 400
     },
     {
       "full_name": "Klaudio Toska",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1900,
+      "total_points": 2000,
       "num_users": 2
     },
     {
@@ -2833,6 +2833,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -2854,6 +2858,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 100
         }
       ]
