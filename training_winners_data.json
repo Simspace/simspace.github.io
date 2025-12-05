@@ -13,7 +13,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 2800
+      "total_points": 2850
     },
     {
       "full_name": "Tergita Sulaj",
@@ -33,7 +33,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2100
+      "total_points": 2200
     },
     {
       "full_name": "Redi Yzellari",
@@ -159,7 +159,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4050,
+      "total_points": 4150,
       "num_users": 3
     },
     {
@@ -173,14 +173,14 @@
       "num_users": 2
     },
     {
+      "university": "Epoka University",
+      "total_points": 3400,
+      "num_users": 2
+    },
+    {
       "university": "Luarasi",
       "total_points": 3400,
       "num_users": 5
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 3350,
-      "num_users": 2
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -3883,11 +3883,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 50
         }
       ]
@@ -4137,8 +4145,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "4360e84f-e52f-4a3f-bba7-13248067dada",
