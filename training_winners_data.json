@@ -101,14 +101,14 @@
       "total_points": 650
     },
     {
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 600
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 550
-    },
-    {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 500
     },
     {
       "full_name": "Florina Gjino",
@@ -141,9 +141,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 100
     },
     {
       "full_name": "Kledios Lika",
@@ -151,13 +151,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 50
     }
   ],
@@ -214,7 +214,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2100,
+      "total_points": 2200,
       "num_users": 2
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 50,
+      "total_points": 100,
       "num_users": 1
     }
   ],
@@ -1432,6 +1432,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1489,6 +1493,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
@@ -3653,6 +3661,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3690,6 +3702,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 100
         }
       ]
