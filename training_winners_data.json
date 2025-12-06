@@ -1,14 +1,14 @@
 {
   "users": [
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3350
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 3150
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 2950
     },
     {
       "full_name": "Nea Metohu",
@@ -173,6 +173,11 @@
       "num_users": 2
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3450,
+      "num_users": 3
+    },
+    {
       "university": "Epoka University",
       "total_points": 3400,
       "num_users": 2
@@ -181,11 +186,6 @@
       "university": "Luarasi",
       "total_points": 3400,
       "num_users": 5
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3050,
-      "num_users": 3
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -3942,11 +3942,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -3981,6 +3989,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4006,6 +4018,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
@@ -4056,6 +4072,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4098,6 +4118,10 @@
         {
           "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -4111,11 +4135,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -4251,6 +4283,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -4264,6 +4300,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
