@@ -28,7 +28,7 @@
     {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
-      "total_points": 2250
+      "total_points": 2300
     },
     {
       "full_name": "Erona Hoxha",
@@ -198,12 +198,12 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 2250,
+      "university": "Universiteti i Korces",
+      "total_points": 2300,
       "num_users": 1
     },
     {
-      "university": "Universiteti i Korces",
+      "university": "Universiteti i Shkodres",
       "total_points": 2250,
       "num_users": 1
     },
@@ -4001,6 +4001,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -4030,6 +4034,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
