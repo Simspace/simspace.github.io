@@ -96,14 +96,14 @@
       "total_points": 700
     },
     {
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 700
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
-    },
-    {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 600
     },
     {
       "full_name": "Ina Ndoni",
@@ -203,6 +203,11 @@
       "num_users": 2
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 2300,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Korces",
       "total_points": 2300,
       "num_users": 1
@@ -211,11 +216,6 @@
       "university": "Universiteti i Shkodres",
       "total_points": 2250,
       "num_users": 1
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2200,
-      "num_users": 2
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -3832,6 +3832,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3865,6 +3869,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 100
         }
       ]
