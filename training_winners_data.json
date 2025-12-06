@@ -46,13 +46,13 @@
       "total_points": 1800
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1600
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1600
     },
     {
@@ -91,13 +91,13 @@
       "total_points": 950
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 700
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 700
     },
     {
@@ -131,13 +131,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 200
     },
     {
@@ -146,18 +146,23 @@
       "total_points": 150
     },
     {
-      "full_name": "Kledios Lika",
+      "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
-      "full_name": "Ergi Hysa",
+      "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
+      "total_points": 50
+    },
+    {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 50
     }
   ],
@@ -244,8 +249,8 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 200,
-      "num_users": 1
+      "total_points": 250,
+      "num_users": 2
     }
   ],
   "packages": [
@@ -477,6 +482,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -494,6 +503,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 50
         }
       ]
