@@ -146,9 +146,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 100
     },
     {
       "full_name": "Kledios Lika",
@@ -156,13 +156,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 50
     }
   ],
@@ -243,14 +243,14 @@
       "num_users": 1
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 300,
+      "num_users": 2
+    },
+    {
       "university": "UAMD 2",
       "total_points": 300,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 250,
-      "num_users": 2
     }
   ],
   "packages": [
@@ -1949,6 +1949,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1978,6 +1982,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 50
         }
       ]
