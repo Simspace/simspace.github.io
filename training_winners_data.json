@@ -131,13 +131,13 @@
       "total_points": 300
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 200
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 250
+    },
+    {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 300,
+      "total_points": 350,
       "num_users": 2
     },
     {
@@ -2433,6 +2433,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2494,6 +2498,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
