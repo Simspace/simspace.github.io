@@ -41,6 +41,11 @@
       "total_points": 2200
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 1800
+    },
+    {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
       "total_points": 1800
@@ -49,11 +54,6 @@
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1750
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 1700
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 1700,
+      "total_points": 1800,
       "num_users": 1
     },
     {
@@ -4021,6 +4021,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -4062,6 +4066,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
