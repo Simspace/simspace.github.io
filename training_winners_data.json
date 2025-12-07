@@ -101,14 +101,14 @@
       "total_points": 700
     },
     {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
       "total_points": 650
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
-      "total_points": 550
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 650
     },
     {
       "full_name": "Florina Gjino",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3500,
+      "total_points": 3600,
       "num_users": 2
     },
     {
@@ -1280,6 +1280,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1333,6 +1337,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 100
         }
       ]
