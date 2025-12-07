@@ -61,14 +61,14 @@
       "total_points": 1600
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 1500
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 1400
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1500
     },
     {
       "full_name": "Fatbardh Rama",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 1400,
+      "total_points": 1500,
       "num_users": 1
     },
     {
@@ -3617,6 +3617,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -3670,6 +3674,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
