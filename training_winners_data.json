@@ -58,7 +58,7 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 1600
+      "total_points": 1700
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 1600,
+      "total_points": 1700,
       "num_users": 1
     },
     {
@@ -3795,6 +3795,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -3836,6 +3840,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
