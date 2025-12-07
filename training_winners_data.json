@@ -111,9 +111,9 @@
       "total_points": 650
     },
     {
-      "full_name": "Florina Gjino",
-      "university": "Luarasi",
-      "total_points": 450
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 500
     },
     {
       "full_name": "Artea Myftiu",
@@ -121,13 +121,13 @@
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 400
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
+      "total_points": 450
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 400
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 400,
+      "total_points": 500,
       "num_users": 1
     }
   ],
@@ -590,6 +590,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -651,6 +655,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
