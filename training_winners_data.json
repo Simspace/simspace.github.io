@@ -3,7 +3,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3850
+      "total_points": 3750
     },
     {
       "full_name": "Earta Joca",
@@ -11,14 +11,14 @@
       "total_points": 3350
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 2950
-    },
-    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 2900
+    },
+    {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
+      "total_points": 2850
     },
     {
       "full_name": "Redi Yzellari",
@@ -71,13 +71,13 @@
       "total_points": 1500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1300
-    },
-    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1200
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1200
     },
     {
@@ -141,9 +141,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 150
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 200
     },
     {
       "full_name": "Samantha Bilbili",
@@ -151,18 +151,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 150
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 100
     },
     {
       "full_name": "Livia Karoli",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
       "total_points": 100
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4150,
+      "total_points": 4050,
       "num_users": 3
     },
     {
@@ -198,14 +198,14 @@
       "num_users": 3
     },
     {
-      "university": "Epoka University",
-      "total_points": 3800,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 3700,
       "num_users": 4
+    },
+    {
+      "university": "Epoka University",
+      "total_points": 3700,
+      "num_users": 2
     },
     {
       "university": "Luarasi",
@@ -4603,14 +4603,6 @@
       "release_date": "December 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
-        },
-        {
-          "name": "Epoka University",
-          "users": 1
-        },
-        {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
         },
@@ -4625,15 +4617,7 @@
       ],
       "users": [
         {
-          "full_name": "Fatbardh Rama",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Nea Metohu",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Arkel Lahi",
+          "full_name": "Kristo Do\u00e7i",
           "challenge_points_earned": 100
         },
         {
