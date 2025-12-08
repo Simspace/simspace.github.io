@@ -88,7 +88,7 @@
     {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
-      "total_points": 950
+      "total_points": 1050
     },
     {
       "full_name": "Ina Ndoni",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 3400,
+      "total_points": 3500,
       "num_users": 5
     },
     {
@@ -4613,6 +4613,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -4626,6 +4630,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 100
         }
       ]
