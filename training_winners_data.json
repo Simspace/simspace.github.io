@@ -96,13 +96,13 @@
       "total_points": 850
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 700
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 700
     },
     {
@@ -116,13 +116,13 @@
       "total_points": 500
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
       "total_points": 450
     },
     {
-      "full_name": "Florina Gjino",
-      "university": "Luarasi",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 450
     },
     {
@@ -141,14 +141,19 @@
       "total_points": 200
     },
     {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
+      "total_points": 150
+    },
+    {
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
       "total_points": 150
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
-      "total_points": 150
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 100
     },
     {
       "full_name": "Livia Karoli",
@@ -188,14 +193,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 3700,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 3700,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 3600,
-      "num_users": 2
     },
     {
       "university": "Luarasi",
@@ -3724,6 +3729,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -3753,6 +3762,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 100
         }
       ]
