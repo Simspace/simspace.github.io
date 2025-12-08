@@ -3,17 +3,12 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3750
+      "total_points": 3550
     },
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 3350
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2900
+      "total_points": 3150
     },
     {
       "full_name": "Nea Metohu",
@@ -21,13 +16,13 @@
       "total_points": 2850
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 2300
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 2800
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 2300
     },
     {
@@ -36,14 +31,14 @@
       "total_points": 2250
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
       "total_points": 2200
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
-      "total_points": 1800
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 2100
     },
     {
       "full_name": "Enxhi Kala",
@@ -56,6 +51,11 @@
       "total_points": 1750
     },
     {
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
+      "total_points": 1700
+    },
+    {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 1700
@@ -63,7 +63,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1600
+      "total_points": 1500
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -76,24 +76,24 @@
       "total_points": 1200
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1200
-    },
-    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1100
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
-      "total_points": 1150
+      "total_points": 1050
     },
     {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
-      "total_points": 850
+      "total_points": 750
     },
     {
       "full_name": "unejskotoni@gmail.com",
@@ -101,14 +101,14 @@
       "total_points": 700
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
-    },
-    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
+    },
+    {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 600
     },
     {
       "full_name": "Klaudio Toska",
@@ -141,9 +141,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 200
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 150
     },
     {
       "full_name": "Samantha Bilbili",
@@ -151,18 +151,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 150
-    },
-    {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
       "full_name": "Livia Karoli",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 100
     },
     {
@@ -184,42 +184,42 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4150,
+      "total_points": 3850,
       "num_users": 5
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4050,
+      "total_points": 3850,
       "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3900,
+      "total_points": 3700,
       "num_users": 3
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3700,
-      "num_users": 4
-    },
-    {
       "university": "Epoka University",
-      "total_points": 3700,
+      "total_points": 3600,
       "num_users": 2
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3500,
+      "num_users": 4
+    },
+    {
       "university": "Luarasi",
-      "total_points": 3600,
+      "total_points": 3400,
       "num_users": 5
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2900,
+      "total_points": 2800,
       "num_users": 1
     },
     {
       "university": "Harry Fultz",
-      "total_points": 2700,
+      "total_points": 2600,
       "num_users": 2
     },
     {
@@ -4600,35 +4600,9 @@
       "package_name": "Web Applications Command Injection",
       "difficulty": "intermediate",
       "passing_threshold": "90",
-      "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Akademia e Forcave te Armatosura",
-          "users": 1
-        },
-        {
-          "name": "Luarasi",
-          "users": 1
-        },
-        {
-          "name": "Universiteti New York Tirana",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Kristo Do\u00e7i",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Ester K\u00ebna\u00e7i",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Earta Joca",
-          "challenge_points_earned": 100
-        }
-      ]
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "e801ed2f-9f98-4dd7-a000-a33fad42889a",
@@ -4653,35 +4627,9 @@
       "package_name": "Web Applications Server-Side Request Forgery",
       "difficulty": "intermediate",
       "passing_threshold": "90",
-      "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
-        },
-        {
-          "name": "Universiteti Metropolitan i Tiranes",
-          "users": 1
-        },
-        {
-          "name": "Akademia e Forcave te Armatosura",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Fatbardh Rama",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Simeon Flamuraj",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Arkel Lahi",
-          "challenge_points_earned": 100
-        }
-      ]
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "0f5dd1bb-2b7f-45af-bf80-fa7f3c5a2efd",
@@ -4691,81 +4639,6 @@
       "release_date": "December 1, 2025, 12:00 AM",
       "universities": [],
       "users": []
-    },
-    {
-      "package_id": "95195d5b-a1bb-41ec-99b9-5db824aae728",
-      "package_name": "Web Vulnerabilities: Introduction",
-      "difficulty": "intermediate",
-      "passing_threshold": "90",
-      "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti Metropolitan i Tiranes",
-          "users": 1
-        },
-        {
-          "name": "Luarasi",
-          "users": 1
-        },
-        {
-          "name": "Universiteti New York Tirana",
-          "users": 1
-        },
-        {
-          "name": "Epoka University",
-          "users": 1
-        },
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        },
-        {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
-        },
-        {
-          "name": "Universiteti Bujqesor i Tiranes",
-          "users": 1
-        },
-        {
-          "name": "Akademia e Forcave te Armatosura",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Lida Filipi",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Aldo Ndoni",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Earta Joca",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Ina Ndoni",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Tony Tatazi",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Savina Shimi",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Tergita Sulaj",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Arkel Lahi",
-          "challenge_points_earned": 100
-        }
-      ]
     },
     {
       "package_id": "146af30e-d3fa-4678-8ce7-875d703e2b5e",
@@ -4948,9 +4821,164 @@
           "challenge_points_earned": 100
         }
       ]
+    },
+    {
+      "package_id": "7ef3816d-faec-4166-b6bf-083f0c25c663",
+      "package_name": "AI-Assisted Security Operations: Practical LLM Integration for Detection Engineering & Threat Hunting",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ddc20d25-014b-4321-9378-63ddfd0171d3",
+      "package_name": "Android Application Analysis Challenge",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c867636f-7e54-4612-9e53-2f0460a26fd7",
+      "package_name": "Boot2Root Workshop 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "d14ad679-4023-4f38-b16c-c79387a9b698",
+      "package_name": "Boot2Root Workshop 2",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ab2a4b2f-717d-4228-96d9-d50f273e75b5",
+      "package_name": "Boot2Root Workshop 3",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "f866eee4-1903-4640-97ce-2460b624e0e6",
+      "package_name": "Client-Side Exploitation",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "c002a9c2-09f5-4bfc-b563-3c042173921b",
+      "package_name": "Cyber Attack Challenge: Oak Rabbit",
+      "difficulty": "expert",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "36f319cf-d975-4036-b1c6-dfb1cebb57e7",
+      "package_name": "Cyber Offense Walkthrough: Red Lightfoil",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "a3825228-e229-4d6a-aa00-50ec01019bde",
+      "package_name": "Enumeration: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "8e21c532-ba5a-4f8d-b602-ee043b9c8319",
+      "package_name": "Exploitation Using Python",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "2cb0d9ab-ef36-4f47-b32d-4a260e1a925d",
+      "package_name": "Follina Offense: Legacy Threat",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "a1b47fe8-0dc6-4ea5-aeb1-ed7e8c385031",
+      "package_name": "Kerberoasting: MITRE ATT&CK\u00ae Red",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ff450853-577c-49f5-989a-24db7f3329b6",
+      "package_name": "Linux Foundations: Ports",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "a32976c9-632d-4b49-ac6e-2658ffee9119",
+      "package_name": "Memory Corruption Vulnerabilities Challenge: iBreach",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "db3cd967-f739-4d87-b2a0-1906e4238714",
+      "package_name": "PrintNightmare Offense: Legacy Threat",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "b5fe3f2c-648d-41bc-8f33-ed5a4443bba5",
+      "package_name": "ProxyLogon Offense: Legacy Threat",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "769103aa-a632-4e41-bc94-6b17578b0141",
+      "package_name": "Threat Emulation Operator Assessment: Undermine Strike",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
+    "advanced": 300,
+    "expert": 0,
     "foundational": 50,
     "intermediate": 100
   },
