@@ -93,7 +93,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 950
+      "total_points": 1000
     },
     {
       "full_name": "Ina Ndoni",
@@ -188,14 +188,14 @@
   ],
   "universities": [
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 4300,
+      "num_users": 3
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 4250,
       "num_users": 6
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4250,
-      "num_users": 3
     },
     {
       "university": "Universiteti New York Tirana",
@@ -5039,8 +5039,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "a32976c9-632d-4b49-ac6e-2658ffee9119",
