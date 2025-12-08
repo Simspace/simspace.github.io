@@ -93,7 +93,7 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 850
+      "total_points": 950
     },
     {
       "full_name": "Ina Ndoni",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4150,
+      "total_points": 4250,
       "num_users": 3
     },
     {
@@ -4682,8 +4682,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "146af30e-d3fa-4678-8ce7-875d703e2b5e",
