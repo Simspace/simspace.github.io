@@ -91,6 +91,11 @@
       "total_points": 1050
     },
     {
+      "full_name": "Elisa Zala",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 850
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 750
@@ -99,11 +104,6 @@
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 700
-    },
-    {
-      "full_name": "Elisa Zala",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 650
     },
     {
       "full_name": "Lida Filipi",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3950,
+      "total_points": 4150,
       "num_users": 3
     },
     {
@@ -4651,6 +4651,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 2
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 2
         }
       ],
       "users": [
@@ -4659,7 +4663,15 @@
           "challenge_points_earned": 100
         },
         {
+          "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
           "full_name": "Flavio",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Elisa Zala",
           "challenge_points_earned": 100
         }
       ]
