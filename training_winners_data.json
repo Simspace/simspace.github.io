@@ -146,6 +146,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 200
+    },
+    {
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
       "total_points": 150
@@ -156,18 +161,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
       "full_name": "Livia Karoli",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 3700,
+      "total_points": 3800,
       "num_users": 3
     },
     {
@@ -4946,11 +4946,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Gesa Comacka",
           "challenge_points_earned": 100
         }
       ]
