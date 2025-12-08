@@ -41,6 +41,11 @@
       "total_points": 2100
     },
     {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1900
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 1800
@@ -59,11 +64,6 @@
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
       "total_points": 1700
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1600
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -198,14 +198,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3900,
+      "num_users": 4
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 3850,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3600,
-      "num_users": 4
     },
     {
       "university": "Epoka University",
@@ -5034,8 +5034,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "769103aa-a632-4e41-bc94-6b17578b0141",
