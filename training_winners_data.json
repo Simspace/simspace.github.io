@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 3550
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 3450
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3550
     },
     {
       "full_name": "Nea Metohu",
@@ -38,7 +38,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2100
+      "total_points": 2200
     },
     {
       "full_name": "Saimir",
@@ -189,7 +189,7 @@
   "universities": [
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4300,
+      "total_points": 4400,
       "num_users": 3
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 4100,
+      "total_points": 4200,
       "num_users": 3
     },
     {
@@ -4205,6 +4205,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -4214,6 +4218,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
@@ -4955,8 +4963,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "f866eee4-1903-4640-97ce-2460b624e0e6",
