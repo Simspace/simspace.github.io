@@ -93,7 +93,7 @@
     {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
-      "total_points": 750
+      "total_points": 850
     },
     {
       "full_name": "Lida Filipi",
@@ -184,7 +184,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3700,
+      "total_points": 3800,
       "num_users": 2
     },
     {
@@ -3123,6 +3123,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3172,6 +3176,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 100
         }
       ]
