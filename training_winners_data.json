@@ -41,14 +41,14 @@
       "total_points": 2100
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 1900
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 1800
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1900
     },
     {
       "full_name": "Enxhi Kala",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 1800,
+      "total_points": 1900,
       "num_users": 1
     },
     {
@@ -4347,6 +4347,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -4396,6 +4400,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
