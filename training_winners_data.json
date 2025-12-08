@@ -63,7 +63,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1500
+      "total_points": 1600
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -131,6 +131,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 350
@@ -184,8 +189,8 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3850,
-      "num_users": 5
+      "total_points": 4250,
+      "num_users": 6
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -198,14 +203,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 3600,
+      "num_users": 4
+    },
+    {
       "university": "Epoka University",
       "total_points": 3600,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3500,
-      "num_users": 4
     },
     {
       "university": "Luarasi",
@@ -4601,8 +4606,22 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 2
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Flavio",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Flavio",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "e801ed2f-9f98-4dd7-a000-a33fad42889a",
@@ -4628,8 +4647,22 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 2
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Flavio",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Flavio",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "0f5dd1bb-2b7f-45af-bf80-fa7f3c5a2efd",
@@ -4909,8 +4942,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "2cb0d9ab-ef36-4f47-b32d-4a260e1a925d",
