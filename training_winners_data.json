@@ -98,7 +98,7 @@
     {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
-      "total_points": 750
+      "total_points": 800
     },
     {
       "full_name": "unejskotoni@gmail.com",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 3600,
+      "total_points": 3650,
       "num_users": 2
     },
     {
@@ -5119,11 +5119,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ina Ndoni",
           "challenge_points_earned": 50
         }
       ]
