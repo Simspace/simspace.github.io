@@ -96,14 +96,14 @@
       "total_points": 1000
     },
     {
-      "full_name": "Ina Ndoni",
-      "university": "Epoka University",
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 800
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 700
+      "full_name": "Ina Ndoni",
+      "university": "Epoka University",
+      "total_points": 800
     },
     {
       "full_name": "Lida Filipi",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2450,
+      "total_points": 2550,
       "num_users": 2
     },
     {
@@ -5025,11 +5025,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "unejskotoni@gmail.com",
           "challenge_points_earned": 100
         }
       ]
