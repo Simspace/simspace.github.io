@@ -18,7 +18,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 2850
+      "total_points": 3150
     },
     {
       "full_name": "Erona Hoxha",
@@ -203,6 +203,11 @@
       "num_users": 6
     },
     {
+      "university": "Epoka University",
+      "total_points": 3950,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 3900,
       "num_users": 4
@@ -211,11 +216,6 @@
       "university": "Luarasi",
       "total_points": 3850,
       "num_users": 5
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 3650,
-      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -5280,11 +5280,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 300
         }
       ]
