@@ -111,6 +111,11 @@
       "total_points": 600
     },
     {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 500
+    },
+    {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
       "total_points": 500
@@ -118,11 +123,6 @@
     {
       "full_name": "Florina Gjino",
       "university": "Luarasi",
-      "total_points": 450
-    },
-    {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
       "total_points": 450
     },
     {
@@ -193,14 +193,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 4250,
+      "num_users": 3
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 4250,
       "num_users": 6
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 4200,
-      "num_users": 3
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -5006,8 +5006,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Artea Myftiu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "c002a9c2-09f5-4bfc-b563-3c042173921b",
