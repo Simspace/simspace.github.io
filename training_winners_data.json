@@ -11,13 +11,13 @@
       "total_points": 3550
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
-      "total_points": 2850
-    },
-    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 3050
+    },
+    {
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 2850
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 2850,
+      "total_points": 3050,
       "num_users": 1
     },
     {
@@ -4707,6 +4707,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 2
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 2
         }
       ],
       "users": [
@@ -4723,6 +4727,10 @@
           "challenge_points_earned": 100
         },
         {
+          "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
           "full_name": "Flavio",
           "challenge_points_earned": 100
         },
@@ -4732,6 +4740,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 100
         }
       ]
