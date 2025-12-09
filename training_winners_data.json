@@ -41,9 +41,9 @@
       "total_points": 2200
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 1900
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
+      "total_points": 1950
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -51,9 +51,9 @@
       "total_points": 1900
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
-      "total_points": 1850
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 1900
     },
     {
       "full_name": "Enxhi Kala",
@@ -209,7 +209,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 3750,
+      "total_points": 3850,
       "num_users": 5
     },
     {
@@ -5163,6 +5163,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -5172,6 +5176,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Aldo Ndoni",
           "challenge_points_earned": 100
         }
       ]
