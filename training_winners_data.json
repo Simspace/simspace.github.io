@@ -21,13 +21,13 @@
       "total_points": 2800
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2400
-    },
-    {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
+      "total_points": 2600
+    },
+    {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2400
     },
     {
@@ -223,6 +223,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti i Shkodres",
+      "total_points": 2600,
+      "num_users": 1
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 2600,
       "num_users": 2
@@ -231,11 +236,6 @@
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 2450,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 2400,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Korces",
@@ -4703,6 +4703,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 2
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 2
         }
       ],
       "users": [
@@ -4715,11 +4719,19 @@
           "challenge_points_earned": 100
         },
         {
+          "full_name": "Erona Hoxha",
+          "challenge_points_earned": 100
+        },
+        {
           "full_name": "Flavio",
           "challenge_points_earned": 100
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 100
         }
       ]
