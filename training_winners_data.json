@@ -113,7 +113,7 @@
     {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Klaudio Toska",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 4250,
+      "total_points": 4300,
       "num_users": 3
     },
     {
@@ -5133,6 +5133,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5142,6 +5146,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Artea Myftiu",
           "challenge_points_earned": 50
         }
       ]
