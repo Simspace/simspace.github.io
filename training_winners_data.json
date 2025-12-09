@@ -5022,7 +5022,7 @@
     {
       "package_id": "c002a9c2-09f5-4bfc-b563-3c042173921b",
       "package_name": "Cyber Attack Challenge: Oak Rabbit",
-      "difficulty": "expert",
+      "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
       "universities": [],
@@ -5192,6 +5192,15 @@
       ]
     },
     {
+      "package_id": "f8de5066-6dc2-4cee-a084-a43b23ef9564",
+      "package_name": "ShadowNet CTF",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "December 8, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
       "package_id": "769103aa-a632-4e41-bc94-6b17578b0141",
       "package_name": "Threat Emulation Operator Assessment: Undermine Strike",
       "difficulty": "advanced",
@@ -5203,7 +5212,6 @@
   ],
   "difficulty_points": {
     "advanced": 300,
-    "expert": 0,
     "foundational": 50,
     "intermediate": 100
   },
