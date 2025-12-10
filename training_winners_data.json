@@ -163,7 +163,7 @@
     {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 100
+      "total_points": 150
     },
     {
       "full_name": "Livia Karoli",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2650,
+      "total_points": 2700,
       "num_users": 3
     },
     {
@@ -5264,6 +5264,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -5293,6 +5297,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Selim Cela",
           "challenge_points_earned": 50
         }
       ]
