@@ -151,14 +151,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 200
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 150
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 200
     },
     {
       "full_name": "Selim Cela",
@@ -268,14 +268,14 @@
       "num_users": 1
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 550,
+      "num_users": 2
+    },
+    {
       "university": "UAMD 2",
       "total_points": 550,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 500,
-      "num_users": 2
     }
   ],
   "packages": [
@@ -3554,6 +3554,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3591,6 +3595,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 50
         }
       ]
