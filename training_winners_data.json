@@ -118,7 +118,7 @@
     {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Florina Gjino",
@@ -268,14 +268,14 @@
       "num_users": 1
     },
     {
+      "university": "UAMD 2",
+      "total_points": 550,
+      "num_users": 1
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 500,
       "num_users": 2
-    },
-    {
-      "university": "UAMD 2",
-      "total_points": 500,
-      "num_users": 1
     }
   ],
   "packages": [
@@ -3550,6 +3550,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -3583,6 +3587,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 50
         }
       ]
