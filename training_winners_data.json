@@ -71,13 +71,13 @@
       "total_points": 1500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1200
-    },
-    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1500
+    },
+    {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1200
     },
     {
@@ -208,6 +208,11 @@
       "num_users": 6
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 4200,
+      "num_users": 4
+    },
+    {
       "university": "Luarasi",
       "total_points": 4150,
       "num_users": 5
@@ -216,11 +221,6 @@
       "university": "Epoka University",
       "total_points": 3950,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 3900,
-      "num_users": 4
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -5344,8 +5344,18 @@
       "difficulty": "advanced",
       "passing_threshold": "90",
       "release_date": "December 8, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "b5fe3f2c-648d-41bc-8f33-ed5a4443bba5",
