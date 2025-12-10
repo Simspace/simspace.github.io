@@ -71,13 +71,13 @@
       "total_points": 1500
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1200
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1200
     },
     {
@@ -126,23 +126,23 @@
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 400
-    },
-    {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
-      "total_points": 350
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 400
     },
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 350
+    },
+    {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 350
     },
     {
@@ -161,6 +161,11 @@
       "total_points": 150
     },
     {
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
+    },
+    {
       "full_name": "Livia Karoli",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
@@ -171,8 +176,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Ergi Hysa",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 50
     },
     {
@@ -181,8 +186,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     }
   ],
@@ -223,9 +228,9 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 2600,
-      "num_users": 1
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 2650,
+      "num_users": 3
     },
     {
       "university": "Harry Fultz",
@@ -233,9 +238,9 @@
       "num_users": 2
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 2550,
-      "num_users": 2
+      "university": "Universiteti i Shkodres",
+      "total_points": 2600,
+      "num_users": 1
     },
     {
       "university": "Universiteti i Korces",
@@ -5140,6 +5145,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -5161,6 +5170,10 @@
         },
         {
           "full_name": "Aldo Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Selim Cela",
           "challenge_points_earned": 100
         }
       ]
