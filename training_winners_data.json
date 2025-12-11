@@ -71,6 +71,11 @@
       "total_points": 1600
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1550
+    },
+    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 1500
@@ -79,11 +84,6 @@
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1500
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1450
     },
     {
       "full_name": "Fatbardh Rama",
@@ -263,13 +263,13 @@
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1500,
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1550,
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1450,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1500,
       "num_users": 1
     },
     {
@@ -2941,6 +2941,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2994,6 +2998,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
