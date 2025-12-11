@@ -118,7 +118,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 700
+      "total_points": 750
     },
     {
       "full_name": "Artea Myftiu",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 950,
+      "total_points": 1000,
       "num_users": 2
     },
     {
@@ -5723,6 +5723,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -5760,6 +5764,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
