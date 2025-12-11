@@ -81,6 +81,11 @@
       "total_points": 1500
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1200
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1200
@@ -89,11 +94,6 @@
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1100
     },
     {
       "full_name": "Elisa Zala",
@@ -268,13 +268,13 @@
       "num_users": 1
     },
     {
-      "university": "42 Coding",
-      "total_points": 1150,
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1200,
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1100,
+      "university": "42 Coding",
+      "total_points": 1150,
       "num_users": 1
     },
     {
@@ -2461,6 +2461,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2518,6 +2522,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
