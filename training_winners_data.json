@@ -141,14 +141,14 @@
       "total_points": 400
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 400
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 350
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 550,
+      "total_points": 600,
       "num_users": 2
     },
     {
@@ -3988,8 +3988,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "November 24, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Tirana Business University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "d667c83d-83d2-4e22-a490-35655c1bfede",
