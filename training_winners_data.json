@@ -1,6 +1,11 @@
 {
   "users": [
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 3950
+    },
+    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 3750
@@ -8,11 +13,6 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3650
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
       "total_points": 3650
     },
     {
@@ -66,14 +66,14 @@
       "total_points": 1750
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1650
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 1600
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1550
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -208,6 +208,11 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 4800,
+      "num_users": 3
+    },
+    {
       "university": "Epoka University",
       "total_points": 4550,
       "num_users": 2
@@ -216,11 +221,6 @@
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 4550,
       "num_users": 4
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 4500,
-      "num_users": 3
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1550,
+      "total_points": 1650,
       "num_users": 1
     },
     {
@@ -3285,6 +3285,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3338,6 +3342,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
@@ -5802,6 +5810,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5823,6 +5835,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 300
         }
       ]
