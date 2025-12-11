@@ -148,7 +148,7 @@
     {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300
+      "total_points": 350
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 300,
+      "total_points": 350,
       "num_users": 1
     }
   ],
@@ -1524,6 +1524,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1585,6 +1589,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
