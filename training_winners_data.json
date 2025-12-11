@@ -133,7 +133,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 450
+      "total_points": 500
     },
     {
       "full_name": "Florina Gjino",
@@ -273,14 +273,14 @@
       "num_users": 1
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 700,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 700,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 650,
-      "num_users": 2
     },
     {
       "university": "UAMD 2",
@@ -4276,6 +4276,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4289,6 +4293,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
