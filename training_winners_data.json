@@ -106,13 +106,18 @@
       "total_points": 800
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
-      "total_points": 650
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 700
     },
     {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
+      "total_points": 650
+    },
+    {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 650
     },
     {
@@ -124,11 +129,6 @@
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
       "total_points": 550
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 500
     },
     {
       "full_name": "Florina Gjino",
@@ -273,6 +273,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 700,
+      "num_users": 1
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 550,
       "num_users": 2
@@ -280,11 +285,6 @@
     {
       "university": "UAMD 2",
       "total_points": 550,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 500,
       "num_users": 1
     }
   ],
@@ -1957,6 +1957,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2018,6 +2022,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
@@ -2163,6 +2171,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2224,6 +2236,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
