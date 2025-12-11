@@ -126,13 +126,13 @@
       "total_points": 650
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 550
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 600
+    },
+    {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 550
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 750,
+      "total_points": 800,
       "num_users": 2
     },
     {
@@ -3494,6 +3494,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3515,6 +3519,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
