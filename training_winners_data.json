@@ -146,9 +146,9 @@
       "total_points": 350
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 200
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 300
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -156,8 +156,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 200
     },
     {
@@ -284,7 +284,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 200,
+      "total_points": 300,
       "num_users": 1
     }
   ],
@@ -359,6 +359,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -424,6 +428,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
