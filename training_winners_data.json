@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Nea Metohu",
+      "university": "Epoka University",
       "total_points": 3650
     },
     {
-      "full_name": "Nea Metohu",
-      "university": "Epoka University",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 3650
     },
     {
@@ -41,13 +41,13 @@
       "total_points": 2200
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 1950
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
       "total_points": 1950
     },
     {
@@ -106,13 +106,13 @@
       "total_points": 800
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 650
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 650
     },
     {
@@ -131,19 +131,24 @@
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 400
     },
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 350
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 200
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -156,19 +161,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150
-    },
-    {
-      "full_name": "Livia Karoli",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
     },
     {
       "full_name": "Kristo Do\u00e7i",
@@ -176,9 +171,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 50
+      "full_name": "Livia Karoli",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
     },
     {
       "full_name": "Kledios Lika",
@@ -186,8 +181,18 @@
       "total_points": 50
     },
     {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 50
+    },
+    {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 50
     }
   ],
@@ -233,14 +238,14 @@
       "num_users": 3
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 2600,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti i Shkodres",
       "total_points": 2600,
       "num_users": 1
+    },
+    {
+      "university": "Harry Fultz",
+      "total_points": 2600,
+      "num_users": 2
     },
     {
       "university": "Universiteti i Korces",
@@ -275,6 +280,11 @@
     {
       "university": "UAMD 2",
       "total_points": 550,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 50,
       "num_users": 1
     }
   ],
@@ -2486,6 +2496,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -2551,6 +2565,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
@@ -5476,6 +5494,7 @@
     "13": 1.0,
     "14": 1.0,
     "15": 1.0,
-    "16": 1.0
+    "16": 1.0,
+    "17": 1.0
   }
 }
