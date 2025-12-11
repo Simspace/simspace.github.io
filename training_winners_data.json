@@ -113,7 +113,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
+      "total_points": 750
     },
     {
       "full_name": "Samantha Bilbili",
@@ -218,14 +218,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 4350,
+      "num_users": 4
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 4350,
       "num_users": 6
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4300,
-      "num_users": 4
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -5417,6 +5417,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -5430,6 +5434,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
