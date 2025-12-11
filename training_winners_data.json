@@ -66,6 +66,11 @@
       "total_points": 1750
     },
     {
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
+      "total_points": 1550
+    },
+    {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
       "total_points": 1500
@@ -74,11 +79,6 @@
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1500
-    },
-    {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
-      "total_points": 1450
     },
     {
       "full_name": "Fatbardh Rama",
@@ -204,7 +204,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 4550,
+      "total_points": 4650,
       "num_users": 5
     },
     {
@@ -4567,6 +4567,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -4576,6 +4580,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ester K\u00ebna\u00e7i",
           "challenge_points_earned": 100
         }
       ]
