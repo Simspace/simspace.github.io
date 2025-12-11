@@ -83,7 +83,7 @@
     {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1400
+      "total_points": 1450
     },
     {
       "full_name": "Fatbardh Rama",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 1
     },
     {
@@ -3435,6 +3435,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3488,6 +3492,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
