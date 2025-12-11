@@ -131,23 +131,23 @@
       "total_points": 550
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 450
+    },
+    {
       "full_name": "Florina Gjino",
       "university": "Luarasi",
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 400
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 400
-    },
-    {
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 400
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 2
     },
     {
@@ -4031,6 +4031,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4056,6 +4060,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         }
       ]
