@@ -106,13 +106,13 @@
       "total_points": 900
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 700
-    },
-    {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 800
+    },
+    {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 700
     },
     {
@@ -273,14 +273,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 800,
+      "num_users": 1
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 750,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 700,
-      "num_users": 1
     },
     {
       "university": "UAMD 2",
@@ -985,6 +985,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -1042,6 +1046,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
