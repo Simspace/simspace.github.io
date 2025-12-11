@@ -146,8 +146,8 @@
       "total_points": 350
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 200
     },
     {
@@ -156,8 +156,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 200
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
@@ -166,17 +171,12 @@
       "total_points": 150
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 100
-    },
-    {
-      "full_name": "Kristo Do\u00e7i",
+      "full_name": "Livia Karoli",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Livia Karoli",
+      "full_name": "Kristo Do\u00e7i",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
@@ -284,7 +284,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 100,
+      "total_points": 200,
       "num_users": 1
     }
   ],
@@ -624,6 +624,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -689,6 +693,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
