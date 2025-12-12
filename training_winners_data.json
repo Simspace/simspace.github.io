@@ -58,7 +58,7 @@
     {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1950
+      "total_points": 2000
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -263,13 +263,13 @@
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 2000,
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1950,
+      "university": "Herman Gmeiner",
+      "total_points": 2000,
       "num_users": 1
     },
     {
@@ -3638,6 +3638,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -3683,6 +3687,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
