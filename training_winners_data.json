@@ -126,6 +126,11 @@
       "total_points": 650
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 650
+    },
+    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
       "total_points": 650
@@ -181,17 +186,12 @@
       "total_points": 100
     },
     {
-      "full_name": "Kledios Lika",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
-    },
-    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
       "total_points": 50
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
+      "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
@@ -208,9 +208,9 @@
       "num_users": 3
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4800,
-      "num_users": 3
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 5000,
+      "num_users": 7
     },
     {
       "university": "Luarasi",
@@ -218,9 +218,9 @@
       "num_users": 5
     },
     {
-      "university": "Epoka University",
-      "total_points": 4550,
-      "num_users": 2
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 4800,
+      "num_users": 3
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -228,9 +228,9 @@
       "num_users": 4
     },
     {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4400,
-      "num_users": 7
+      "university": "Epoka University",
+      "total_points": 4550,
+      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -5820,6 +5820,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5833,6 +5837,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 300
         }
       ]
@@ -5867,6 +5875,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5892,6 +5904,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 300
         }
       ]
