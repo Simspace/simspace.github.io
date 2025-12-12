@@ -21,6 +21,11 @@
       "total_points": 3650
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 2700
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2600
@@ -28,11 +33,6 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 2600
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
       "total_points": 2600
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 2850,
+      "total_points": 2950,
       "num_users": 2
     },
     {
@@ -3313,6 +3313,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3326,6 +3330,10 @@
         },
         {
           "full_name": "Livia Karoli",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
