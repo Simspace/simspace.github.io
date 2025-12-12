@@ -61,13 +61,13 @@
       "total_points": 1900
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1750
-    },
-    {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1850
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1750
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1750,
+      "total_points": 1850,
       "num_users": 1
     },
     {
@@ -5240,6 +5240,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -5293,6 +5297,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
