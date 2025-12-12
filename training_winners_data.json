@@ -101,6 +101,11 @@
       "total_points": 1150
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 1000
+    },
+    {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1000
@@ -109,11 +114,6 @@
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 950
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 900
     },
     {
       "full_name": "Ina Ndoni",
@@ -283,14 +283,14 @@
       "num_users": 1
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 1250,
+      "num_users": 2
+    },
+    {
       "university": "42 Coding",
       "total_points": 1150,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 1150,
-      "num_users": 2
     },
     {
       "university": "UAMD 2",
@@ -373,6 +373,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -442,6 +446,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
@@ -6102,6 +6110,7 @@
     "14": 1.0,
     "15": 1.0,
     "16": 1.0,
-    "17": 1.0
+    "17": 1.0,
+    "18": 1.0
   }
 }
