@@ -121,18 +121,18 @@
       "total_points": 800
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 650
-    },
-    {
       "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 650
+      "total_points": 750
     },
     {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
+      "total_points": 650
+    },
+    {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 650
     },
     {
@@ -203,14 +203,14 @@
   ],
   "universities": [
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 5100,
+      "num_users": 7
+    },
+    {
       "university": "Universiteti New York Tirana",
       "total_points": 5100,
       "num_users": 3
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 5000,
-      "num_users": 7
     },
     {
       "university": "Luarasi",
@@ -5407,6 +5407,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5416,6 +5420,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
