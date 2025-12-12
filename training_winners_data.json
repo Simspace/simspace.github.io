@@ -81,13 +81,13 @@
       "total_points": 1600
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1500
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 1600
+    },
+    {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1500
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1750,
+      "total_points": 1850,
       "num_users": 2
     },
     {
@@ -1301,6 +1301,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1362,6 +1366,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
