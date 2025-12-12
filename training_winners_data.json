@@ -48,7 +48,7 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 2150
+      "total_points": 2250
     },
     {
       "full_name": "Mateo Nezha",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Universiteti i Elbasanit",
-      "total_points": 2150,
+      "total_points": 2250,
       "num_users": 1
     },
     {
@@ -5957,6 +5957,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -5994,6 +5998,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
