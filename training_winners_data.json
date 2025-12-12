@@ -68,7 +68,7 @@
     {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1650
+      "total_points": 1750
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1650,
+      "total_points": 1750,
       "num_users": 1
     },
     {
@@ -4629,6 +4629,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -4682,6 +4686,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
