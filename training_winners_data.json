@@ -11,23 +11,23 @@
       "total_points": 3750
     },
     {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 3650
-    },
-    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 3650
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 2600
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3650
     },
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 2600
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 2600
     },
     {
@@ -41,13 +41,13 @@
       "total_points": 2300
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
       "total_points": 2050
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 2050
     },
     {
@@ -76,13 +76,13 @@
       "total_points": 1600
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1500
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1500
     },
     {
@@ -181,12 +181,17 @@
       "total_points": 100
     },
     {
+      "full_name": "Kledios Lika",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
       "total_points": 50
     },
     {
-      "full_name": "Kledios Lika",
+      "full_name": "Fran\u00e7esko Shahinasi",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
@@ -224,8 +229,8 @@
     },
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4350,
-      "num_users": 6
+      "total_points": 4400,
+      "num_users": 7
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -5505,6 +5510,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5526,6 +5535,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 50
         }
       ]
