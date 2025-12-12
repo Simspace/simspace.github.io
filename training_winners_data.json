@@ -66,14 +66,14 @@
       "total_points": 1900
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 1800
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1750
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 1700
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -273,14 +273,14 @@
       "num_users": 1
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 2050,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 2000,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 1950,
-      "num_users": 2
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -2059,6 +2059,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2124,6 +2128,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
