@@ -116,14 +116,14 @@
       "total_points": 900
     },
     {
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 850
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 800
-    },
-    {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 750
     },
     {
       "full_name": "Samantha Bilbili",
@@ -204,7 +204,7 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 5100,
+      "total_points": 5200,
       "num_users": 7
     },
     {
@@ -5446,6 +5446,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5459,6 +5463,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Fran\u00e7esko Shahinasi",
           "challenge_points_earned": 100
         }
       ]
