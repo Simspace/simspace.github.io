@@ -46,6 +46,11 @@
       "total_points": 2300
     },
     {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 2150
+    },
+    {
       "full_name": "Mateo Nezha",
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 2100
@@ -53,11 +58,6 @@
     {
       "full_name": "Aldo Ndoni",
       "university": "Luarasi",
-      "total_points": 2050
-    },
-    {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
       "total_points": 2050
     },
     {
@@ -268,13 +268,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2100,
+      "university": "Universiteti i Elbasanit",
+      "total_points": 2150,
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
-      "total_points": 2050,
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 2100,
       "num_users": 1
     },
     {
@@ -5691,6 +5691,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Elbasanit",
+          "users": 1
         }
       ],
       "users": [
@@ -5708,6 +5712,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Saimir",
           "challenge_points_earned": 100
         }
       ]
