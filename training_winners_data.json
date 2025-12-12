@@ -3,7 +3,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 3950
+      "total_points": 4250
     },
     {
       "full_name": "Tergita Sulaj",
@@ -198,9 +198,9 @@
   ],
   "universities": [
     {
-      "university": "Luarasi",
-      "total_points": 4800,
-      "num_users": 5
+      "university": "Universiteti New York Tirana",
+      "total_points": 5100,
+      "num_users": 3
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -208,9 +208,9 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti New York Tirana",
+      "university": "Luarasi",
       "total_points": 4800,
-      "num_users": 3
+      "num_users": 5
     },
     {
       "university": "Epoka University",
@@ -5795,6 +5795,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -5804,6 +5808,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 300
         }
       ]
