@@ -8,7 +8,7 @@
     {
       "full_name": "Arkel Lahi",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4100
+      "total_points": 4150
     },
     {
       "full_name": "Tergita Sulaj",
@@ -103,7 +103,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 1000
+      "total_points": 1100
     },
     {
       "full_name": "Elisa Zala",
@@ -209,7 +209,7 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 5750,
+      "total_points": 5800,
       "num_users": 8
     },
     {
@@ -284,7 +284,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1250,
+      "total_points": 1350,
       "num_users": 2
     },
     {
@@ -654,6 +654,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -723,6 +727,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
@@ -4122,11 +4130,19 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
