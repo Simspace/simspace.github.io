@@ -96,14 +96,14 @@
       "total_points": 1200
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 1200
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 1100
     },
     {
       "full_name": "Elisa Zala",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 1350,
+      "total_points": 1450,
       "num_users": 2
     },
     {
@@ -805,6 +805,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -870,6 +874,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
