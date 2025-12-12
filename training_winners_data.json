@@ -33,7 +33,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 2400
+      "total_points": 2500
     },
     {
       "full_name": "Redi Yzellari",
@@ -248,13 +248,13 @@
       "num_users": 3
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 2700,
+      "university": "Tirana Business University",
+      "total_points": 2750,
       "num_users": 2
     },
     {
-      "university": "Tirana Business University",
-      "total_points": 2650,
+      "university": "Harry Fultz",
+      "total_points": 2700,
       "num_users": 2
     },
     {
@@ -3166,6 +3166,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3191,6 +3195,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
