@@ -56,14 +56,14 @@
       "total_points": 2000
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 1950
+    },
+    {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1900
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1850
     },
     {
       "full_name": "Ersi Dedaj",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 1850,
+      "total_points": 1950,
       "num_users": 1
     },
     {
@@ -4306,6 +4306,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -4355,6 +4359,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
