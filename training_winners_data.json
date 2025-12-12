@@ -36,14 +36,14 @@
       "total_points": 2350
     },
     {
-      "full_name": "Tony Tatazi",
-      "university": "Harry Fultz",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 2300
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 2200
+      "full_name": "Tony Tatazi",
+      "university": "Harry Fultz",
+      "total_points": 2300
     },
     {
       "full_name": "Mateo Nezha",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 2450,
+      "total_points": 2550,
       "num_users": 2
     },
     {
@@ -2932,6 +2932,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -2993,6 +2997,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
