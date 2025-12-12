@@ -71,6 +71,11 @@
       "total_points": 1650
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1600
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 1600
@@ -78,11 +83,6 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1500
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
       "total_points": 1500
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1500,
+      "total_points": 1600,
       "num_users": 1
     },
     {
@@ -3104,6 +3104,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -3133,6 +3137,10 @@
         },
         {
           "full_name": "Ina Ndoni",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
