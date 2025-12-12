@@ -6,6 +6,11 @@
       "total_points": 4250
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 3900
+    },
+    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 3750
@@ -13,11 +18,6 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 3650
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
       "total_points": 3650
     },
     {
@@ -71,13 +71,13 @@
       "total_points": 1750
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
       "total_points": 1600
     },
     {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1600
     },
     {
@@ -176,12 +176,17 @@
       "total_points": 150
     },
     {
+      "full_name": "Kristo Do\u00e7i",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
       "full_name": "Livia Karoli",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Kristo Do\u00e7i",
+      "full_name": "Alkridis Reci",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
@@ -204,8 +209,8 @@
   "universities": [
     {
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 5200,
-      "num_users": 7
+      "total_points": 5550,
+      "num_users": 8
     },
     {
       "university": "Universiteti New York Tirana",
@@ -5019,11 +5024,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -5110,6 +5123,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5119,6 +5136,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -5653,6 +5674,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5686,6 +5711,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Alkridis Reci",
           "challenge_points_earned": 100
         }
       ]
@@ -5820,6 +5849,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5861,6 +5894,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 50
         }
       ]
