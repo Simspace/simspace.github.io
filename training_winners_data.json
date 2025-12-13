@@ -26,9 +26,9 @@
       "total_points": 3400
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 2600
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 2700
     },
     {
       "full_name": "Savina Shimi",
@@ -36,9 +36,9 @@
       "total_points": 2600
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2400
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 2600
     },
     {
       "full_name": "Redi Yzellari",
@@ -273,13 +273,13 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 2600,
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 2700,
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2400,
+      "university": "Universiteti i Shkodres",
+      "total_points": 2600,
       "num_users": 1
     },
     {
@@ -6477,6 +6477,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -6506,6 +6510,10 @@
         },
         {
           "full_name": "Fran\u00e7esko Shahinasi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 300
         }
       ]
