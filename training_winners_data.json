@@ -36,6 +36,11 @@
       "total_points": 2600
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 2350
+    },
+    {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
       "total_points": 2350
@@ -44,11 +49,6 @@
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
       "total_points": 2300
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2250
     },
     {
       "full_name": "Saimir",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2250,
+      "total_points": 2350,
       "num_users": 1
     },
     {
@@ -6023,6 +6023,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -6064,6 +6068,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
