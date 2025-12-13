@@ -181,9 +181,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 100
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 150
     },
     {
       "full_name": "Livia Karoli",
@@ -196,22 +196,22 @@
       "total_points": 100
     },
     {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 100
+    },
+    {
       "full_name": "Alkridis Reci",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Kledios Lika",
+      "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 50
-    },
-    {
-      "full_name": "Ergi Hysa",
+      "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
     },
@@ -319,7 +319,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 50,
+      "total_points": 150,
       "num_users": 1
     }
   ],
@@ -1671,6 +1671,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1740,6 +1744,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         }
       ]
@@ -1981,6 +1989,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2050,6 +2062,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         }
       ]
