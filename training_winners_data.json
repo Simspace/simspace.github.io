@@ -26,13 +26,13 @@
       "total_points": 2800
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 2600
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2600
     },
     {
@@ -156,13 +156,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 250
     },
     {
@@ -176,12 +176,12 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristo Do\u00e7i",
+      "full_name": "Livia Karoli",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Livia Karoli",
+      "full_name": "Kristo Do\u00e7i",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
@@ -191,11 +191,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
-      "total_points": 50
-    },
-    {
       "full_name": "Kledios Lika",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 50
@@ -203,6 +198,16 @@
     {
       "full_name": "Ergi Hysa",
       "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 50
+    },
+    {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 50
     }
   ],
@@ -218,24 +223,24 @@
       "num_users": 3
     },
     {
-      "university": "Luarasi",
-      "total_points": 4800,
-      "num_users": 5
-    },
-    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 4800,
       "num_users": 3
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4550,
-      "num_users": 4
+      "university": "Luarasi",
+      "total_points": 4800,
+      "num_users": 5
     },
     {
       "university": "Epoka University",
       "total_points": 4550,
       "num_users": 2
+    },
+    {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 4550,
+      "num_users": 4
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -295,6 +300,11 @@
     {
       "university": "UAMD 2",
       "total_points": 550,
+      "num_users": 1
+    },
+    {
+      "university": "Canadian Institute of Technology",
+      "total_points": 50,
       "num_users": 1
     }
   ],
@@ -1634,6 +1644,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -1699,6 +1713,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
