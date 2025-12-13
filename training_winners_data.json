@@ -128,7 +128,7 @@
     {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
-      "total_points": 750
+      "total_points": 850
     },
     {
       "full_name": "Artea Myftiu",
@@ -309,7 +309,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -1493,6 +1493,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -1558,6 +1562,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
