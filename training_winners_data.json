@@ -16,14 +16,14 @@
       "total_points": 3750
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 3700
+    },
+    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 3650
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 3600
     },
     {
       "full_name": "Mateo Nezha",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 3850,
+      "total_points": 3950,
       "num_users": 2
     },
     {
@@ -5150,6 +5150,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -5163,6 +5167,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
