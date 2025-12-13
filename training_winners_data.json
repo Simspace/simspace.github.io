@@ -76,13 +76,13 @@
       "total_points": 1750
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
       "total_points": 1600
     },
     {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1600
     },
     {
@@ -166,6 +166,11 @@
       "total_points": 250
     },
     {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 200
+    },
+    {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
@@ -176,17 +181,7 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
       "full_name": "Livia Karoli",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
-    },
-    {
-      "full_name": "Kristo Do\u00e7i",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
@@ -196,9 +191,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Ergi Hysa",
+      "full_name": "Kristo Do\u00e7i",
       "university": "Akademia e Forcave te Armatosura",
-      "total_points": 50
+      "total_points": 100
     },
     {
       "full_name": "Kledios Lika",
@@ -206,7 +201,17 @@
       "total_points": 50
     },
     {
+      "full_name": "Ergi Hysa",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 50
+    },
+    {
       "full_name": "Endi Rizvani",
+      "university": "Luarasi",
+      "total_points": 50
+    },
+    {
+      "full_name": "Rendi Zenelaj",
       "university": "Luarasi",
       "total_points": 50
     }
@@ -223,14 +228,14 @@
       "num_users": 3
     },
     {
+      "university": "Luarasi",
+      "total_points": 4850,
+      "num_users": 6
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 4800,
       "num_users": 3
-    },
-    {
-      "university": "Luarasi",
-      "total_points": 4800,
-      "num_users": 5
     },
     {
       "university": "Epoka University",
@@ -5820,6 +5825,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -5833,6 +5842,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Rendi Zenelaj",
           "challenge_points_earned": 50
         }
       ]
