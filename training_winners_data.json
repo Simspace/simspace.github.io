@@ -23,7 +23,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 2900
+      "total_points": 3000
     },
     {
       "full_name": "Erona Hoxha",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 3150,
+      "total_points": 3250,
       "num_users": 2
     },
     {
@@ -3514,6 +3514,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -3571,6 +3575,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
