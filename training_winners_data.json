@@ -23,7 +23,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3400
+      "total_points": 3600
     },
     {
       "full_name": "Mateo Nezha",
@@ -131,14 +131,14 @@
       "total_points": 750
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 650
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 550
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
+      "total_points": 650
     },
     {
       "full_name": "Florina Gjino",
@@ -158,7 +158,7 @@
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 250
+      "total_points": 300
     },
     {
       "full_name": "Klevisa Aliaj",
@@ -181,14 +181,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Endi Rizvani",
+      "university": "Luarasi",
       "total_points": 150
     },
     {
-      "full_name": "Livia Karoli",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 150
     },
     {
       "full_name": "Kristo Do\u00e7i",
@@ -196,8 +196,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Endi Rizvani",
-      "university": "Luarasi",
+      "full_name": "Livia Karoli",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 4900,
+      "total_points": 4950,
       "num_users": 6
     },
     {
@@ -253,14 +253,14 @@
       "num_users": 4
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 3850,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 3750,
       "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 3650,
-      "num_users": 2
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -309,12 +309,12 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 550,
+      "total_points": 650,
       "num_users": 1
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 250,
+      "total_points": 300,
       "num_users": 1
     },
     {
@@ -1203,6 +1203,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -1264,6 +1268,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
@@ -3730,6 +3738,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -3787,6 +3799,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
@@ -4778,6 +4794,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -4791,6 +4811,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
@@ -4821,6 +4845,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4842,6 +4870,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
@@ -5007,6 +5039,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -5064,6 +5100,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
