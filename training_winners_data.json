@@ -176,9 +176,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristo Do\u00e7i",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 100
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 150
     },
     {
       "full_name": "Livia Karoli",
@@ -186,13 +186,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Alkridis Reci",
+      "full_name": "Kristo Do\u00e7i",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Alkridis Reci",
+      "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
@@ -304,7 +304,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 100,
+      "total_points": 150,
       "num_users": 1
     }
   ],
@@ -1946,6 +1946,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -2011,6 +2015,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
