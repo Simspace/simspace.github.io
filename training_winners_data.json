@@ -63,7 +63,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 2000
+      "total_points": 2050
     },
     {
       "full_name": "Simeon Flamuraj",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 2000,
+      "total_points": 2050,
       "num_users": 1
     },
     {
@@ -6168,6 +6168,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -6213,6 +6217,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
