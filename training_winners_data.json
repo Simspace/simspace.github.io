@@ -23,7 +23,7 @@
     {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
-      "total_points": 3000
+      "total_points": 3100
     },
     {
       "full_name": "Erona Hoxha",
@@ -93,7 +93,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1400
+      "total_points": 1500
     },
     {
       "full_name": "unejskotoni@gmail.com",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 5000,
+      "total_points": 5100,
       "num_users": 3
     },
     {
@@ -253,14 +253,14 @@
       "num_users": 1
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 3350,
+      "num_users": 2
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3350,
       "num_users": 3
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 3250,
-      "num_users": 2
     },
     {
       "university": "Harry Fultz",
@@ -4096,6 +4096,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -4157,6 +4161,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orlin Balliu",
           "challenge_points_earned": 100
         }
       ]
@@ -5326,8 +5334,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "December 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "7aa828ec-f26b-43b6-b710-ec1ae2add8d2",
