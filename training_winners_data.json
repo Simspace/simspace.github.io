@@ -73,7 +73,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1750
+      "total_points": 1800
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 3300,
+      "total_points": 3350,
       "num_users": 3
     },
     {
@@ -5853,6 +5853,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -5870,6 +5874,10 @@
         },
         {
           "full_name": "Rendi Zenelaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
