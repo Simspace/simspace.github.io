@@ -46,14 +46,14 @@
       "total_points": 2300
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 2250
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2200
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 2250
     },
     {
       "full_name": "Enxhi Kala",
@@ -278,13 +278,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 2250,
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2200,
+      "university": "Universiteti i Elbasanit",
+      "total_points": 2250,
       "num_users": 1
     },
     {
@@ -3965,6 +3965,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -4010,6 +4014,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 50
         }
       ]
