@@ -53,7 +53,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 2100
+      "total_points": 2150
     },
     {
       "full_name": "Mateo Nezha",
@@ -283,12 +283,12 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2100,
+      "university": "Herman Gmeiner",
+      "total_points": 2150,
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 2100,
       "num_users": 1
     },
@@ -3961,6 +3961,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -4002,6 +4006,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
