@@ -126,14 +126,14 @@
       "total_points": 850
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 750
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 650
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 750
     },
     {
       "full_name": "Samantha Bilbili",
@@ -309,7 +309,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 650,
+      "total_points": 750,
       "num_users": 1
     },
     {
@@ -1346,6 +1346,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -1411,6 +1415,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
