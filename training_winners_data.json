@@ -26,14 +26,14 @@
       "total_points": 3650
     },
     {
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 3000
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 2950
-    },
-    {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2900
     },
     {
       "full_name": "Erona Hoxha",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 2900,
+      "total_points": 3000,
       "num_users": 1
     },
     {
@@ -5943,6 +5943,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -5976,6 +5980,10 @@
         },
         {
           "full_name": "Ester K\u00ebna\u00e7i",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 100
         }
       ]
