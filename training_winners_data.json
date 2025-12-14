@@ -171,18 +171,18 @@
       "total_points": 250
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Adelina Paskalaj",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 200
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 5050,
+      "total_points": 5100,
       "num_users": 6
     },
     {
@@ -5470,6 +5470,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -5495,6 +5499,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 50
         }
       ]
