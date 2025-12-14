@@ -136,14 +136,14 @@
       "total_points": 950
     },
     {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 950
+    },
+    {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
       "total_points": 900
-    },
-    {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 850
     },
     {
       "full_name": "Fran\u00e7esko Shahinasi",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 5150,
+      "total_points": 5250,
       "num_users": 2
     },
     {
@@ -6763,6 +6763,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -6816,6 +6820,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
