@@ -68,7 +68,7 @@
     {
       "full_name": "Simeon Flamuraj",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1900
+      "total_points": 1950
     },
     {
       "full_name": "Ersi Dedaj",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4550,
+      "total_points": 4600,
       "num_users": 4
     },
     {
@@ -6167,6 +6167,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -6192,6 +6196,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Simeon Flamuraj",
           "challenge_points_earned": 50
         }
       ]
