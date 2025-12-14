@@ -141,14 +141,14 @@
       "total_points": 900
     },
     {
-      "full_name": "Fran\u00e7esko Shahinasi",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
       "total_points": 850
     },
     {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
-      "total_points": 750
+      "full_name": "Fran\u00e7esko Shahinasi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 850
     },
     {
       "full_name": "Samantha Bilbili",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 4850,
+      "total_points": 4950,
       "num_users": 2
     },
     {
@@ -5773,6 +5773,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -5782,6 +5786,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
