@@ -111,6 +111,11 @@
       "total_points": 1150
     },
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 1100
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 1050
@@ -133,11 +138,6 @@
     {
       "full_name": "Ina Ndoni",
       "university": "Epoka University",
-      "total_points": 900
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
       "total_points": 900
     },
     {
@@ -273,14 +273,14 @@
       "num_users": 3
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 3100,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 3100,
       "num_users": 1
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 2900,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Korces",
@@ -6045,6 +6045,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -6106,6 +6110,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
@@ -6695,6 +6703,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -6744,6 +6756,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
