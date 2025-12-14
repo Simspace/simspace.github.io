@@ -81,14 +81,14 @@
       "total_points": 1750
     },
     {
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 1700
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 1650
-    },
-    {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 1600
     },
     {
       "full_name": "Fatbardh Rama",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 2
     },
     {
@@ -3305,6 +3305,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -3370,6 +3374,10 @@
         },
         {
           "full_name": "Selim Cela",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
