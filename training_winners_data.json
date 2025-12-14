@@ -111,6 +111,11 @@
       "total_points": 1000
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 950
+    },
+    {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 950
@@ -126,11 +131,6 @@
       "total_points": 850
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 850
-    },
-    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 750
@@ -143,7 +143,7 @@
     {
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
-      "total_points": 450
+      "total_points": 550
     },
     {
       "full_name": "Florina Gjino",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 4350,
+      "total_points": 4450,
       "num_users": 2
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 850,
+      "total_points": 950,
       "num_users": 1
     },
     {
@@ -2168,6 +2168,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -2237,6 +2241,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
@@ -6235,6 +6243,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -6284,6 +6296,10 @@
         },
         {
           "full_name": "Saimir",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
