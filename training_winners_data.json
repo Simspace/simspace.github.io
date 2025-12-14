@@ -111,6 +111,11 @@
       "total_points": 1300
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 1250
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
@@ -118,11 +123,6 @@
     {
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
-      "total_points": 1150
-    },
-    {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
       "total_points": 1150
     },
     {
@@ -313,12 +313,12 @@
       "num_users": 1
     },
     {
-      "university": "42 Coding",
-      "total_points": 1150,
+      "university": "UAMD 2",
+      "total_points": 1250,
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
+      "university": "42 Coding",
       "total_points": 1150,
       "num_users": 1
     },
@@ -3186,6 +3186,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -3255,6 +3259,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
