@@ -146,13 +146,13 @@
       "total_points": 850
     },
     {
-      "full_name": "Samantha Bilbili",
-      "university": "Luarasi",
-      "total_points": 650
-    },
-    {
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
+      "total_points": 750
+    },
+    {
+      "full_name": "Samantha Bilbili",
+      "university": "Luarasi",
       "total_points": 650
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 4750,
+      "total_points": 4850,
       "num_users": 2
     },
     {
@@ -5738,6 +5738,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -5747,6 +5751,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
