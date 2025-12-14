@@ -108,7 +108,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 1200
+      "total_points": 1300
     },
     {
       "full_name": "Leonard Dani",
@@ -274,7 +274,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 3200,
+      "total_points": 3300,
       "num_users": 2
     },
     {
@@ -5930,6 +5930,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -5975,6 +5979,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
