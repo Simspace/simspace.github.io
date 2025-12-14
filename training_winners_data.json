@@ -41,13 +41,13 @@
       "total_points": 2600
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 2350
-    },
-    {
       "full_name": "Redi Yzellari",
       "university": "Universiteti i Korces",
+      "total_points": 2450
+    },
+    {
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
       "total_points": 2350
     },
     {
@@ -284,7 +284,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 2350,
+      "total_points": 2450,
       "num_users": 1
     },
     {
@@ -6462,6 +6462,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -6507,6 +6511,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 100
         }
       ]
