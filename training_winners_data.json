@@ -101,13 +101,13 @@
       "total_points": 1500
     },
     {
-      "full_name": "unejskotoni@gmail.com",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1300
-    },
-    {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
+      "total_points": 1400
+    },
+    {
+      "full_name": "unejskotoni@gmail.com",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1300
     },
     {
@@ -268,14 +268,14 @@
       "num_users": 1
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 3400,
+      "num_users": 2
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3350,
       "num_users": 3
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 3300,
-      "num_users": 2
     },
     {
       "university": "Universiteti Europian i Tiran\u00ebs",
@@ -3515,6 +3515,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -3552,6 +3556,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
