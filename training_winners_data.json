@@ -91,14 +91,14 @@
       "total_points": 1500
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Marvin Rexhepagaj ",
+      "university": "Canadian Institute of Technology",
       "total_points": 1500
     },
     {
-      "full_name": "Marvin Rexhepagaj ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 1400
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1500
     },
     {
       "full_name": "unejskotoni@gmail.com",
@@ -151,6 +151,11 @@
       "total_points": 650
     },
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 600
+    },
+    {
       "full_name": "Florina Gjino",
       "university": "Luarasi",
       "total_points": 450
@@ -164,11 +169,6 @@
       "full_name": "Flavio",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 400
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 300
     },
     {
       "full_name": "Selim Cela",
@@ -303,14 +303,14 @@
       "num_users": 1
     },
     {
+      "university": "Canadian Institute of Technology",
+      "total_points": 2100,
+      "num_users": 2
+    },
+    {
       "university": "Mediterranean University- UMSH",
       "total_points": 1750,
       "num_users": 1
-    },
-    {
-      "university": "Canadian Institute of Technology",
-      "total_points": 1700,
-      "num_users": 2
     },
     {
       "university": "42 Coding",
@@ -2773,6 +2773,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -2838,6 +2842,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
@@ -6886,6 +6894,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -6923,6 +6935,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 300
         }
       ]
