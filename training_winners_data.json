@@ -141,6 +141,11 @@
       "total_points": 650
     },
     {
+      "full_name": "Klevisa Aliaj",
+      "university": "Tirana Business University",
+      "total_points": 450
+    },
+    {
       "full_name": "Florina Gjino",
       "university": "Luarasi",
       "total_points": 450
@@ -158,11 +163,6 @@
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 350
-    },
-    {
-      "full_name": "Klevisa Aliaj",
-      "university": "Tirana Business University",
       "total_points": 350
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "university": "Tirana Business University",
-      "total_points": 4250,
+      "total_points": 4350,
       "num_users": 2
     },
     {
@@ -5649,6 +5649,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -5686,6 +5690,10 @@
         },
         {
           "full_name": "unejskotoni@gmail.com",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klevisa Aliaj",
           "challenge_points_earned": 100
         }
       ]
