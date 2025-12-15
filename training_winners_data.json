@@ -38,7 +38,7 @@
     {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
-      "total_points": 2800
+      "total_points": 2850
     },
     {
       "full_name": "Redi Yzellari",
@@ -48,7 +48,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 2600
+      "total_points": 2700
     },
     {
       "full_name": "Erona Hoxha",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 3200,
+      "total_points": 3250,
       "num_users": 2
     },
     {
@@ -299,7 +299,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 2600,
+      "total_points": 2700,
       "num_users": 1
     },
     {
@@ -5326,6 +5326,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -5375,6 +5379,10 @@
         },
         {
           "full_name": "Simeon Flamuraj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tony Tatazi",
           "challenge_points_earned": 50
         }
       ]
@@ -6983,6 +6991,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -7052,6 +7064,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
