@@ -133,7 +133,7 @@
     {
       "full_name": "Lida Filipi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1050
+      "total_points": 1100
     },
     {
       "full_name": "Artea Myftiu",
@@ -156,14 +156,14 @@
       "total_points": 750
     },
     {
-      "full_name": "Florina Gjino",
-      "university": "Luarasi",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 450
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 400
+      "full_name": "Florina Gjino",
+      "university": "Luarasi",
+      "total_points": 450
     },
     {
       "full_name": "Flavio",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5000,
+      "total_points": 5100,
       "num_users": 4
     },
     {
@@ -5816,6 +5816,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -5849,6 +5853,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
@@ -7342,6 +7350,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -7399,6 +7411,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 50
         }
       ]
