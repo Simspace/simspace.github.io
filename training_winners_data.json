@@ -96,9 +96,9 @@
       "total_points": 1650
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1500
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 1600
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -106,8 +106,8 @@
       "total_points": 1500
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1500
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 3500,
+      "total_points": 3600,
       "num_users": 2
     },
     {
@@ -4460,6 +4460,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -4529,6 +4533,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 100
         }
       ]
