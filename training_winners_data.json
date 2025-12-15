@@ -161,8 +161,8 @@
       "total_points": 450
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 400
     },
     {
@@ -171,14 +171,14 @@
       "total_points": 400
     },
     {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 400
+    },
+    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
       "total_points": 350
-    },
-    {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 300
     },
     {
       "full_name": "Selim Cela",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 4900,
+      "total_points": 5000,
       "num_users": 4
     },
     {
@@ -6595,6 +6595,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -6604,6 +6608,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Adelina Paskalaj",
           "challenge_points_earned": 100
         }
       ]
