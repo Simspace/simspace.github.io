@@ -81,13 +81,13 @@
       "total_points": 1850
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 1800
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1800
     },
     {
@@ -171,23 +171,23 @@
       "total_points": 400
     },
     {
-      "full_name": "Selim Cela",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 250
-    },
-    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
       "total_points": 250
     },
     {
-      "full_name": "Adelina Paskalaj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 200
+      "full_name": "Selim Cela",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 250
     },
     {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
+      "total_points": 200
+    },
+    {
+      "full_name": "Adelina Paskalaj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 200
     },
     {
@@ -196,13 +196,18 @@
       "total_points": 150
     },
     {
+      "full_name": "Livia Karoli",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 100
+    },
+    {
       "full_name": "Kristo Do\u00e7i",
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 100
     },
     {
-      "full_name": "Livia Karoli",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Glen Shtino",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -229,8 +234,8 @@
   "universities": [
     {
       "university": "Tirana Business University",
-      "total_points": 6250,
-      "num_users": 2
+      "total_points": 6350,
+      "num_users": 3
     },
     {
       "university": "Akademia e Forcave te Armatosura",
@@ -1657,6 +1662,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Tirana Business University",
+          "users": 1
         }
       ],
       "users": [
@@ -1678,6 +1687,10 @@
         },
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Glen Shtino",
           "challenge_points_earned": 100
         }
       ]
