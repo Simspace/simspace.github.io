@@ -83,7 +83,7 @@
     {
       "full_name": "Almir Hasanbashaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 1800
+      "total_points": 1900
     },
     {
       "full_name": "Ersi Dedaj",
@@ -319,7 +319,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1800,
+      "total_points": 1900,
       "num_users": 1
     },
     {
@@ -3798,6 +3798,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -3863,6 +3867,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
