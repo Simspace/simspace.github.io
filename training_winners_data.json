@@ -56,13 +56,13 @@
       "total_points": 2300
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 2150
-    },
-    {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
+      "total_points": 2250
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 2150
     },
     {
@@ -308,12 +308,12 @@
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 2150,
+      "university": "UAMD 2",
+      "total_points": 2250,
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
+      "university": "Herman Gmeiner",
       "total_points": 2150,
       "num_users": 1
     },
@@ -3802,6 +3802,10 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -3871,6 +3875,10 @@
         },
         {
           "full_name": "Almir Hasanbashaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
