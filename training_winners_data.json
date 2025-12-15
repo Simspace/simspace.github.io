@@ -76,9 +76,9 @@
       "total_points": 2000
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1800
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 1850
     },
     {
       "full_name": "Ersi Dedaj",
@@ -86,9 +86,9 @@
       "total_points": 1800
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 1750
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1800
     },
     {
       "full_name": "Ester K\u00ebna\u00e7i",
@@ -308,13 +308,13 @@
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1800,
+      "university": "UAMD 2",
+      "total_points": 1850,
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
-      "total_points": 1750,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 1800,
       "num_users": 1
     },
     {
@@ -4953,6 +4953,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -5014,6 +5018,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
