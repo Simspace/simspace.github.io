@@ -26,14 +26,14 @@
       "total_points": 3750
     },
     {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Mateo Nezha",
+      "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 3400
     },
     {
-      "full_name": "Mateo Nezha",
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 3100
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 3400
     },
     {
       "full_name": "Tony Tatazi",
@@ -278,6 +278,11 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Europian i Tiran\u00ebs",
+      "total_points": 3400,
+      "num_users": 1
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3350,
       "num_users": 3
@@ -286,11 +291,6 @@
       "university": "Harry Fultz",
       "total_points": 3250,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Europian i Tiran\u00ebs",
-      "total_points": 3100,
-      "num_users": 1
     },
     {
       "university": "Universiteti i Korces",
@@ -7430,6 +7430,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Europian i Tiran\u00ebs",
+          "users": 1
         }
       ],
       "users": [
@@ -7459,6 +7463,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Mateo Nezha",
           "challenge_points_earned": 300
         }
       ]
