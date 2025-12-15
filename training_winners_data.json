@@ -106,14 +106,14 @@
       "total_points": 1450
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 1450
+    },
+    {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
       "total_points": 1400
-    },
-    {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 1350
     },
     {
       "full_name": "unejskotoni@gmail.com",
@@ -314,7 +314,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 1350,
+      "total_points": 1450,
       "num_users": 1
     },
     {
@@ -6720,6 +6720,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -6781,6 +6785,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
