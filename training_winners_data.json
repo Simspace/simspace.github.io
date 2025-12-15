@@ -61,14 +61,14 @@
       "total_points": 2300
     },
     {
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 2200
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 2150
-    },
-    {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2050
     },
     {
       "full_name": "Aldo Ndoni",
@@ -76,14 +76,14 @@
       "total_points": 2050
     },
     {
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 2050
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 2000
-    },
-    {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1900
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -313,13 +313,13 @@
       "num_users": 1
     },
     {
-      "university": "Herman Gmeiner",
-      "total_points": 2150,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 2200,
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 1900,
+      "university": "Herman Gmeiner",
+      "total_points": 2150,
       "num_users": 1
     },
     {
@@ -7307,6 +7307,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -7352,6 +7356,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 300
         }
       ]
