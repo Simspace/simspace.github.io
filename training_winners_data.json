@@ -173,7 +173,7 @@
     {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
-      "total_points": 250
+      "total_points": 350
     },
     {
       "full_name": "Selim Cela",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Luarasi",
-      "total_points": 5100,
+      "total_points": 5200,
       "num_users": 6
     },
     {
@@ -5583,6 +5583,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Luarasi",
+          "users": 1
         }
       ],
       "users": [
@@ -5608,6 +5612,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Endi Rizvani",
           "challenge_points_earned": 100
         }
       ]
