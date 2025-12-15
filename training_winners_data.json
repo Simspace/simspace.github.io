@@ -86,14 +86,14 @@
       "total_points": 1800
     },
     {
-      "full_name": "Ester K\u00ebna\u00e7i",
-      "university": "Luarasi",
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
       "total_points": 1650
     },
     {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 1550
+      "full_name": "Ester K\u00ebna\u00e7i",
+      "university": "Luarasi",
+      "total_points": 1650
     },
     {
       "full_name": "Fatbardh Rama",
@@ -314,7 +314,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 1550,
+      "total_points": 1650,
       "num_users": 1
     },
     {
@@ -6153,6 +6153,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -6218,6 +6222,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
