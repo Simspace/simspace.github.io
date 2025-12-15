@@ -78,7 +78,7 @@
     {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
-      "total_points": 1850
+      "total_points": 1900
     },
     {
       "full_name": "Almir Hasanbashaj",
@@ -314,7 +314,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 1850,
+      "total_points": 1900,
       "num_users": 1
     },
     {
@@ -7024,6 +7024,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -7073,6 +7077,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 50
         }
       ]
