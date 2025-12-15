@@ -18,7 +18,7 @@
     {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
-      "total_points": 3900
+      "total_points": 4000
     },
     {
       "full_name": "Tergita Sulaj",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 4800,
+      "total_points": 4900,
       "num_users": 2
     },
     {
@@ -6014,6 +6014,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -6031,6 +6035,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Nea Metohu",
           "challenge_points_earned": 100
         }
       ]
