@@ -91,6 +91,11 @@
       "total_points": 1650
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 1550
+    },
+    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1500
@@ -103,11 +108,6 @@
     {
       "full_name": "Klevisa Aliaj",
       "university": "Tirana Business University",
-      "total_points": 1450
-    },
-    {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
       "total_points": 1450
     },
     {
@@ -314,7 +314,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 1450,
+      "total_points": 1550,
       "num_users": 1
     },
     {
@@ -5332,6 +5332,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -5397,6 +5401,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
