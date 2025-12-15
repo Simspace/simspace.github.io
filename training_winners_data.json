@@ -46,9 +46,9 @@
       "total_points": 2600
     },
     {
-      "full_name": "Saimir",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 2350
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 2400
     },
     {
       "full_name": "Klaudio Toska",
@@ -56,9 +56,9 @@
       "total_points": 2350
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 2300
+      "full_name": "Saimir",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 2350
     },
     {
       "full_name": "Tony Tatazi",
@@ -303,8 +303,8 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
-      "total_points": 2350,
+      "university": "Mediterranean University- UMSH",
+      "total_points": 2400,
       "num_users": 1
     },
     {
@@ -313,8 +313,8 @@
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 2300,
+      "university": "Universiteti i Elbasanit",
+      "total_points": 2350,
       "num_users": 1
     },
     {
@@ -4927,6 +4927,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -4976,6 +4980,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
