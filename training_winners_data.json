@@ -61,13 +61,13 @@
       "total_points": 2150
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
-      "total_points": 2050
-    },
-    {
       "full_name": "Klaudio Toska",
       "university": "UAMD 2",
+      "total_points": 2150
+    },
+    {
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
       "total_points": 2050
     },
     {
@@ -314,7 +314,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 2050,
+      "total_points": 2150,
       "num_users": 1
     },
     {
@@ -4867,6 +4867,10 @@
         {
           "name": "Universiteti Europian i Tiran\u00ebs",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -4912,6 +4916,10 @@
         },
         {
           "full_name": "Mateo Nezha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
