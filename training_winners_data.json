@@ -28,7 +28,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3250
+      "total_points": 3350
     },
     {
       "full_name": "Mateo Nezha",
@@ -238,6 +238,11 @@
       "num_users": 3
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 5850,
+      "num_users": 3
+    },
+    {
       "university": "Akademia e Forcave te Armatosura",
       "total_points": 5800,
       "num_users": 8
@@ -245,11 +250,6 @@
     {
       "university": "Universiteti New York Tirana",
       "total_points": 5800,
-      "num_users": 3
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 5750,
       "num_users": 3
     },
     {
@@ -6539,6 +6539,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -6556,6 +6560,10 @@
         },
         {
           "full_name": "Klevisa Aliaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
