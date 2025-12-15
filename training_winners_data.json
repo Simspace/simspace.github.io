@@ -51,14 +51,14 @@
       "total_points": 2350
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 2350
+    },
+    {
       "full_name": "Tony Tatazi",
       "university": "Harry Fultz",
       "total_points": 2300
-    },
-    {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 2250
     },
     {
       "full_name": "Enxhi Kala",
@@ -309,7 +309,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 2250,
+      "total_points": 2350,
       "num_users": 1
     },
     {
@@ -4456,6 +4456,10 @@
         {
           "name": "Tirana Business University",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -4521,6 +4525,10 @@
         },
         {
           "full_name": "Orlin Balliu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
