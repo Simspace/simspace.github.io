@@ -46,14 +46,14 @@
       "total_points": 2800
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Almir Hasanbashaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 2600
     },
     {
-      "full_name": "Almir Hasanbashaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 2500
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 2600
     },
     {
       "full_name": "Abdurrahman Seitaj",
@@ -298,13 +298,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Shkodres",
+      "university": "Mediterranean University- UMSH",
       "total_points": 2600,
       "num_users": 1
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 2500,
+      "university": "Universiteti i Shkodres",
+      "total_points": 2600,
       "num_users": 1
     },
     {
@@ -6330,6 +6330,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -6399,6 +6403,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Almir Hasanbashaj",
           "challenge_points_earned": 100
         }
       ]
