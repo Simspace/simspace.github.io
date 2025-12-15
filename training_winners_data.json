@@ -78,7 +78,7 @@
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 2100
+      "total_points": 2150
     },
     {
       "full_name": "Aldo Ndoni",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 4500,
+      "total_points": 4550,
       "num_users": 2
     },
     {
@@ -5330,6 +5330,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -5383,6 +5387,10 @@
         },
         {
           "full_name": "Tony Tatazi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
