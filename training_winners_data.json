@@ -123,7 +123,7 @@
     {
       "full_name": "Jonalda Gjoka ",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1200
+      "total_points": 1300
     },
     {
       "full_name": "Leonard Dani",
@@ -324,7 +324,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1200,
+      "total_points": 1300,
       "num_users": 1
     },
     {
@@ -2568,6 +2568,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -2645,6 +2649,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
