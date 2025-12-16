@@ -11,14 +11,14 @@
       "total_points": 4550
     },
     {
+      "full_name": "Arkel Lahi",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 4350
+    },
+    {
       "full_name": "Nea Metohu",
       "university": "Epoka University",
       "total_points": 4200
-    },
-    {
-      "full_name": "Arkel Lahi",
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 4150
     },
     {
       "full_name": "Tergita Sulaj",
@@ -238,14 +238,14 @@
       "num_users": 3
     },
     {
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 6000,
+      "num_users": 8
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 6000,
       "num_users": 3
-    },
-    {
-      "university": "Akademia e Forcave te Armatosura",
-      "total_points": 5800,
-      "num_users": 8
     },
     {
       "university": "Universiteti New York Tirana",
@@ -5066,6 +5066,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -5131,6 +5135,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
@@ -6050,6 +6058,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Akademia e Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -6071,6 +6083,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Arkel Lahi",
           "challenge_points_earned": 100
         }
       ]
