@@ -56,6 +56,11 @@
       "total_points": 2600
     },
     {
+      "full_name": "Klaudio Toska",
+      "university": "UAMD 2",
+      "total_points": 2550
+    },
+    {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
       "total_points": 2400
@@ -63,11 +68,6 @@
     {
       "full_name": "Saimir",
       "university": "Universiteti i Elbasanit",
-      "total_points": 2350
-    },
-    {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
       "total_points": 2350
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 2350,
+      "total_points": 2550,
       "num_users": 1
     },
     {
@@ -6097,6 +6097,10 @@
         {
           "name": "Epoka University",
           "users": 2
+        },
+        {
+          "name": "UAMD 2",
+          "users": 2
         }
       ],
       "users": [
@@ -6133,6 +6137,10 @@
           "challenge_points_earned": 100
         },
         {
+          "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
           "full_name": "Flavio",
           "challenge_points_earned": 100
         },
@@ -6162,6 +6170,10 @@
         },
         {
           "full_name": "Nea Metohu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Klaudio Toska",
           "challenge_points_earned": 100
         }
       ]
