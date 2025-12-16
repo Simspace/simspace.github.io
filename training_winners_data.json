@@ -186,14 +186,14 @@
       "total_points": 350
     },
     {
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
+      "total_points": 300
+    },
+    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
-    },
-    {
-      "full_name": "Bergit Haveraj ",
-      "university": "Harry Fultz",
-      "total_points": 200
     },
     {
       "full_name": "Gesa Comacka",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 3450,
+      "total_points": 3550,
       "num_users": 3
     },
     {
@@ -3586,6 +3586,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3623,6 +3627,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Bergit Haveraj ",
           "challenge_points_earned": 100
         }
       ]
