@@ -81,13 +81,13 @@
       "total_points": 2150
     },
     {
-      "full_name": "Aldo Ndoni",
-      "university": "Luarasi",
+      "full_name": "Simeon Flamuraj",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 2050
     },
     {
-      "full_name": "Simeon Flamuraj",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Aldo Ndoni",
+      "university": "Luarasi",
       "total_points": 2050
     },
     {
@@ -101,13 +101,18 @@
       "total_points": 1650
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1500
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1500
+    },
+    {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1500
     },
     {
@@ -116,23 +121,18 @@
       "total_points": 1450
     },
     {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1400
-    },
-    {
       "full_name": "unejskotoni@gmail.com",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1300
     },
     {
-      "full_name": "Leonard Dani",
-      "university": "42 Coding",
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1150
     },
     {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Leonard Dani",
+      "university": "42 Coding",
       "total_points": 1150
     },
     {
@@ -189,6 +189,11 @@
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
+    },
+    {
+      "full_name": "Bergit Haveraj ",
+      "university": "Harry Fultz",
+      "total_points": 200
     },
     {
       "full_name": "Gesa Comacka",
@@ -278,6 +283,11 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 3450,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Europian i Tiran\u00ebs",
       "total_points": 3400,
       "num_users": 1
@@ -286,11 +296,6 @@
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 3350,
       "num_users": 3
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 3250,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Korces",
@@ -324,7 +329,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1400,
+      "total_points": 1500,
       "num_users": 1
     },
     {
@@ -3299,6 +3304,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3372,6 +3381,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
@@ -6221,6 +6234,10 @@
         {
           "name": "UAMD 2",
           "users": 2
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 2
         }
       ],
       "users": [
@@ -6261,6 +6278,10 @@
           "challenge_points_earned": 100
         },
         {
+          "full_name": "Bergit Haveraj ",
+          "challenge_points_earned": 100
+        },
+        {
           "full_name": "Flavio",
           "challenge_points_earned": 100
         },
@@ -6294,6 +6315,10 @@
         },
         {
           "full_name": "Klaudio Toska",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Bergit Haveraj ",
           "challenge_points_earned": 100
         }
       ]
