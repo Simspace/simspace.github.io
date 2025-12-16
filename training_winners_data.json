@@ -96,14 +96,14 @@
       "total_points": 1800
     },
     {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 1700
+    },
+    {
       "full_name": "Ester K\u00ebna\u00e7i",
       "university": "Luarasi",
       "total_points": 1650
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1600
     },
     {
       "full_name": "Fatbardh Rama",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1600,
+      "total_points": 1700,
       "num_users": 1
     },
     {
@@ -5187,6 +5187,10 @@
         {
           "name": "Akademia e Forcave te Armatosura",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -5256,6 +5260,10 @@
         },
         {
           "full_name": "Arkel Lahi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
