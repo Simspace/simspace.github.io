@@ -166,8 +166,8 @@
       "total_points": 450
     },
     {
-      "full_name": "Flavio",
-      "university": "Akademia e Forcave te Armatosura",
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 400
     },
     {
@@ -176,14 +176,14 @@
       "total_points": 400
     },
     {
+      "full_name": "Flavio",
+      "university": "Akademia e Forcave te Armatosura",
+      "total_points": 400
+    },
+    {
       "full_name": "Endi Rizvani",
       "university": "Luarasi",
       "total_points": 350
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 300
     },
     {
       "full_name": "Selim Cela",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 300,
+      "total_points": 400,
       "num_users": 1
     }
   ],
@@ -416,6 +416,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -493,6 +497,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
@@ -7753,6 +7761,7 @@
     "16": 1.0,
     "17": 1.0,
     "18": 1.0,
-    "19": 1.0
+    "19": 1.0,
+    "20": 1.0
   }
 }
