@@ -121,6 +121,11 @@
       "total_points": 1300
     },
     {
+      "full_name": "Lida Filipi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1150
+    },
+    {
       "full_name": "Leonard Dani",
       "university": "42 Coding",
       "total_points": 1150
@@ -128,11 +133,6 @@
     {
       "full_name": "Elisa Zala",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1100
-    },
-    {
-      "full_name": "Lida Filipi",
-      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 1100
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 5150,
+      "total_points": 5200,
       "num_users": 4
     },
     {
@@ -5749,6 +5749,10 @@
         {
           "name": "Luarasi",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -5774,6 +5778,10 @@
         },
         {
           "full_name": "Endi Rizvani",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Lida Filipi",
           "challenge_points_earned": 50
         }
       ]
