@@ -151,14 +151,14 @@
       "total_points": 850
     },
     {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 800
+    },
+    {
       "full_name": "Samantha Bilbili",
       "university": "Luarasi",
       "total_points": 750
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 700
     },
     {
       "full_name": "Adelina Paskalaj",
@@ -329,7 +329,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 700,
+      "total_points": 800,
       "num_users": 1
     }
   ],
@@ -1138,6 +1138,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1207,6 +1211,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 100
         }
       ]
