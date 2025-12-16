@@ -181,6 +181,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Jonalda Gjoka ",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 250
+    },
+    {
       "full_name": "Selim Cela",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
@@ -188,11 +193,6 @@
     {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Jonalda Gjoka ",
-      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 200
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 1
     }
   ],
@@ -5753,6 +5753,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -5782,6 +5786,10 @@
         },
         {
           "full_name": "Lida Filipi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jonalda Gjoka ",
           "challenge_points_earned": 50
         }
       ]
