@@ -1,9 +1,254 @@
 {
     "users": [
         {
-            "user_name": "SD Connor",
-            "total_points": "35",
-            "latest_answer": "September 17, 2019, 3:01 PM"
+            "user_name": "Sam Haskins",
+            "total_points": "6,500",
+            "latest_answer": "November 21, 2025, 6:00 PM"
+        },
+        {
+            "user_name": "Connar Akkermans",
+            "total_points": "6,500",
+            "latest_answer": "November 21, 2025, 6:00 PM"
+        },
+        {
+            "user_name": "A B",
+            "total_points": "6,500",
+            "latest_answer": "November 21, 2025, 7:07 PM"
+        },
+        {
+            "user_name": "Will Wightman",
+            "total_points": "6,500",
+            "latest_answer": "November 21, 2025, 9:11 PM"
+        },
+        {
+            "user_name": "Cameron Davis",
+            "total_points": "6,000",
+            "latest_answer": "November 21, 2025, 3:58 PM"
+        },
+        {
+            "user_name": "Bennett Panesar",
+            "total_points": "5,500",
+            "latest_answer": "November 21, 2025, 6:32 PM"
+        },
+        {
+            "user_name": "James Buck",
+            "total_points": "5,500",
+            "latest_answer": "November 21, 2025, 8:26 PM"
+        },
+        {
+            "user_name": "Willoughby Peppler-Mann",
+            "total_points": "5,000",
+            "latest_answer": "November 21, 2025, 6:03 PM"
+        },
+        {
+            "user_name": "Stephen McKeon",
+            "total_points": "4,500",
+            "latest_answer": "November 20, 2025, 9:39 PM"
+        },
+        {
+            "user_name": "Alec Legere",
+            "total_points": "4,500",
+            "latest_answer": "November 20, 2025, 9:39 PM"
+        },
+        {
+            "user_name": "Dustin Herlihy",
+            "total_points": "4,500",
+            "latest_answer": "November 21, 2025, 4:32 PM"
+        },
+        {
+            "user_name": "Andrew",
+            "total_points": "4,500",
+            "latest_answer": "November 21, 2025, 5:40 PM"
+        },
+        {
+            "user_name": "Felipe Ventura ",
+            "total_points": "4,500",
+            "latest_answer": "November 21, 2025, 6:10 PM"
+        },
+        {
+            "user_name": "Ali Noman",
+            "total_points": "4,500",
+            "latest_answer": "November 21, 2025, 8:04 PM"
+        },
+        {
+            "user_name": "Bradley Holden",
+            "total_points": "4,000",
+            "latest_answer": "November 21, 2025, 4:54 PM"
+        },
+        {
+            "user_name": "Willem Gooderham",
+            "total_points": "4,000",
+            "latest_answer": "November 21, 2025, 8:08 PM"
+        },
+        {
+            "user_name": "Jonathan",
+            "total_points": "4,000",
+            "latest_answer": "November 21, 2025, 9:11 PM"
+        },
+        {
+            "user_name": "Nicolas Hawrysh",
+            "total_points": "3,500",
+            "latest_answer": "November 21, 2025, 2:14 PM"
+        },
+        {
+            "user_name": "Nicholas Dilmaghani",
+            "total_points": "3,500",
+            "latest_answer": "November 21, 2025, 7:31 PM"
+        },
+        {
+            "user_name": "Tony Hawkson",
+            "total_points": "3,500",
+            "latest_answer": "November 21, 2025, 7:33 PM"
+        },
+        {
+            "user_name": "ishani mehta",
+            "total_points": "3,500",
+            "latest_answer": "November 21, 2025, 7:56 PM"
+        },
+        {
+            "user_name": "Janarthana Sivaraman",
+            "total_points": "3,500",
+            "latest_answer": "November 21, 2025, 9:14 PM"
+        },
+        {
+            "user_name": "Cerys Vaylen",
+            "total_points": "3,000",
+            "latest_answer": "November 20, 2025, 8:26 PM"
+        },
+        {
+            "user_name": "Abdulwahaab Ahmed",
+            "total_points": "3,000",
+            "latest_answer": "November 21, 2025, 3:24 PM"
+        },
+        {
+            "user_name": "Kim Le",
+            "total_points": "3,000",
+            "latest_answer": "November 21, 2025, 5:14 PM"
+        },
+        {
+            "user_name": "Jason Gervais",
+            "total_points": "3,000",
+            "latest_answer": "November 21, 2025, 5:41 PM"
+        },
+        {
+            "user_name": "Jon Littig",
+            "total_points": "2,500",
+            "latest_answer": "May 14, 2025, 8:08 PM"
+        },
+        {
+            "user_name": "Ethan Houlahan",
+            "total_points": "2,500",
+            "latest_answer": "November 21, 2025, 2:00 PM"
+        },
+        {
+            "user_name": "Chris Donaldson",
+            "total_points": "2,500",
+            "latest_answer": "November 21, 2025, 2:57 PM"
+        },
+        {
+            "user_name": "Noah Mank",
+            "total_points": "2,500",
+            "latest_answer": "November 21, 2025, 6:17 PM"
+        },
+        {
+            "user_name": "Jacoby Saumier",
+            "total_points": "2,500",
+            "latest_answer": "November 21, 2025, 6:26 PM"
+        },
+        {
+            "user_name": "Diego Gonzalez",
+            "total_points": "2,500",
+            "latest_answer": "November 21, 2025, 6:33 PM"
+        },
+        {
+            "user_name": "Daniel Dias",
+            "total_points": "2,500",
+            "latest_answer": "November 21, 2025, 7:55 PM"
+        },
+        {
+            "user_name": "IDK",
+            "total_points": "2,000",
+            "latest_answer": "November 20, 2025, 5:01 PM"
+        },
+        {
+            "user_name": "Louis",
+            "total_points": "1,500",
+            "latest_answer": "November 21, 2025, 2:43 PM"
+        },
+        {
+            "user_name": "Jonathan Bussey",
+            "total_points": "1,500",
+            "latest_answer": "November 21, 2025, 5:49 PM"
+        },
+        {
+            "user_name": "NetCat Cat",
+            "total_points": "1,500",
+            "latest_answer": "November 21, 2025, 7:52 PM"
+        },
+        {
+            "user_name": "Brian Fife",
+            "total_points": "1,500",
+            "latest_answer": "November 21, 2025, 8:00 PM"
+        },
+        {
+            "user_name": "Joe M",
+            "total_points": "1,500",
+            "latest_answer": "November 21, 2025, 8:54 PM"
+        },
+        {
+            "user_name": "Brandon Proffer",
+            "total_points": "1,000",
+            "latest_answer": "May 14, 2025, 2:42 AM"
+        },
+        {
+            "user_name": "Jose Sanchez",
+            "total_points": "1,000",
+            "latest_answer": "November 20, 2025, 6:28 PM"
+        },
+        {
+            "user_name": "Eric Assadi",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 3:37 PM"
+        },
+        {
+            "user_name": "Christopher Davis ",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 5:37 PM"
+        },
+        {
+            "user_name": "Matthieu Fournier",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 5:50 PM"
+        },
+        {
+            "user_name": "Adam Friedman",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 5:51 PM"
+        },
+        {
+            "user_name": "WIlliam Vigneron",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 6:32 PM"
+        },
+        {
+            "user_name": "Steven Brown",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 6:33 PM"
+        },
+        {
+            "user_name": "Mathieu Charron",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 7:55 PM"
+        },
+        {
+            "user_name": "Jason Kurczak",
+            "total_points": "1,000",
+            "latest_answer": "November 21, 2025, 8:39 PM"
+        },
+        {
+            "user_name": "Duffy Angevine",
+            "total_points": "500",
+            "latest_answer": "November 21, 2025, 8:24 PM"
         }
     ]
 }
