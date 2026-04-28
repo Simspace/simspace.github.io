@@ -1,6 +1,11 @@
 {
     "users": [
         {
+            "user_name": "Aveek Das",
+            "total_points": "1,500",
+            "latest_answer": "April 28, 2026, 11:41 PM"
+        },
+        {
             "user_name": "Lloyd Black",
             "total_points": "1,500",
             "latest_answer": "April 28, 2026, 8:47 PM"
@@ -19,11 +24,6 @@
             "user_name": "Sai Sathvik",
             "total_points": "1,300",
             "latest_answer": "April 28, 2026, 9:56 PM"
-        },
-        {
-            "user_name": "Aveek Das",
-            "total_points": "1,200",
-            "latest_answer": "April 28, 2026, 11:36 PM"
         },
         {
             "user_name": "Elio Sanabria",
