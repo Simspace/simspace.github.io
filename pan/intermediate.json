@@ -11,14 +11,14 @@
             "latest_answer": "April 28, 2026, 5:50 PM"
         },
         {
+            "user_name": "Lloyd Black",
+            "total_points": "700",
+            "latest_answer": "April 28, 2026, 8:16 PM"
+        },
+        {
             "user_name": "Luke Leveque",
             "total_points": "500",
             "latest_answer": "April 28, 2026, 8:12 PM"
-        },
-        {
-            "user_name": "Lloyd Black",
-            "total_points": "400",
-            "latest_answer": "April 28, 2026, 8:10 PM"
         }
     ]
 }
