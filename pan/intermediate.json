@@ -1,6 +1,11 @@
 {
     "users": [
         {
+            "user_name": "Lloyd Black",
+            "total_points": "1,500",
+            "latest_answer": "April 28, 2026, 8:47 PM"
+        },
+        {
             "user_name": "Cory Courtney",
             "total_points": "1,500",
             "latest_answer": "April 28, 2026, 3:48 PM"
@@ -9,11 +14,6 @@
             "user_name": "Luke Leveque",
             "total_points": "1,400",
             "latest_answer": "April 28, 2026, 8:40 PM"
-        },
-        {
-            "user_name": "Lloyd Black",
-            "total_points": "1,300",
-            "latest_answer": "April 28, 2026, 8:42 PM"
         },
         {
             "user_name": "Elio Sanabria",
