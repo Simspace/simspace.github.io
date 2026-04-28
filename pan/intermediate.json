@@ -1,3 +1,9 @@
 {
-    "users": []
+    "users": [
+        {
+            "user_name": "Cory Courtney",
+            "total_points": "200",
+            "latest_answer": "April 28, 2026, 3:02 PM"
+        }
+    ]
 }
