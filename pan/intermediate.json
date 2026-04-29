@@ -31,14 +31,14 @@
             "latest_answer": "April 28, 2026, 5:50 PM"
         },
         {
+            "user_name": "Cleveland McCurry",
+            "total_points": "800",
+            "latest_answer": "April 29, 2026, 3:12 PM"
+        },
+        {
             "user_name": "Osher Jacob",
             "total_points": "700",
             "latest_answer": "April 28, 2026, 9:19 PM"
-        },
-        {
-            "user_name": "Cleveland McCurry",
-            "total_points": "500",
-            "latest_answer": "April 29, 2026, 3:06 PM"
         }
     ]
 }
