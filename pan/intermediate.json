@@ -43,17 +43,17 @@
         {
             "user_name": "Rob Sutton",
             "total_points": "900",
-            "latest_answer": "April 30, 2026, 3:14 PM"
+            "latest_answer": "April 30, 2026, 3:18 PM"
+        },
+        {
+            "user_name": "Shawn Westfall",
+            "total_points": "900",
+            "latest_answer": "April 30, 2026, 3:22 PM"
         },
         {
             "user_name": "Osher Jacob",
             "total_points": "700",
             "latest_answer": "April 28, 2026, 9:19 PM"
-        },
-        {
-            "user_name": "Shawn Westfall",
-            "total_points": "600",
-            "latest_answer": "April 30, 2026, 3:16 PM"
         }
     ]
 }
