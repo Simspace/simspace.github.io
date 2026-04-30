@@ -33,7 +33,7 @@
         {
             "user_name": "Joseph Ganter",
             "total_points": "1,400",
-            "latest_answer": "April 30, 2026, 8:43 PM"
+            "latest_answer": "April 30, 2026, 8:46 PM"
         },
         {
             "user_name": "Sai Sathvik",
@@ -66,14 +66,14 @@
             "latest_answer": "April 30, 2026, 6:53 PM"
         },
         {
+            "user_name": "Henry Chen",
+            "total_points": "900",
+            "latest_answer": "April 30, 2026, 8:49 PM"
+        },
+        {
             "user_name": "Osher Jacob",
             "total_points": "700",
             "latest_answer": "April 28, 2026, 9:19 PM"
-        },
-        {
-            "user_name": "Henry Chen",
-            "total_points": "600",
-            "latest_answer": "April 30, 2026, 8:45 PM"
         }
     ]
 }
