@@ -71,14 +71,14 @@
             "latest_answer": "April 30, 2026, 6:53 PM"
         },
         {
+            "user_name": "Aneesha More",
+            "total_points": "800",
+            "latest_answer": "April 30, 2026, 9:22 PM"
+        },
+        {
             "user_name": "Osher Jacob",
             "total_points": "700",
             "latest_answer": "April 28, 2026, 9:19 PM"
-        },
-        {
-            "user_name": "Aneesha More",
-            "total_points": "500",
-            "latest_answer": "April 30, 2026, 9:13 PM"
         }
     ]
 }
