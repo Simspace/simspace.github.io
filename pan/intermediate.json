@@ -31,9 +31,19 @@
             "latest_answer": "April 30, 2026, 3:57 PM"
         },
         {
+            "user_name": "Joseph Ganter",
+            "total_points": "1,400",
+            "latest_answer": "April 30, 2026, 8:43 PM"
+        },
+        {
             "user_name": "Sai Sathvik",
             "total_points": "1,400",
             "latest_answer": "April 28, 2026, 9:56 PM"
+        },
+        {
+            "user_name": "Tom Marsden",
+            "total_points": "1,300",
+            "latest_answer": "April 30, 2026, 8:44 PM"
         },
         {
             "user_name": "Alex Hinchliffe",
@@ -46,11 +56,6 @@
             "latest_answer": "April 30, 2026, 3:58 PM"
         },
         {
-            "user_name": "Joseph Ganter",
-            "total_points": "1,200",
-            "latest_answer": "April 30, 2026, 8:40 PM"
-        },
-        {
             "user_name": "Elio Sanabria",
             "total_points": "1,100",
             "latest_answer": "April 28, 2026, 5:50 PM"
@@ -61,14 +66,14 @@
             "latest_answer": "April 30, 2026, 6:53 PM"
         },
         {
-            "user_name": "Tom Marsden",
-            "total_points": "900",
-            "latest_answer": "April 30, 2026, 8:33 PM"
-        },
-        {
             "user_name": "Osher Jacob",
             "total_points": "700",
             "latest_answer": "April 28, 2026, 9:19 PM"
+        },
+        {
+            "user_name": "Henry Chen",
+            "total_points": "600",
+            "latest_answer": "April 30, 2026, 8:45 PM"
         }
     ]
 }
