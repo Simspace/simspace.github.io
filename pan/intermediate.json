@@ -62,8 +62,13 @@
         },
         {
             "user_name": "Tom Marsden",
-            "total_points": "100",
-            "latest_answer": "April 30, 2026, 8:09 PM"
+            "total_points": "400",
+            "latest_answer": "April 30, 2026, 8:13 PM"
+        },
+        {
+            "user_name": "Joseph Ganter",
+            "total_points": "400",
+            "latest_answer": "April 30, 2026, 8:14 PM"
         }
     ]
 }
