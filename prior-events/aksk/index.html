@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Cybersecurity Marathon Leaderboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 2rem;
+      font-family: 'Inter', sans-serif;
+      background-color: #0d1117;
+      color: #f0f6fc;
+    }
+
+    h1, h2 {
+      text-align: center;
+      color: #58a6ff;
+      margin: 0 0 1rem;
+    }
+
+    h1 a {
+      color: #58a6ff;
+    }
+
+    h3 {
+      text-align: center;
+      color: #ffffff;
+      margin: 0 0 1rem;
+    }
+
+    .scoreboard {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+
+    .score-card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 0.75rem;
+      padding: 1.5rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .ranking-cards {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .rank-card {
+      background-color: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 0.5rem;
+      padding: 0.75rem 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .rank-card.medal-1 { border-color: gold; box-shadow: 0 0 10px gold; }
+    .rank-card.medal-2 { border-color: silver; box-shadow: 0 0 10px silver; }
+    .rank-card.medal-3 { border-color: #cd7f32; box-shadow: 0 0 10px #cd7f32; }
+
+    .rank-card.placeholder {
+      font-style: italic;
+      opacity: 0.65;
+      background-color: #12161d;
+      text-align: center;
+    }
+
+    .columns {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 2rem;
+      margin-top: 3rem;
+    }
+
+    .column {
+      background: #161b22;
+      padding: 1.5rem;
+      border-radius: 0.75rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .tile-hasclaims {
+      background-color: #313740; /* standard look */
+      border: 1px solid #30363d;
+    }
+
+    .tile-noclaims {
+      background-color: #1b2025;
+      border: 1px solid #30363d;
+    }
+
+    .tile-noclaims button {
+      opacity: 0.7;
+    }
+
+    .tile {
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 0.5rem;
+      position: relative;
+    }
+
+    .tile p {
+      color: #d8d8d8;
+      text-decoration: none;
+      margin-top: 0; 
+      margin-bottom: 0; 
+    }
+
+
+
+    .badge {
+      background: #238636;
+      color: white;
+      padding: 0.25rem 0.6rem;
+      font-size: 0.75rem;
+      border-radius: 0.25rem;
+      margin-left: 0.5rem;
+    }
+
+    .stats-button {
+      margin-top: 0.5rem;
+      margin-right: 0.5rem;
+      background-color: #1f6feb;
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 0.4rem;
+      cursor: pointer;
+    }
+
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.6);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+    }
+
+    .modal-content {
+      background: #161b22;
+      border: 1px solid #30363d;
+      padding: 2rem;
+      border-radius: 0.75rem;
+      width: 90%;
+      max-width: 500px;
+      color: #f0f6fc;
+    }
+
+    .modal-content h2 {
+      margin-top: 0;
+      color: #58a6ff;
+    }
+
+    .modal-content ul {
+      padding-left: 1rem;
+    }
+
+    .modal-content button {
+      margin-top: 1rem;
+      background: #30363d;
+      color: #f0f6fc;
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: 0.4rem;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <div style="width: 100%; display: flex; justify-content: center;">
+    <div style="display: flex; align-items: center;">
+      <img src="logo.png" alt="Logo" style="height: 60px; margin-right: 15px; margin-bottom: 16px;">
+      <h1><a href="/">Cybersecurity Marathon Leaderboard</a></h1>
+      <img src="logo.png" alt="Logo" style="height: 60px; margin-left: 15px; margin-bottom: 16px;">
+    </div>
+  </div>
+
+
+  <div class="scoreboard">
+    <div class="score-card">
+      <h2>
+        <a href="/users.html"style="color: #58a6ff; text-decoration: none;">
+          🏆 Top Users
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" style="margin-left: 4px;" fill="#58a6ff" viewBox="0 0 24 24">
+              <path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3z"/>
+              <path d="M5 5h9V3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-9h-2v9H5V5z"/>
+          </svg>    
+        </a>    
+      </h2>
+      <div id="top-users" class="ranking-cards"></div>
+    </div>
+    <div class="score-card">
+      <h2>
+        <a href="/universities.html"style="color: #58a6ff; text-decoration: none;">
+        🏫 Top Universities
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" style="margin-left: 4px;" fill="#58a6ff" viewBox="0 0 24 24">
+            <path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3z"/>
+            <path d="M5 5h9V3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-9h-2v9H5V5z"/>
+        </svg>  
+        </a>
+      </h2>
+      <div id="top-universities" class="ranking-cards"></div>
+    </div>
+  </div>
+
+  <!-- Filter Row -->
+    <div class="column" style="margin-top: 2rem; margin-bottom: 2rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+      <input id="user-search" type="text" placeholder="Search by user..." style="padding: 0.5rem; border-radius: 0.4rem; border: 1px solid #30363d; background-color: #0d1117; color: #f0f6fc; width: 200px;">
+      <input id="university-search" type="text" placeholder="Search by university..." style="padding: 0.5rem; border-radius: 0.4rem; border: 1px solid #30363d; background-color: #0d1117; color: #f0f6fc; width: 200px;">
+      <input id="module-search" type="text" placeholder="Search by module name..." style="padding: 0.5rem; border-radius: 0.4rem; border: 1px solid #30363d; background-color: #0d1117; color: #f0f6fc; width: 200px;">
+      <select id="claimed-filter" style="padding: 0.5rem; border-radius: 0.4rem; border: 1px solid #30363d; background-color: #0d1117; color: #f0f6fc;">
+        <option value="all">All Modules</option>
+        <option value="claimed">Has Claims</option>
+        <option value="unclaimed">Unclaimed</option>
+      </select>
+    </div>
+
+
+<!-- <div style="overflow-x: auto; margin: 2rem 0;">
+  <h2 style="text-align: center; color: #58a6ff; margin-bottom: 1rem;">Challenge Scoring Guide</h2>
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background-color: #161b22;">
+        <th style="padding: 0.75rem; border: 1px solid #30363d;">Level</th>
+        <th style="padding: 0.75rem; border: 1px solid #30363d;">Maximum Points</th>
+        <th style="padding: 0.75rem; border: 1px solid #30363d;">Rank 1</th>
+        <th style="padding: 0.75rem; border: 1px solid #30363d;">Rank 2</th>
+        <th style="padding: 0.75rem; border: 1px solid #30363d;">Rank 3</th>
+        <th style="padding: 0.75rem; border: 1px solid #30363d;">Rank 4+</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">Foundational</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">50</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">50</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">35</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">20</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">5</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">Intermediate</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">100</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">100</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">70</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">40</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">10</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">Advanced</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">300</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">300</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">210</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">120</td>
+        <td style="padding: 0.75rem; border: 1px solid #30363d;">30</td>
+      </tr>
+    </tbody>
+  </table>
+</div> -->
+
+  <div class="columns" id="difficulty-columns"></div>
+
+  <!-- Modal -->
+  <div class="modal" id="stats-modal">
+    <div class="modal-content">
+      <h2 id="modal-title">Stats</h2>
+      <ul id="modal-content-list"></ul>
+      <button onclick="closeModal()">Close</button>
+    </div>
+  </div>
+
+  <!-- External script -->
+  <script src="main.js"></script>
+</body>
+</html>
